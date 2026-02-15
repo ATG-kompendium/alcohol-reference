@@ -296,7 +296,7 @@
     "abv": "40%",
     "rawMaterial": "Żyto organiczne",
     "image": "bottle_img/belvedere_organic.jpg",
-    "forWho": [
+    "whenToOffer": [
       "Klient szuka znanej wódki premium",
       "Klient lubi wódkę z charakterem"
     ],
@@ -313,7 +313,7 @@
     "abv": "40%",
     "rawMaterial": "Pszenica",
     "image": "bottle_img/grey_goose.png",
-    "forWho": [
+    "whenToOffer": [
       "Klient szuka bardzo gładkiej wódki",
       "Klient chce markę premium na prezent",
       "Wódkę premium do drinków"
@@ -335,7 +335,7 @@
     "abv": "40%",
     "rawMaterial": "Zboża (w większości pszenica)",
     "image": "bottle_img/danzka.jpg",
-    "forWho": [
+    "whenToOffer": [
       "Klient szuka klasycznej, wodki w bezpiecznym opakowaniu",
       "KLient szuka lekkiego opakowania, które łatwo zabrać w podróż",
       "Klient szuka wódki do drinków w rozsądnej cenie"
@@ -353,7 +353,7 @@
     "country": "UK",
     "abv": "37.5%",
     "image": "bottle_img/smirnoff.webp",
-    "forWho": [
+    "whenToOffer": [
       "Klient szuka znanej, uniwersalnej wódki",
       "Klient potrzebuje alkoholu do drinków"
     ],
@@ -370,7 +370,7 @@
     "abv": "40%",
     "rawMaterial": "Kukurydza",
     "image": "bottle_img/titos.jpg",
-    "forWho": [
+    "whenToOffer": [
       "Klient szuka wódki rzemieślniczej",
       "Klient unika glutenu"
     ],
@@ -393,7 +393,7 @@
     "abv": "37.5%",
     "rawMaterial": "Zboża i ekstrakt z trawy żubrowej",
     "image": "bottle_img/zubrowka.png",
-    "forWho": [
+    "whenToOffer": [
       "Klient szuka klasycznej polskiej wódki",
       "Klient lubi delikatnie aromatyczne alkohole",
       ""
@@ -419,11 +419,13 @@
     "country": "Szwecja",
     "abv": "40%",
     "rawMaterial": "Pszenica",
-    "image": "/images/absolut.png",
-    "forWho": [
+    "image": "/absolut.png",
+    "whenToOffer": [
       "Klient szuka wódki do drinków",
       "Klient chce rozpoznawalną markę"
-    ]
+    ],
+
+    "howToPresent":" "
   },
 
   {
@@ -433,9 +435,9 @@
     "category": "wodka",
     "country": "Poland",
     "abv": "40%",
-    "rawMaterial":"Żyto"
+    "rawMaterial":"Żyto",
     "image": "bottle_img/chopin-rye.png",
-    "forWho": [
+    "whenToOffer": [
       "Dla osób ceniących intensywny smak i charakter trunku",
       "Idelny dla miłośników wyrazistych koktajli"
     ],
@@ -451,14 +453,14 @@
     "category": "wodka",
     "country": "Poland",
     "abv": "40%",
-    "rawMaterial":"Pszenica"
+    "rawMaterial":"Pszenica",
     "image": "/images/chopin-wheat.png",
-    "forWho": [
+    "whenToOffer": [
       "Klient szuka łagodnej i delikatnej wódki",
       "Osób lubiących wódki pszeniczne",
       "Dla miłośników subtelnych koktajli"
-    ]
-    "howToPresent":"Lekka, neutralna, delikatna, gładka, uniwersalna. 
+    ],
+    "howToPresent":"Lekka, neutralna, delikatna, gładka, uniwersalna."
   },
 
   {
@@ -468,99 +470,160 @@
     "category": "wodka",
     "country": "Poland",
     "abv": "40%",
-    "rawMaterial":"Ziemniaki"
+    "rawMaterial":"Ziemniaki",
     "image": "bottle_img/chopin-potato.png",
-    "forWho": [
+    "whenToOffer": [
       "Klient szukający unikalnej wódki polskiej",
       "Osób ceniących pełniejsze i wyraziste trunki",
       "Szukających prezentu z Polski"
-    ]
+    ],
 
       "howToPresent":"Ikoniczna wódka ziemniaczana, ma bogatszy profil smakowy, kremowa, pełna, oleista, z subtelną słodyczą. Idealny prezent z Polski, ponieważ wódek z tego surowca praktycznie nie robią w innych krajach."
   },
 
   {
-    "slug": "chopin-vintage",
-    "name": "Chopin Potato",
+    "slug": "chopin-indygo",
+    "name": "Chopin Blended Potatoes, Wheat & Rye",
     "subtitle": "Wódka ziemniaczana · Polska",
     "category": "wodka",
     "country": "Poland",
     "abv": "40%",
-    "image": "/images/chopin-potato.png",
-    "forWho": [
-      "Klient szuka pełniejszego body",
-      "Klient interesuje się ziemniaczaną wódką"
-    ]
+    "rawMaterial":"Ziemniaki, pszenica, żyto",
+    "image": "bottle_img/chopin_indygo.png",
+    "whenToOffer": [
+      "Osób ceniących wygląd i design butelki",
+      "Klient szuka "
+       ],
+
+    "howToPresent":"Czwarte już wydanie Chopin Blended Vodka jest zwieńczeniem kolekcji i połączeniem wszystkich trzech flagowych wódek marki Chopin Potato, Wheat i Rye. W jednej butelce zawarte są: kremowy smak wódki ziemniaczanej, słodycz pszenicy i pikanteria żyta. Butelka w barwach Indygo, jest symbolem bogactwa i głębi, jaką udało nam się stworzyć."
+   
   },
 
   {
-    "slug": "chopin-potato",
-    "name": "Chopin Potato",
+    "slug": "chopin-gold",
+    "name": "Chopin Blended Potatoes & Wheat",
     "subtitle": "Wódka ziemniaczana · Polska",
     "category": "wodka",
     "country": "Poland",
     "abv": "40%",
-    "image": "/images/chopin-potato.png",
-    "forWho": [
+    "rawMaterial":"Ziemniaki, pszenica",
+    "image": "bottle_img/chopin_gold.png",
+    "whenToOffer": [
       "Klient szuka pełniejszego body",
       "Klient interesuje się ziemniaczaną wódką"
-    ]
+    ],
+
+    "howToPresent":""
+
   },
 
   {
-    "slug": "chopin-potato",
-    "name": "Chopin Potato",
+    "slug": "chopin-baltic",
+    "name": "Baltic Vodka",
     "subtitle": "Wódka ziemniaczana · Polska",
     "category": "wodka",
     "country": "Poland",
     "abv": "40%",
-    "image": "/images/chopin-potato.png",
-    "forWho": [
+    "rawMaterial":"Ziemniaki",
+    "image": "bottle_img/chopin_baltic.jpg",
+    "whenToOffer": [
       "Klient szuka pełniejszego body",
       "Klient interesuje się ziemniaczaną wódką"
-    ]
+    ],
+
+    "howToPresent":""
+
   },
 
   {
-    "slug": "chopin-potato",
-    "name": "Chopin Potato",
+    "slug": "chopin-rye-organic",
+    "name": "Chopin Rye Organic",
     "subtitle": "Wódka ziemniaczana · Polska",
     "category": "wodka",
     "country": "Poland",
     "abv": "40%",
-    "image": "/images/chopin-potato.png",
-    "forWho": [
+    "rawMaterial":"Żyto organiczne",
+    "image": "bottle_img/chopin_organic.png",
+    "whenToOffer": [
       "Klient szuka pełniejszego body",
       "Klient interesuje się ziemniaczaną wódką"
-    ]
+    ],
+
+    "howToPresent":""
+
   },
 
   {
-    "slug": "chopin-potato",
-    "name": "Chopin Potato",
+    "slug": "chopin-bartender",
+    "name": "Bartender's Choice",
     "subtitle": "Wódka ziemniaczana · Polska",
     "category": "wodka",
     "country": "Poland",
     "abv": "40%",
-    "image": "/images/chopin-potato.png",
-    "forWho": [
+    "rawMaterial":"Żyto",
+    "image": "bottle_img/chopin_bartender.jpg",
+    "whenToOffer": [
       "Klient szuka pełniejszego body",
       "Klient interesuje się ziemniaczaną wódką"
-    ]
+    ],
+
+    "howToPresent":""
+
   },
 
   {
-    "slug": "chopin-potato",
-    "name": "Chopin Potato",
-    "subtitle": "Wódka ziemniaczana · Polska",
-    "category": "wodka",
+    "slug": "chopin-young-potato-2024",
+    "name": "Młody Ziemniak 2024",
+    "subtitle": "Okowita ziemniaczana · Polska",
+    "category": "okowita",
     "country": "Poland",
     "abv": "40%",
-    "image": "/images/chopin-potato.png",
-    "forWho": [
+    "rawMaterial":"Młode ziemniaki",
+    "image": "bottle_img/chopin_young2024.jpg",
+    "whenToOffer": [
       "Klient szuka pełniejszego body",
       "Klient interesuje się ziemniaczaną wódką"
-    ]
+    ],
+
+    "howToPresent":""
+
+  },
+
+
+  {
+    "slug": "cjopin-familyReserve",
+    "name": "Chopin Vodka Family Reserve",
+    "subtitle": "Wódka ziemniaczana · Polska",
+    "category": "wódka",
+    "country": "Poland",
+    "abv": "40%",
+    "rawMaterial":"Młode ziemniaki",
+    "image": "bottle_img/chopin_familyReserve.jpg",
+    "whenToOffer": [
+      "Klient szuka pełniejszego body",
+      "Klient interesuje się ziemniaczaną wódką"
+    ],
+
+    "howToPresent":""
+
+  },
+
+   {
+    "slug": "cjopin-tribute",
+    "name": "Chopin Tribute Edition",
+    "subtitle": "Wódka ziemniaczana · Polska",
+    "category": "wódka",
+    "country": "Poland",
+    "abv": "40%",
+    "rawMaterial":"Ziemniaki",
+    "image": "bottle_img/chopin-tribute.png",
+    "whenToOffer": [
+      "Klient szuka pełniejszego body",
+      "Klient interesuje się ziemniaczaną wódką"
+    ],
+
+    "howToPresent":""
+
   }
 ]
 
