@@ -528,12 +528,15 @@
     "rawMaterial":"Ziemniaki",
     "image": "bottle_img/chopin_baltic.jpg",
     "whenToOffer": [
-      "Klient szuka budżetowej wódki ziemniaczanej",
-      ""
+      "Klienta szukającego budżetowej wódki ziemniaczanej",
+      "Osób szukających czegoś lokalenego"
     ],
 
-    "howToPresent":""
-
+    "howToPresent":"Jest to wódka ziemniaczana, nawiązująca do Bałtyku, kremowa, oleista, intensywna, lekko ostra. Jest produkowana w gorzelni Chopin",
+ 
+    "salesTip": [
+      "Można zastosować up-selling przy półlitrowych wódkach stock, żubrówka, soplica, jarzębiak, polecając Baltic vodka jako ciekawsza alternatywe zrobioną w 100% z ziemniaków."
+    ]
   },
 
   {
@@ -546,8 +549,9 @@
     "rawMaterial":"Żyto organiczne",
     "image": "bottle_img/chopin_organic.png",
     "whenToOffer": [
-      "Klient szuka pełniejszego body",
-      "Klient interesuje się ziemniaczaną wódką"
+      "Klienta szukającego wódek bio/organicznych",
+      "Klienta lubiącego wódki żytnie",
+      "Osób potrzebujących wódkę o pojemności 0.7 l"
     ],
 
     "howToPresent":""
