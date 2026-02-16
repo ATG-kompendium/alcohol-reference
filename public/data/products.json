@@ -492,7 +492,7 @@
     "image": "bottle_img/chopin_indygo.png",
     "whenToOffer": [
       "Osób ceniących wygląd i design butelki",
-      "Klient szuka "
+      "Klienta znającego podstawowe trio marki chopin"
        ],
 
     "howToPresent":"Chopin Indygo jest zwieńczeniem kolekcji i połączeniem wszystkich trzech flagowych wódek marki Chopin Potato, Wheat i Rye. W jednej butelce zawarte są kremowy smak wódki ziemniaczanej, delikatność pszenicy i pikanteria żyta, z przewagą charakteru żyta.
@@ -509,8 +509,9 @@
     "rawMaterial":"Ziemniaki, pszenica",
     "image": "bottle_img/chopin_gold.png",
     "whenToOffer": [
-      "Klient szuka pełniejszego body",
-      "Klient interesuje się ziemniaczaną wódką"
+      "Osób lubiących gładkie i delikatne wódki",
+      "Osób ceniących wyglad i design",
+      "Klienta znającego podstawowe trio marki chopin"
     ],
 
     "howToPresent":""
@@ -527,8 +528,8 @@
     "rawMaterial":"Ziemniaki",
     "image": "bottle_img/chopin_baltic.jpg",
     "whenToOffer": [
-      "Klient szuka pełniejszego body",
-      "Klient interesuje się ziemniaczaną wódką"
+      "Klient szuka budżetowej wódki ziemniaczanej",
+      ""
     ],
 
     "howToPresent":""
