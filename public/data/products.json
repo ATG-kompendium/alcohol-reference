@@ -604,18 +604,20 @@
     "country": "Poland",
     "abv": "40%",
     "rawMaterial":"Młode ziemniaki",
+    "maturation": "Pięćdziesięcioletnie kufry dębowe."
     "image": "bottle_img/chopin_familyReserve.jpg",
     "whenToOffer": [
-      "Klient szuka pełniejszego body",
-      "Klient interesuje się ziemniaczaną wódką"
+      "Klient szukający eleganckiego prezentu",
+      "Osób ceniących wygląd i prezentowane opakowanie",
+      "Osób potrzebujących czegoś wyjątkowego i ekskluzywnego"
     ],
 
-    "howToPresent":""
+    "howToPresent":"Zrobiona ze specjalnej odmiany młodych ziemniaków. jest zapakowana w skórzane pudełko, a sama wódka jest w ładnej karafce."
 
   },
 
    {
-    "slug": "cjopin-tribute",
+    "slug": "chopin-tribute",
     "name": "Chopin Tribute Edition",
     "subtitle": "Wódka ziemniaczana · Polska",
     "category": "wódka",
@@ -624,11 +626,103 @@
     "rawMaterial":"Ziemniaki",
     "image": "bottle_img/chopin-tribute.png",
     "whenToOffer": [
-      "Klient szuka pełniejszego body",
-      "Klient interesuje się ziemniaczaną wódką"
+      "Osób ceniących wygląd i prezentowane opakowanie",
+      "Klient szukający eleganckiego prezentu",
+      "Osób potrzebujących czegoś wyjątkowego i ekskluzywnego"
+
     ],
 
-    "howToPresent":""
+    "howToPresent":"Edycja Tribute nawiązuje stylistyką do postaci Fryderyka Chopina i polskiego dziedzictwa kulturowego. Profil smakowy pozostaje zbliżony do wersji ziemniaczanej, natomiast Tribute Edition wyróżnia się oprawą wizualną i charakterem edycji okolicznościowej."
+
+  }
+
+{
+    "slug": "chopin-vitage-vault",
+    "name": "Chopin Vintage Vault",
+    "subtitle": "Wódka ziemniaczana · Polska",
+    "category": "wódka",
+    "country": "Poland",
+    "abv": "43.6%",
+    "rawMaterial":"Ziemniaki",
+    "image": "bottle_img/chopin-tribute.png",
+    "whenToOffer": [
+      "Osób ceniących historię marki Chopin",
+      "Klient szukający eleganckiego prezentu, wyjątkowego, ekskluzywnego prezentu",
+      "Dla kolekcjonerów, "
+
+    ],
+
+    "howToPresent":"
+30-letnia Chopin Vintage Vault z pierwszej oryginalnej partii.
+
+Chopin Vintage Vault jest najstarszą wódką premium na świecie – ta niewielka partia alkoholu pochodzi z pierwszej destylacji ziemniaczanego Chopina, która przez ostatnie trzy dekady ukryta była w znajdującym się na terenie destylarni skarbcu. 
+
+Jest przedstawiona w szlifowanej eko karafce z kryształu wykonaną z najwyższą starannością w Republice Czeskiej i umieszczono w wykonanej z drewna olchowego skrzyni. Zestaw zamyka metalowe logo Chopin Vodka. Dodatkowo, wewnątrz skrzyni znajduje się kieszeń, która skrywa dwie oryginalne szpilki koktajlowe ozdobione naturalnymi perłami.
+
+Chopin Vintage Vault zachwyca wyraźnym aromatem cytrusów. Bukiet smakowy otwierają natomiast słodkie, rozgrzewające podniebienie nuty, które łagodnie przechodzą w akcenty świeżego zielonego jabłka, wanilii i grejpfruta. Paletę smaków zamyka odrobina białego pieprzu i kolendry.
+
+ 
+Na rynek trafi jedynie 1000 butelek."
+
+  }
+
+{
+    "slug": "chopin-tribute",
+    "name": "Chopin Tribute Edition",
+    "subtitle": "Wódka ziemniaczana · Polska",
+    "category": "wódka",
+    "country": "Poland",
+    "abv": "40%",
+    "rawMaterial":"Ziemniaki",
+    "image": "bottle_img/chopin-tribute.png",
+    "whenToOffer": [
+      "Osób ceniących wygląd i prezentowane opakowanie",
+      "Klient szukający eleganckiego prezentu",
+      "Osób potrzebujących czegoś wyjątkowego i ekskluzywnego"
+
+    ],
+
+    "howToPresent":"Edycja Tribute nawiązuje stylistyką do postaci Fryderyka Chopina i polskiego dziedzictwa kulturowego. Profil smakowy pozostaje zbliżony do wersji ziemniaczanej, natomiast Tribute Edition wyróżnia się oprawą wizualną i charakterem edycji okolicznościowej."
+
+  }
+
+{
+    "slug": "chopin-tribute",
+    "name": "Chopin Tribute Edition",
+    "subtitle": "Wódka ziemniaczana · Polska",
+    "category": "wódka",
+    "country": "Poland",
+    "abv": "40%",
+    "rawMaterial":"Ziemniaki",
+    "image": "bottle_img/chopin-tribute.png",
+    "whenToOffer": [
+      "Osób ceniących wygląd i prezentowane opakowanie",
+      "Klient szukający eleganckiego prezentu",
+      "Osób potrzebujących czegoś wyjątkowego i ekskluzywnego"
+
+    ],
+
+    "howToPresent":"Edycja Tribute nawiązuje stylistyką do postaci Fryderyka Chopina i polskiego dziedzictwa kulturowego. Profil smakowy pozostaje zbliżony do wersji ziemniaczanej, natomiast Tribute Edition wyróżnia się oprawą wizualną i charakterem edycji okolicznościowej."
+
+  }
+
+{
+    "slug": "chopin-tribute",
+    "name": "Chopin Tribute Edition",
+    "subtitle": "Wódka ziemniaczana · Polska",
+    "category": "wódka",
+    "country": "Poland",
+    "abv": "40%",
+    "rawMaterial":"Ziemniaki",
+    "image": "bottle_img/chopin-tribute.png",
+    "whenToOffer": [
+      "Osób ceniących wygląd i prezentowane opakowanie",
+      "Klient szukający eleganckiego prezentu",
+      "Osób potrzebujących czegoś wyjątkowego i ekskluzywnego"
+
+    ],
+
+    "howToPresent":"Edycja Tribute nawiązuje stylistyką do postaci Fryderyka Chopina i polskiego dziedzictwa kulturowego. Profil smakowy pozostaje zbliżony do wersji ziemniaczanej, natomiast Tribute Edition wyróżnia się oprawą wizualną i charakterem edycji okolicznościowej."
 
   }
 ]
