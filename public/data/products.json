@@ -554,25 +554,25 @@
       "Osób potrzebujących wódkę o pojemności 0.7 l"
     ],
 
-    "howToPresent":""
+    "howToPresent":"Jest to wódka tylko z polskiego certyfikowanego żyta ekologicznego. Zachowuje ona charakter wódki żytniej, przy tym ma pełniejsze ciało i głębszy smak."
 
   },
 
   {
     "slug": "chopin-bartender",
-    "name": "Bartender's Choice",
-    "subtitle": "Wódka ziemniaczana · Polska",
+    "name": "Chopin Bartender's Choice",
+    "subtitle": "Wódka zytnia · Polska",
     "category": "wodka",
     "country": "Poland",
-    "abv": "40%",
+    "abv": "59.8%",
     "rawMaterial":"Żyto",
     "image": "bottle_img/chopin_bartender.jpg",
     "whenToOffer": [
-      "Klient szuka pełniejszego body",
-      "Klient interesuje się ziemniaczaną wódką"
+      "Klienta szukającego wódek i mocniejszym stężeniu alkoholu",
+      "Osób interesujących miksologią, robieniem wyrazistych koktajli."
     ],
 
-    "howToPresent":""
+    "howToPresent":"Mocniejsza wersja popularnej Chopin Rye, stworzona z myślą o barmanach i miksologach. Balans pomiędzy mocą a bogatym smakiem, wyróżnia ją z pośród innych mocniejszych wódek."
 
   },
 
@@ -586,11 +586,12 @@
     "rawMaterial":"Młode ziemniaki",
     "image": "bottle_img/chopin_young2024.jpg",
     "whenToOffer": [
-      "Klient szuka pełniejszego body",
-      "Klient interesuje się ziemniaczaną wódką"
+      "Osób szukających okowite",
+      "Osób lubiących wódki ziemniaczane",
+      "Klientów szukających czegoś do kolekcji, czegoś ciekawego polskiego"
     ],
 
-    "howToPresent":""
+    "howToPresent":"Młody ziemniak jest okowitą z ziemniaków odmiany "Denar", destylowany tylko raz, nie filtrowany,co daje mu intensywny smak i zapach surowca, a także nuty ziemistości"
 
   },
 
