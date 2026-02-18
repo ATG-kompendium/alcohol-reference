@@ -634,7 +634,7 @@
 
     "howToPresent":"Edycja Tribute nawiązuje stylistyką do postaci Fryderyka Chopina i polskiego dziedzictwa kulturowego. Profil smakowy pozostaje zbliżony do wersji ziemniaczanej, natomiast Tribute Edition wyróżnia się oprawą wizualną i charakterem edycji okolicznościowej."
 
-  }
+  },
 
 {
     "slug": "chopin-vitage-vault",
@@ -662,69 +662,109 @@ Jest przedstawiona w szlifowanej eko karafce z kryształu wykonaną z najwyższ�
 Chopin Vintage Vault zachwyca wyraźnym aromatem cytrusów. Bukiet smakowy otwierają natomiast słodkie, rozgrzewające podniebienie nuty, które łagodnie przechodzą w akcenty świeżego zielonego jabłka, wanilii i grejpfruta. Paletę smaków zamyka odrobina białego pieprzu i kolendry.
 
  
-Na rynek trafi jedynie 1000 butelek."
+Na rynek trafiło jedynie 1000 butelek."
 
-  }
+  },
 
 {
-    "slug": "chopin-tribute",
-    "name": "Chopin Tribute Edition",
-    "subtitle": "Wódka ziemniaczana · Polska",
-    "category": "wódka",
+    "slug": "chopin-etiuda",
+    "name": "Chopin Etiuda Kwiat Czarnego Bzu",
+    "subtitle": "Likier · Polska",
+    "category": "likier",
     "country": "Poland",
-    "abv": "40%",
-    "rawMaterial":"Ziemniaki",
+    "abv": "30%",
     "image": "bottle_img/chopin-tribute.png",
     "whenToOffer": [
-      "Osób ceniących wygląd i prezentowane opakowanie",
-      "Klient szukający eleganckiego prezentu",
-      "Osób potrzebujących czegoś wyjątkowego i ekskluzywnego"
+      "Klientów szukających likieru z czarnego bzu",
+      "Osób lubiących likiery lekkie słodkie kwiatowo-cytrusowe",
+      "Jako alternatywa Aperol spritz"
+    ],
+
+    "howToPresent":"Etiuda Kwiat Czarnego Bzu jest całkowicie naturalna i prosta w składzie. Nie zawiera sztucznych aromatów i barwników. Walory smakowe i kolor zawdzięcza wyłącznie swym wysokiej jakości składnikom: suszonym kwiatom czarnego bzu macerowanym w spirytusie żytnim.
+
+Doskonale smakuje solo, na lodzie lub… z szampanem. Stanowi wyśmienity dodatek do świeżych, kwiatowo-owocowych koktajli.",
+
+    "cocktails": [
+    "Hugo (prosecco/szampan, etiuda, woda gazowana)"
+]
+  },
+
+{
+    "slug": "lemon-tree",
+    "name": "Lemon tree",
+    "subtitle": "Cytrynówka · Polska",
+    "category": "Likier",
+    "country": "Poland",
+    "abv": "35%",
+    "image": "bottle_img/chopin-tribute.png",
+    "whenToOffer": [
+      "Osób lubiących kwaśne naturalne cytrynowki",
+      "Klient szukający budżetowej cytrynówki.",
+      "Klient potrzebujący nie słodkiego likieru o mocniejszym stężeniu alkoholu."
 
     ],
 
-    "howToPresent":"Edycja Tribute nawiązuje stylistyką do postaci Fryderyka Chopina i polskiego dziedzictwa kulturowego. Profil smakowy pozostaje zbliżony do wersji ziemniaczanej, natomiast Tribute Edition wyróżnia się oprawą wizualną i charakterem edycji okolicznościowej."
+    "howToPresent":"Soczyste cytryny wyciskane wraz z miąższem nadają trunkowi naturalną mętność oraz świeży, intensywnie cytrynowy smak i zapach. "
 
-  }
+    "cocktails": [
+    "Lemon-tree + Sprite"
+]
+  },
 
 {
-    "slug": "chopin-tribute",
-    "name": "Chopin Tribute Edition",
-    "subtitle": "Wódka ziemniaczana · Polska",
-    "category": "wódka",
+    "slug": "chopin-coconut",
+    "name": "Chopin Likier Kokosowy",
+    "subtitle": "Likier · Polska",
+    "category": "likier",
     "country": "Poland",
-    "abv": "40%",
-    "rawMaterial":"Ziemniaki",
+    "abv": "18%",
     "image": "bottle_img/chopin-tribute.png",
     "whenToOffer": [
-      "Osób ceniących wygląd i prezentowane opakowanie",
-      "Klient szukający eleganckiego prezentu",
-      "Osób potrzebujących czegoś wyjątkowego i ekskluzywnego"
+      "Osób szukających likieru kokosowego",
+      "Klienta szukającego Polski likier mleczny "
 
     ],
 
-    "howToPresent":"Edycja Tribute nawiązuje stylistyką do postaci Fryderyka Chopina i polskiego dziedzictwa kulturowego. Profil smakowy pozostaje zbliżony do wersji ziemniaczanej, natomiast Tribute Edition wyróżnia się oprawą wizualną i charakterem edycji okolicznościowej."
+    "howToPresent":"Świeże płatki z soczystych kokosów połączone z mlekiem i wódką Chopin Rye. Likier zachwyca doskonale jedwabistą konsystencją i delikatnym, tropikalnym smakiem. Doskonale sprawdza się jako składnik egzotycznych koktajli i shake’ów."
 
-  }
+  },
 
 {
-    "slug": "chopin-tribute",
-    "name": "Chopin Tribute Edition",
-    "subtitle": "Wódka ziemniaczana · Polska",
-    "category": "wódka",
+    "slug": "chopin-chocolate-coffe",
+    "name": "Chopin Likier Kawowo Czekoladowy",
+    "subtitle": "Likier · Polska",
+    "category": "likier",
     "country": "Poland",
-    "abv": "40%",
-    "rawMaterial":"Ziemniaki",
+    "abv": "18%",
     "image": "bottle_img/chopin-tribute.png",
     "whenToOffer": [
-      "Osób ceniących wygląd i prezentowane opakowanie",
-      "Klient szukający eleganckiego prezentu",
-      "Osób potrzebujących czegoś wyjątkowego i ekskluzywnego"
+      "Osób szukających likieru kawowego bądź czekoladowego",
+      "Klienta szukającego Polski likier mleczny"
 
     ],
 
-    "howToPresent":"Edycja Tribute nawiązuje stylistyką do postaci Fryderyka Chopina i polskiego dziedzictwa kulturowego. Profil smakowy pozostaje zbliżony do wersji ziemniaczanej, natomiast Tribute Edition wyróżnia się oprawą wizualną i charakterem edycji okolicznościowej."
+    "howToPresent":" Idealny balans słodyczy czekolady, goryczy kawy i ostrości Chopin Rye. Stosowac można jako dodatek do kaw, lodów i deserów. Likier nie smakuje chemicznie jak większość podobnych, a także nie jest mocno wyczuwalny alkohol jak w budżetowych markach."
 
-  }
+  },
+
+{
+    "slug": "chopin-chocolate",
+    "name": "Chopin Likier Czekoladowy",
+    "subtitle": "Likier · Polska",
+    "category": "likier",
+    "country": "Poland",
+    "abv": "18%",
+    "image": "bottle_img/chopin-tribute.png",
+    "whenToOffer": [
+      "Osób szukających likieru czekoladowego",
+      "Klienta szukającego Polski likier mleczny"
+
+    ],
+
+    "howToPresent":"Likier czekoladowy Łączący dwie znakomite polskie marki: E. Wedel oraz Wódki Chopin. Jego bazą jest wódka Chopin Rye oraz znana czekolada. Likier nie smakuje chemicznie jak większość podobnych, a także nie jest mocno wyczuwalny alkohol jak w budżetowych markach. Jest zapakowany w kartonik, więc idealnie się nadaje na prezent."
+
+  },
+
 ]
 
 
