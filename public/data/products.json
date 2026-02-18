@@ -63,18 +63,44 @@
     
 
     "whenToOffer": [
-      "Klient szuka polską whisky, polski starzony alkohol",
-      "Klient interesuje się wódkami premium",
-      "Klient chce spróbować wódki starzonej w beczce"
+      "Klient szukający polską whisky, brandy",
+      "Klient interesuje się starzonymi alkoholami",
+      "Klient poszukuje poslki starzony alkohol"
+    ],
+
+    "howToPresent": "Chopin Vintage Young Potato to jednokrotnie destylowany alkohol z młodych ziemniaków, leżakowany w dębowych beczkach.",
+
+    "salesTip": ["Często klienci szukają polską whisky, jedną z opcji wląśnie może być Vintage."],
+
+    "aroma": "Delikatny, owocowy z nutami suszonej śliwki i gruszki, nuty suchego dębowego drewna",
+    "taste": "Miękka, lekko słodka, z waniliowym akcentem.",
+    "finish": "Gładki, lekko beczkowy."
+  },
+
+   {
+    "slug": "chopin-vintage",
+    "name": "Chopin Vintage Potato",
+    "subtitle": "Wódka ziemniaczana · Polska · Starzona",
+    "category": "vodka",
+    "country": "Poland",
+    "abv": "45,3%",
+    "image": "bottle_img/vintage_young_potato.png",
+    "maturation": "3 lata w beczkach z polskiego dębu",
+    
+
+    "whenToOffer": [
+      "Klient szukający polską whisky, brandy",
+      "Klient interesuje się starzonymi alkoholami",
+      "Klient poszukuje poslki starzony alkohol"
     ],
 
     "howToPresent": "Chopin Vintage to rzadkość – wódka ziemniaczana leżakowana w dębowych beczkach. Łączy czystość wódki z nutami znanymi z whisky.",
 
     "salesTip": ["Często klienci szukają polską whisky, jedną z opcji wląśnie może być Vintage."],
 
-    "aroma": "Intensywny i mocny – suszone owoce, korzenie chrzanu.",
-    "taste": "Miękka, lekko słodka, z waniliowym akcentem.",
-    "finish": "Gładki, lekko beczkowy."
+    "aroma": "Intensywny i mocny suszone owoce, korzenie chrzanu.",
+    "taste": "Wanilia, nuty dębu, gorzkiej czekolady, ziemistości.",
+    "finish": "Długi, aromatyczny, z nutami pieprzu i dębu."
   },
 
   {
@@ -495,7 +521,7 @@
       "Klienta znającego podstawowe trio marki chopin"
        ],
 
-    "howToPresent":"Chopin Indygo jest zwieńczeniem kolekcji i połączeniem wszystkich trzech flagowych wódek marki Chopin Potato, Wheat i Rye. W jednej butelce zawarte są kremowy smak wódki ziemniaczanej, delikatność pszenicy i pikanteria żyta, z przewagą charakteru żyta.
+    "howToPresent":"Chopin Indygo jest zwieńczeniem kolekcji i połączeniem wszystkich trzech flagowych wódek marki Chopin Potato, Wheat i Rye. W jednej butelce zawarte są kremowy smak wódki ziemniaczanej, delikatność pszenicy i pikanteria żyta, z przewagą charakteru żyta."
    
   },
 
@@ -579,8 +605,8 @@
   {
     "slug": "chopin-young-potato-2024",
     "name": "Młody Ziemniak 2024",
-    "subtitle": "Okowita ziemniaczana · Polska",
-    "category": "okowita",
+    "subtitle": "DEstylat ziemniaczany · Polska",
+    "category": "destylat",
     "country": "Poland",
     "abv": "40%",
     "rawMaterial":"Młode ziemniaki",
@@ -591,7 +617,7 @@
       "Klientów szukających czegoś do kolekcji, czegoś ciekawego polskiego"
     ],
 
-    "howToPresent":"Młody ziemniak jest okowitą z ziemniaków odmiany "Denar", destylowany tylko raz, nie filtrowany,co daje mu intensywny smak i zapach surowca, a także nuty ziemistości"
+    "howToPresent":"Młody ziemniak nie ma określenia prawnego, ale charakterem jest bardzo zbliżony do okowit. Jest to destylat z młodych ziemniaków odmiany Denar, destylowany tylko raz, co daje mu intensywny smak i zapach surowca, a także nuty ziemistości"
 
   },
 
@@ -604,8 +630,8 @@
     "country": "Poland",
     "abv": "40%",
     "rawMaterial":"Młode ziemniaki",
-    "maturation": "Pięćdziesięcioletnie kufry dębowe."
-    "image": "bottle_img/chopin_familyReserve.jpg",
+    "maturation": "Pięćdziesięcioletnie kufry dębowe.",
+    "image" : "bottle_img/chopin_familyReserve.jpg",
     "whenToOffer": [
       "Klient szukający eleganckiego prezentu",
       "Osób ceniących wygląd i prezentowane opakowanie",
@@ -644,7 +670,7 @@
     "country": "Poland",
     "abv": "43.6%",
     "rawMaterial":"Ziemniaki",
-    "image": "bottle_img/chopin-tribute.png",
+    "image": "bottle_img/vintage_vault.jpg",
     "whenToOffer": [
       "Osób ceniących historię marki Chopin",
       "Klient szukający eleganckiego prezentu, wyjątkowego, ekskluzywnego prezentu",
@@ -652,17 +678,7 @@
 
     ],
 
-    "howToPresent":"
-30-letnia Chopin Vintage Vault z pierwszej oryginalnej partii.
-
-Chopin Vintage Vault jest najstarszą wódką premium na świecie – ta niewielka partia alkoholu pochodzi z pierwszej destylacji ziemniaczanego Chopina, która przez ostatnie trzy dekady ukryta była w znajdującym się na terenie destylarni skarbcu. 
-
-Jest przedstawiona w szlifowanej eko karafce z kryształu wykonaną z najwyższą starannością w Republice Czeskiej i umieszczono w wykonanej z drewna olchowego skrzyni. Zestaw zamyka metalowe logo Chopin Vodka. Dodatkowo, wewnątrz skrzyni znajduje się kieszeń, która skrywa dwie oryginalne szpilki koktajlowe ozdobione naturalnymi perłami.
-
-Chopin Vintage Vault zachwyca wyraźnym aromatem cytrusów. Bukiet smakowy otwierają natomiast słodkie, rozgrzewające podniebienie nuty, które łagodnie przechodzą w akcenty świeżego zielonego jabłka, wanilii i grejpfruta. Paletę smaków zamyka odrobina białego pieprzu i kolendry.
-
- 
-Na rynek trafiło jedynie 1000 butelek."
+    "howToPresent":" 30-letnia Chopin Vintage Vault z pierwszej oryginalnej partii. Chopin Vintage Vault jest najstarszą wódką premium na świecie – ta niewielka partia alkoholu pochodzi z pierwszej destylacji ziemniaczanego Chopina, która przez ostatnie trzy dekady ukryta była w znajdującym się na terenie destylarni skarbcu. Jest przedstawiona w szlifowanej eko karafce z kryształu wykonaną z najwyższą starannością w Republice Czeskiej i umieszczono w wykonanej z drewna olchowego skrzyni. Zestaw zamyka metalowe logo Chopin Vodka. Dodatkowo, wewnątrz skrzyni znajduje się kieszeń, która skrywa dwie oryginalne szpilki koktajlowe ozdobione naturalnymi perłami. Chopin Vintage Vault zachwyca wyraźnym aromatem cytrusów. Bukiet smakowy otwierają natomiast słodkie, rozgrzewające podniebienie nuty, które łagodnie przechodzą w akcenty świeżego zielonego jabłka, wanilii i grejpfruta. Paletę smaków zamyka odrobina białego pieprzu i kolendry. Na rynek trafiło jedynie 1000 butelek."
 
   },
 
@@ -673,16 +689,14 @@ Na rynek trafiło jedynie 1000 butelek."
     "category": "likier",
     "country": "Poland",
     "abv": "30%",
-    "image": "bottle_img/chopin-tribute.png",
+    "image": "bottle_img/etiuda_bez.png",
     "whenToOffer": [
       "Klientów szukających likieru z czarnego bzu",
       "Osób lubiących likiery lekkie słodkie kwiatowo-cytrusowe",
       "Jako alternatywa Aperol spritz"
     ],
 
-    "howToPresent":"Etiuda Kwiat Czarnego Bzu jest całkowicie naturalna i prosta w składzie. Nie zawiera sztucznych aromatów i barwników. Walory smakowe i kolor zawdzięcza wyłącznie swym wysokiej jakości składnikom: suszonym kwiatom czarnego bzu macerowanym w spirytusie żytnim.
-
-Doskonale smakuje solo, na lodzie lub… z szampanem. Stanowi wyśmienity dodatek do świeżych, kwiatowo-owocowych koktajli.",
+    "howToPresent":"Etiuda Kwiat Czarnego Bzu jest całkowicie naturalna i prosta w składzie. Nie zawiera sztucznych aromatów i barwników. Walory smakowe i kolor zawdzięcza wyłącznie swym wysokiej jakości składnikom: suszonym kwiatom czarnego bzu macerowanym w spirytusie żytnim. Doskonale smakuje solo, na lodzie lub… z szampanem. Stanowi wyśmienity dodatek do świeżych, kwiatowo-owocowych koktajli.",
 
     "cocktails": [
     "Hugo (prosecco/szampan, etiuda, woda gazowana)"
@@ -696,7 +710,7 @@ Doskonale smakuje solo, na lodzie lub… z szampanem. Stanowi wyśmienity dodate
     "category": "Likier",
     "country": "Poland",
     "abv": "35%",
-    "image": "bottle_img/chopin-tribute.png",
+    "image": "bottle_img/lemon_tree.jpg",
     "whenToOffer": [
       "Osób lubiących kwaśne naturalne cytrynowki",
       "Klient szukający budżetowej cytrynówki.",
@@ -704,9 +718,9 @@ Doskonale smakuje solo, na lodzie lub… z szampanem. Stanowi wyśmienity dodate
 
     ],
 
-    "howToPresent":"Soczyste cytryny wyciskane wraz z miąższem nadają trunkowi naturalną mętność oraz świeży, intensywnie cytrynowy smak i zapach. "
+    "howToPresent":"Soczyste cytryny wyciskane wraz z miąższem nadają trunkowi naturalną mętność oraz świeży, intensywnie cytrynowy smak i zapach. ",
 
-    "cocktails": [
+    "cocktails" : [
     "Lemon-tree + Sprite"
 ]
   },
@@ -718,7 +732,7 @@ Doskonale smakuje solo, na lodzie lub… z szampanem. Stanowi wyśmienity dodate
     "category": "likier",
     "country": "Poland",
     "abv": "18%",
-    "image": "bottle_img/chopin-tribute.png",
+    "image": "bottle_img/chopin_coconut.jpg",
     "whenToOffer": [
       "Osób szukających likieru kokosowego",
       "Klienta szukającego Polski likier mleczny "
@@ -736,14 +750,14 @@ Doskonale smakuje solo, na lodzie lub… z szampanem. Stanowi wyśmienity dodate
     "category": "likier",
     "country": "Poland",
     "abv": "18%",
-    "image": "bottle_img/chopin-tribute.png",
+    "image": "bottle_img/chopin_coffee.jpg",
     "whenToOffer": [
       "Osób szukających likieru kawowego bądź czekoladowego",
       "Klienta szukającego Polski likier mleczny"
 
     ],
 
-    "howToPresent":" Idealny balans słodyczy czekolady, goryczy kawy i ostrości Chopin Rye. Stosowac można jako dodatek do kaw, lodów i deserów. Likier nie smakuje chemicznie jak większość podobnych, a także nie jest mocno wyczuwalny alkohol jak w budżetowych markach."
+    "howToPresent":" Idealny balans słodyczy czekolady, goryczy kawy i ostrości Chopin Rye. Stosować można jako dodatek do kaw, lodów i deserów. Likier nie smakuje chemicznie jak większość podobnych, a także nie jest mocno wyczuwalny alkohol jak w budżetowych markach."
 
   },
 
@@ -754,7 +768,7 @@ Doskonale smakuje solo, na lodzie lub… z szampanem. Stanowi wyśmienity dodate
     "category": "likier",
     "country": "Poland",
     "abv": "18%",
-    "image": "bottle_img/chopin-tribute.png",
+    "image": "bottle_img/chopin_chocolate.png",
     "whenToOffer": [
       "Osób szukających likieru czekoladowego",
       "Klienta szukającego Polski likier mleczny"
@@ -764,6 +778,96 @@ Doskonale smakuje solo, na lodzie lub… z szampanem. Stanowi wyśmienity dodate
     "howToPresent":"Likier czekoladowy Łączący dwie znakomite polskie marki: E. Wedel oraz Wódki Chopin. Jego bazą jest wódka Chopin Rye oraz znana czekolada. Likier nie smakuje chemicznie jak większość podobnych, a także nie jest mocno wyczuwalny alkohol jak w budżetowych markach. Jest zapakowany w kartonik, więc idealnie się nadaje na prezent."
 
   },
+
+  {
+    "slug": "chopin-krzeska",
+    "name": "Chopin Krzeska",
+    "subtitle": "Nalewka · Polska",
+    "category": "nalewka",
+    "country": "Poland",
+    "abv": "40%",
+    "image": "bottle_img/krzeska.png",
+    "whenToOffer": [
+      "Osób szukających ziołowej nalewki, nie słodkiej",
+      "Klienta szukającego ładnie zapakow"
+
+    ],
+
+    "howToPresent":"Likier karmelowy z solą morską idealny balans słodkości i słoności. Stosować można jako dodatek do kaw, lodów i deserów. Likier nie smakuje chemicznie jak większość podobnych, a także nie jest mocno wyczuwalny alkohol jak w budżetowych markach. Jest zapakowany w kartonik, więc idealnie się nadaje na prezent."
+
+  },
+
+  {
+    "slug": "chopin-karamel",
+    "name": "Chopin Likier Karmelowy z solą morską",
+    "subtitle": "Likier · Polska",
+    "category": "likier",
+    "country": "Poland",
+    "abv": "18%",
+    "image": "bottle_img/chopin_karamel.jpg",
+    "whenToOffer": [
+      "Osób szukających likieru karmelowego",
+      "Klienta szukającego Polski likier mleczny"
+
+    ],
+
+    "howToPresent":"Likier karmelowy z solą morską idealny balans słodkości i słoności. Stosować można jako dodatek do kaw, lodów i deserów. Likier nie smakuje chemicznie jak większość podobnych, a także nie jest mocno wyczuwalny alkohol jak w budżetowych markach. Jest zapakowany w kartonik, więc idealnie się nadaje na prezent."
+
+  },
+
+  {
+    "slug": "chopin-karamel",
+    "name": "Chopin Likier Karmelowy z solą morską",
+    "subtitle": "Likier · Polska",
+    "category": "likier",
+    "country": "Poland",
+    "abv": "18%",
+    "image": "bottle_img/chopin-tribute.png",
+    "whenToOffer": [
+      "Osób szukających likieru karmelowego",
+      "Klienta szukającego Polski likier mleczny"
+
+    ],
+
+    "howToPresent":"Likier karmelowy z solą morską idealny balans słodkości i słoności. Stosować można jako dodatek do kaw, lodów i deserów. Likier nie smakuje chemicznie jak większość podobnych, a także nie jest mocno wyczuwalny alkohol jak w budżetowych markach. Jest zapakowany w kartonik, więc idealnie się nadaje na prezent."
+
+  },
+
+  {
+    "slug": "chopin-karamel",
+    "name": "Chopin Likier Karmelowy z solą morską",
+    "subtitle": "Likier · Polska",
+    "category": "likier",
+    "country": "Poland",
+    "abv": "18%",
+    "image": "bottle_img/chopin-tribute.png",
+    "whenToOffer": [
+      "Osób szukających likieru karmelowego",
+      "Klienta szukającego Polski likier mleczny"
+
+    ],
+
+    "howToPresent":"Likier karmelowy z solą morską idealny balans słodkości i słoności. Stosować można jako dodatek do kaw, lodów i deserów. Likier nie smakuje chemicznie jak większość podobnych, a także nie jest mocno wyczuwalny alkohol jak w budżetowych markach. Jest zapakowany w kartonik, więc idealnie się nadaje na prezent."
+
+  },
+
+  {
+    "slug": "chopin-karamel",
+    "name": "Chopin Likier Karmelowy z solą morską",
+    "subtitle": "Likier · Polska",
+    "category": "likier",
+    "country": "Poland",
+    "abv": "18%",
+    "image": "bottle_img/chopin-tribute.png",
+    "whenToOffer": [
+      "Osób szukających likieru karmelowego",
+      "Klienta szukającego Polski likier mleczny"
+
+    ],
+
+    "howToPresent":"Likier karmelowy z solą morską idealny balans słodkości i słoności. Stosować można jako dodatek do kaw, lodów i deserów. Likier nie smakuje chemicznie jak większość podobnych, a także nie jest mocno wyczuwalny alkohol jak w budżetowych markach. Jest zapakowany w kartonik, więc idealnie się nadaje na prezent."
+
+  }        
 
 ]
 
