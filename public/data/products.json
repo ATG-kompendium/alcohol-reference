@@ -816,39 +816,48 @@
   },
 
   {
-    "slug": "chopin-karamel",
-    "name": "Chopin Likier Karmelowy z solą morską",
+    "slug": "chopin-deia",
+    "name": "Chopin Deia & Prosecco",
     "subtitle": "Likier · Polska",
     "category": "likier",
     "country": "Poland",
-    "abv": "18%",
-    "image": "bottle_img/chopin-tribute.png",
+    "abv": "25% + 11%",
+    "image": "bottle_img/chopin-deia.png",
     "whenToOffer": [
-      "Osób szukających likieru karmelowego",
-      "Klienta szukającego Polski likier mleczny"
+      "Osób szukających gotowe drinki",
+      "Klienta szukajacego czegoś truskawkowego",
+      "Jako alternatywa do Aperol Spritz"
 
     ],
 
-    "howToPresent":"Likier karmelowy z solą morską idealny balans słodkości i słoności. Stosować można jako dodatek do kaw, lodów i deserów. Likier nie smakuje chemicznie jak większość podobnych, a także nie jest mocno wyczuwalny alkohol jak w budżetowych markach. Jest zapakowany w kartonik, więc idealnie się nadaje na prezent."
+    "howToPresent":"Jest to likier z truskawek i hibiskusa, lekko słodki, kwiatowo-owocowy, świeży.",
+
+    "cocktails": [ 
+    "Deia + Prosecco/woda gazowana/tonik"
+]
 
   },
 
   {
-    "slug": "chopin-karamel",
-    "name": "Chopin Likier Karmelowy z solą morską",
+    "slug": "chopin-kasama",
+    "name": "Kasama small batch rum",
     "subtitle": "Likier · Polska",
     "category": "likier",
-    "country": "Poland",
-    "abv": "18%",
+    "country": "Philippines",
+    "abv": "40%",
+    "rawMaterial": sok z trzciny cukrowej"
     "image": "bottle_img/chopin-tribute.png",
     "whenToOffer": [
-      "Osób szukających likieru karmelowego",
-      "Klienta szukającego Polski likier mleczny"
+      "Osób szukających lekkiego rumu.",
+      "Klientowi który nie lubi alkoholu mocnego."
 
     ],
 
-    "howToPresent":"Likier karmelowy z solą morską idealny balans słodkości i słoności. Stosować można jako dodatek do kaw, lodów i deserów. Likier nie smakuje chemicznie jak większość podobnych, a także nie jest mocno wyczuwalny alkohol jak w budżetowych markach. Jest zapakowany w kartonik, więc idealnie się nadaje na prezent."
-
+    "howToPresent":"Filipiński rum rzemieślniczy, robiony w stylu hiszpańskim, idealny dla kobiet i osób którzy nie lubią mocnego alkoholu, ponieważ jest on bardzo lekki, tropikalny i przyjemny w smaku."
+    
+    "aroma": nuty czekolady mlecznej, karmelu i owoców tropikalnych",
+    "taste": "Bardzo gładki,ananas, wanilia",
+    "finish": "Średniej długości, lekko przyprawowy"
   },
 
   {
