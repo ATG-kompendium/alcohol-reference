@@ -876,10 +876,146 @@
 
     ],
 
-    "howToPresent":"W środku znajduje się wódka zbożowa, aromatyzowana ekstraktem dębowym"
+    "howToPresent":"W środku znajduje się wódka zbożowa, komponowana ekstraktem dębowym"
 
-  }        
+  },
 
-]
+ {
+    "slug": "debowa-excellent",
+    "name": "Dębowa Excellent",
+    "subtitle": "Wódka · Polska",
+    "category": "vodka",
+    "country": "Poland",
+    "abv": "40%",
+    "rawMaterial":"Zboża"
+    "image": "bottle_img/debowa.png",
+    "whenToOffer": [
+      "Osób szukających coś żartownego",
+      "Klienta sugerującego tylko wyglądem",
+      "Osób szukających alkohol na półkę"
+
+    ],
+
+    "howToPresent":"W środku znajduje się wódka zbożowa, komponowana nalewami z dębu i kwiat bzu."
+
+  },  
+
+{
+    "slug": "debowa-orzech",
+    "name": "Dębowa Orzech",
+    "subtitle": "Wódka smakowa· Polska",
+    "category": "vodka flavoured",
+    "country": "Poland",
+    "abv": "40%",
+    "rawMaterial":"Zboża i orzechy"
+    "image": "bottle_img/debowa.png",
+    "whenToOffer": [
+      "Osób szukających wytrawnej lub wysokoprocentowej orzechówki",
+      "Klienta szukającego wódki smakowej",
+      "Osób lubiących coś niezwykłego, nowego"
+
+    ],
+
+    "howToPresent":"W środku znajduje się destylat zbożowy połączony z nalewami orzecha włoskiego, co czyni tą wódkę unikalną, nie słodką, mocno różniącą się od standardowych orzechówek z orzechów laskowych."
+
+  },
+
+{
+    "slug": "debowa-cherry",
+    "name": "Dębowa Likier Gold Cherry-Wiśnia",
+    "subtitle": "Likier· Polska",
+    "category": "likier",
+    "country": "Poland",
+    "abv": "30%",
+    "image": "bottle_img/debowa.png",
+    "whenToOffer": [
+      "Osób lubiących wiśniówki",
+      "Klienta szukającego wysokoprocentowych Wiśniówek",
+      "Osób ceniących naturalne słodkie likiery"
+
+    ],
+
+    "howToPresent":"Likier wiśniowy zrobiony z naturalnych wisień, owocowy, mocno słodki. naturalny smak."
+
+  },   
+
+{
+    "slug": "debowa-currant",
+    "name": "Dębowa Black Currant",
+    "subtitle": "Likier· Polska",
+    "category": "likier",
+    "country": "Poland",
+    "abv": "35%",
+    "image": "bottle_img/debowa.png",
+    "whenToOffer": [
+      "Osób lubiących stropowe likiery naturalne",
+      "Klienta szukającego wysokoprocentowych likierów",
+      "Osób szukających likier z czarnej porzeczki"
+
+    ],
+
+    "howToPresent":"Likier z czarnej porzeczki, naturalny, owocowy, mocno słodki, syropowy, lekko cierpki."
+
+},   
+
+{
+    "slug": "debowa-advocat",
+    "name": "Dębowa Gold Advicatka",
+    "subtitle": "Likier· Polska",
+    "category": "likier",
+    "country": "Poland",
+    "abv": "21%",
+    "image": "bottle_img/debowa.png",
+    "whenToOffer": [
+      "Osób lubiących Advocaty/Ajerkoniaki",
+      "Klienta szukającego kremowe, gęste likiery",
+      "Dla starszego pokolenia"
+
+    ],
+
+    "howToPresent":"Likier na bazie brandy, z wykorzystaniem tylko naturalnych składników żółtek, śmietanki, mleka."
+
+  },
+
+{
+    "slug": "debowa-advocat-coffee",
+    "name": "Dębowa Gold Advicatka Kawowa",
+    "subtitle": "Likier· Polska",
+    "category": "likier",
+    "country": "Poland",
+    "abv": "18%",
+    "image": "bottle_img/debowa.png",
+    "whenToOffer": [
+      "Osób lubiących Advocaty/Ajerkoniaki",
+      "Klienta szukającego kremowe, gęste likiery",
+      "Dla starszego pokolenia"
+
+    ],
+
+    "howToPresent":"Likier na bazie brandy, z wykorzystaniem tylko naturalnych składników żółtek, śmietanki, mleka, ziarna kawowe."
+
+  },        
+
+{
+    "slug": "debowa-cytrynowka",
+    "name": "Dębowa Cytrynówka",
+    "subtitle": "Likier· Polska",
+    "category": "likier",
+    "country": "Poland",
+    "abv": "30%",
+    "image": "bottle_img/debowa.png",
+    "whenToOffer": [
+      "Osób lubiących cytrynówki",
+      "Klienta szukającego cytrynówkę 0.7l"
+
+    ],
+
+    "howToPresent":"Cytrynówka o naturalnym kwaśnym smaku, w nietypowej pojemności 0.7"
+
+  },        
+
+]      
+
+
 
 
