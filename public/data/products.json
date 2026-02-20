@@ -845,7 +845,7 @@
     "category": "likier",
     "country": "Philippines",
     "abv": "40%",
-    "rawMaterial": sok z trzciny cukrowej"
+    "rawMaterial": "sok z trzciny cukrowej",
     "image": "bottle_img/chopin-tribute.png",
     "whenToOffer": [
       "Osób szukających lekkiego rumu.",
@@ -853,9 +853,9 @@
 
     ],
 
-    "howToPresent":"Filipiński rum rzemieślniczy, robiony w stylu hiszpańskim, idealny dla kobiet i osób którzy nie lubią mocnego alkoholu, ponieważ jest on bardzo lekki, tropikalny i przyjemny w smaku."
+    "howToPresent":"Filipiński rum rzemieślniczy, robiony w stylu hiszpańskim, idealny dla kobiet i osób którzy nie lubią mocnego alkoholu, ponieważ jest on bardzo lekki, tropikalny i przyjemny w smaku.",
     
-    "aroma": nuty czekolady mlecznej, karmelu i owoców tropikalnych",
+    "aroma": "nuty czekolady mlecznej, karmelu i owoców tropikalnych",
     "taste": "Bardzo gładki,ananas, wanilia",
     "finish": "Średniej długości, lekko przyprawowy"
   },
@@ -867,7 +867,7 @@
     "category": "vodka",
     "country": "Poland",
     "abv": "40%",
-    "rawMaterial":"Zboża"
+    "rawMaterial":"Zboża",
     "image": "bottle_img/debowa.png",
     "whenToOffer": [
       "Osób szukających coś śmiesznego",
@@ -876,19 +876,55 @@
 
     ],
 
-    "howToPresent":"W środku znajduje się wódka zbożowa, komponowana ekstraktem dębowym"
+    "howToPresent":"W środku znajduje się wódka zbożowa, komponowana ekstraktem dębowym. W środku jest umieszczony kawałek dębiny.",
+
+        "packaging": [
+  {
+    "name": "Mapa Polski",
+    "image": "bottle_img/mapa.png"
+  },
+  {
+    "name": "Tuba",
+    "image": "bottle_img/debowa-tuba.png"
+  },
+  {
+    "name": "Goool",
+    "image": "bottle_img/Goool.png"
+  },
+    {
+    "name": "Goool Uchwyt",
+    "image": "bottle_img/uchwyt.png"
+  },
+  {
+    "name": "Polska beczka",
+    "image": "bottle_img/Debowa-beczka.png"
+  },
+  {
+    "name": "Beczka cooler",
+    "image": "bottle_img/beczka-cooler.png"
+  },
+   {
+    "name": "Buklak",
+    "image": "bottle_img/buklak.png"
+  }
+]
 
   },
 
  {
     "slug": "debowa-excellent",
+    "keywords": [
+  "dębowa",
+  "kanister",
+  "gaśnica"
+],
     "name": "Dębowa Excellent",
-    "subtitle": "Wódka · Polska",
+    "subtitle": "Wódka · Polska", 
     "category": "vodka",
     "country": "Poland",
     "abv": "40%",
-    "rawMaterial":"Zboża"
-    "image": "bottle_img/debowa.png",
+    "rawMaterial":"Zboża",
+    "image": "bottle_img/gasnica.png",
     "whenToOffer": [
       "Osób szukających coś żartownego",
       "Klienta sugerującego tylko wyglądem",
@@ -896,7 +932,23 @@
 
     ],
 
-    "howToPresent":"W środku znajduje się wódka zbożowa, komponowana nalewami z dębu i kwiat bzu."
+    "howToPresent":"W środku znajduje się wódka zbożowa, komponowana nalewami z dębu i kwiat bzu.",
+
+    "packaging": [
+  {
+    "name": "Klasyczna butelka",
+    "image": "bottle_img/sruba.png"
+  },
+  {
+    "name": "Kanister",
+    "image": "bottle_img/kanister.png"
+  },
+  {
+    "name": "Strzykawka",
+    "image": "bottle_img/strzykawka.png"
+  }
+]
+
 
   },  
 
@@ -907,7 +959,7 @@
     "category": "vodka flavoured",
     "country": "Poland",
     "abv": "40%",
-    "rawMaterial":"Zboża i orzechy"
+    "rawMaterial":"Zboża i orzechy",
     "image": "bottle_img/debowa.png",
     "whenToOffer": [
       "Osób szukających wytrawnej lub wysokoprocentowej orzechówki",

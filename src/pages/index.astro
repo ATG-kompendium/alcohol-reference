@@ -27,46 +27,62 @@ const BASE = import.meta.env.BASE_URL;
       const BASE = import.meta.env.BASE_URL;
 
       const input = document.getElementById("search");
-      const results = document.getElementById("results");
+const results = document.getElementById("results");
 
-      let products = [];
+if (input && results) {
 
-      fetch(`${BASE}data/products.json`)
-        .then(res => res.json())
-        .then(data => {
-          products = data;
-          render([]);
-        });
+  let products = [];
 
-      function render(list) {
-        results.innerHTML = "";
+  fetch(`${BASE}data/products.json`)
+    .then(res => res.json())
+    .then(data => {
+      products = data;
+      render([]);
+    });
 
-        if (list.length === 0) return;
+  function render(list) {
+    results.innerHTML = "";
+    if (list.length === 0) return;
 
-        list.forEach(p => {
-          const li = document.createElement("li");
-          const a = document.createElement("a");
-          a.href = `${BASE}products/${p.slug}/`;
-          a.textContent = p.name;
-          li.appendChild(a);
-          results.appendChild(li);
-        });
-      }
+    list.forEach(p => {
+      const li = document.createElement("li");
+      const a = document.createElement("a");
+      a.href = `${BASE}products/${p.slug}/`;
+      a.textContent = p.name;
+      li.appendChild(a);
+      results.appendChild(li);
+    });
+  }
 
-      input.addEventListener("input", e => {
-        const q = e.target.value.trim().toLowerCase();
+  input.addEventListener("input", e => {
+    const q = e.target.value.trim().toLowerCase();
 
-        if (q === "") {
-          render([]);
-          return;
-        }
+    if (q === "") {
+      render([]);
+      return;
+    }
 
-        const filtered = products.filter(p =>
-          p.name.toLowerCase().includes(q)
-        );
+    const filtered = products.filter(p => {
+      const search = q.toLowerCase();
 
-        render(filtered);
-      });
+      const inName = p.name?.toLowerCase().includes(search);
+      const inCategory = p.category?.toLowerCase().includes(search);
+      const inCountry = p.country?.toLowerCase().includes(search);
+      const inRaw = p.rawMaterial
+        ? p.rawMaterial.toLowerCase().includes(search)
+        : false;
+      const inKeywords = p.keywords
+        ? p.keywords.some(k => k.toLowerCase().includes(search))
+        : false;
+
+      return inName || inCategory || inCountry || inRaw || inKeywords;
+    });
+
+    render(filtered);
+  });
+
+}
+
     </script>
   </body>
 </html>

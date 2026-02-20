@@ -126,6 +126,22 @@ const { product } = Astro.props;
     </ul>
   </section>
 )}
+
+{product.packaging && (
+  <section>
+    <h2>Dostępne opakowania</h2>
+    <div class="packaging-grid">
+      {product.packaging.map((p) => (
+        <div class="pack-item">
+          <img src={p.image} alt={p.name} />
+          <p class="pack-name">{p.name}</p>
+          {p.note && <p class="pack-note">{p.note}</p>}
+        </div>
+      ))}
+    </div>
+  </section>
+)}
+
     </div>
   </body>
 </html>
