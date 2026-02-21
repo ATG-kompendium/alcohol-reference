@@ -29,12 +29,25 @@ const { product } = Astro.props;
 
     <div class="card">
       <div class="header">
-        <div class="image">
-  <img
-    src={product.image}
-    alt={product.name}
-    loading="lazy"
-  />
+    <div class="image">
+  {product.variants && product.variants.length > 0 ? (
+    product.variants.map((v) => (
+      <div class="variant-image">
+        <img
+          src={v.image}
+          alt={`${product.name} ${v.type}`}
+          loading="lazy"
+        />
+        <p class="variant-label">{v.type}</p>
+      </div>
+    ))
+  ) : (
+    <img
+      src={product.image}
+      alt={product.name}
+      loading="lazy"
+    />
+  )}
 </div>
         <div class="info">
           <h1>{product.name}</h1>
