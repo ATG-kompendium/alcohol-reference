@@ -229,3 +229,8 @@ section.tip h2 {
   color: #777;
 }
 
+.image img {
+  max-width: 250px;
+  margin-right: 15px;
+}
+
