@@ -1129,6 +1129,17 @@
 
   "howToPresent": "Flagowy produkt linii Miodula. Inspirowana tradycyjnymi recepturami, łączy naturalną słodycz miodu z intensywnością wódki. Najbardziej rozpoznawalna i najczęściej wybierana z całej serii.",
 
+"variants": [
+  {
+    "type": "Wersja standardowa",
+    "image": "bottle_img/miodula_prezydencka.png"
+  },
+  {
+    "type": "Zestaw z kieliszkiem",
+    "image": "bottle_img/miodula_prezydencka_set.png"
+  }
+],
+
   "salesTip": [
     "Dostępna również w zestawie z kieliszkiem degustacyjnym – bardzo dobry wybór prezentowy.",
     "Można proponować klientom szukającym czegoś bardziej wyrazistego niż klasyczny miód pitny."
