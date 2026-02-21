@@ -987,7 +987,18 @@
 
     ],
 
-    "howToPresent":"Likier wiśniowy zrobiony z naturalnych wisień, owocowy, mocno słodki. naturalny smak."
+    "howToPresent":"Likier wiśniowy zrobiony z naturalnych wisień, owocowy, mocno słodki. naturalny smak.",
+
+"variants": [
+  {
+    "type": "Wersja standardowa",
+    "image": "bottle_img/debowa-cherry.png"
+  },
+  {
+    "type": "Wersja w karafce",
+    "image": "bottle_img/debowa-cherry-karafka.png"
+  }
+],
 
   },   
 
