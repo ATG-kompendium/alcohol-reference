@@ -1130,6 +1130,7 @@
   "category": "likier",
   "country": "Poland",
   "abv": "40%",
+  "maturation" : "Beczki z polskiego dębu",
   "image": "bottle_img/miodula_prezydencka.png",
 
   "whenToOffer": [
@@ -1168,6 +1169,7 @@
   "category": "vodka-flavoured",
   "country": "Poland",
   "abv": "40%",
+  "maturation" : "Beczki z polskiego dębu"
   "image": "bottle_img/miodula_awangarda.png",
 
   "whenToOffer": [
@@ -1178,18 +1180,19 @@
   "howToPresent": "Jest to edycja mioduli, w której zawarta jest Miodula Prezydencka I francuski cognac, skierowana do osób lubiących koniaki i brandy.",
 
   "salesTip": [
-    "Można proponować jako alternatywe do brandy lub jeżeli tos szuka brandy 0.5l."
+    "Można proponować jako alternatywe do brandy lub jeżeli ktoś szuka brandy 0.5l."
   ]
 },
 
 {
   "slug": "miodula-vodka-polska",
   "name": "Miodula Vodka Polska",
-  "subtitle": "Wódka miodowa · Polska",
-  "category": "wodka",
+  "subtitle": "Wódka smakowa · Polska",
+  "category": "vodka-flavoured",
   "country": "Poland",
   "abv": "40%",
-  "rawMaterial": "Zboża + miód",
+  "rawMaterial": "Żyto",
+  "maturation" : "Beczki używane do leżakowania Mioduli Prezydenckiej",
   "image": "bottle_img/miodula_vodka.png",
 
   "whenToOffer": [
@@ -1214,7 +1217,7 @@
     "Klient lubi delikatniejsze, lekko słodsze profile"
   ],
 
-  "howToPresent": "Gin oparty na botanikach z subtelnym akcentem miodowym, który łagodzi klasyczną jałowcową strukturę."
+  "howToPresent": "Gin z 9 botaników: cytryny, pomarańcze, korzeń irysa, kolendra, korzeń arcydzięgla, kardamon, korzeń lukrecji, całe laski wanilii. Jałowiec jest dobrze ukryty innymi składnikami i dodatkiem miodu. "
 },
 
 {
@@ -1223,7 +1226,7 @@
   "subtitle": "Likier cytrynowy · Polska",
   "category": "likier",
   "country": "Poland",
-  "abv": "30%",
+  "abv": "28%",
   "image": "bottle_img/miodula_lemoncello.png",
 
   "whenToOffer": [
@@ -1231,25 +1234,24 @@
     "Klient chce coś lekkiego i cytrusowego"
   ],
 
-  "howToPresent": "Cytrusowa odsłona linii Miodula – świeża, orzeźwiająca, z wyraźną nutą skórki cytrynowej."
+  "howToPresent": "Polskie wydanie limoncello, syropowe, słodko-kwaśne, cukierkowe."
 },
 
 {
-  "slug": "miodula-cold-brew",
-  "name": "Miodula Cold Brew",
+  "slug": "miodula-espresso",
+  "name": "Miodula Espresso",
   "subtitle": "Likier kawowy · Polska",
   "category": "likier",
   "country": "Poland",
   "abv": "30%",
-  "image": "bottle_img/miodula_cold_brew.png",
+  "image": "bottle_img/miodula_espresso.png",
 
   "whenToOffer": [
-    "Klient szuka likieru kawowego",
-    "Klient lubi espresso martini",
-    "Klient chce coś deserowego"
+    "Klienta szukajacego likieru kawowego",
+    "Osób lubiących dobrą kawę"
   ],
 
-  "howToPresent": "Likier kawowy oparty na metodzie cold brew – intensywny aromat kawy, naturalna słodycz i deserowy charakter."
+  "howToPresent": "Ten likier jest połączeniem Mioduli Prezydenckiej z włoską kawą."
 }
 
 ]      
