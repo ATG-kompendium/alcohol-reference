@@ -68,11 +68,18 @@ const { product } = Astro.props;
       )}
 
       {product.howToPresent && (
-        <section>
-          <h2>Jak prezentować</h2>
-          <p>{product.howToPresent}</p>
-        </section>
-      )}
+  <section>
+    <h2>Jak prezentować</h2>
+
+    {Array.isArray(product.howToPresent)
+      ? product.howToPresent.map((paragraph) => (
+          <p>{paragraph}</p>
+        ))
+      : <p>{product.howToPresent}</p>
+    }
+
+  </section>
+)}
 
 {/* 🆕 CROSS-SELLING */}
       {product.crossSell && (
