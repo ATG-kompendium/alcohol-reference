@@ -1110,7 +1110,127 @@
 "Gold Blackcurrant Czarna Porzeczka – wyrazisty słodko-cierpki smak czarnej porzeczki"
 
 ]
-  }
+  },
+
+{
+  "slug": "miodula-prezydencka",
+  "name": "Miodula Prezydencka",
+  "subtitle": "Likier miodowy · Polska",
+  "category": "likier",
+  "country": "Poland",
+  "abv": "40%",
+  "image": "bottle_img/miodula_prezydencka.png",
+
+  "whenToOffer": [
+    "Klient szuka wódki smakowej, miodowej",
+    "Osób chcących przywieźć coś prezentowego i tradycyjnego z Polski",
+    "Klientów lubiących alkohole tradycyjne rzemieślnicze."
+  ],
+
+  "howToPresent": "Flagowy produkt linii Miodula. Inspirowana tradycyjnymi recepturami, łączy naturalną słodycz miodu z intensywnością wódki. Najbardziej rozpoznawalna i najczęściej wybierana z całej serii.",
+
+  "salesTip": [
+    "Dostępna również w zestawie z kieliszkiem degustacyjnym – bardzo dobry wybór prezentowy.",
+    "Można proponować klientom szukającym czegoś bardziej wyrazistego niż klasyczny miód pitny."
+  ],
+
+  "aroma": "Miód wielokwiatowy, zioła, delikatne nuty korzenne.",
+  "taste": "Pełna, miodowa, z lekką ziołową goryczką balansującą słodycz.",
+  "finish": "Średni do długiego, miodowo-ziołowy."
+},
+
+{
+  "slug": "miodula-awangarda",
+  "name": "Miodula Awangarda",
+  "subtitle": "Likier miodowy · Polska",
+  "category": "likier",
+  "country": "Poland",
+  "abv": "40%",
+  "image": "bottle_img/miodula_awangarda.png",
+
+  "whenToOffer": [
+    "Klient zna Miodulę Prezydencką i chce spróbować czegoś innego",
+    "Klient szuka nowoczesnej interpretacji miodowego alkoholu"
+  ],
+
+  "howToPresent": "Nowoczesna interpretacja klasycznej Mioduli. Zachowuje miodową bazę, ale z bardziej współczesnym profilem smakowym.",
+
+  "salesTip": [
+    "Można proponować jako alternatywę dla Prezydenckiej dla stałych klientów."
+  ]
+},
+
+{
+  "slug": "miodula-vodka-polska",
+  "name": "Miodula Vodka Polska",
+  "subtitle": "Wódka miodowa · Polska",
+  "category": "wodka",
+  "country": "Poland",
+  "abv": "40%",
+  "rawMaterial": "Zboża + miód",
+  "image": "bottle_img/miodula_vodka.png",
+
+  "whenToOffer": [
+    "Klient chce wódkę z delikatnym charakterem miodowym",
+    "Klient szuka czegoś pomiędzy klasyczną wódką a likierem"
+  ],
+
+  "howToPresent": "Łączy strukturę klasycznej wódki z subtelną nutą miodową. Lżejsza i bardziej wytrawna niż likiery miodowe."
+}, 
+
+{
+  "slug": "miodula-gin",
+  "name": "Miodula Gin",
+  "subtitle": "Gin z nutą miodu · Polska",
+  "category": "gin",
+  "country": "Poland",
+  "abv": "40%",
+  "image": "bottle_img/miodula_gin.png",
+
+  "whenToOffer": [
+    "Klient szuka polskiego ginu",
+    "Klient lubi delikatniejsze, lekko słodsze profile"
+  ],
+
+  "howToPresent": "Gin oparty na botanikach z subtelnym akcentem miodowym, który łagodzi klasyczną jałowcową strukturę."
+},
+
+{
+  "slug": "miodula-lemoncello",
+  "name": "Miodula Lemoncello",
+  "subtitle": "Likier cytrynowy · Polska",
+  "category": "likier",
+  "country": "Poland",
+  "abv": "30%",
+  "image": "bottle_img/miodula_lemoncello.png",
+
+  "whenToOffer": [
+    "Klient szuka limoncello",
+    "Klient chce coś lekkiego i cytrusowego"
+  ],
+
+  "howToPresent": "Cytrusowa odsłona linii Miodula – świeża, orzeźwiająca, z wyraźną nutą skórki cytrynowej."
+},
+
+{
+  "slug": "miodula-cold-brew",
+  "name": "Miodula Cold Brew",
+  "subtitle": "Likier kawowy · Polska",
+  "category": "likier",
+  "country": "Poland",
+  "abv": "30%",
+  "image": "bottle_img/miodula_cold_brew.png",
+
+  "whenToOffer": [
+    "Klient szuka likieru kawowego",
+    "Klient lubi espresso martini",
+    "Klient chce coś deserowego"
+  ],
+
+  "howToPresent": "Likier kawowy oparty na metodzie cold brew – intensywny aromat kawy, naturalna słodycz i deserowy charakter."
+},
+
+
 
 ]      
 
