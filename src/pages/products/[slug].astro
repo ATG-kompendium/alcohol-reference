@@ -30,23 +30,32 @@ const { product } = Astro.props;
     <div class="card">
       <div class="header">
     <div class="image">
-  {product.variants && product.variants.length > 0 ? (
-    product.variants.map((v) => (
-      <div class="variant-image">
-        <img
-          src={v.image}
-          alt={`${product.name} ${v.type}`}
-          loading="lazy"
-        />
-        <p class="variant-label">{v.type}</p>
-      </div>
-    ))
-  ) : (
+  <div class="main-image">
     <img
-      src={product.image}
+      id="mainProductImage"
+      src={product.variants?.[0]?.image ?? product.image}
       alt={product.name}
       loading="lazy"
     />
+    {product.variants && (
+      <p id="mainImageLabel" class="variant-label">
+        {product.variants[0]?.type}
+      </p>
+    )}
+  </div>
+
+  {product.variants && product.variants.length > 1 && (
+    <div class="thumbnails">
+      {product.variants.map((v) => (
+        <img
+          src={v.image}
+          alt={v.type}
+          class="thumb"
+          data-image={v.image}
+          data-label={v.type}
+        />
+      ))}
+    </div>
   )}
 </div>
         <div class="info">
@@ -166,5 +175,19 @@ const { product } = Astro.props;
 )}
 
     </div>
+<script>
+  const thumbs = document.querySelectorAll(".thumb");
+  const mainImage = document.getElementById("mainProductImage");
+  const mainLabel = document.getElementById("mainImageLabel");
+
+  thumbs.forEach((thumb) => {
+    thumb.addEventListener("click", () => {
+      mainImage.src = thumb.dataset.image;
+      if (mainLabel) {
+        mainLabel.textContent = thumb.dataset.label;
+      }
+    });
+  });
+</script>
   </body>
 </html>
