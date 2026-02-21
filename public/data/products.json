@@ -1100,8 +1100,16 @@
 
     ],
 
-    "howToPresent":"W środku jest 8 miniaturek z których 6 wódek i 2 likiery. Dębowa Polska – klasyczna biała wódka, Czeremcha – smak owocu czeremchy, Śliwa – zapach i smak śliwki, Orzech – naturalny aromat oraz charakterystyczny smak orzecha włoskiego, Black Oak – kawai karmel, Golden Oak – nuty brandy. Gold Cherry – smak i zapach wiśni,Gold Blackcurrant Czarna Porzeczka – wyrazisty słodko-cierpki smak czarnej porzeczki."
+    "howToPresent": [ 
+"W środku jest 8 miniaturek z których 6 wódek i 2 likiery.", 
+"Dębowa Polska – klasyczna biała wódka", "Czeremcha – smak owocu czeremchy", 
+"Śliwa – zapach i smak śliwki",
+"Orzech – naturalny aromat oraz charakterystyczny smak orzecha włoskiego", "Black Oak – kawai karmel", 
+"Golden Oak – nuty brandy",
+"Gold Cherry – smak i zapach wiśni",
+"Gold Blackcurrant Czarna Porzeczka – wyrazisty słodko-cierpki smak czarnej porzeczki"
 
+]
   }
 
 ]      
