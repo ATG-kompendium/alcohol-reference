@@ -1164,21 +1164,21 @@
 {
   "slug": "miodula-awangarda",
   "name": "Miodula Awangarda",
-  "subtitle": "Likier miodowy · Polska",
-  "category": "likier",
+  "subtitle": " · Polska",
+  "category": "vodka-flavoured",
   "country": "Poland",
   "abv": "40%",
   "image": "bottle_img/miodula_awangarda.png",
 
   "whenToOffer": [
-    "Klient zna Miodulę Prezydencką i chce spróbować czegoś innego",
-    "Klient szuka nowoczesnej interpretacji miodowego alkoholu"
+    "Osób dla których miodula prezydencka jest za słodka.",
+    "Klient szuka polskiego brandy, koniaku."
   ],
 
-  "howToPresent": "Nowoczesna interpretacja klasycznej Mioduli. Zachowuje miodową bazę, ale z bardziej współczesnym profilem smakowym.",
+  "howToPresent": "Jest to edycja mioduli, w której zawarta jest Miodula Prezydencka I francuski cognac, skierowana do osób lubiących koniaki i brandy.",
 
   "salesTip": [
-    "Można proponować jako alternatywę dla Prezydenckiej dla stałych klientów."
+    "Można proponować jako alternatywe do brandy lub jeżeli tos szuka brandy 0.5l."
   ]
 },
 
