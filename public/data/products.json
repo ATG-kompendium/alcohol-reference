@@ -2402,7 +2402,7 @@
   "category": "likier",
   "country": "Poland",
   "abv": "30%",
-  "image": "bottle_img/torun_sliwka_czekolada.png",
+  "image": "bottle_img/torunska_sliwka.png",
 
   "whenToOffer": [
     "Klient szuka czegoś deserowego",
@@ -2419,7 +2419,7 @@
   "category": "likier",
   "country": "Poland",
   "abv": "30%",
-  "image": "bottle_img/torun_wisnia.png",
+  "image": "bottle_img/torunska_wisnia.png",
 
   "whenToOffer": [
     "Klient szuka klasycznej wiśniówki",
@@ -2436,7 +2436,7 @@
   "category": "likier",
   "country": "Poland",
   "abv": "30%",
-  "image": "bottle_img/torun_pigwa.png",
+  "image": "bottle_img/torunska_pigwa.png",
 
   "whenToOffer": [
     "Klient szuka czegoś cytrusowo-owocowego",
@@ -2453,7 +2453,7 @@
   "category": "vodka-flavoured",
   "country": "Poland",
   "abv": "37.5%",
-  "image": "bottle_img/torun_przepalanka.png",
+  "image": "bottle_img/torunska_przepalanka.png",
 
   "whenToOffer": [
     "Klient szuka czegoś tradycyjnego",
@@ -2470,7 +2470,7 @@
   "category": "likier",
   "country": "Poland",
   "abv": "37.5%",
-  "image": "bottle_img/torun_hubertowka.png",
+  "image": "bottle_img/hubertowka.webp",
 
   "whenToOffer": [
     "Klient lubi ziołowe alkohole",
@@ -2487,7 +2487,7 @@
   "category": "likier",
   "country": "Poland",
   "abv": "32%",
-  "image": "bottle_img/torun_hubertowka_bitter.png",
+  "image": "bottle_img/hubertowka_bitter.webp",
 
   "whenToOffer": [
     "Klient szuka lżejszej wersji ziołowej",
@@ -2505,7 +2505,7 @@
   "country": "Poland",
   "abv": "40%",
   "rawMaterial": "Ziemniaki",
-  "image": "bottle_img/torun_ziemniaczana.png",
+  "image": "bottle_img/torunska_ziemniaczana.png",
 
   "whenToOffer": [
     "Klient szuka budżetowej wódki ziemniaczanej"
@@ -2521,7 +2521,7 @@
   "category": "vodka",
   "country": "Poland",
   "abv": "40%",
-  "image": "bottle_img/torun_czysta.png",
+  "image": "bottle_img/torunska_czysta.png",
 
   "whenToOffer": [
     "Klient szuka taniej, klasycznej wódki"
@@ -2537,7 +2537,7 @@
   "category": "vodka",
   "country": "Poland",
   "abv": "69%",
-  "image": "bottle_img/torun_69.png",
+  "image": "bottle_img/vodka_69.png",
 
   "whenToOffer": [
     "Klient szuka najmocniejszej wódki",
@@ -2554,7 +2554,7 @@
   "category": "okowita",
   "country": "Czechy",
   "abv": "55%",
-  "image": "bottle_img/torun_sliwowica_55.png",
+  "image": "bottle_img/sliwowica_czeska.png",
 
   "whenToOffer": [
     "Klient szuka klasycznej śliwowicy"
@@ -2570,7 +2570,7 @@
   "category": "okowita",
   "country": "Poland",
   "abv": "63%",
-  "image": "bottle_img/torun_sliwowica_63.png",
+  "image": "bottle_img/sliwowica_polska.png",
 
   "whenToOffer": [
     "Klient szuka mocnej, polskiej śliwowicy"
@@ -2586,7 +2586,7 @@
   "category": "likier",
   "country": "Poland",
   "abv": "32%",
-  "image": "bottle_img/philadelphia_boulevard.png",
+  "image": "bottle_img/pb_coffe.webp",
 
   "whenToOffer": [
     "Klient szuka likieru kawowego",
@@ -2603,7 +2603,7 @@
   "category": "miod-pitny",
   "country": "Poland",
   "abv": "16%",
-  "image": "bottle_img/apis_poltorak_jadwiga.png",
+  "image": "bottle_img/jadwiga_oplot.png",
 
   "whenToOffer": [
     "Klient szuka najbardziej prestiżowego miodu pitnego",
@@ -2620,7 +2620,7 @@
   "category": "miod-pitny",
   "country": "Poland",
   "abv": "16%",
-  "image": "bottle_img/apis_poltorak_lubelski.png",
+  "image": "bottle_img/poltorak_lubelski.png",
 
   "whenToOffer": [
     "Klient chce półtoraka w bardziej klasycznym wydaniu",
