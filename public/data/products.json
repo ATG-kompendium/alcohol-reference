@@ -3068,7 +3068,1235 @@
   ],
 
   "howToPresent": "Rzemieślnicza śliwowica o mocy 50%, dojrzewająca w dębowych beczkach po miodzie pitnym. Intensywny owocowy charakter z nutą miodu i przypraw korzennych."
-}
+},
+
+{
+  "slug": "bumbu-cream",
+  "name": "Bumbu Cream",
+  "subtitle": "Likier kremowy na bazie rumu · Barbados",
+  "category": "likier-kremowy",
+  "country": "Barbados",
+  "abv": "15%",
+  "image": "bottle_img/bumbu_cream.png",
+
+  "whenToOffer": [
+    "Klient lubi rum Bumbu",
+    "Szuka czegoś bardziej egzotycznego niż Baileys",
+    "Lubi kokosowe i tropikalne nuty"
+  ],
+
+  "howToPresent": "Kremowy likier na bazie rumu z Barbadosu. Bardziej tropikalny i kokosowy niż klasyczne irlandzkie cream liqueurs. Dobry solo z lodem lub do deserów.",
+
+  "salesTip": [
+    "Dobry wybór dla fanów rumu, którzy chcą spróbować czegoś słodszego.",
+    "Można proponować jako alternatywę dla Baileys."
+  ]
+},
+
+{
+  "slug": "amarula",
+  "name": "Amarula",
+  "subtitle": "Likier kremowy z owocu marula · RPA",
+  "category": "likier-kremowy",
+  "country": "South Africa",
+  "abv": "17%",
+  "image": "bottle_img/amarula.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś innego niż Baileys",
+    "Lubi egzotyczne produkty",
+    "Chce likier kremowy z owocowym charakterem"
+  ],
+
+  "howToPresent": "Kremowy likier produkowany z owocu marula rosnącego w Afryce. Bardziej owocowy i lekko karmelowy w charakterze niż klasyczne likiery irlandzkie.",
+
+  "salesTip": [
+    "Ciekawa alternatywa dla Baileys.",
+    "Dobry wybór prezentowy z egzotycznym akcentem."
+  ]
+},
+
+{
+  "slug": "sheridans",
+  "name": "Sheridan’s",
+  "subtitle": "Likier kawowo-waniliowy · Irlandia",
+  "category": "likier-kremowy",
+  "country": "Ireland",
+  "abv": "15.5%",
+  "image": "bottle_img/sheridans.png",
+
+  "whenToOffer": [
+    "Klient szuka efektownego prezentu",
+    "Lubi likiery kawowe",
+    "Chce coś wizualnie wyjątkowego"
+  ],
+
+  "howToPresent": "Dwukomorowa butelka łącząca likier kawowy i waniliowo-kremowy. Przy nalewaniu tworzy warstwowy efekt. Bardziej deserowy i kawowy w charakterze.",
+
+  "salesTip": [
+    "Bardzo efektowny produkt wizualnie.",
+    "Często wybierany jako prezent."
+  ]
+},
+
+{
+  "slug": "baileys-irish-cream",
+  "name": "Baileys Irish Cream",
+  "subtitle": "Likier kremowy · Irlandia",
+  "category": "likier-kremowy",
+  "country": "Ireland",
+  "abv": "17%",
+  "image": "bottle_img/baileys_original.png",
+
+  "whenToOffer": [
+    "Klient szuka likieru do kawy",
+    "Klient chce coś słodkiego na prezent",
+    "Osoba nie pije mocnych alkoholi",
+    "Klient szuka czegoś deserowego"
+  ],
+
+  "howToPresent": "Klasyczny irlandzki likier na bazie śmietanki i whiskey. Słodki, kremowy i bardzo przystępny. Idealny do kawy, deserów, lodów lub solo z lodem.",
+
+  "salesTip": [
+    "Bezpieczny wybór prezentowy.",
+    "Często wybierany przez osoby, które nie piją klasycznej wódki czy whisky."
+  ],
+
+  "cocktails": [
+    "Kawa z Baileys",
+    "Baileys on the rocks",
+    "Desery i lody"
+  ],
+
+  "variants": [
+    {
+      "type": "Original",
+      "image": "bottle_img/baileys_original.png"
+    },
+    {
+      "type": "Salted Caramel",
+      "image": "bottle_img/baileys_salted_caramel.png"
+    },
+    {
+      "type": "Strawberry Cake",
+      "image": "bottle_img/baileys_strawberry.png"
+    },
+    {
+      "type": "Tiramisu",
+      "image": "bottle_img/baileys_tiramisu.png"
+    },
+    {
+      "type": "Mint Chocolate",
+      "image": "bottle_img/baileys_mint.png"
+    },
+    {
+      "type": "Piña Colada",
+      "image": "bottle_img/baileys_pina.png"
+    }
+  ]
+},
+
+{
+  "slug": "cointreau",
+  "name": "Cointreau",
+  "subtitle": "Likier pomarańczowy · Francja",
+  "category": "likier",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/cointreau.png",
+
+  "whenToOffer": [
+    "Klient robi Margaritę",
+    "Klient potrzebuje Triple Sec",
+    "Do Cosmopolitana lub drinków cytrusowych"
+  ],
+
+  "howToPresent": "Francuski likier pomarańczowy typu triple sec. Wytrawny, intensywnie cytrusowy, z wyraźnym aromatem skórek pomarańczy. Klasyczny składnik wielu koktajli.",
+
+  "salesTip": [
+    "Podstawowy składnik Margarity.",
+    "Lepsza jakość niż tańsze triple sec."
+  ]
+},
+
+{
+  "slug": "grand-marnier",
+  "name": "Grand Marnier",
+  "subtitle": "Likier pomarańczowy na bazie koniaku · Francja",
+  "category": "likier",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/grand_marnier.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś bardziej eleganckiego niż Cointreau",
+    "Do deserów i kuchni",
+    "Do koktajli premium"
+  ],
+
+  "howToPresent": "Likier pomarańczowy na bazie francuskiego koniaku. Bogatszy i bardziej złożony niż klasyczne triple sec. Łączy cytrusy z nutą brandy.",
+
+  "salesTip": [
+    "Dobry wybór do deserów i do picia solo.",
+    "Można proponować jako bardziej premium alternatywę dla Cointreau."
+  ]
+},
+
+{
+  "slug": "aperol",
+  "name": "Aperol",
+  "subtitle": "Likier aperitif · Włochy",
+  "category": "likier",
+  "country": "Italy",
+  "abv": "11%",
+  "image": "bottle_img/aperol.png",
+
+  "whenToOffer": [
+    "Klient robi Aperol Spritz",
+    "Szuka lekkiego aperitifu",
+    "Lubi delikatnie gorzkie profile"
+  ],
+
+  "howToPresent": "Włoski aperitif o niskiej zawartości alkoholu. Słodko-gorzki, cytrusowo-ziołowy. Najczęściej używany do Aperol Spritz.",
+
+  "salesTip": [
+    "Jeden z najpopularniejszych letnich drinków.",
+    "Sprzedaje się bardzo dobrze w sezonie wakacyjnym."
+  ]
+},
+
+{
+  "slug": "campari",
+  "name": "Campari",
+  "subtitle": "Likier bitter · Włochy",
+  "category": "likier",
+  "country": "Italy",
+  "abv": "25%",
+  "image": "bottle_img/campari.png",
+
+  "whenToOffer": [
+    "Klient robi Negroni",
+    "Szuka mocniejszego bitteru",
+    "Lubi wyraźnie gorzkie alkohole"
+  ],
+
+  "howToPresent": "Intensywnie gorzki włoski bitter. Ziołowo-cytrusowy profil smakowy. Kluczowy składnik Negroni i wielu klasycznych koktajli.",
+
+  "salesTip": [
+    "Podstawa klasycznego Negroni.",
+    "Bardziej wyrazisty niż Aperol."
+  ]
+},
+
+{
+  "slug": "limoncello-palini",
+  "name": "Limoncello Palini",
+  "subtitle": "Likier cytrynowy · Włochy",
+  "category": "likier",
+  "country": "Italy",
+  "abv": "26%",
+  "image": "bottle_img/limoncello_palini.png",
+
+  "whenToOffer": [
+    "Klient szuka klasycznego limoncello",
+    "Do podania schłodzone po kolacji",
+    "Klient lubi cytrusowe, słodko-kwaśne profile"
+  ],
+
+  "howToPresent": "Klasyczne włoskie limoncello produkowane ze skórek cytryn. Intensywnie cytrusowe, słodko-kwaśne. Najlepiej podawać mocno schłodzone.",
+
+  "salesTip": [
+    "Dobry wybór jako digestif po kolacji.",
+    "Można proponować jako prezent z włoskim charakterem."
+  ]
+},
+
+{
+  "slug": "limoncello-bottega",
+  "name": "Limoncello Bottega",
+  "subtitle": "Likier cytrynowy · Włochy",
+  "category": "likier",
+  "country": "Italy",
+  "abv": "30%",
+  "image": "bottle_img/limoncello_bottega.png",
+
+  "whenToOffer": [
+    "Klient szuka mocniejszego limoncello",
+    "Klient zwraca uwagę na design butelki",
+    "Do podania po kolacji"
+  ],
+
+  "howToPresent": "Włoskie limoncello o wyższej zawartości alkoholu. Bardziej intensywne i wyraźne w smaku. Charakterystyczna, elegancka butelka.",
+
+  "salesTip": [
+    "Mocniejsza alternatywa dla klasycznych limoncello.",
+    "Dobrze wygląda jako prezent."
+  ]
+},
+
+{
+  "slug": "ricard-pastis",
+  "name": "Ricard Pastis",
+  "subtitle": "Likier anyżowy · Francja",
+  "category": "likier",
+  "country": "France",
+  "abv": "45%",
+  "image": "bottle_img/ricard.png",
+
+  "whenToOffer": [
+    "Klient szuka pastis",
+    "Lubi anyżowe profile",
+    "Zna francuską kulturę picia"
+  ],
+
+  "howToPresent": "Francuski alkohol anyżowy typu pastis. Intensywnie ziołowy, wytrawny. Tradycyjnie podawany z wodą, która nadaje mu mleczny kolor.",
+
+  "salesTip": [
+    "Popularny we Francji jako aperitif.",
+    "Podawać z zimną wodą."
+  ]
+},
+
+{
+  "slug": "absinth-van-gogh",
+  "name": "Absinth Van Gogh",
+  "subtitle": "Absynt · Holandia",
+  "category": "absynt",
+  "country": "Netherlands",
+  "abv": "55%",
+  "image": "bottle_img/absinth_van_gogh.png",
+
+  "whenToOffer": [
+    "Klient szuka absyntu",
+    "Lubi mocne, ziołowe alkohole",
+    "Interesuje się historią absyntu"
+  ],
+
+  "howToPresent": "Ziołowy alkohol inspirowany tradycyjnym absyntem. Intensywny, anyżowo-piołunowy profil. Można podawać klasycznie z cukrem i wodą.",
+
+  "salesTip": [
+    "Produkt niszowy, wybierany przez świadomych klientów.",
+    "Warto wyjaśnić sposób podania."
+  ]
+},
+
+{
+  "slug": "martini-bianco",
+  "name": "Martini Bianco",
+  "subtitle": "Wermut biały · Włochy",
+  "category": "wermut",
+  "country": "Italy",
+  "abv": "15%",
+  "image": "bottle_img/martini_bianco.png",
+
+  "whenToOffer": [
+    "Klient robi Martini z tonikiem",
+    "Szuka słodszego wermutu",
+    "Do lekkich, letnich drinków"
+  ],
+
+  "howToPresent": "Biały wermut o delikatnie słodkim, waniliowo-ziołowym charakterze. Najczęściej podawany z tonikiem lub jako składnik koktajli.",
+
+  "salesTip": [
+    "Dobry wybór dla osób, które nie lubią mocno gorzkich smaków."
+  ]
+},
+
+{
+  "slug": "martini-rosso",
+  "name": "Martini Rosso",
+  "subtitle": "Wermut czerwony · Włochy",
+  "category": "wermut",
+  "country": "Italy",
+  "abv": "15%",
+  "image": "bottle_img/martini_rosso.png",
+
+  "whenToOffer": [
+    "Klient robi Negroni",
+    "Do Manhattan",
+    "Szuka klasycznego czerwonego wermutu"
+  ],
+
+  "howToPresent": "Klasyczny czerwony wermut o karmelowo-ziołowym profilu. Kluczowy składnik Negroni i Manhattan.",
+
+  "salesTip": [
+    "Podstawa klasycznych koktajli barowych."
+  ]
+},
+
+{
+  "slug": "martini-rosato",
+  "name": "Martini Rosato",
+  "subtitle": "Wermut różowy · Włochy",
+  "category": "wermut",
+  "country": "Italy",
+  "abv": "15%",
+  "image": "bottle_img/martini_rosato.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś lżejszego i owocowego",
+    "Do letnich drinków"
+  ],
+
+  "howToPresent": "Różowy wermut o bardziej owocowym charakterze. Lżejszy i mniej gorzki niż Rosso.",
+
+  "salesTip": [
+    "Dobry wybór dla osób zaczynających przygodę z wermutem."
+  ]
+},
+
+{
+  "slug": "porto-cruz-tawny",
+  "name": "Porto Cruz Tawny",
+  "subtitle": "Porto Tawny · Portugalia",
+  "category": "porto",
+  "country": "Portugal",
+  "abv": "19%",
+  "image": "bottle_img/porto_cruz_tawny.png",
+
+  "whenToOffer": [
+    "Klient szuka słodkiego wina deserowego",
+    "Do serów pleśniowych",
+    "Do deserów czekoladowych"
+  ],
+
+  "howToPresent": "Porto typu Tawny dojrzewające w beczce. Nuty karmelu, orzechów i suszonych owoców. Słodkie, deserowe.",
+
+  "salesTip": [
+    "Dobry wybór dla osób zaczynających przygodę z porto."
+  ]
+},
+
+{
+  "slug": "taylors-vintage-2019",
+  "name": "Taylor's Vintage 2019",
+  "subtitle": "Porto Vintage · Portugalia",
+  "category": "porto",
+  "country": "Portugal",
+  "abv": "20%",
+  "image": "bottle_img/taylors_vintage_2019.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś kolekcjonerskiego",
+    "Na prezent premium",
+    "Miłośnik klasycznych porto"
+  ],
+
+  "howToPresent": "Porto typu Vintage z rocznika 2019. Bardziej skoncentrowane i strukturalne niż Tawny. Potencjał do długiego starzenia.",
+
+  "salesTip": [
+    "Dobry wybór prezentowy dla konesera."
+  ]
+},
+
+{
+  "slug": "ramos-pinto-10-anos",
+  "name": "Ramos Pinto 10 Anos",
+  "subtitle": "Porto Tawny 10 lat · Portugalia",
+  "category": "porto",
+  "country": "Portugal",
+  "abv": "20%",
+  "image": "bottle_img/ramos_pinto_10.png",
+
+  "whenToOffer": [
+    "Klient szuka bardziej dojrzałego porto",
+    "Na prezent",
+    "Do serów i deserów"
+  ],
+
+  "howToPresent": "Porto Tawny starzone średnio 10 lat w beczkach. Bardziej złożone niż podstawowe Tawny. Nuty orzechowe, karmelowe, suszone owoce.",
+
+  "salesTip": [
+    "Wyższa półka niż standardowe Tawny."
+  ]
+},
+
+{
+  "slug": "jagermeister-original",
+  "name": "Jägermeister Original",
+  "subtitle": "Likier ziołowy · Niemcy",
+  "category": "likier",
+  "country": "Germany",
+  "abv": "35%",
+  "image": "bottle_img/jagermeister_original.png",
+
+  "whenToOffer": [
+    "Klient szuka ziołowego likieru",
+    "Do picia schłodzonego jako shot",
+    "Do drinków typu Jäger & Cola"
+  ],
+
+  "howToPresent": "Klasyczny niemiecki likier ziołowy tworzony z 56 składników roślinnych. Intensywny, korzenny, najlepiej podawać mocno schłodzony.",
+
+  "salesTip": [
+    "Najlepiej sprzedaje się schłodzony.",
+    "Popularny wśród młodszych klientów."
+  ]
+},
+
+{
+  "slug": "jagermeister-orange",
+  "name": "Jägermeister Orange",
+  "subtitle": "Likier ziołowo-pomarańczowy · Niemcy",
+  "category": "likier",
+  "country": "Germany",
+  "abv": "33%",
+  "image": "bottle_img/jagermeister_orange.png",
+
+  "whenToOffer": [
+    "Klient lubi Jägermeister, ale szuka czegoś lżejszego",
+    "Do letnich drinków"
+  ],
+
+  "howToPresent": "Wersja z dodatkiem naturalnych nut pomarańczy. Łagodniejsza i bardziej owocowa niż klasyczny Jägermeister."
+},
+
+{
+  "slug": "jagermeister-manifest",
+  "name": "Jägermeister Manifest",
+  "subtitle": "Likier ziołowy premium · Niemcy",
+  "category": "likier",
+  "country": "Germany",
+  "abv": "38%",
+  "image": "bottle_img/jagermeister_manifest.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś bardziej premium",
+    "Fan klasycznego Jägermeister"
+  ],
+
+  "howToPresent": "Bardziej złożona, dojrzewająca w beczkach wersja Jägermeister. Głębszy, bardziej elegancki profil smakowy."
+},
+
+{
+  "slug": "disaronno",
+  "name": "Disaronno",
+  "subtitle": "Likier migdałowy · Włochy",
+  "category": "likier",
+  "country": "Italy",
+  "abv": "28%",
+  "image": "bottle_img/disaronno.png",
+
+  "whenToOffer": [
+    "Klient szuka amaretto",
+    "Do kawy lub deserów",
+    "Do drinków typu Amaretto Sour"
+  ],
+
+  "howToPresent": "Klasyczny włoski likier o smaku migdałowym. Słodki, deserowy, idealny do kawy i koktajli."
+},
+
+{
+  "slug": "amaretto-adriatico",
+  "name": "Amaretto Adriatico",
+  "subtitle": "Likier migdałowy · Włochy",
+  "category": "likier",
+  "country": "Italy",
+  "abv": "28%",
+  "image": "bottle_img/amaretto_adriatico.png",
+
+  "whenToOffer": [
+    "Klient szuka bardziej rzemieślniczego amaretto",
+    "Do koktajli premium"
+  ],
+
+  "howToPresent": "Nowoczesna interpretacja amaretto, bardziej naturalna i mniej cukrowa niż klasyczne wersje."
+},
+
+{
+  "slug": "pimms",
+  "name": "Pimm’s No.1",
+  "subtitle": "Likier na bazie ginu · UK",
+  "category": "likier",
+  "country": "United Kingdom",
+  "abv": "25%",
+  "image": "bottle_img/pimms.png",
+
+  "whenToOffer": [
+    "Klient robi Pimm’s Cup",
+    "Letnie drinki z owocami"
+  ],
+
+  "howToPresent": "Brytyjski likier na bazie ginu z dodatkiem ziół i przypraw. Najczęściej podawany z lemoniadą i świeżymi owocami."
+},
+
+{
+  "slug": "get-27",
+  "name": "Get 27",
+  "subtitle": "Likier miętowy · Francja",
+  "category": "likier",
+  "country": "France",
+  "abv": "21%",
+  "image": "bottle_img/get_27.png",
+
+  "whenToOffer": [
+    "Klient lubi miętowe alkohole",
+    "Do deserów lub drinków"
+  ],
+
+  "howToPresent": "Francuski likier miętowy o intensywnym, świeżym charakterze. Podawać schłodzony."
+},
+
+{
+  "slug": "st-germain",
+  "name": "St-Germain",
+  "subtitle": "Likier z kwiatów czarnego bzu · Francja",
+  "category": "likier",
+  "country": "France",
+  "abv": "20%",
+  "image": "bottle_img/st_germain.png",
+
+  "whenToOffer": [
+    "Klient robi Hugo Spritz",
+    "Szuka kwiatowego likieru",
+    "Do eleganckich koktajli"
+  ],
+
+  "howToPresent": "Francuski likier z kwiatów czarnego bzu. Lekki, kwiatowy, bardzo popularny w nowoczesnej miksologii."
+},
+
+{
+  "slug": "lick-likier-kawowy",
+  "name": "LICK Likier Kawowy",
+  "subtitle": "Likier kawowy · Polska",
+  "category": "likier",
+  "country": "Poland",
+  "abv": "20%",
+  "image": "bottle_img/lick_kawowy.png",
+
+  "whenToOffer": [
+    "Klient szuka polskiego likieru kawowego",
+    "Do kawy lub deserów",
+    "Budżetowa alternatywa dla importowanych marek"
+  ],
+
+  "howToPresent": "Polski likier kawowy o słodkim, deserowym charakterze. Dobry do kawy, lodów oraz prostych koktajli.",
+
+  "salesTip": [
+    "Można proponować jako tańszą alternatywę dla zagranicznych likierów kawowych."
+  ]
+},
+
+{
+  "slug": "patron-xo-cafe",
+  "name": "Patrón XO Café",
+  "subtitle": "Likier kawowy na bazie tequili · Meksyk",
+  "category": "likier",
+  "country": "Mexico",
+  "abv": "35%",
+  "image": "bottle_img/patron_xo_cafe.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś premium",
+    "Lubi tequilę Patrón",
+    "Do espresso martini"
+  ],
+
+  "howToPresent": "Likier kawowy oparty na tequili Patrón Silver. Mniej słodki niż klasyczne likiery kawowe, bardziej wytrawny i intensywny.",
+
+  "salesTip": [
+    "Premium alternatywa dla klasycznych likierów kawowych.",
+    "Świetny do Espresso Martini."
+  ]
+},
+
+{
+  "slug": "belvedere-cold-brew",
+  "name": "Belvedere Cold Brew Coffee",
+  "subtitle": "Wódka aromatyzowana kawą · Polska",
+  "category": "vodka-flavoured",
+  "country": "Poland",
+  "abv": "30%",
+  "image": "bottle_img/belvedere_cold_brew.png",
+
+  "whenToOffer": [
+    "Klient szuka wódki smakowej premium",
+    "Do espresso martini",
+    "Fan marki Belvedere"
+  ],
+
+  "howToPresent": "Wódka Belvedere z dodatkiem naturalnego ekstraktu kawy. Bardziej wytrawna i mniej słodka niż klasyczne likiery kawowe.",
+
+  "salesTip": [
+    "Dobry wybór do koktajli kawowych w wersji premium."
+  ]
+},
+
+{
+  "slug": "diageo-classic-cocktail-collection",
+  "name": "Diageo Classic Cocktail Collection",
+  "subtitle": "Gotowe koktajle premium · 0.5L",
+  "category": "ready-to-drink",
+  "country": "United Kingdom",
+  "abv": "12.5–17.5%",
+  "image": "bottle_img/diageo_old_fashioned.png",
+
+  "whenToOffer": [
+    "Klient chce gotowy koktajl premium",
+    "Na prezent dla osoby lubiącej klasyczne drinki",
+    "Nie chce mieszać samodzielnie koktajli"
+  ],
+
+  "howToPresent": "Seria gotowych koktajli stworzona na bazie kultowych marek Diageo. Wystarczy schłodzić i podać – smak klasycznego koktajlu bez potrzeby miksowania.",
+
+  "variants": [
+    {
+      "type": "Johnnie Walker Old Fashioned",
+      "image": "bottle_img/diageo_old_fashioned.png"
+    },
+    {
+      "type": "Tanqueray Negroni",
+      "image": "bottle_img/diageo_negroni.png"
+    },
+    {
+      "type": "Cîroc Cosmopolitan",
+      "image": "bottle_img/diageo_cosmopolitan.png"
+    }
+  ],
+
+  "salesTip": [
+    "Bardzo dobre rozwiązanie prezentowe.",
+    "Wystarczy dodać lód – zero barmańskich umiejętności."
+  ]
+},
+
+{
+  "slug": "bacardi-mojito-1l",
+  "name": "Bacardi Mojito",
+  "subtitle": "Gotowy koktajl · 1L",
+  "category": "ready-to-drink",
+  "country": "Cuba",
+  "abv": "14.9%",
+  "image": "bottle_img/bacardi_mojito_1l.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś lekkiego i imprezowego",
+    "Na wakacyjny wyjazd",
+    "Duża grupa osób"
+  ],
+
+  "howToPresent": "Gotowy do podania klasyczny Mojito na bazie rumu Bacardi. Świeży, limonkowo-miętowy profil, wystarczy schłodzić i podać z lodem.",
+
+  "salesTip": [
+    "Duża butelka 1L – dobra opcja na imprezy.",
+    "Wystarczy dodać świeżą miętę i limonkę dla lepszego efektu."
+  ]
+},
+
+{
+  "slug": "roku-gin",
+  "name": "Roku Gin",
+  "subtitle": "Japanese Craft Gin · Japonia",
+  "category": "gin",
+  "country": "Japan",
+  "abv": "43%",
+  "image": "bottle_img/roku_gin.png",
+
+  "whenToOffer": [
+    "Klient szuka japońskiego ginu",
+    "Lubi subtelne i eleganckie profile",
+    "Na prezent premium"
+  ],
+
+  "howToPresent": "Japoński gin z 6 lokalnymi botanikami (m.in. sakura, yuzu, zielona herbata). Bardzo zbalansowany i elegancki.",
+
+  "salesTip": [
+    "Świetny do klasycznego Gin & Tonic z delikatnym tonikiem."
+  ]
+},
+
+{
+  "slug": "bombay-sapphire",
+  "name": "Bombay Sapphire",
+  "subtitle": "London Dry Gin · Wielka Brytania",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "40%",
+  "image": "bottle_img/bombay_sapphire.png",
+
+  "whenToOffer": [
+    "Klient szuka klasycznego London Dry",
+    "Bezpieczny wybór do Gin & Tonic",
+    "Rozpoznawalna marka"
+  ],
+
+  "howToPresent": "Klasyczny London Dry o wyraźnym jałowcu i cytrusach. Uniwersalny i bardzo popularny w barach.",
+
+  "salesTip": [
+    "Dobry wybór do klasycznego G&T."
+  ]
+},
+
+{
+  "slug": "bombay-premier-cru",
+  "name": "Bombay Premier Cru",
+  "subtitle": "Premium London Dry · Wielka Brytania",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "47%",
+  "image": "bottle_img/bombay_premier_cru.png",
+
+  "whenToOffer": [
+    "Klient szuka bardziej cytrusowego i świeżego ginu",
+    "Alternatywa dla Tanqueray Ten",
+    "Gin premium do martini"
+  ],
+
+  "howToPresent": "Premium wersja Bombay destylowana z wykorzystaniem świeżych cytrusów z Hiszpanii. Bardziej elegancki i wyrazisty niż klasyczna wersja."
+},
+
+{
+  "slug": "bombay-sunset",
+  "name": "Bombay Sunset",
+  "subtitle": "Spiced Gin · Wielka Brytania",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "43%",
+  "image": "bottle_img/bombay_sunset.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś łagodniejszego",
+    "Do letnich drinków",
+    "Mniej klasyczny profil jałowcowy"
+  ],
+
+  "howToPresent": "Aromatyczna wersja Bombay z nutami przypraw i cytrusów. Lżejsza i bardziej przystępna."
+},
+
+{
+  "slug": "tanqueray-london-dry",
+  "name": "Tanqueray London Dry",
+  "subtitle": "London Dry Gin · Wielka Brytania",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "43.1%",
+  "image": "bottle_img/tanqueray_classic.png",
+
+  "whenToOffer": [
+    "Klient szuka wyraźnie jałowcowego ginu",
+    "Do martini",
+    "Klasyka barowa"
+  ],
+
+  "howToPresent": "Intensywny London Dry o wyraźnym jałowcu i cytrusach. Bardziej wytrawny niż wiele konkurencyjnych marek."
+},
+
+{
+  "slug": "tanqueray-no-ten",
+  "name": "Tanqueray No. Ten",
+  "subtitle": "Premium London Dry · Wielka Brytania",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "47.3%",
+  "image": "bottle_img/tanqueray_ten.png",
+
+  "whenToOffer": [
+    "Klient szuka premium ginu do martini",
+    "Lubi świeże cytrusowe nuty",
+    "Alternatywa dla Monkey 47"
+  ],
+
+  "howToPresent": "Premium wersja Tanqueray destylowana ze świeżymi cytrusami. Bardziej elegancka i zbalansowana niż klasyczna wersja."
+},
+
+{
+  "slug": "tanqueray-sevilla",
+  "name": "Tanqueray Sevilla",
+  "subtitle": "Flavoured Gin · Wielka Brytania",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "41.3%",
+  "image": "bottle_img/tanqueray_sevilla.png",
+
+  "whenToOffer": [
+    "Klient szuka bardziej owocowego ginu",
+    "Do lekkiego Gin & Tonic",
+    "Letni styl"
+  ],
+
+  "howToPresent": "Pomarańczowa wersja Tanqueray inspirowana sewilskimi pomarańczami. Łagodniejsza i bardziej owocowa."
+},
+
+{
+  "slug": "malfy-gin",
+  "name": "Malfy Gin",
+  "subtitle": "Italian Gin · Włochy",
+  "category": "gin",
+  "country": "Italy",
+  "abv": "41%",
+  "image": "bottle_img/malfy_original.png",
+
+  "whenToOffer": [
+    "Klient szuka włoskiego ginu",
+    "Lubi cytrusowe profile",
+    "Na letnie drinki"
+  ],
+
+  "howToPresent": "Włoski gin inspirowany cytrusami i stylem aperitivo.",
+
+  "variants": [
+    {
+      "type": "Originale",
+      "image": "bottle_img/malfy_original.png"
+    },
+    {
+      "type": "Rosa",
+      "image": "bottle_img/malfy_rosa.png"
+    }
+  ]
+},
+
+{
+  "slug": "hendricks-gin",
+  "name": "Hendrick’s Gin",
+  "subtitle": "Scottish Gin · Szkocja",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "41.4%",
+  "image": "bottle_img/hendricks_classic.png",
+
+  "whenToOffer": [
+    "Klient szuka nietypowego ginu",
+    "Lubi ogórkowe nuty",
+    "Prezent premium"
+  ],
+
+  "howToPresent": "Gin z dodatkiem ogórka i róży. Charakterystyczny i bardzo rozpoznawalny."
+},
+
+{
+  "slug": "hendricks-amazonia",
+  "name": "Hendrick’s Amazonia",
+  "subtitle": "Limited Edition · Szkocja",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "43.4%",
+  "image": "bottle_img/hendricks_amazonia.png",
+
+  "whenToOffer": [
+    "Klient szuka limitowanej wersji",
+    "Fan marki Hendrick’s",
+    "Coś nietypowego"
+  ],
+
+  "howToPresent": "Edycja inspirowana Amazonką. Bardziej egzotyczny i złożony profil."
+},
+
+{
+  "slug": "hendricks-sunspell",
+  "name": "Hendrick’s Sunspell",
+  "subtitle": "Limited Edition · Szkocja",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "43.4%",
+  "image": "bottle_img/hendricks_sunspell.png",
+
+  "whenToOffer": [
+    "Klient szuka lżejszego stylu Hendrick’s",
+    "Letnia edycja",
+    "Alternatywa dla klasycznej wersji"
+  ],
+
+  "howToPresent": "Jaśniejsza, bardziej cytrusowa interpretacja Hendrick’s."
+},
+
+{
+  "slug": "monkey-47",
+  "name": "Monkey 47",
+  "subtitle": "Schwarzwald Dry Gin · Niemcy",
+  "category": "gin",
+  "country": "Germany",
+  "abv": "47%",
+  "image": "bottle_img/monkey47.png",
+
+  "whenToOffer": [
+    "Klient szuka bardzo złożonego ginu",
+    "Gin premium",
+    "Alternatywa dla Tanqueray Ten"
+  ],
+
+  "howToPresent": "Destylowany z 47 botaników. Bardzo złożony, intensywny, wyraźnie premium."
+},
+
+{
+  "slug": "engine-gin",
+  "name": "Engine Gin",
+  "subtitle": "Organic Gin · Włochy",
+  "category": "gin",
+  "country": "Italy",
+  "abv": "42%",
+  "image": "bottle_img/engine_gin.png",
+
+  "whenToOffer": [
+    "Klient ceni design",
+    "Szukający czegoś nowoczesnego",
+    "Prezent"
+  ],
+
+  "howToPresent": "Organiczny gin inspirowany motoryzacją. Świeży, ziołowo-cytrusowy."
+},
+
+{
+  "slug": "drumshanbo",
+  "name": "Drumshanbo Gunpowder",
+  "subtitle": "Irish Gin · Irlandia",
+  "category": "gin",
+  "country": "Ireland",
+  "abv": "43%",
+  "image": "bottle_img/drumshanbo.png",
+
+  "whenToOffer": [
+    "Klient szuka nietypowego ginu",
+    "Z nutą herbaty",
+    "Coś bardziej aromatycznego"
+  ],
+
+  "howToPresent": "Irlandzki gin z dodatkiem zielonej herbaty Gunpowder. Ziołowy i cytrusowy."
+},
+
+{
+  "slug": "the-botanist",
+  "name": "The Botanist",
+  "subtitle": "Islay Gin · Szkocja",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "46%",
+  "image": "bottle_img/botanist.png",
+
+  "whenToOffer": [
+    "Klient szuka ginu wytrawnego",
+    "Fan whisky z Islay",
+    "Premium London Dry alternatywa"
+  ],
+
+  "howToPresent": "Destylowany z 22 lokalnych botaników z Islay. Bardzo ziołowy i wytrawny."
+},
+
+{
+  "slug": "silent-pool",
+  "name": "Silent Pool Gin",
+  "subtitle": "Premium Gin · Wielka Brytania",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "43%",
+  "image": "bottle_img/silent_pool.png",
+
+  "whenToOffer": [
+    "Klient ceni estetyczne butelki",
+    "Prezent premium",
+    "Elegancki gin"
+  ],
+
+  "howToPresent": "Bogaty, cytrusowo-kwiatowy gin w charakterystycznej turkusowej butelce."
+},
+
+{
+  "slug": "beefeater",
+  "name": "Beefeater London Dry",
+  "subtitle": "London Dry Gin · Wielka Brytania",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "40%",
+  "image": "bottle_img/beefeater.png",
+
+  "whenToOffer": [
+    "Klient szuka klasycznego London Dry",
+    "Do klasycznego G&T",
+    "Budżetowy gin znanej marki"
+  ],
+
+  "howToPresent": "Klasyczny londyński styl, wyraźny jałowiec i cytrusy."
+},
+
+{
+  "slug": "gordons",
+  "name": "Gordon’s Gin",
+  "subtitle": "London Dry Gin · Wielka Brytania",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "37.5%",
+  "image": "bottle_img/gordons_classic.png",
+
+  "whenToOffer": [
+    "Klient szuka budżetowego ginu",
+    "Bezpieczny wybór do drinków"
+  ],
+
+  "howToPresent": "Popularny i przystępny London Dry.",
+
+  "variants": [
+    {
+      "type": "Classic",
+      "image": "bottle_img/gordons_classic.png"
+    },
+    {
+      "type": "Pink",
+      "image": "bottle_img/gordons_pink.png"
+    }
+  ]
+},
+
+{
+  "slug": "citadelle",
+  "name": "Citadelle Gin",
+  "subtitle": "French Gin · Francja",
+  "category": "gin",
+  "country": "France",
+  "abv": "44%",
+  "image": "bottle_img/citadelle.png",
+
+  "whenToOffer": [
+    "Klient szuka francuskiego ginu",
+    "Gin bardziej aromatyczny",
+    "Alternatywa dla Hendrick’s"
+  ],
+
+  "howToPresent": "Francuski gin destylowany tradycyjnie, z wyraźną nutą cytrusów i przypraw."
+},
+
+{
+  "slug": "gin-mare",
+  "name": "Gin Mare",
+  "subtitle": "Mediterranean Gin · Hiszpania",
+  "category": "gin",
+  "country": "Spain",
+  "abv": "42.7%",
+  "image": "bottle_img/gin_mare.png",
+
+  "whenToOffer": [
+    "Klient szuka śródziemnomorskiego stylu",
+    "Do wytrawnego G&T",
+    "Alternatywa dla klasycznego London Dry"
+  ],
+
+  "howToPresent": "Śródziemnomorski gin z nutami oliwek, rozmarynu i bazylii."
+},
+
+{
+  "slug": "bulldog",
+  "name": "Bulldog Gin",
+  "subtitle": "London Dry · Wielka Brytania",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "40%",
+  "image": "bottle_img/bulldog.png",
+
+  "whenToOffer": [
+    "Nowoczesny design",
+    "Gin do klubowych drinków",
+    "Mniej intensywny jałowiec"
+  ],
+
+  "howToPresent": "Nowoczesny, łagodniejszy London Dry z egzotycznymi botanikami."
+},
+
+{
+  "slug": "roku-gin",
+  "name": "Roku Gin",
+  "subtitle": "Japanese Craft Gin · Japonia",
+  "category": "gin",
+  "country": "Japan",
+  "abv": "43%",
+  "image": "bottle_img/roku.png",
+
+  "whenToOffer": [
+    "Klient szuka japońskiego alkoholu",
+    "Fan whisky japońskiej",
+    "Gin delikatny i elegancki"
+  ],
+
+  "howToPresent": "Japoński gin z 6 lokalnymi botanikami: sakura, yuzu, zielona herbata. Bardzo czysty i elegancki."
+},
+
+{
+  "slug": "gvine-gin",
+  "name": "G’Vine Gin",
+  "subtitle": "Gin z winogron · Francja",
+  "category": "gin",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/gvine.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś delikatniejszego",
+    "Gin mniej jałowcowy",
+    "Alternatywa dla Ciroc"
+  ],
+
+  "howToPresent": "Gin destylowany z winogron zamiast zboża. Bardziej miękki i kwiatowy."
+},
+
+{
+  "slug": "generous-gin",
+  "name": "Generous Gin",
+  "subtitle": "French Organic Gin · Francja",
+  "category": "gin",
+  "country": "France",
+  "abv": "44%",
+  "image": "bottle_img/generous.png",
+
+  "whenToOffer": [
+    "Klient szuka ginu organicznego",
+    "Nowoczesny design",
+    "Prezent"
+  ],
+
+  "howToPresent": "Francuski gin organiczny, lekko kwiatowy i cytrusowy. Bardzo estetyczna butelka."
+},
+
+{
+  "slug": "edinburgh-gin-classic",
+  "name": "Edinburgh Gin Classic",
+  "subtitle": "Scottish Gin · Szkocja",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "43%",
+  "image": "bottle_img/edinburgh_classic.png",
+
+  "whenToOffer": [
+    "Klient szuka szkockiego ginu",
+    "Gin wytrawny",
+    "Alternatywa dla London Dry"
+  ],
+
+  "howToPresent": "Szkocki gin o klasycznym profilu, z wyraźnym jałowcem i cytrusami."
+},
+
+{
+  "slug": "edinburgh-rhubarb",
+  "name": "Edinburgh Rhubarb & Ginger",
+  "subtitle": "Flavoured Gin · Szkocja",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "40%",
+  "image": "bottle_img/edinburgh_rhubarb.png",
+
+  "whenToOffer": [
+    "Klient szuka owocowego ginu",
+    "Gin mniej wytrawny",
+    "Letnie drinki"
+  ],
+
+  "howToPresent": "Gin z dodatkiem rabarbaru i imbiru. Bardziej owocowy i łagodniejszy."
+},
+
+{
+  "slug": "gin-xii",
+  "name": "Gin XII",
+  "subtitle": "Mediterranean Gin · Włochy",
+  "category": "gin",
+  "country": "Italy",
+  "abv": "40%",
+  "image": "bottle_img/gin_xii.png",
+
+  "whenToOffer": [
+    "Klient szuka włoskiego stylu",
+    "Gin z nutami ziołowymi",
+    "Alternatywa dla Malfy"
+  ],
+
+  "howToPresent": "Śródziemnomorski gin z ziołami i cytrusami. Lekki i aromatyczny."
+},
 
 
 
