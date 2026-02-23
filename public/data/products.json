@@ -2636,7 +2636,7 @@
   "category": "miod-pitny",
   "country": "Poland",
   "abv": "16%",
-  "image": "bottle_img/apis_poltorak_zaklety.png",
+  "image": "bottle_img/poltorak_bisongrass.png",
 
   "whenToOffer": [
     "Klient chce coś klasycznego, ale z twistem",
@@ -2652,7 +2652,7 @@
   "category": "miod-pitny",
   "country": "Poland",
   "abv": "16%",
-  "image": "bottle_img/apis_dwojniak_staropolski.png",
+  "image": "bottle_img/dwojniak_staropolski.png",
 
   "whenToOffer": [
     "Klient szuka miodu mniej słodkiego niż półtorak",
@@ -2668,7 +2668,7 @@
   "category": "miod-pitny",
   "country": "Poland",
   "abv": "16%",
-  "image": "bottle_img/apis_dwojniak_kurpiowski.png",
+  "image": "bottle_img/dwojniak_kurpiowski.png",
 
   "whenToOffer": [
     "Klient chce regionalny miód pitny",
@@ -2684,7 +2684,7 @@
   "category": "miod-pitny",
   "country": "Poland",
   "abv": "13%",
-  "image": "bottle_img/apis_trojniak_staropolski.png",
+  "image": "bottle_img/trojniak_staropolski.png",
 
   "whenToOffer": [
     "Klient szuka lżejszego miodu pitnego",
@@ -2700,7 +2700,7 @@
   "category": "miod-pitny",
   "country": "Poland",
   "abv": "16%",
-  "image": "bottle_img/apis_poltorak_malinowy.png",
+  "image": "bottle_img/malinowy_as.png",
 
   "whenToOffer": [
     "Klient chce coś bardziej owocowego",
@@ -2716,7 +2716,7 @@
   "category": "miod-pitny",
   "country": "Poland",
   "abv": "16%",
-  "image": "bottle_img/apis_dwojniak_porzeczkowy.png",
+  "image": "bottle_img/porzeczkowy_krol.png",
 
   "whenToOffer": [
     "Klient szuka miodu z wyraźną kwasowością",
@@ -2732,7 +2732,7 @@
   "category": "miod-pitny",
   "country": "Poland",
   "abv": "13%",
-  "image": "bottle_img/apis_trojniak_sliwkowy.png",
+  "image": "bottle_img/sliwkowa_dama.png",
 
   "whenToOffer": [
     "Klient szuka czegoś owocowego, ale lżejszego",
@@ -2748,7 +2748,7 @@
   "category": "miod-pitny",
   "country": "Poland",
   "abv": "13%",
-  "image": "bottle_img/apis_grzaniec.png",
+  "image": "bottle_img/grzaniec_miodowy.png",
 
   "whenToOffer": [
     "Sezon zimowy",
