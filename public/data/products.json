@@ -2767,7 +2767,7 @@
   "country": "Poland",
   "abv": "40%",
   "maturation": "6 lat w beczkach po miodach pitnych i winach francuskich",
-  "image": "bottle_img/mazurskie_whisky_rodowa.png",
+  "image": "bottle_img/whisky_mm.webp",
 
   "whenToOffer": [
     "Klient szuka polskiej whisky",
@@ -2786,7 +2786,7 @@
   "country": "Poland",
   "abv": "40%",
   "rawMaterial": "Miód rzepakowy i lipowy",
-  "image": "bottle_img/mazurskie_okowita_miodowa.png",
+  "image": "bottle_img/okowita_mm.webp",
 
   "whenToOffer": [
     "Klient szuka czegoś unikalnego z miodu",
@@ -2805,7 +2805,7 @@
   "country": "Poland",
   "abv": "40%",
   "rawMaterial": "Polskie śliwki",
-  "image": "bottle_img/mazurskie_sliwowica_starzona.png",
+  "image": "bottle_img/sliwowica_mm.webp",
 
   "whenToOffer": [
     "Klient szuka śliwowicy premium",
@@ -2823,7 +2823,7 @@
   "category": "miod-pitny",
   "country": "Poland",
   "abv": "16%",
-  "image": "bottle_img/mazurskie_poltorak_piasecki.png",
+  "image": "bottle_img/piasecki_mm.webp",
 
   "whenToOffer": [
     "Klient szuka bardzo intensywnego miodu pitnego",
@@ -2859,20 +2859,20 @@
   "category": "vodka-flavoured",
   "country": "Poland",
   "abv": "40%",
-  "image": "bottle_img/specjal_podlaski_slodka_sliwka.png",
+  "image": "bottle_img/slodka_sliwka.jpg",
 
   "variants": [
     {
       "type": "Słodka Śliwka",
-      "image": "bottle_img/specjal_podlaski_slodka_sliwka.png"
+      "image": "bottle_img/slodka_sliwka.jpg"
     },
     {
       "type": "Słodka Gruszka",
-      "image": "bottle_img/specjal_podlaski_slodka_gruszka.png"
+      "image": "bottle_img/slodka_gruszka.jpg"
     },
     {
       "type": "Słodki Pigwowiec",
-      "image": "bottle_img/specjal_podlaski_slodki_pigwowiec.png"
+      "image": "bottle_img/slodki_pigwowiec.jpg"
     }
   ],
 
@@ -2892,7 +2892,7 @@
   "category": "vodka-flavoured",
   "country": "Poland",
   "abv": "38%",
-  "image": "bottle_img/old_polish_jarzebinowa.png",
+  "image": "bottle_img/wodka_jarzebinowa.png",
 
   "whenToOffer": [
     "Klient szuka czegoś tradycyjnego i mniej oczywistego",
@@ -2911,7 +2911,7 @@
   "country": "Poland",
   "abv": "46,2%",
   "rawMaterial": "Żyto bio",
-  "image": "bottle_img/old_polish_manufakturowa_46.png",
+  "image": "bottle_img/wodka_rocznikowa.jpg",
 
   "whenToOffer": [
     "Klient szuka mocniejszej, charakternej wódki",
@@ -2929,7 +2929,7 @@
   "category": "vodka-flavoured",
   "country": "Poland",
   "abv": "38%",
-  "image": "bottle_img/old_polish_wisniowa.png",
+  "image": "bottle_img/wodka_wisniowa.png",
 
   "whenToOffer": [
     "Klient szuka klasycznej wiśniówki",
@@ -2948,7 +2948,7 @@
   "country": "Poland",
   "abv": "63%",
   "rawMaterial": "Ziemniaki",
-  "image": "bottle_img/specjal_bialowieski_ziemniak.png",
+  "image": "bottle_img/specjal_ziemniak.png",
 
   "whenToOffer": [
     "Klient szuka mocnej wódki ziemniaczanej",
@@ -2960,14 +2960,14 @@
 },
 
 {
-  "slug": "specjal-bialowieski-zbozowy-63",
+  "slug": "specjal-bialowieski-lesny-63",
   "name": "Specjał Białowieski Mocny Zbożowy",
   "subtitle": "Wódka 63% · Podlasie",
   "category": "vodka",
   "country": "Poland",
   "abv": "63%",
   "rawMaterial": "Żyto",
-  "image": "bottle_img/specjal_bialowieski_zbozowy.png",
+  "image": "bottle_img/specjal_lesny.png",
 
   "whenToOffer": [
     "Klient szuka bardzo mocnej wódki żytniej",
@@ -2985,7 +2985,7 @@
   "category": "vodka",
   "country": "Poland",
   "abv": "63%",
-  "image": "bottle_img/specjal_bialowieski_sliwowy.png",
+  "image": "bottle_img/specjal_sliwowy.png",
 
   "whenToOffer": [
     "Klient szuka mocnej wódki z nutą owocową",
