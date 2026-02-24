@@ -4861,7 +4861,1077 @@
   ],
 
   "howToPresent": "Holenderska wódka destylowana częściowo w miedzianych alembikach. Bardziej wytrawna i czysta niż wiele francuskich wódek premium. Bardzo ceniona w barach koktajlowych."
-}
+},
+
+{
+  "slug": "stock-84",
+  "name": "Stock 84",
+  "subtitle": "Brandy · Polska",
+  "category": "brandy",
+  "country": "Poland",
+  "abv": "36%",
+  "image": "bottle_img/stock84.png",
+
+  "whenToOffer": [
+    "Klient szuka budżetowej brandy",
+    "Alternatywa dla Metaxy 5",
+    "Do mieszania"
+  ],
+
+  "howToPresent": "Polska brandy o łagodnym, lekko słodkim profilu. Bardziej przystępna cenowo niż koniaki francuskie."
+},
+
+{
+  "slug": "three-barrels",
+  "name": "Three Barrels",
+  "subtitle": "French Brandy · Francja",
+  "category": "brandy",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/three_barrels.png",
+
+  "whenToOffer": [
+    "Klient szuka taniej francuskiej brandy",
+    "Alternatywa dla VS"
+  ],
+
+  "howToPresent": "Francuska brandy o klasycznym, karmelowo-waniliowym charakterze."
+},
+
+{
+  "slug": "st-remy-xo",
+  "name": "St-Rémy XO",
+  "subtitle": "French Brandy · XO",
+  "category": "brandy",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/st_remy_xo.png",
+
+  "whenToOffer": [
+    "Klient szuka tańszego XO",
+    "Alternatywa dla koniaku XO"
+  ],
+
+  "howToPresent": "Francuska brandy XO, bardziej złożona i dojrzalsza niż standardowe VSOP."
+},
+
+{
+  "slug": "metaxa-5",
+  "name": "Metaxa 5",
+  "subtitle": "Greek Brandy · 5 gwiazdek",
+  "category": "brandy",
+  "country": "Greece",
+  "abv": "38%",
+  "image": "bottle_img/metaxa5.png",
+
+  "whenToOffer": [
+    "Klient szuka łagodnej brandy",
+    "Budżetowa opcja"
+  ],
+
+  "howToPresent": "Grecki styl – łagodniejszy i słodszy niż koniak."
+},
+
+{
+  "slug": "metaxa-7",
+  "name": "Metaxa 7",
+  "subtitle": "Greek Brandy · 7 gwiazdek",
+  "category": "brandy",
+  "country": "Greece",
+  "abv": "40%",
+  "image": "bottle_img/metaxa7.png",
+
+  "whenToOffer": [
+    "Klient zna Metaxę",
+    "Lepsza wersja niż 5"
+  ],
+
+  "howToPresent": "Bardziej złożona i głębsza niż Metaxa 5."
+},
+
+{
+  "slug": "metaxa-12",
+  "name": "Metaxa 12",
+  "subtitle": "Greek Brandy · 12 gwiazdek",
+  "category": "brandy",
+  "country": "Greece",
+  "abv": "40%",
+  "image": "bottle_img/metaxa12.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś bardziej premium",
+    "Alternatywa dla VSOP"
+  ],
+
+  "howToPresent": "Najbardziej elegancka i dojrzała wersja Metaxy."
+},
+
+{
+  "slug": "hennessy-vs",
+  "name": "Hennessy VS",
+  "subtitle": "Cognac · VS",
+  "category": "cognac",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/hennessy_vs.png",
+
+  "whenToOffer": [
+    "Klient szuka znanego koniaku",
+    "Wejście w markę Hennessy"
+  ],
+
+  "howToPresent": "Najbardziej rozpoznawalny koniak świata. Intensywny i młodszy styl."
+},
+
+{
+  "slug": "hennessy-vsop",
+  "name": "Hennessy VSOP",
+  "subtitle": "Cognac · VSOP",
+  "category": "cognac",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/hennessy_vsop.png",
+
+  "whenToOffer": [
+    "Klient chce lepszą wersję niż VS",
+    "Prezent"
+  ],
+
+  "howToPresent": "Bardziej elegancki i dojrzalszy niż VS."
+},
+
+{
+  "slug": "hennessy-xo",
+  "name": "Hennessy XO",
+  "subtitle": "Cognac · XO",
+  "category": "cognac",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/hennessy_xo.png",
+
+  "whenToOffer": [
+    "Klient szuka luksusowego koniaku",
+    "Prezent premium"
+  ],
+
+  "howToPresent": "Bardzo złożony i głęboki koniak klasy XO."
+},
+
+{
+  "slug": "hennessy-xxo",
+  "name": "Hennessy XXO",
+  "subtitle": "Cognac · XXO",
+  "category": "cognac",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/hennessy_xxo.png",
+
+  "whenToOffer": [
+    "Klient szuka najwyższej półki",
+    "Ultra premium"
+  ],
+
+  "howToPresent": "Najwyższa linia Hennessy – jeszcze bardziej złożony niż XO."
+},
+
+{
+  "slug": "camus-vs",
+  "name": "Camus VS",
+  "subtitle": "Cognac · VS",
+  "category": "cognac",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/camus_vs.png",
+
+  "whenToOffer": [
+    "Klient szuka mniej mainstreamowej marki",
+    "Alternatywa dla Hennessy VS"
+  ],
+
+  "howToPresent": "Francuski koniak o bardziej aromatycznym i kwiatowym profilu niż Hennessy."
+},
+
+{
+  "slug": "camus-vsop",
+  "name": "Camus VSOP",
+  "subtitle": "Cognac · VSOP",
+  "category": "cognac",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/camus_vsop.png",
+
+  "whenToOffer": [
+    "Klient chce coś innego niż Hennessy",
+    "VSOP o bardziej eleganckim stylu"
+  ],
+
+  "howToPresent": "Bardziej złożony i delikatniejszy niż wersja VS. Styl kwiatowo-owocowy."
+},
+
+{
+  "slug": "martell-vs",
+  "name": "Martell VS",
+  "subtitle": "Cognac · VS",
+  "category": "cognac",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/martell_vs.png",
+
+  "whenToOffer": [
+    "Klient szuka klasycznej marki",
+    "Alternatywa dla Hennessy VS"
+  ],
+
+  "howToPresent": "Koniak o delikatniejszym, bardziej owocowym stylu niż Hennessy."
+},
+
+{
+  "slug": "martell-vsop",
+  "name": "Martell VSOP",
+  "subtitle": "Cognac · VSOP",
+  "category": "cognac",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/martell_vsop.png",
+
+  "whenToOffer": [
+    "Klient chce elegancki VSOP",
+    "Alternatywa dla Remy Martin VSOP"
+  ],
+
+  "howToPresent": "Bardziej owocowy i miękki styl VSOP."
+},
+
+{
+  "slug": "martell-xo",
+  "name": "Martell XO",
+  "subtitle": "Cognac · XO",
+  "category": "cognac",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/martell_xo.png",
+
+  "whenToOffer": [
+    "Klient szuka eleganckiego XO",
+    "Alternatywa dla Hennessy XO"
+  ],
+
+  "howToPresent": "Bardziej finezyjny i owocowy XO niż konkurencyjne marki."
+},
+
+{
+  "slug": "remy-martin-vsop",
+  "name": "Rémy Martin VSOP",
+  "subtitle": "Cognac · VSOP",
+  "category": "cognac",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/remy_vsop.png",
+
+  "whenToOffer": [
+    "Klient szuka bardziej eleganckiego VSOP",
+    "Fine Champagne Cognac"
+  ],
+
+  "howToPresent": "Koniak typu Fine Champagne, bardziej kremowy i zbalansowany."
+},
+
+{
+  "slug": "remy-martin-xo",
+  "name": "Rémy Martin XO",
+  "subtitle": "Cognac · XO",
+  "category": "cognac",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/remy_xo.png",
+
+  "whenToOffer": [
+    "Klient szuka bardzo eleganckiego XO",
+    "Prezent premium"
+  ],
+
+  "howToPresent": "Bogaty i aksamitny XO typu Fine Champagne."
+},
+
+{
+  "slug": "courvoisier-vs",
+  "name": "Courvoisier VS",
+  "subtitle": "Cognac · VS",
+  "category": "cognac",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/courvoisier_vs.png",
+
+  "whenToOffer": [
+    "Alternatywa dla Hennessy VS",
+    "Klient szuka czegoś mniej mainstreamowego"
+  ],
+
+  "howToPresent": "Łagodniejszy styl VS, bardziej owocowy."
+},
+
+{
+  "slug": "courvoisier-vsop",
+  "name": "Courvoisier VSOP",
+  "subtitle": "Cognac · VSOP",
+  "category": "cognac",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/courvoisier_vsop.png",
+
+  "whenToOffer": [
+    "Klient szuka eleganckiego VSOP",
+    "Alternatywa dla Remy Martin"
+  ],
+
+  "howToPresent": "Zbalansowany i elegancki VSOP o owocowym profilu."
+},
+
+{
+  "slug": "a-de-fussigny-vs",
+  "name": "A. de Fussigny VS",
+  "subtitle": "Cognac · VS",
+  "category": "cognac",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/fussigny_vs.png",
+
+  "whenToOffer": [
+    "Klient szuka mniej znanej marki",
+    "Alternatywa dla VS"
+  ],
+
+  "howToPresent": "Nowoczesna marka koniaku, lżejszy i bardziej świeży styl."
+},
+
+{
+  "slug": "a-de-fussigny-vsop",
+  "name": "A. de Fussigny VSOP",
+  "subtitle": "Cognac · VSOP",
+  "category": "cognac",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/fussigny_vsop.png",
+
+  "whenToOffer": [
+    "Klient szuka mniej mainstreamowego VSOP",
+    "Prezent"
+  ],
+
+  "howToPresent": "Elegancki, bardziej kwiatowy styl VSOP."
+},
+
+{
+  "slug": "a-de-fussigny-xo",
+  "name": "A. de Fussigny XO",
+  "subtitle": "Cognac · XO",
+  "category": "cognac",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/fussigny_xo.png",
+
+  "whenToOffer": [
+    "Klient szuka XO spoza mainstreamu",
+    "Alternatywa dla Hennessy XO"
+  ],
+
+  "howToPresent": "Bardziej elegancki i subtelny XO o zbalansowanym charakterze."
+},
+
+{
+  "slug": "johnnie-walker-red-label",
+  "name": "Johnnie Walker Red Label",
+  "subtitle": "Blended Scotch Whisky · Szkocja",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/jw_red.png",
+
+  "whenToOffer": [
+    "Klient szuka whisky do mieszania",
+    "Budżetowa opcja",
+    "Whisky do coli"
+  ],
+
+  "howToPresent": "Najbardziej dynamiczna i dymna z podstawowych wersji. Stworzona głównie do koktajli."
+},
+
+{
+  "slug": "johnnie-walker-black-label-12",
+  "name": "Johnnie Walker Black Label 12 Y.O.",
+  "subtitle": "Blended Scotch · 12 lat",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/jw_black12.png",
+
+  "whenToOffer": [
+    "Klient szuka klasycznej 12-letniej whisky",
+    "Bezpieczny wybór prezentowy"
+  ],
+
+  "howToPresent": "Zbalansowana 12-letnia whisky z delikatną nutą dymu i wanilii."
+},
+
+{
+  "slug": "johnnie-walker-double-black",
+  "name": "Johnnie Walker Double Black",
+  "subtitle": "Blended Scotch · Intensywniejsza",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/jw_double_black.png",
+
+  "whenToOffer": [
+    "Klient lubi bardziej dymne whisky",
+    "Alternatywa dla Black Label"
+  ],
+
+  "howToPresent": "Bardziej dymna i intensywna interpretacja Black Label."
+},
+
+{
+  "slug": "johnnie-walker-island-green",
+  "name": "Johnnie Walker Island Green",
+  "subtitle": "Blended Malt · Travel Retail Exclusive",
+  "category": "whisky-blended-malt",
+  "country": "Scotland",
+  "abv": "43%",
+  "image": "bottle_img/jw_island_green.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś tylko z lotniska",
+    "Lubi delikatny torf"
+  ],
+
+  "howToPresent": "Blended malt z wyraźniejszym udziałem whisky z wysp. Bardziej torfowa niż Black Label."
+},
+
+{
+  "slug": "johnnie-walker-black-ruby",
+  "name": "Johnnie Walker Black Ruby",
+  "subtitle": "Travel Retail Exclusive",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/jw_black_ruby.png",
+
+  "whenToOffer": [
+    "Klient szuka limitowanej wersji",
+    "Prezent"
+  ],
+
+  "howToPresent": "Edycja travel retail z bardziej owocowym profilem."
+},
+
+{
+  "slug": "johnnie-walker-triple-cask",
+  "name": "Johnnie Walker Triple Cask",
+  "subtitle": "Travel Retail Exclusive",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/jw_triple_cask.png",
+
+  "whenToOffer": [
+    "Klient szuka łagodniejszej wersji",
+    "Whisky mniej dymna"
+  ],
+
+  "howToPresent": "Dojrzewana w trzech typach beczek. Bardziej miękka i słodsza."
+},
+
+{
+  "slug": "johnnie-walker-gold-label",
+  "name": "Johnnie Walker Gold Label Reserve",
+  "subtitle": "Blended Scotch",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/jw_gold.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś bardziej eleganckiego niż Black",
+    "Prezent"
+  ],
+
+  "howToPresent": "Bardziej kremowa i miodowa niż Black Label."
+},
+
+{
+  "slug": "johnnie-walker-18",
+  "name": "Johnnie Walker 18 Y.O.",
+  "subtitle": "Blended Scotch · 18 lat",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/jw_18.png",
+
+  "whenToOffer": [
+    "Klient szuka starszej whisky",
+    "Alternatywa dla Blue"
+  ],
+
+  "howToPresent": "Dojrzalsza i bardziej złożona niż Gold Label."
+},
+
+{
+  "slug": "johnnie-walker-blue-label",
+  "name": "Johnnie Walker Blue Label",
+  "subtitle": "Ultra Premium Blend",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/jw_blue.png",
+
+  "whenToOffer": [
+    "Klient szuka luksusowej whisky",
+    "Prezent premium"
+  ],
+
+  "howToPresent": "Najbardziej luksusowa linia Johnnie Walker. Bardzo gładka i złożona."
+},
+
+{
+  "slug": "johnnie-walker-blue-label-cognac-cask",
+  "name": "Johnnie Walker Blue Label Cognac Cask",
+  "subtitle": "Limited Edition",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/jw_blue_cognac.png",
+
+  "whenToOffer": [
+    "Klient szuka limitowanej edycji",
+    "Fan koniaku"
+  ],
+
+  "howToPresent": "Blue Label z finiszem w beczkach po koniaku. Bardziej owocowa i elegancka."
+},
+
+{
+  "slug": "johnnie-walker-blue-label-elusive-umami",
+  "name": "Johnnie Walker Blue Label Elusive Umami",
+  "subtitle": "Limited Edition",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "43%",
+  "image": "bottle_img/jw_blue_umami.png",
+
+  "whenToOffer": [
+    "Klient szuka unikalnej edycji",
+    "Kolekcjoner"
+  ],
+
+  "howToPresent": "Eksperymentalna edycja Blue Label o bardziej wytrawnym, złożonym charakterze."
+},
+
+{
+  "slug": "ballantines-7-bourbon-finish",
+  "name": "Ballantine’s 7 Bourbon Finish",
+  "subtitle": "Blended Scotch · 7 lat",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/ballantines_7.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś łagodniejszego niż Finest",
+    "Whisky do mieszania"
+  ],
+
+  "howToPresent": "Dojrzewana 7 lat z finiszem w beczkach po bourbonie. Bardziej waniliowa i słodsza niż klasyczna wersja."
+},
+
+{
+  "slug": "ballantines-10",
+  "name": "Ballantine’s 10 Y.O.",
+  "subtitle": "Blended Scotch · 10 lat",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/ballantines_10.png",
+
+  "whenToOffer": [
+    "Klient szuka whisky z wiekiem",
+    "Alternatywa dla Black Label"
+  ],
+
+  "howToPresent": "Łagodna i zbalansowana 10-letnia whisky o nutach wanilii i owoców."
+},
+
+{
+  "slug": "ballantines-finest",
+  "name": "Ballantine’s Finest",
+  "subtitle": "Blended Scotch Whisky · Szkocja",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/ballantines_finest.png",
+
+  "whenToOffer": [
+    "Klient szuka klasycznej szkockiej whisky",
+    "Budżetowa opcja do picia solo lub z colą",
+    "Bezpieczny wybór bez eksperymentów"
+  ],
+
+  "howToPresent": "Najbardziej klasyczna i rozpoznawalna wersja Ballantine’s. Łagodna, lekko słodowa, z delikatną nutą wanilii i miodu. Uniwersalna – sprawdzi się zarówno solo, jak i w drinkach."
+},
+
+{
+  "slug": "ballantines-30",
+  "name": "Ballantine’s 30 Y.O.",
+  "subtitle": "Blended Scotch · 30 lat",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/ballantines_30.png",
+
+  "whenToOffer": [
+    "Klient szuka bardzo starej whisky",
+    "Ultra premium",
+    "Prezent luksusowy"
+  ],
+
+  "howToPresent": "Bardzo rzadka i dojrzała 30-letnia whisky. Głęboka i złożona."
+},
+
+{
+  "slug": "ballantines-23",
+  "name": "Ballantine’s 23 Y.O.",
+  "subtitle": "Blended Scotch · 23 lata",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/ballantines_23.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś powyżej 21 lat",
+    "Alternatywa dla Blue Label"
+  ],
+
+  "howToPresent": "Rzadsza i bardziej dojrzała edycja o głębszym profilu smakowym."
+},
+
+{
+  "slug": "ballantines-21",
+  "name": "Ballantine’s 21 Y.O.",
+  "subtitle": "Blended Scotch · 21 lat",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/ballantines_21.png",
+
+  "whenToOffer": [
+    "Klient szuka whisky premium",
+    "Prezent elegancki"
+  ],
+
+  "howToPresent": "Bardziej dojrzała i złożona niż 17. Nuty suszonych owoców i przypraw."
+},
+
+{
+  "slug": "ballantines-17",
+  "name": "Ballantine’s 17 Y.O.",
+  "subtitle": "Blended Scotch · 17 lat",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/ballantines_17.png",
+
+  "whenToOffer": [
+    "Klient szuka starszej whisky",
+    "Alternatywa dla JW 18"
+  ],
+
+  "howToPresent": "Elegancka, dobrze zbalansowana 17-letnia whisky o nutach miodu i dębu."
+},
+
+{
+  "slug": "ballantines-brasil",
+  "name": "Ballantine’s Brasil",
+  "subtitle": "Whisky z nutą limonki",
+  "category": "whisky-flavoured",
+  "country": "Scotland",
+  "abv": "35%",
+  "image": "bottle_img/ballantines_brasil.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś lżejszego",
+    "Do mieszania",
+    "Alternatywa dla likierów"
+  ],
+
+  "howToPresent": "Whisky z naturalnym aromatem limonki. Bardziej przystępna i koktajlowa."
+},
+
+{
+  "slug": "ballantines-single-grain-rum-finish",
+  "name": "Ballantine’s Single Grain Rum Finish",
+  "subtitle": "Single Grain Scotch",
+  "category": "whisky-single-grain",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/ballantines_single_grain.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś innego niż blend",
+    "Whisky łagodniejsza i słodsza"
+  ],
+
+  "howToPresent": "Single grain z finiszem w beczkach po rumie. Bardziej słodka i deserowa."
+},
+
+{
+  "slug": "chivas-12",
+  "name": "Chivas Regal 12 Y.O.",
+  "subtitle": "Blended Scotch · 12 lat",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/chivas_12.png",
+
+  "whenToOffer": [
+    "Klient szuka klasycznej 12-letniej whisky",
+    "Alternatywa dla JW Black",
+    "Bezpieczny prezent"
+  ],
+
+  "howToPresent": "Klasyczna, gładka i lekko miodowa whisky z nutami wanilii i jabłka. Bardziej kremowa niż konkurencyjne blendy.
+
+}, 
+
+{
+  "slug": "chivas-13",
+  "name": "Chivas Regal 13 Y.O.",
+  "subtitle": "Blended Scotch · Różne wykończenia beczek",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/chivas_13_sherry.png",
+
+  "whenToOffer": [
+    "Klient chce coś innego niż klasyczna 12",
+    "Whisky z ciekawym finiszem",
+    "Travel Retail Exclusive"
+  ],
+
+  "howToPresent": [
+    "Seria Chivas 13 to klasyczna baza Chivas 12 z dodatkowym wykończeniem w różnych typach beczek.",
+    "Różnice wynikają głównie z rodzaju beczki, która nadaje końcowy charakter."
+  ],
+
+  "variants": [
+    {
+      "type": "Sherry Cask",
+      "image": "bottle_img/chivas_13_sherry.png",
+      "note": "Finisz w beczkach po sherry Oloroso – więcej suszonych owoców i przypraw."
+    },
+    {
+      "type": "Rum Cask",
+      "image": "bottle_img/chivas_13_rum.png",
+      "note": "Finisz w beczkach po rumie – nuty karmelu i tropikalnych owoców."
+    },
+    {
+      "type": "Irish Whiskey Cask",
+      "image": "bottle_img/chivas_13_irish.png",
+      "note": "Finisz w beczkach po irlandzkiej whiskey – bardziej kremowa i łagodna."
+    }
+  ]
+},
+
+{
+  "slug": "chivas-15-cognac",
+  "name": "Chivas Regal 15 Cognac Cask Finish",
+  "subtitle": "Blended Scotch · Finisz Cognac",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/chivas_15.png",
+
+  "whenToOffer": [
+    "Klient lubi koniak",
+    "Prezent premium"
+  ],
+
+  "howToPresent": "Finisz w beczkach po koniaku. Bardziej elegancka i owocowa niż 12."
+},
+
+{
+  "slug": "chivas-18",
+  "name": "Chivas Regal 18 Y.O.",
+  "subtitle": "Blended Scotch · 18 lat",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/chivas_18.png",
+
+  "whenToOffer": [
+    "Klient szuka starszej whisky",
+    "Alternatywa dla JW 18"
+  ],
+
+  "howToPresent": "Bardziej złożona i czekoladowa niż 12. Nuty kakao, karmelu i przypraw."
+},
+
+{
+  "slug": "chivas-18-pauillac",
+  "name": "Chivas Regal 18 Pauillac Cask Finish",
+  "subtitle": "Non Chill Filtered · Travel Retail",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "48%",
+  "image": "bottle_img/chivas_18_pauillac.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś mocniejszego",
+    "Fan win Bordeaux"
+  ],
+
+  "howToPresent": "Finisz w beczkach po winie Pauillac. Niefiltrowana na zimno, bardziej intensywna."
+},
+
+{
+  "slug": "chivas-25",
+  "name": "Chivas Regal 25 Y.O.",
+  "subtitle": "Blended Scotch · 25 lat",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/chivas_25.png",
+
+  "whenToOffer": [
+    "Klient szuka bardzo starej whisky",
+    "Luksusowy prezent"
+  ],
+
+  "howToPresent": "Bardzo dojrzała i elegancka 25-letnia whisky o nutach miodu i owoców."
+},
+
+{
+  "slug": "royal-salute-21-vintage-2002",
+  "name": "Royal Salute 21 Vintage 2002",
+  "subtitle": "Blended Scotch · Travel Retail",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/royal_salute_21_vintage.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś wyjątkowego",
+    "Prezent kolekcjonerski"
+  ],
+
+  "howToPresent": "Ekskluzywna edycja Royal Salute z wyselekcjonowanych rocznikowych destylatów."
+},
+
+{
+  "slug": "royal-salute-25",
+  "name": "Royal Salute 25 Y.O.",
+  "subtitle": "Ultra Premium · Travel Retail",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/royal_salute_25.png",
+
+  "whenToOffer": [
+    "Klient szuka ultra premium",
+    "Prezent luksusowy"
+  ],
+
+  "howToPresent": "Wyjątkowo rzadka i luksusowa wersja Royal Salute."
+},
+
+{
+  "slug": "famous-grouse",
+  "name": "The Famous Grouse",
+  "subtitle": "Blended Scotch Whisky · Szkocja",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/famous_grouse.png",
+
+  "whenToOffer": [
+    "Klient szuka klasycznej szkockiej whisky",
+    "Alternatywa dla Ballantine’s",
+    "Budżetowa opcja"
+  ],
+
+  "howToPresent": "Klasyczny szkocki blend o łagodnym, słodowo-waniliowym charakterze."
+},
+
+{
+  "slug": "grants-triple-wood",
+  "name": "Grant’s Triple Wood",
+  "subtitle": "Blended Scotch Whisky · Szkocja",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/grants.png",
+
+  "whenToOffer": [
+    "Klient szuka łagodnej whisky",
+    "Whisky do mieszania"
+  ],
+
+  "howToPresent": "Dojrzewana w trzech typach beczek. Łagodna, waniliowa, uniwersalna."
+},
+
+{
+  "slug": "grants-distillers-reserve",
+  "name": "Grant’s Distiller’s Reserve",
+  "subtitle": "Blended Scotch · Sherry Cask",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/grants_distillers.png",
+
+  "whenToOffer": [
+    "Klient chce coś bardziej owocowego",
+    "Alternatywa dla sherry finish"
+  ],
+
+  "howToPresent": "Wersja z większym wpływem beczek po sherry. Bardziej owocowa niż klasyczny Grant’s."
+},
+
+{
+  "slug": "sir-edwards",
+  "name": "Sir Edward’s",
+  "subtitle": "Blended Scotch Whisky · Szkocja",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/sir_edwards.png",
+
+  "whenToOffer": [
+    "Klient szuka budżetowej szkockiej",
+    "Whisky do coli",
+    "Alternatywa dla William Peel lub Label 5"
+  ],
+
+  "howToPresent": "Prosty i lekki szkocki blend przeznaczony głównie do mieszania. Neutralny profil, bez wyraźnego dymu."
+},
+
+{
+  "slug": "label-5",
+  "name": "Label 5",
+  "subtitle": "Blended Scotch Whisky",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/label5.png",
+
+  "whenToOffer": [
+    "Budżetowa alternatywa",
+    "Whisky do drinków"
+  ],
+
+  "howToPresent": "Łagodna, lekko słodowa whisky do codziennego picia."
+},
+
+{
+  "slug": "lauders",
+  "name": "Lauders",
+  "subtitle": "Blended Scotch Whisky",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/lauders.png",
+
+  "whenToOffer": [
+    "Klient szuka tańszej szkockiej",
+    "Alternatywa dla Grant’s"
+  ],
+
+  "howToPresent": "Klasyczny, lekki blend o prostym i przyjemnym charakterze."
+},
+
+{
+  "slug": "clan-campbell",
+  "name": "Clan Campbell",
+  "subtitle": "Blended Scotch Whisky",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/clan_campbell.png",
+
+  "whenToOffer": [
+    "Budżetowa opcja",
+    "Whisky do mieszania"
+  ],
+
+  "howToPresent": "Prosty i delikatny blend do codziennego picia."
+},
+
+{
+  "slug": "the-deacon",
+  "name": "The Deacon",
+  "subtitle": "Blended Scotch Whisky",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/deacon.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś nowoczesnego",
+    "Alternatywa dla bardziej dymnych whisky"
+  ],
+
+  "howToPresent": "Nowoczesny blend z delikatnym dymnym akcentem i charakterystycznym designem butelki."
+},
+
+{
+  "slug": "buchanans-12",
+  "name": "Buchanan’s 12 Y.O.",
+  "subtitle": "Blended Scotch · 12 lat",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/buchanans_12.png",
+
+  "whenToOffer": [
+    "Klient zna markę z Ameryki Południowej",
+    "Alternatywa dla JW Black"
+  ],
+
+  "howToPresent": "12-letnia whisky o łagodnym, miodowym charakterze."
+},
+
+{
+  "slug": "jb-rare",
+  "name": "J&B Rare",
+  "subtitle": "Blended Scotch Whisky",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/jb.png",
+
+  "whenToOffer": [
+    "Klient szuka klasycznego blendu",
+    "Whisky do mieszania"
+  ],
+
+  "howToPresent": "Lekka i świeża whisky o cytrusowym charakterze."
+},
+
+{
+  "slug": "william-peel",
+  "name": "William Peel",
+  "subtitle": "Blended Scotch Whisky",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/william_peel.png",
+
+  "whenToOffer": [
+    "Klient szuka bardzo budżetowej whisky",
+    "Whisky do drinków"
+  ],
+
+  "howToPresent": "Prosty, neutralny blend przeznaczony głównie do mieszania."
+},
+
+
 
 ]      
 
