@@ -4296,9 +4296,572 @@
   ],
 
   "howToPresent": "Śródziemnomorski gin z ziołami i cytrusami. Lekki i aromatyczny."
+},
+
+{
+  "slug": "diplomatico-reserva-exclusiva",
+  "name": "Diplomatico Reserva Exclusiva",
+  "subtitle": "Rum · Wenezuela · 12 lat",
+  "category": "rum",
+  "country": "Venezuela",
+  "abv": "40%",
+  "image": "bottle_img/diplomatico_reserva.png",
+
+  "whenToOffer": [
+    "Klient szuka słodszego rumu premium",
+    "Alternatywa dla Zacapa 23",
+    "Rum do degustacji"
+  ],
+
+  "howToPresent": "Bardzo gładki i lekko słodki rum z nutami karmelu, wanilii i suszonych owoców."
+},
+
+{
+  "slug": "zacapa-23",
+  "name": "Zacapa 23",
+  "subtitle": "Rum · Gwatemala · Solera",
+  "category": "rum",
+  "country": "Guatemala",
+  "abv": "40%",
+  "image": "bottle_img/zacapa23.png",
+
+  "whenToOffer": [
+    "Klient szuka eleganckiego rumu",
+    "Prezent premium",
+    "Alternatywa dla XO"
+  ],
+
+  "howToPresent": "Rum starzony metodą solera na dużych wysokościach. Gładki, karmelowo-waniliowy."
+},
+
+{
+  "slug": "zacapa-xo",
+  "name": "Zacapa XO",
+  "subtitle": "Ultra Premium Rum · Gwatemala",
+  "category": "rum",
+  "country": "Guatemala",
+  "abv": "40%",
+  "image": "bottle_img/zacapa_xo.png",
+
+  "whenToOffer": [
+    "Klient szuka najwyższej półki",
+    "Prezent luksusowy",
+    "Alternatywa dla koniaku XO"
+  ],
+
+  "howToPresent": "Najbardziej złożona wersja Zacapa. Bardziej elegancka i wytrawniejsza niż 23."
+},
+
+{
+  "slug": "zacapa-la-passion",
+  "name": "Zacapa La Passion",
+  "subtitle": "Limited Edition · Gwatemala",
+  "category": "rum",
+  "country": "Guatemala",
+  "abv": "40%",
+  "image": "bottle_img/zacapa_passion.png",
+
+  "whenToOffer": [
+    "Klient szuka edycji limitowanej",
+    "Fan marki Zacapa"
+  ],
+
+  "howToPresent": "Limitowana edycja z dodatkowym dojrzewaniem w beczkach po winie."
+},
+
+{
+  "slug": "hampden-8yo",
+  "name": "Hampden 8 Y.O.",
+  "subtitle": "Jamaican Rum · 8 lat",
+  "category": "rum",
+  "country": "Jamaica",
+  "abv": "46%",
+  "image": "bottle_img/hampden8.png",
+
+  "whenToOffer": [
+    "Klient zna rumy jamajskie",
+    "Szukający wyrazistego stylu",
+    "Rum bardziej funkowy"
+  ],
+
+  "howToPresent": "Klasyczny jamajski styl – intensywny, owocowy, z wyraźnym charakterem estrowym."
+},
+
+{
+  "slug": "rum-jm-xo",
+  "name": "Rhum J.M XO",
+  "subtitle": "Rhum Agricole · Martynika",
+  "category": "rum",
+  "country": "Martinique",
+  "abv": "45%",
+  "image": "bottle_img/jm_xo.png",
+
+  "whenToOffer": [
+    "Klient zna rhum agricole",
+    "Rum bardziej wytrawny",
+    "Alternatywa dla whisky"
+  ],
+
+  "howToPresent": "Rhum agricole destylowany ze świeżego soku trzcinowego. Bardziej wytrawny i ziołowy."
+},
+
+{
+  "slug": "clement-xo",
+  "name": "Clement XO",
+  "subtitle": "Rhum Agricole · Martynika",
+  "category": "rum",
+  "country": "Martinique",
+  "abv": "42%",
+  "image": "bottle_img/clement_xo.png",
+
+  "whenToOffer": [
+    "Klient szuka rumu wytrawnego",
+    "Alternatywa dla koniaku"
+  ],
+
+  "howToPresent": "Elegancki rhum agricole o bardziej złożonym, dębowym profilu."
+},
+
+{
+  "slug": "flor-de-cana-eco",
+  "name": "Flor de Caña Eco",
+  "subtitle": "Rum · Nikaragua",
+  "category": "rum",
+  "country": "Nicaragua",
+  "abv": "40%",
+  "image": "bottle_img/flor_de_cana.png",
+
+  "whenToOffer": [
+    "Klient szuka rumu zrównoważonego",
+    "Alternatywa dla Zacapa 23"
+  ],
+
+  "howToPresent": "Rum produkowany w sposób neutralny klimatycznie. Lżejszy i bardziej wytrawny niż Diplomatico."
+},
+
+{
+  "slug": "bacardi-blanco",
+  "name": "Bacardi Carta Blanca",
+  "subtitle": "White Rum · Kuba",
+  "category": "rum",
+  "country": "Cuba",
+  "abv": "37.5%",
+  "image": "bottle_img/bacardi_blanco.png",
+
+  "whenToOffer": [
+    "Klient szuka rumu do mojito",
+    "Rum do drinków",
+    "Bezpieczny wybór"
+  ],
+
+  "howToPresent": "Klasyczny biały rum do mojito i cuba libre."
+},
+
+{
+  "slug": "bumbu-original",
+  "name": "Bumbu Original",
+  "subtitle": "Spiced Rum · Barbados",
+  "category": "rum",
+  "country": "Barbados",
+  "abv": "35%",
+  "image": "bottle_img/bumbu.png",
+
+  "whenToOffer": [
+    "Klient lubi słodsze rumy",
+    "Alternatywa dla Diplomatico",
+    "Prezent"
+  ],
+
+  "howToPresent": "Słodszy, przyprawowy rum o bardzo przystępnym charakterze."
+},
+
+{
+  "slug": "bumbu-xo",
+  "name": "Bumbu XO",
+  "subtitle": "Premium Rum · Panama",
+  "category": "rum",
+  "country": "Panama",
+  "abv": "40%",
+  "image": "bottle_img/bumbu_xo.png",
+
+  "whenToOffer": [
+    "Klient szuka mniej słodkiej wersji Bumbu",
+    "Rum bardziej do degustacji"
+  ],
+
+  "howToPresent": "Bardziej wytrawna i dojrzalsza wersja Bumbu."
+},
+
+{
+  "slug": "havana-club-3-anos",
+  "name": "Havana Club 3 Años",
+  "subtitle": "White Rum · Kuba · 3 lata",
+  "category": "rum",
+  "country": "Cuba",
+  "abv": "40%",
+  "image": "bottle_img/havana3.png",
+
+  "whenToOffer": [
+    "Klient szuka rumu do mojito",
+    "Autentyczny styl kubański",
+    "Rum do klasycznych koktajli"
+  ],
+
+  "howToPresent": "Klasyczny kubański rum idealny do mojito i daiquiri. Lekki, świeży, lekko waniliowy."
+},
+
+{
+  "slug": "havana-club-especial",
+  "name": "Havana Club Especial",
+  "subtitle": "Gold Rum · Kuba",
+  "category": "rum",
+  "country": "Cuba",
+  "abv": "40%",
+  "image": "bottle_img/havana_especial.png",
+
+  "whenToOffer": [
+    "Klient szuka złotego rumu do Cuba Libre",
+    "Lżejsza alternatywa dla ciemnych rumów"
+  ],
+
+  "howToPresent": "Lekko złocisty rum o łagodnym charakterze, dobry do mieszania."
+},
+
+{
+  "slug": "havana-club-7-anos",
+  "name": "Havana Club 7 Años",
+  "subtitle": "Dark Rum · Kuba · 7 lat",
+  "category": "rum",
+  "country": "Cuba",
+  "abv": "40%",
+  "image": "bottle_img/havana7.png",
+
+  "whenToOffer": [
+    "Klient szuka rumu do degustacji",
+    "Rum bardziej złożony",
+    "Alternatywa dla Diplomatico"
+  ],
+
+  "howToPresent": "Dojrzewany 7 lat, bardziej złożony i wyraźny niż wersja 3 lata."
+},
+
+{
+  "slug": "don-papa-7yo",
+  "name": "Don Papa 7 Y.O.",
+  "subtitle": "Rum · Filipiny",
+  "category": "rum",
+  "country": "Philippines",
+  "abv": "40%",
+  "image": "bottle_img/donpapa7.png",
+
+  "whenToOffer": [
+    "Klient lubi słodkie rumy",
+    "Alternatywa dla Zacapa",
+    "Prezent premium"
+  ],
+
+  "howToPresent": "Filipiński rum o słodkim, waniliowo-karmelowym profilu."
+},
+
+{
+  "slug": "don-papa-baroko",
+  "name": "Don Papa Baroko",
+  "subtitle": "Rum · Filipiny",
+  "category": "rum",
+  "country": "Philippines",
+  "abv": "40%",
+  "image": "bottle_img/donpapa_baroko.png",
+
+  "whenToOffer": [
+    "Klient szuka słodkiego rumu",
+    "Lżejsza wersja Don Papa"
+  ],
+
+  "howToPresent": "Bardziej bezpośrednia i słodsza wersja Don Papa."
+},
+
+{
+  "slug": "santa-teresa-1796",
+  "name": "Santa Teresa 1796",
+  "subtitle": "Rum · Wenezuela · Solera",
+  "category": "rum",
+  "country": "Venezuela",
+  "abv": "40%",
+  "image": "bottle_img/santateresa.png",
+
+  "whenToOffer": [
+    "Klient szuka alternatywy dla Zacapa",
+    "Rum bardziej wytrawny",
+    "Degustacyjny rum premium"
+  ],
+
+  "howToPresent": "Rum starzony metodą solera. Bardziej wytrawny i elegancki niż Diplomatico."
 }
 
+{
+  "slug": "angostura-1919",
+  "name": "Angostura 1919",
+  "subtitle": "Rum · Trynidad i Tobago",
+  "category": "rum",
+  "country": "Trinidad and Tobago",
+  "abv": "40%",
+  "image": "bottle_img/angostura1919.png",
 
+  "whenToOffer": [
+    "Klient szuka rumu mniej słodkiego",
+    "Alternatywa dla Diplomatico"
+  ],
+
+  "howToPresent": "Zbalansowany rum o nutach karmelu i wanilii, mniej słodki niż rumy z Ameryki Łacińskiej."
+},
+
+{
+  "slug": "kraken-rum",
+  "name": "Kraken Black Spiced",
+  "subtitle": "Spiced Rum · Karaiby",
+  "category": "rum",
+  "country": "Caribbean",
+  "abv": "40%",
+  "image": "bottle_img/kraken.png",
+
+  "whenToOffer": [
+    "Klient szuka rumu przyprawowego",
+    "Do coli",
+    "Mocniejszy smak"
+  ],
+
+  "howToPresent": "Intensywnie przyprawowy rum z nutami wanilii i przypraw korzennych."
+},
+
+{
+  "slug": "captain-morgan-spiced",
+  "name": "Captain Morgan Spiced",
+  "subtitle": "Spiced Rum · Karaiby",
+  "category": "rum",
+  "country": "Caribbean",
+  "abv": "35%",
+  "image": "bottle_img/captain_spiced.png",
+
+  "whenToOffer": [
+    "Klient szuka rumu do coli",
+    "Budżetowa opcja"
+  ],
+
+  "howToPresent": "Słodszy rum przyprawowy, bardzo popularny do mieszania."
+},
+
+{
+  "slug": "captain-morgan-black",
+  "name": "Captain Morgan Black",
+  "subtitle": "Dark Rum · Karaiby",
+  "category": "rum",
+  "country": "Caribbean",
+  "abv": "40%",
+  "image": "bottle_img/captain_black.png",
+
+  "whenToOffer": [
+    "Klient szuka ciemnego rumu",
+    "Alternatywa dla Havana 7"
+  ],
+
+  "howToPresent": "Ciemniejszy, intensywniejszy niż wersja Spiced."
+},
+
+{
+  "slug": "la-hechicera",
+  "name": "La Hechicera",
+  "subtitle": "Rum · Kolumbia",
+  "category": "rum",
+  "country": "Colombia",
+  "abv": "40%",
+  "image": "bottle_img/la_hechicera.png",
+
+  "whenToOffer": [
+    "Klient szuka rumu wytrawnego",
+    "Alternatywa dla Santa Teresa"
+  ],
+
+  "howToPresent": "Kolumbijski rum bez dodatku cukru, bardziej wytrawny i elegancki."
+},
+
+{
+  "slug": "eminente-reserva",
+  "name": "Eminente Reserva",
+  "subtitle": "Cuban Rum · Kuba",
+  "category": "rum",
+  "country": "Cuba",
+  "abv": "41.3%",
+  "image": "bottle_img/eminente_reserva.png",
+
+  "whenToOffer": [
+    "Klient szuka bardziej wytrawnego rumu kubańskiego",
+    "Alternatywa dla Havana 7",
+    "Rum premium do degustacji"
+  ],
+
+  "howToPresent": "Nowoczesna interpretacja kubańskiego rumu. Bardziej złożony i elegancki niż klasyczny Havana Club."
+},
+
+{
+  "slug": "planteray-xo",
+  "name": "Planteray XO",
+  "subtitle": "Rum · Barbados",
+  "category": "rum",
+  "country": "Barbados",
+  "abv": "40%",
+  "image": "bottle_img/planteray_xo.png",
+
+  "whenToOffer": [
+    "Klient szuka rumu premium",
+    "Alternatywa dla Zacapa 23",
+    "Rum prezentowy"
+  ],
+
+  "howToPresent": "Bogaty rum z Barbadosu, starzony w beczkach po bourbonie i koniaku. Gładki, z nutami karmelu i kokosa."
+},
+
+{
+  "slug": "planteray-sealander",
+  "name": "Planteray Sealander",
+  "subtitle": "Rum Blend · Karaiby",
+  "category": "rum",
+  "country": "Caribbean",
+  "abv": "40%",
+  "image": "bottle_img/planteray_sealander.png",
+
+  "whenToOffer": [
+    "Klient szuka ciekawego blendu",
+    "Rum o bardziej wytrawnym charakterze"
+  ],
+
+  "howToPresent": "Blend rumów z Barbadosu, Mauritiusa i Fidżi. Bardziej wytrawny i zbalansowany niż klasyczne słodkie rumy."
+},
+
+{
+  "slug": "planteray-grand-reserva",
+  "name": "Planteray Grand Reserva",
+  "subtitle": "Rum · Barbados",
+  "category": "rum",
+  "country": "Barbados",
+  "abv": "40%",
+  "image": "bottle_img/planteray_grand_reserva.png",
+
+  "whenToOffer": [
+    "Klient szuka przystępnego rumu",
+    "Alternatywa dla Bumbu"
+  ],
+
+  "howToPresent": "Łagodniejszy i bardziej przystępny rum z Barbadosu. Dobry balans słodyczy i dębu."
+},
+
+{
+  "slug": "don-papa-arrange-de-ced",
+  "name": "Don Papa Arrangé de Ced",
+  "subtitle": "Infused Rum · Filipiny",
+  "category": "rum",
+  "country": "Philippines",
+  "abv": "35%",
+  "image": "bottle_img/donpapa_arrange.png",
+
+  "whenToOffer": [
+    "Klient szuka rumu aromatyzowanego",
+    "Coś bardziej owocowego",
+    "Alternatywa dla likierów rumowych"
+  ],
+
+  "howToPresent": "Aromatyzowana wersja Don Papa z nutami owocowymi i przyprawowymi. Bardziej deserowy charakter."
+},
+
+{
+  "slug": "don-papa-masskara",
+  "name": "Don Papa Masskara",
+  "subtitle": "Flavoured Rum · Filipiny",
+  "category": "rum",
+  "country": "Philippines",
+  "abv": "40%",
+  "image": "bottle_img/donpapa_masskara.png",
+
+  "whenToOffer": [
+    "Klient szuka słodkiego rumu",
+    "Rum bardziej owocowy",
+    "Alternatywa dla likierów rumowych"
+  ],
+
+  "howToPresent": "Bardziej owocowa i cytrusowa interpretacja Don Papa. Lżejsza i bardziej deserowa niż klasyczna wersja."
+},
+
+{
+  "slug": "bacardi-oro",
+  "name": "Bacardi Carta Oro",
+  "subtitle": "Gold Rum · Puerto Rico",
+  "category": "rum",
+  "country": "Puerto Rico",
+  "abv": "37.5%",
+  "image": "bottle_img/bacardi_oro.png",
+
+  "whenToOffer": [
+    "Klient szuka złotego rumu do Cuba Libre",
+    "Alternatywa dla Havana Especial",
+    "Rum do mieszania"
+  ],
+
+  "howToPresent": "Złota wersja Bacardi. Łagodniejsza i lekko karmelowa w porównaniu do wersji białej."
+},
+
+{
+  "slug": "bacardi-negra",
+  "name": "Bacardi Carta Negra",
+  "subtitle": "Dark Rum · Puerto Rico",
+  "category": "rum",
+  "country": "Puerto Rico",
+  "abv": "40%",
+  "image": "bottle_img/bacardi_negra.png",
+
+  "whenToOffer": [
+    "Klient szuka ciemnego rumu do drinków",
+    "Alternatywa dla Captain Morgan Black",
+    "Rum do intensywniejszych koktajli"
+  ],
+
+  "howToPresent": "Ciemniejszy i bardziej intensywny niż Carta Oro. Wyraźniejsze nuty karmelu i przypraw."
+},
+
+{
+  "slug": "clement-vo",
+  "name": "Clement V.O.",
+  "subtitle": "Rhum Agricole · Martynika",
+  "category": "rum",
+  "country": "Martinique",
+  "abv": "40%",
+  "image": "bottle_img/clement_vo.png",
+
+  "whenToOffer": [
+    "Klient szuka rumu wytrawnego",
+    "Alternatywa dla whisky",
+    "Fan rhum agricole"
+  ],
+
+  "howToPresent": "Rhum agricole starzony minimum rok w beczkach dębowych. Bardziej świeży i lżejszy niż wersja XO, z wyraźnym roślinnym i trzcinowym charakterem."
+},
+
+{
+  "slug": "ketel-one",
+  "name": "Ketel One",
+  "subtitle": "Wódka pszeniczna · Holandia",
+  "category": "vodka",
+  "country": "Netherlands",
+  "abv": "40%",
+  "rawMaterial": "Pszenica",
+  "image": "bottle_img/ketel_one.png",
+
+  "whenToOffer": [
+    "Klient szuka wódki premium do drinków",
+    "Fan Cosmopolitana lub Martini",
+    "Alternatywa dla Grey Goose i Belvedere"
+  ],
+
+  "howToPresent": "Holenderska wódka destylowana częściowo w miedzianych alembikach. Bardziej wytrawna i czysta niż wiele francuskich wódek premium. Bardzo ceniona w barach koktajlowych."
+}
 
 ]      
 
