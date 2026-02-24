@@ -1648,7 +1648,7 @@
   "category": "genever",
   "country": "Poland",
   "abv": "40%",
-  "image": "bottle_img/genever.png",
+  "image": "bottle_img/jenever.png",
 
   "whenToOffer": [
     "Klient szuka czegoś pomiędzy ginem a whisky",
@@ -1714,7 +1714,7 @@
   "category": "likier",
   "country": "Poland",
   "abv": "30%",
-  "image": "bottle_img/wild_fields_likier_main.png",
+  "image": "bottle_img/malina_whisky.png",
 
   "whenToOffer": [
     "Klient lubi owocowe likiery",
@@ -1727,7 +1727,7 @@
   "variants": [
     {
       "type": "Wiśnia",
-      "image": "bottle_img/wisnia_whisky.png"
+      "image": "bottle_img/malina_whisky.png"
     },
     {
       "type": "Malina",
@@ -1735,7 +1735,7 @@
     },
     {
       "type": "Owoce leśne",
-      "image": "bottle_img/owoce_lasu_whisky.png"
+      "image": "bottle_img/malina_whisky.png"
     }
   ],
 
@@ -1751,7 +1751,7 @@
   "category": "okowita",
   "country": "Poland",
   "abv": "40%",
-  "image": "bottle_img/okowita_7_lat.png",
+  "image": "bottle_img/okowita7.png",
 
   "whenToOffer": [
     "Klient szuka czegoś w stylu brandy lub młodej whisky",
@@ -2242,7 +2242,7 @@
   "category": "nalewka",
   "country": "Poland",
   "abv": "18%",
-  "image": "bottle_img/ima_wisnia_czekolada.png",
+  "image": "bottle_img/ima_wisnia.png",
 
   "whenToOffer": [
     "Klient szuka czegoś deserowego",
@@ -2259,7 +2259,7 @@
   "category": "nalewka",
   "country": "Poland",
   "abv": "18%",
-  "image": "bottle_img/ima_mirabelka_deren.png",
+  "image": "bottle_img/mirabelka_deren.png",
 
   "whenToOffer": [
     "Klient szuka czegoś mniej oczywistego",
@@ -2859,20 +2859,20 @@
   "category": "vodka-flavoured",
   "country": "Poland",
   "abv": "40%",
-  "image": "bottle_img/slodka_sliwka.jpg",
+  "image": "bottle_img/slodka_sliwka.png",
 
   "variants": [
     {
       "type": "Słodka Śliwka",
-      "image": "bottle_img/slodka_sliwka.jpg"
+      "image": "bottle_img/slodka_sliwka.png"
     },
     {
       "type": "Słodka Gruszka",
-      "image": "bottle_img/slodka_gruszka.jpg"
+      "image": "bottle_img/slodka_gruszka.png"
     },
     {
       "type": "Słodki Pigwowiec",
-      "image": "bottle_img/slodki_pigwowiec.jpg"
+      "image": "bottle_img/slodki_pigwowiec.png"
     }
   ],
 
@@ -3040,7 +3040,7 @@
   "country": "Poland",
   "abv": "30%",
   "maturation": "Leżakowana w beczkach po miodzie",
-  "image": "bottle_img/manufaktura_miodowka.png",
+  "image": "bottle_img/miodowka_manufaktura.png",
 
   "whenToOffer": [
     "Klient szuka klasycznej miodówki",
@@ -3059,7 +3059,7 @@
   "country": "Poland",
   "abv": "50%",
   "maturation": "Leżakowana w beczkach po miodzie pitnym",
-  "image": "bottle_img/manufaktura_sliwowica.png",
+  "image": "bottle_img/sliwowica_manufaktura.png",
 
   "whenToOffer": [
     "Klient szuka śliwowicy premium",
