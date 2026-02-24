@@ -4596,7 +4596,7 @@
   ],
 
   "howToPresent": "Rum starzony metodą solera. Bardziej wytrawny i elegancki niż Diplomatico."
-}
+},
 
 {
   "slug": "angostura-1919",
@@ -5597,7 +5597,7 @@
     "Bezpieczny prezent"
   ],
 
-  "howToPresent": "Klasyczna, gładka i lekko miodowa whisky z nutami wanilii i jabłka. Bardziej kremowa niż konkurencyjne blendy.
+  "howToPresent": "Klasyczna, gładka i lekko miodowa whisky z nutami wanilii i jabłka. Bardziej kremowa niż konkurencyjne blendy."
 
 }, 
 
@@ -5930,6 +5930,112 @@
 
   "howToPresent": "Prosty, neutralny blend przeznaczony głównie do mieszania."
 },
+
+{
+  "slug": "dewars-white-label",
+  "name": "Dewar’s White Label",
+  "subtitle": "Blended Scotch Whisky · Szkocja",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/dewars_white.png",
+
+  "whenToOffer": [
+    "Klient szuka klasycznej szkockiej whisky",
+    "Alternatywa dla Ballantine’s Finest",
+    "Whisky do mieszania"
+  ],
+
+  "howToPresent": "Lekki i świeży blend o delikatnych nutach miodu i wanilii. Bardzo uniwersalny."
+},
+
+{
+  "slug": "dewars-12",
+  "name": "Dewar’s 12 Y.O.",
+  "subtitle": "Blended Scotch · 12 lat",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/dewars_12.png",
+
+  "whenToOffer": [
+    "Klient szuka 12-letniej whisky",
+    "Alternatywa dla JW Black",
+    "Prezent"
+  ],
+
+  "howToPresent": "Dojrzewana minimum 12 lat, podwójnie starzona dla większej gładkości. Nuty miodu, jabłka i karmelu."
+},
+
+{
+  "slug": "dewars-15",
+  "name": "Dewar’s 15 Y.O.",
+  "subtitle": "Blended Scotch · 15 lat",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/dewars_15.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś pomiędzy 12 a 18 lat",
+    "Łagodna, elegancka whisky"
+  ],
+
+  "howToPresent": "Bardziej kremowa i owocowa niż 12. Delikatne nuty wanilii i suszonych owoców."
+},
+
+{
+  "slug": "dewars-double-double-21-mizunara",
+  "name": "Dewar’s Double Double 21 Mizunara",
+  "subtitle": "Blended Scotch · 21 lat",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "46%",
+  "image": "bottle_img/dewars_21_mizunara.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś nietypowego",
+    "Fan japońskiego stylu beczek"
+  ],
+
+  "howToPresent": "Finisz w rzadkich beczkach z dębu Mizunara. Bardziej korzenna i egzotyczna."
+}
+
+{
+  "slug": "dewars-double-double-21-oloroso",
+  "name": "Dewar’s Double Double 21 Oloroso",
+  "subtitle": "Blended Scotch · 21 lat",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "46%",
+  "image": "bottle_img/dewars_21_oloroso.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś premium",
+    "Fan sherry finish"
+  ],
+
+  "howToPresent": "Czterostopniowy proces starzenia z finiszem w beczkach po sherry Oloroso. Głębsza, bardziej owocowa."
+},
+
+{
+  "slug": "dewars-double-double-26-palo-cortado",
+  "name": "Dewar’s Double Double 26 Palo Cortado",
+  "subtitle": "Blended Scotch · 26 lat",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "46%",
+  "image": "bottle_img/dewars_26_palo_cortado.png",
+
+  "whenToOffer": [
+    "Klient szuka ultra premium",
+    "Ekskluzywny prezent",
+    "Alternatywa dla 25+ letnich whisky"
+  ],
+
+  "howToPresent": "26-letnia edycja z finiszem w beczkach po sherry Palo Cortado. Bardzo złożona i elegancka."
+}
+
 
 
 
