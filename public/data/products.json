@@ -3077,7 +3077,7 @@
   "category": "likier-kremowy",
   "country": "Barbados",
   "abv": "15%",
-  "image": "bottle_img/bumbu_cream.png",
+  "image": "bottle_img/bumbu_cream.webp",
 
   "whenToOffer": [
     "Klient lubi rum Bumbu",
@@ -3100,7 +3100,7 @@
   "category": "likier-kremowy",
   "country": "South Africa",
   "abv": "17%",
-  "image": "bottle_img/amarula.png",
+  "image": "bottle_img/amarula.webp",
 
   "whenToOffer": [
     "Klient szuka czegoś innego niż Baileys",
@@ -3123,7 +3123,7 @@
   "category": "likier-kremowy",
   "country": "Ireland",
   "abv": "15.5%",
-  "image": "bottle_img/sheridans.png",
+  "image": "bottle_img/sheridans.webp",
 
   "whenToOffer": [
     "Klient szuka efektownego prezentu",
@@ -3146,7 +3146,7 @@
   "category": "likier-kremowy",
   "country": "Ireland",
   "abv": "17%",
-  "image": "bottle_img/baileys_original.png",
+  "image": "bottle_img/baileys.webp",
 
   "whenToOffer": [
     "Klient szuka likieru do kawy",
@@ -3171,19 +3171,19 @@
   "variants": [
     {
       "type": "Original",
-      "image": "bottle_img/baileys_original.png"
+      "image": "bottle_img/baileys.webp"
     },
     {
       "type": "Salted Caramel",
-      "image": "bottle_img/baileys_salted_caramel.png"
+      "image": "bottle_img/baileys_saltedcaramel.webp"
     },
     {
       "type": "Strawberry Cake",
-      "image": "bottle_img/baileys_strawberry.png"
+      "image": "bottle_img/baileys_strawberry.webp"
     },
     {
       "type": "Tiramisu",
-      "image": "bottle_img/baileys_tiramisu.png"
+      "image": "bottle_img/baileys_tiramisu.webp"
     },
     {
       "type": "Mint Chocolate",
@@ -3191,7 +3191,7 @@
     },
     {
       "type": "Piña Colada",
-      "image": "bottle_img/baileys_pina.png"
+      "image": "bottle_img/baileys_colada.webp"
     }
   ]
 },
@@ -3203,7 +3203,7 @@
   "category": "likier",
   "country": "France",
   "abv": "40%",
-  "image": "bottle_img/cointreau.png",
+  "image": "bottle_img/cointreau.webp",
 
   "whenToOffer": [
     "Klient robi Margaritę",
@@ -3226,7 +3226,7 @@
   "category": "likier",
   "country": "France",
   "abv": "40%",
-  "image": "bottle_img/grand_marnier.png",
+  "image": "bottle_img/grandmarnier.webp",
 
   "whenToOffer": [
     "Klient szuka czegoś bardziej eleganckiego niż Cointreau",
@@ -3249,7 +3249,7 @@
   "category": "likier",
   "country": "Italy",
   "abv": "11%",
-  "image": "bottle_img/aperol.png",
+  "image": "bottle_img/aperol.webp",
 
   "whenToOffer": [
     "Klient robi Aperol Spritz",
@@ -3272,7 +3272,7 @@
   "category": "likier",
   "country": "Italy",
   "abv": "25%",
-  "image": "bottle_img/campari.png",
+  "image": "bottle_img/campari.webp",
 
   "whenToOffer": [
     "Klient robi Negroni",
@@ -3295,7 +3295,7 @@
   "category": "likier",
   "country": "Italy",
   "abv": "26%",
-  "image": "bottle_img/limoncello_palini.png",
+  "image": "bottle_img/pallini.webp",
 
   "whenToOffer": [
     "Klient szuka klasycznego limoncello",
@@ -3318,7 +3318,7 @@
   "category": "likier",
   "country": "Italy",
   "abv": "30%",
-  "image": "bottle_img/limoncello_bottega.png",
+  "image": "bottle_img/bottega_lemon.webp",
 
   "whenToOffer": [
     "Klient szuka mocniejszego limoncello",
@@ -3341,7 +3341,7 @@
   "category": "likier",
   "country": "France",
   "abv": "45%",
-  "image": "bottle_img/ricard.png",
+  "image": "bottle_img/ricard.webp",
 
   "whenToOffer": [
     "Klient szuka pastis",
@@ -3364,7 +3364,7 @@
   "category": "absynt",
   "country": "Netherlands",
   "abv": "55%",
-  "image": "bottle_img/absinth_van_gogh.png",
+  "image": "bottle_img/absente_vangogh.webp",
 
   "whenToOffer": [
     "Klient szuka absyntu",
@@ -3387,7 +3387,7 @@
   "category": "wermut",
   "country": "Italy",
   "abv": "15%",
-  "image": "bottle_img/martini_bianco.png",
+  "image": "bottle_img/martini_bianco.webp",
 
   "whenToOffer": [
     "Klient robi Martini z tonikiem",
@@ -3409,7 +3409,7 @@
   "category": "wermut",
   "country": "Italy",
   "abv": "15%",
-  "image": "bottle_img/martini_rosso.png",
+  "image": "bottle_img/martini_rosso.webp",
 
   "whenToOffer": [
     "Klient robi Negroni",
@@ -3431,7 +3431,7 @@
   "category": "wermut",
   "country": "Italy",
   "abv": "15%",
-  "image": "bottle_img/martini_rosato.png",
+  "image": "bottle_img/martini_rosato.webp",
 
   "whenToOffer": [
     "Klient szuka czegoś lżejszego i owocowego",
@@ -3452,7 +3452,7 @@
   "category": "porto",
   "country": "Portugal",
   "abv": "19%",
-  "image": "bottle_img/porto_cruz_tawny.png",
+  "image": "bottle_img/porto_cruz_tawny.webp",
 
   "whenToOffer": [
     "Klient szuka słodkiego wina deserowego",
@@ -3474,7 +3474,7 @@
   "category": "porto",
   "country": "Portugal",
   "abv": "20%",
-  "image": "bottle_img/taylors_vintage_2019.png",
+  "image": "bottle_img/taylors.webp",
 
   "whenToOffer": [
     "Klient szuka czegoś kolekcjonerskiego",
@@ -3496,7 +3496,7 @@
   "category": "porto",
   "country": "Portugal",
   "abv": "20%",
-  "image": "bottle_img/ramos_pinto_10.png",
+  "image": "bottle_img/ramos_pinto.jpg",
 
   "whenToOffer": [
     "Klient szuka bardziej dojrzałego porto",
@@ -3518,7 +3518,7 @@
   "category": "likier",
   "country": "Germany",
   "abv": "35%",
-  "image": "bottle_img/jagermeister_original.png",
+  "image": "bottle_img/jager.webp",
 
   "whenToOffer": [
     "Klient szuka ziołowego likieru",
@@ -3541,7 +3541,7 @@
   "category": "likier",
   "country": "Germany",
   "abv": "33%",
-  "image": "bottle_img/jagermeister_orange.png",
+  "image": "bottle_img/jager_orange.webp",
 
   "whenToOffer": [
     "Klient lubi Jägermeister, ale szuka czegoś lżejszego",
@@ -3558,7 +3558,7 @@
   "category": "likier",
   "country": "Germany",
   "abv": "38%",
-  "image": "bottle_img/jagermeister_manifest.png",
+  "image": "bottle_img/jager_manifest.webp",
 
   "whenToOffer": [
     "Klient szuka czegoś bardziej premium",
@@ -3575,7 +3575,7 @@
   "category": "likier",
   "country": "Italy",
   "abv": "28%",
-  "image": "bottle_img/disaronno.png",
+  "image": "bottle_img/disaronno.webp",
 
   "whenToOffer": [
     "Klient szuka amaretto",
@@ -3593,7 +3593,7 @@
   "category": "likier",
   "country": "Italy",
   "abv": "28%",
-  "image": "bottle_img/amaretto_adriatico.png",
+  "image": "bottle_img/adriatico.webp",
 
   "whenToOffer": [
     "Klient szuka bardziej rzemieślniczego amaretto",
@@ -3610,7 +3610,7 @@
   "category": "likier",
   "country": "United Kingdom",
   "abv": "25%",
-  "image": "bottle_img/pimms.png",
+  "image": "bottle_img/pimms.webp",
 
   "whenToOffer": [
     "Klient robi Pimm’s Cup",
@@ -3627,7 +3627,7 @@
   "category": "likier",
   "country": "France",
   "abv": "21%",
-  "image": "bottle_img/get_27.png",
+  "image": "bottle_img/get27.webp",
 
   "whenToOffer": [
     "Klient lubi miętowe alkohole",
@@ -3644,7 +3644,7 @@
   "category": "likier",
   "country": "France",
   "abv": "20%",
-  "image": "bottle_img/st_germain.png",
+  "image": "bottle_img/st_germain.webp",
 
   "whenToOffer": [
     "Klient robi Hugo Spritz",
@@ -3662,7 +3662,7 @@
   "category": "likier",
   "country": "Poland",
   "abv": "20%",
-  "image": "bottle_img/lick_kawowy.png",
+  "image": "bottle_img/lick.webp",
 
   "whenToOffer": [
     "Klient szuka polskiego likieru kawowego",
@@ -3684,7 +3684,7 @@
   "category": "likier",
   "country": "Mexico",
   "abv": "35%",
-  "image": "bottle_img/patron_xo_cafe.png",
+  "image": "bottle_img/patron_cafe.webp",
 
   "whenToOffer": [
     "Klient szuka czegoś premium",
@@ -3707,7 +3707,7 @@
   "category": "vodka-flavoured",
   "country": "Poland",
   "abv": "30%",
-  "image": "bottle_img/belvedere_cold_brew.png",
+  "image": "bottle_img/belvedere_coffee.webp",
 
   "whenToOffer": [
     "Klient szuka wódki smakowej premium",
@@ -3742,15 +3742,15 @@
   "variants": [
     {
       "type": "Johnnie Walker Old Fashioned",
-      "image": "bottle_img/diageo_old_fashioned.png"
+      "image": "bottle_img/diageo_jw.png"
     },
     {
       "type": "Tanqueray Negroni",
-      "image": "bottle_img/diageo_negroni.png"
+      "image": "bottle_img/diageo_negroni.webp"
     },
     {
       "type": "Cîroc Cosmopolitan",
-      "image": "bottle_img/diageo_cosmopolitan.png"
+      "image": "bottle_img/diageo_cosmopolitan.webp"
     }
   ],
 
@@ -3767,7 +3767,7 @@
   "category": "ready-to-drink",
   "country": "Cuba",
   "abv": "14.9%",
-  "image": "bottle_img/bacardi_mojito_1l.png",
+  "image": "bottle_img/bacardi_mojito.webp",
 
   "whenToOffer": [
     "Klient szuka czegoś lekkiego i imprezowego",
@@ -3790,7 +3790,7 @@
   "category": "gin",
   "country": "Japan",
   "abv": "43%",
-  "image": "bottle_img/roku_gin.png",
+  "image": "bottle_img/roku.webp",
 
   "whenToOffer": [
     "Klient szuka japońskiego ginu",
@@ -3812,7 +3812,7 @@
   "category": "gin",
   "country": "United Kingdom",
   "abv": "40%",
-  "image": "bottle_img/bombay_sapphire.png",
+  "image": "bottle_img/bombay.webp",
 
   "whenToOffer": [
     "Klient szuka klasycznego London Dry",
@@ -3834,7 +3834,7 @@
   "category": "gin",
   "country": "United Kingdom",
   "abv": "47%",
-  "image": "bottle_img/bombay_premier_cru.png",
+  "image": "bottle_img/bombay_cru.webp",
 
   "whenToOffer": [
     "Klient szuka bardziej cytrusowego i świeżego ginu",
@@ -3852,7 +3852,7 @@
   "category": "gin",
   "country": "United Kingdom",
   "abv": "43%",
-  "image": "bottle_img/bombay_sunset.png",
+  "image": "bottle_img/bombay_sunset.webp",
 
   "whenToOffer": [
     "Klient szuka czegoś łagodniejszego",
@@ -3870,7 +3870,7 @@
   "category": "gin",
   "country": "United Kingdom",
   "abv": "43.1%",
-  "image": "bottle_img/tanqueray_classic.png",
+  "image": "bottle_img/tanqueray.webp",
 
   "whenToOffer": [
     "Klient szuka wyraźnie jałowcowego ginu",
@@ -3888,7 +3888,7 @@
   "category": "gin",
   "country": "United Kingdom",
   "abv": "47.3%",
-  "image": "bottle_img/tanqueray_ten.png",
+  "image": "bottle_img/tanqueray10.webp",
 
   "whenToOffer": [
     "Klient szuka premium ginu do martini",
@@ -3906,7 +3906,7 @@
   "category": "gin",
   "country": "United Kingdom",
   "abv": "41.3%",
-  "image": "bottle_img/tanqueray_sevilla.png",
+  "image": "bottle_img/tanqueray_sevilla.webp",
 
   "whenToOffer": [
     "Klient szuka bardziej owocowego ginu",
@@ -3924,7 +3924,7 @@
   "category": "gin",
   "country": "Italy",
   "abv": "41%",
-  "image": "bottle_img/malfy_original.png",
+  "image": "bottle_img/malfy.webp",
 
   "whenToOffer": [
     "Klient szuka włoskiego ginu",
@@ -3937,11 +3937,11 @@
   "variants": [
     {
       "type": "Originale",
-      "image": "bottle_img/malfy_original.png"
+      "image": "bottle_img/malfy.webp"
     },
     {
       "type": "Rosa",
-      "image": "bottle_img/malfy_rosa.png"
+      "image": "bottle_img/malfy_rosa.webp"
     }
   ]
 },
@@ -3953,7 +3953,7 @@
   "category": "gin",
   "country": "United Kingdom",
   "abv": "41.4%",
-  "image": "bottle_img/hendricks_classic.png",
+  "image": "bottle_img/hendricks.webp",
 
   "whenToOffer": [
     "Klient szuka nietypowego ginu",
@@ -3971,7 +3971,7 @@
   "category": "gin",
   "country": "United Kingdom",
   "abv": "43.4%",
-  "image": "bottle_img/hendricks_amazonia.png",
+  "image": "bottle_img/hendricks_amazonia.webp",
 
   "whenToOffer": [
     "Klient szuka limitowanej wersji",
@@ -3989,7 +3989,7 @@
   "category": "gin",
   "country": "United Kingdom",
   "abv": "43.4%",
-  "image": "bottle_img/hendricks_sunspell.png",
+  "image": "bottle_img/hendricks_sunspell.webp",
 
   "whenToOffer": [
     "Klient szuka lżejszego stylu Hendrick’s",
@@ -4007,7 +4007,7 @@
   "category": "gin",
   "country": "Germany",
   "abv": "47%",
-  "image": "bottle_img/monkey47.png",
+  "image": "bottle_img/monkey47.webp",
 
   "whenToOffer": [
     "Klient szuka bardzo złożonego ginu",
@@ -4025,7 +4025,7 @@
   "category": "gin",
   "country": "Italy",
   "abv": "42%",
-  "image": "bottle_img/engine_gin.png",
+  "image": "bottle_img/engine.webp",
 
   "whenToOffer": [
     "Klient ceni design",
@@ -4043,7 +4043,7 @@
   "category": "gin",
   "country": "Ireland",
   "abv": "43%",
-  "image": "bottle_img/drumshanbo.png",
+  "image": "bottle_img/gunpowder.webp",
 
   "whenToOffer": [
     "Klient szuka nietypowego ginu",
@@ -4061,7 +4061,7 @@
   "category": "gin",
   "country": "United Kingdom",
   "abv": "46%",
-  "image": "bottle_img/botanist.png",
+  "image": "bottle_img/botanist.webp",
 
   "whenToOffer": [
     "Klient szuka ginu wytrawnego",
@@ -4079,7 +4079,7 @@
   "category": "gin",
   "country": "United Kingdom",
   "abv": "43%",
-  "image": "bottle_img/silent_pool.png",
+  "image": "bottle_img/silent_pool.jpg",
 
   "whenToOffer": [
     "Klient ceni estetyczne butelki",
@@ -4097,7 +4097,7 @@
   "category": "gin",
   "country": "United Kingdom",
   "abv": "40%",
-  "image": "bottle_img/beefeater.png",
+  "image": "bottle_img/beefeater.webp",
 
   "whenToOffer": [
     "Klient szuka klasycznego London Dry",
@@ -4115,7 +4115,7 @@
   "category": "gin",
   "country": "United Kingdom",
   "abv": "37.5%",
-  "image": "bottle_img/gordons_classic.png",
+  "image": "bottle_img/gordons.webp",
 
   "whenToOffer": [
     "Klient szuka budżetowego ginu",
@@ -4127,11 +4127,11 @@
   "variants": [
     {
       "type": "Classic",
-      "image": "bottle_img/gordons_classic.png"
+      "image": "bottle_img/gordons.webp"
     },
     {
       "type": "Pink",
-      "image": "bottle_img/gordons_pink.png"
+      "image": "bottle_img/gordons_pink.webp"
     }
   ]
 },
@@ -4143,7 +4143,7 @@
   "category": "gin",
   "country": "France",
   "abv": "44%",
-  "image": "bottle_img/citadelle.png",
+  "image": "bottle_img/citadelle.webp",
 
   "whenToOffer": [
     "Klient szuka francuskiego ginu",
@@ -4161,7 +4161,7 @@
   "category": "gin",
   "country": "Spain",
   "abv": "42.7%",
-  "image": "bottle_img/gin_mare.png",
+  "image": "bottle_img/ginmare.webp",
 
   "whenToOffer": [
     "Klient szuka śródziemnomorskiego stylu",
@@ -4179,7 +4179,7 @@
   "category": "gin",
   "country": "United Kingdom",
   "abv": "40%",
-  "image": "bottle_img/bulldog.png",
+  "image": "bottle_img/bulldog.webp",
 
   "whenToOffer": [
     "Nowoczesny design",
@@ -4197,7 +4197,7 @@
   "category": "gin",
   "country": "Japan",
   "abv": "43%",
-  "image": "bottle_img/roku.png",
+  "image": "bottle_img/roku.webp",
 
   "whenToOffer": [
     "Klient szuka japońskiego alkoholu",
@@ -4215,7 +4215,7 @@
   "category": "gin",
   "country": "France",
   "abv": "40%",
-  "image": "bottle_img/gvine.png",
+  "image": "bottle_img/gvine.webp",
 
   "whenToOffer": [
     "Klient szuka czegoś delikatniejszego",
@@ -4233,7 +4233,7 @@
   "category": "gin",
   "country": "France",
   "abv": "44%",
-  "image": "bottle_img/generous.png",
+  "image": "bottle_img/generous.webp",
 
   "whenToOffer": [
     "Klient szuka ginu organicznego",
@@ -4251,7 +4251,7 @@
   "category": "gin",
   "country": "United Kingdom",
   "abv": "43%",
-  "image": "bottle_img/edinburgh_classic.png",
+  "image": "bottle_img/edinburgh.webp",
 
   "whenToOffer": [
     "Klient szuka szkockiego ginu",
@@ -4269,7 +4269,7 @@
   "category": "gin",
   "country": "United Kingdom",
   "abv": "40%",
-  "image": "bottle_img/edinburgh_rhubarb.png",
+  "image": "bottle_img/edinburgh_rhubarb.webp",
 
   "whenToOffer": [
     "Klient szuka owocowego ginu",
@@ -4287,7 +4287,7 @@
   "category": "gin",
   "country": "Italy",
   "abv": "40%",
-  "image": "bottle_img/gin_xii.png",
+  "image": "bottle_img/gin_xii.webp",
 
   "whenToOffer": [
     "Klient szuka włoskiego stylu",
@@ -4305,7 +4305,7 @@
   "category": "rum",
   "country": "Venezuela",
   "abv": "40%",
-  "image": "bottle_img/diplomatico_reserva.png",
+  "image": "bottle_img/diplomatico.webp",
 
   "whenToOffer": [
     "Klient szuka słodszego rumu premium",
@@ -4323,7 +4323,7 @@
   "category": "rum",
   "country": "Guatemala",
   "abv": "40%",
-  "image": "bottle_img/zacapa23.png",
+  "image": "bottle_img/zacapa23.webp",
 
   "whenToOffer": [
     "Klient szuka eleganckiego rumu",
@@ -4341,7 +4341,7 @@
   "category": "rum",
   "country": "Guatemala",
   "abv": "40%",
-  "image": "bottle_img/zacapa_xo.png",
+  "image": "bottle_img/zacapa_xo.webp",
 
   "whenToOffer": [
     "Klient szuka najwyższej półki",
@@ -4359,7 +4359,7 @@
   "category": "rum",
   "country": "Guatemala",
   "abv": "40%",
-  "image": "bottle_img/zacapa_passion.png",
+  "image": "bottle_img/zacapa_lapassion.webp",
 
   "whenToOffer": [
     "Klient szuka edycji limitowanej",
@@ -4376,7 +4376,7 @@
   "category": "rum",
   "country": "Jamaica",
   "abv": "46%",
-  "image": "bottle_img/hampden8.png",
+  "image": "bottle_img/hampden8.jpg",
 
   "whenToOffer": [
     "Klient zna rumy jamajskie",
@@ -4394,7 +4394,7 @@
   "category": "rum",
   "country": "Martinique",
   "abv": "45%",
-  "image": "bottle_img/jm_xo.png",
+  "image": "bottle_img/jm_xo.webp",
 
   "whenToOffer": [
     "Klient zna rhum agricole",
@@ -4406,13 +4406,13 @@
 },
 
 {
-  "slug": "clement-xo",
-  "name": "Clement XO",
+  "slug": "clement-vsop",
+  "name": "Clement VSOP",
   "subtitle": "Rhum Agricole · Martynika",
   "category": "rum",
   "country": "Martinique",
   "abv": "42%",
-  "image": "bottle_img/clement_xo.png",
+  "image": "bottle_img/clement_vsop.webp",
 
   "whenToOffer": [
     "Klient szuka rumu wytrawnego",
@@ -4429,7 +4429,7 @@
   "category": "rum",
   "country": "Nicaragua",
   "abv": "40%",
-  "image": "bottle_img/flor_de_cana.png",
+  "image": "bottle_img/flordecana_eco.webp",
 
   "whenToOffer": [
     "Klient szuka rumu zrównoważonego",
@@ -4446,7 +4446,7 @@
   "category": "rum",
   "country": "Cuba",
   "abv": "37.5%",
-  "image": "bottle_img/bacardi_blanco.png",
+  "image": "bottle_img/bacardi_blanca.webp",
 
   "whenToOffer": [
     "Klient szuka rumu do mojito",
@@ -4464,7 +4464,7 @@
   "category": "rum",
   "country": "Barbados",
   "abv": "35%",
-  "image": "bottle_img/bumbu.png",
+  "image": "bottle_img/bumbu.webp",
 
   "whenToOffer": [
     "Klient lubi słodsze rumy",
@@ -4482,7 +4482,7 @@
   "category": "rum",
   "country": "Panama",
   "abv": "40%",
-  "image": "bottle_img/bumbu_xo.png",
+  "image": "bottle_img/bumbu_xo.webp",
 
   "whenToOffer": [
     "Klient szuka mniej słodkiej wersji Bumbu",
@@ -4499,7 +4499,7 @@
   "category": "rum",
   "country": "Cuba",
   "abv": "40%",
-  "image": "bottle_img/havana3.png",
+  "image": "bottle_img/havana3.webp",
 
   "whenToOffer": [
     "Klient szuka rumu do mojito",
@@ -4517,7 +4517,7 @@
   "category": "rum",
   "country": "Cuba",
   "abv": "40%",
-  "image": "bottle_img/havana_especial.png",
+  "image": "bottle_img/havana_especial.webp",
 
   "whenToOffer": [
     "Klient szuka złotego rumu do Cuba Libre",
@@ -4534,7 +4534,7 @@
   "category": "rum",
   "country": "Cuba",
   "abv": "40%",
-  "image": "bottle_img/havana7.png",
+  "image": "bottle_img/havana7.webp",
 
   "whenToOffer": [
     "Klient szuka rumu do degustacji",
@@ -4552,7 +4552,7 @@
   "category": "rum",
   "country": "Philippines",
   "abv": "40%",
-  "image": "bottle_img/donpapa7.png",
+  "image": "bottle_img/donpapa7.webp",
 
   "whenToOffer": [
     "Klient lubi słodkie rumy",
@@ -4570,7 +4570,7 @@
   "category": "rum",
   "country": "Philippines",
   "abv": "40%",
-  "image": "bottle_img/donpapa_baroko.png",
+  "image": "bottle_img/donpapa_baroko.webp",
 
   "whenToOffer": [
     "Klient szuka słodkiego rumu",
@@ -4587,7 +4587,7 @@
   "category": "rum",
   "country": "Venezuela",
   "abv": "40%",
-  "image": "bottle_img/santateresa.png",
+  "image": "bottle_img/santa_teresa.webp",
 
   "whenToOffer": [
     "Klient szuka alternatywy dla Zacapa",
@@ -4605,7 +4605,7 @@
   "category": "rum",
   "country": "Trinidad and Tobago",
   "abv": "40%",
-  "image": "bottle_img/angostura1919.png",
+  "image": "bottle_img/angostura1919.webp",
 
   "whenToOffer": [
     "Klient szuka rumu mniej słodkiego",
@@ -4622,7 +4622,7 @@
   "category": "rum",
   "country": "Caribbean",
   "abv": "40%",
-  "image": "bottle_img/kraken.png",
+  "image": "bottle_img/kraken.webp",
 
   "whenToOffer": [
     "Klient szuka rumu przyprawowego",
@@ -4640,7 +4640,7 @@
   "category": "rum",
   "country": "Caribbean",
   "abv": "35%",
-  "image": "bottle_img/captain_spiced.png",
+  "image": "bottle_img/morgan_spiced.webp",
 
   "whenToOffer": [
     "Klient szuka rumu do coli",
@@ -4657,7 +4657,7 @@
   "category": "rum",
   "country": "Caribbean",
   "abv": "40%",
-  "image": "bottle_img/captain_black.png",
+  "image": "bottle_img/morgan_black.webp",
 
   "whenToOffer": [
     "Klient szuka ciemnego rumu",
@@ -4674,7 +4674,7 @@
   "category": "rum",
   "country": "Colombia",
   "abv": "40%",
-  "image": "bottle_img/la_hechicera.png",
+  "image": "bottle_img/lahechicera.webp",
 
   "whenToOffer": [
     "Klient szuka rumu wytrawnego",
@@ -4691,7 +4691,7 @@
   "category": "rum",
   "country": "Cuba",
   "abv": "41.3%",
-  "image": "bottle_img/eminente_reserva.png",
+  "image": "bottle_img/eminente.webp",
 
   "whenToOffer": [
     "Klient szuka bardziej wytrawnego rumu kubańskiego",
@@ -4709,7 +4709,7 @@
   "category": "rum",
   "country": "Barbados",
   "abv": "40%",
-  "image": "bottle_img/planteray_xo.png",
+  "image": "bottle_img/planteray_xo.webp",
 
   "whenToOffer": [
     "Klient szuka rumu premium",
@@ -4727,7 +4727,7 @@
   "category": "rum",
   "country": "Caribbean",
   "abv": "40%",
-  "image": "bottle_img/planteray_sealander.png",
+  "image": "bottle_img/sealander.webp",
 
   "whenToOffer": [
     "Klient szuka ciekawego blendu",
@@ -4744,7 +4744,7 @@
   "category": "rum",
   "country": "Barbados",
   "abv": "40%",
-  "image": "bottle_img/planteray_grand_reserva.png",
+  "image": "bottle_img/planteray_grande.webp",
 
   "whenToOffer": [
     "Klient szuka przystępnego rumu",
@@ -4755,13 +4755,13 @@
 },
 
 {
-  "slug": "don-papa-arrange-de-ced",
-  "name": "Don Papa Arrangé de Ced",
+  "slug": "arrange-de-ced",
+  "name": "Arrangé de Ced",
   "subtitle": "Infused Rum · Filipiny",
   "category": "rum",
   "country": "Philippines",
   "abv": "35%",
-  "image": "bottle_img/donpapa_arrange.png",
+  "image": "bottle_img/arranges.webp",
 
   "whenToOffer": [
     "Klient szuka rumu aromatyzowanego",
@@ -4769,7 +4769,7 @@
     "Alternatywa dla likierów rumowych"
   ],
 
-  "howToPresent": "Aromatyzowana wersja Don Papa z nutami owocowymi i przyprawowymi. Bardziej deserowy charakter."
+  "howToPresent": "Aromatyzowana wersja z nutami owocowymi i przyprawowymi. Bardziej deserowy charakter."
 },
 
 {
@@ -4779,7 +4779,7 @@
   "category": "rum",
   "country": "Philippines",
   "abv": "40%",
-  "image": "bottle_img/donpapa_masskara.png",
+  "image": "bottle_img/donpapa_masskara.webp",
 
   "whenToOffer": [
     "Klient szuka słodkiego rumu",
@@ -4797,7 +4797,7 @@
   "category": "rum",
   "country": "Puerto Rico",
   "abv": "37.5%",
-  "image": "bottle_img/bacardi_oro.png",
+  "image": "bottle_img/bacardi_oro.webp",
 
   "whenToOffer": [
     "Klient szuka złotego rumu do Cuba Libre",
@@ -4815,7 +4815,7 @@
   "category": "rum",
   "country": "Puerto Rico",
   "abv": "40%",
-  "image": "bottle_img/bacardi_negra.png",
+  "image": "bottle_img/bacardi_negra.webp",
 
   "whenToOffer": [
     "Klient szuka ciemnego rumu do drinków",
@@ -4833,7 +4833,7 @@
   "category": "rum",
   "country": "Martinique",
   "abv": "40%",
-  "image": "bottle_img/clement_vo.png",
+  "image": "bottle_img/clement_vo.webp",
 
   "whenToOffer": [
     "Klient szuka rumu wytrawnego",
@@ -4852,7 +4852,7 @@
   "country": "Netherlands",
   "abv": "40%",
   "rawMaterial": "Pszenica",
-  "image": "bottle_img/ketel_one.png",
+  "image": "bottle_img/ketel_one.webp",
 
   "whenToOffer": [
     "Klient szuka wódki premium do drinków",
@@ -4870,7 +4870,7 @@
   "category": "brandy",
   "country": "Poland",
   "abv": "36%",
-  "image": "bottle_img/stock84.png",
+  "image": "bottle_img/stock84.webp",
 
   "whenToOffer": [
     "Klient szuka budżetowej brandy",
@@ -4888,7 +4888,7 @@
   "category": "brandy",
   "country": "France",
   "abv": "40%",
-  "image": "bottle_img/three_barrels.png",
+  "image": "bottle_img/three_barrels.webp",
 
   "whenToOffer": [
     "Klient szuka taniej francuskiej brandy",
@@ -4905,7 +4905,7 @@
   "category": "brandy",
   "country": "France",
   "abv": "40%",
-  "image": "bottle_img/st_remy_xo.png",
+  "image": "bottle_img/st_remy_xo.webp",
 
   "whenToOffer": [
     "Klient szuka tańszego XO",
@@ -4922,7 +4922,7 @@
   "category": "brandy",
   "country": "Greece",
   "abv": "38%",
-  "image": "bottle_img/metaxa5.png",
+  "image": "bottle_img/metaxa5.webp",
 
   "whenToOffer": [
     "Klient szuka łagodnej brandy",
@@ -4939,7 +4939,7 @@
   "category": "brandy",
   "country": "Greece",
   "abv": "40%",
-  "image": "bottle_img/metaxa7.png",
+  "image": "bottle_img/metaxa7.webp",
 
   "whenToOffer": [
     "Klient zna Metaxę",
@@ -4973,7 +4973,7 @@
   "category": "cognac",
   "country": "France",
   "abv": "40%",
-  "image": "bottle_img/hennessy_vs.png",
+  "image": "bottle_img/hennessy_vs.webp",
 
   "whenToOffer": [
     "Klient szuka znanego koniaku",
@@ -4990,7 +4990,7 @@
   "category": "cognac",
   "country": "France",
   "abv": "40%",
-  "image": "bottle_img/hennessy_vsop.png",
+  "image": "bottle_img/hennessy_vsop.webp",
 
   "whenToOffer": [
     "Klient chce lepszą wersję niż VS",
@@ -5007,7 +5007,7 @@
   "category": "cognac",
   "country": "France",
   "abv": "40%",
-  "image": "bottle_img/hennessy_xo.png",
+  "image": "bottle_img/hennessy_xo.webp",
 
   "whenToOffer": [
     "Klient szuka luksusowego koniaku",
@@ -5024,7 +5024,7 @@
   "category": "cognac",
   "country": "France",
   "abv": "40%",
-  "image": "bottle_img/hennessy_xxo.png",
+  "image": "bottle_img/hennessy_xxo.webp",
 
   "whenToOffer": [
     "Klient szuka najwyższej półki",
@@ -5041,7 +5041,7 @@
   "category": "cognac",
   "country": "France",
   "abv": "40%",
-  "image": "bottle_img/camus_vs.png",
+  "image": "bottle_img/camus_vs.webp",
 
   "whenToOffer": [
     "Klient szuka mniej mainstreamowej marki",
@@ -5058,7 +5058,7 @@
   "category": "cognac",
   "country": "France",
   "abv": "40%",
-  "image": "bottle_img/camus_vsop.png",
+  "image": "bottle_img/camus_vsop_set.webp",
 
   "whenToOffer": [
     "Klient chce coś innego niż Hennessy",
@@ -5075,7 +5075,7 @@
   "category": "cognac",
   "country": "France",
   "abv": "40%",
-  "image": "bottle_img/martell_vs.png",
+  "image": "bottle_img/martell_vs.webp",
 
   "whenToOffer": [
     "Klient szuka klasycznej marki",
@@ -5092,7 +5092,7 @@
   "category": "cognac",
   "country": "France",
   "abv": "40%",
-  "image": "bottle_img/martell_vsop.png",
+  "image": "bottle_img/martell_vsop.webp",
 
   "whenToOffer": [
     "Klient chce elegancki VSOP",
@@ -5109,7 +5109,7 @@
   "category": "cognac",
   "country": "France",
   "abv": "40%",
-  "image": "bottle_img/martell_xo.png",
+  "image": "bottle_img/martell_xo.webp",
 
   "whenToOffer": [
     "Klient szuka eleganckiego XO",
@@ -5126,7 +5126,7 @@
   "category": "cognac",
   "country": "France",
   "abv": "40%",
-  "image": "bottle_img/remy_vsop.png",
+  "image": "bottle_img/remy_vsop.webp",
 
   "whenToOffer": [
     "Klient szuka bardziej eleganckiego VSOP",
@@ -5143,7 +5143,7 @@
   "category": "cognac",
   "country": "France",
   "abv": "40%",
-  "image": "bottle_img/remy_xo.png",
+  "image": "bottle_img/remy_xo.webp",
 
   "whenToOffer": [
     "Klient szuka bardzo eleganckiego XO",
@@ -5160,7 +5160,7 @@
   "category": "cognac",
   "country": "France",
   "abv": "40%",
-  "image": "bottle_img/courvoisier_vs.png",
+  "image": "bottle_img/courvoisier_vs.webp",
 
   "whenToOffer": [
     "Alternatywa dla Hennessy VS",
@@ -5177,7 +5177,7 @@
   "category": "cognac",
   "country": "France",
   "abv": "40%",
-  "image": "bottle_img/courvoisier_vsop.png",
+  "image": "bottle_img/courvoisier_vsop.webp",
 
   "whenToOffer": [
     "Klient szuka eleganckiego VSOP",
@@ -5194,7 +5194,7 @@
   "category": "cognac",
   "country": "France",
   "abv": "40%",
-  "image": "bottle_img/fussigny_vs.png",
+  "image": "bottle_img/fussigny_vs.webp",
 
   "whenToOffer": [
     "Klient szuka mniej znanej marki",
@@ -5211,7 +5211,7 @@
   "category": "cognac",
   "country": "France",
   "abv": "40%",
-  "image": "bottle_img/fussigny_vsop.png",
+  "image": "bottle_img/fussigny_vsop.webp",
 
   "whenToOffer": [
     "Klient szuka mniej mainstreamowego VSOP",
@@ -5228,7 +5228,7 @@
   "category": "cognac",
   "country": "France",
   "abv": "40%",
-  "image": "bottle_img/fussigny_xo.png",
+  "image": "bottle_img/fussigny_xo.webp",
 
   "whenToOffer": [
     "Klient szuka XO spoza mainstreamu",
@@ -5245,7 +5245,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/jw_red.png",
+  "image": "bottle_img/jw_red.webp",
 
   "whenToOffer": [
     "Klient szuka whisky do mieszania",
@@ -5263,7 +5263,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/jw_black12.png",
+  "image": "bottle_img/jw_black12.webp",
 
   "whenToOffer": [
     "Klient szuka klasycznej 12-letniej whisky",
@@ -5280,7 +5280,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/jw_double_black.png",
+  "image": "bottle_img/jw_doubleblack.webp",
 
   "whenToOffer": [
     "Klient lubi bardziej dymne whisky",
@@ -5297,7 +5297,7 @@
   "category": "whisky-blended-malt",
   "country": "Scotland",
   "abv": "43%",
-  "image": "bottle_img/jw_island_green.png",
+  "image": "bottle_img/jw_green.webp",
 
   "whenToOffer": [
     "Klient szuka czegoś tylko z lotniska",
@@ -5314,7 +5314,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/jw_black_ruby.png",
+  "image": "bottle_img/jw_ruby.webp",
 
   "whenToOffer": [
     "Klient szuka limitowanej wersji",
@@ -5331,7 +5331,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/jw_triple_cask.png",
+  "image": "bottle_img/jw_triplecask.webp",
 
   "whenToOffer": [
     "Klient szuka łagodniejszej wersji",
@@ -5348,7 +5348,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/jw_gold.png",
+  "image": "bottle_img/jw_gold.webp",
 
   "whenToOffer": [
     "Klient szuka czegoś bardziej eleganckiego niż Black",
@@ -5365,7 +5365,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/jw_18.png",
+  "image": "bottle_img/jw18.webp",
 
   "whenToOffer": [
     "Klient szuka starszej whisky",
@@ -5382,7 +5382,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/jw_blue.png",
+  "image": "bottle_img/jw_blue.webp",
 
   "whenToOffer": [
     "Klient szuka luksusowej whisky",
@@ -5399,7 +5399,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/jw_blue_cognac.png",
+  "image": "bottle_img/jw_xordinaire.webp",
 
   "whenToOffer": [
     "Klient szuka limitowanej edycji",
@@ -5416,7 +5416,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "43%",
-  "image": "bottle_img/jw_blue_umami.png",
+  "image": "bottle_img/jw_umami.webp",
 
   "whenToOffer": [
     "Klient szuka unikalnej edycji",
@@ -5433,7 +5433,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/ballantines_7.png",
+  "image": "bottle_img/ballantines7.webp",
 
   "whenToOffer": [
     "Klient szuka czegoś łagodniejszego niż Finest",
@@ -5450,7 +5450,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/ballantines_10.png",
+  "image": "bottle_img/ballantines10.webp",
 
   "whenToOffer": [
     "Klient szuka whisky z wiekiem",
@@ -5467,7 +5467,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/ballantines_finest.png",
+  "image": "bottle_img/ballantines.webp",
 
   "whenToOffer": [
     "Klient szuka klasycznej szkockiej whisky",
@@ -5485,7 +5485,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/ballantines_30.png",
+  "image": "bottle_img/ballantines30.webp",
 
   "whenToOffer": [
     "Klient szuka bardzo starej whisky",
@@ -5503,7 +5503,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/ballantines_23.png",
+  "image": "bottle_img/ballantines23.webp",
 
   "whenToOffer": [
     "Klient szuka czegoś powyżej 21 lat",
@@ -5520,7 +5520,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/ballantines_21.png",
+  "image": "bottle_img/ballantines21.webp",
 
   "whenToOffer": [
     "Klient szuka whisky premium",
@@ -5537,7 +5537,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/ballantines_17.png",
+  "image": "bottle_img/ballantines17.webp",
 
   "whenToOffer": [
     "Klient szuka starszej whisky",
@@ -5554,7 +5554,7 @@
   "category": "whisky-flavoured",
   "country": "Scotland",
   "abv": "35%",
-  "image": "bottle_img/ballantines_brasil.png",
+  "image": "bottle_img/ballantines_brasil.webp",
 
   "whenToOffer": [
     "Klient szuka czegoś lżejszego",
@@ -5572,7 +5572,7 @@
   "category": "whisky-single-grain",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/ballantines_single_grain.png",
+  "image": "bottle_img/ballantines_singlegrain.webp",
 
   "whenToOffer": [
     "Klient szuka czegoś innego niż blend",
@@ -5589,7 +5589,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/chivas_12.png",
+  "image": "bottle_img/chivas12.webp",
 
   "whenToOffer": [
     "Klient szuka klasycznej 12-letniej whisky",
@@ -5608,7 +5608,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/chivas_13_sherry.png",
+  "image": "bottle_img/chivas13_sherry.webp",
 
   "whenToOffer": [
     "Klient chce coś innego niż klasyczna 12",
@@ -5624,17 +5624,17 @@
   "variants": [
     {
       "type": "Sherry Cask",
-      "image": "bottle_img/chivas_13_sherry.png",
+      "image": "bottle_img/chivas13_sherry.webp",
       "note": "Finisz w beczkach po sherry Oloroso – więcej suszonych owoców i przypraw."
     },
     {
       "type": "Rum Cask",
-      "image": "bottle_img/chivas_13_rum.png",
+      "image": "bottle_img/chivas13_rum.webp",
       "note": "Finisz w beczkach po rumie – nuty karmelu i tropikalnych owoców."
     },
     {
       "type": "Irish Whiskey Cask",
-      "image": "bottle_img/chivas_13_irish.png",
+      "image": "bottle_img/chivas13_irish.webp",
       "note": "Finisz w beczkach po irlandzkiej whiskey – bardziej kremowa i łagodna."
     }
   ]
@@ -5647,7 +5647,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/chivas_15.png",
+  "image": "bottle_img/chivas15.webp",
 
   "whenToOffer": [
     "Klient lubi koniak",
@@ -5664,7 +5664,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/chivas_18.png",
+  "image": "bottle_img/chivas18.webp",
 
   "whenToOffer": [
     "Klient szuka starszej whisky",
@@ -5681,7 +5681,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "48%",
-  "image": "bottle_img/chivas_18_pauillac.png",
+  "image": "bottle_img/chivas18_trex.webp",
 
   "whenToOffer": [
     "Klient szuka czegoś mocniejszego",
@@ -5698,7 +5698,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/chivas_25.png",
+  "image": "bottle_img/chivas25.webp",
 
   "whenToOffer": [
     "Klient szuka bardzo starej whisky",
@@ -5715,7 +5715,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/royal_salute_21_vintage.png",
+  "image": "bottle_img/royalsalute_vintage.webp",
 
   "whenToOffer": [
     "Klient szuka czegoś wyjątkowego",
@@ -5732,7 +5732,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/royal_salute_25.png",
+  "image": "bottle_img/royal_25.webp",
 
   "whenToOffer": [
     "Klient szuka ultra premium",
@@ -5749,7 +5749,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/famous_grouse.png",
+  "image": "bottle_img/famous_grouse.webp",
 
   "whenToOffer": [
     "Klient szuka klasycznej szkockiej whisky",
@@ -5767,7 +5767,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/grants.png",
+  "image": "bottle_img/grants.webp",
 
   "whenToOffer": [
     "Klient szuka łagodnej whisky",
@@ -5784,7 +5784,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/grants_distillers.png",
+  "image": "bottle_img/grants_distillery.webp",
 
   "whenToOffer": [
     "Klient chce coś bardziej owocowego",
@@ -5801,7 +5801,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/sir_edwards.png",
+  "image": "bottle_img/sir_edwards.webp",
 
   "whenToOffer": [
     "Klient szuka budżetowej szkockiej",
@@ -5819,7 +5819,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/label5.png",
+  "image": "bottle_img/label5.webp ",
 
   "whenToOffer": [
     "Budżetowa alternatywa",
@@ -5999,7 +5999,7 @@
   ],
 
   "howToPresent": "Finisz w rzadkich beczkach z dębu Mizunara. Bardziej korzenna i egzotyczna."
-}
+},
 
 {
   "slug": "dewars-double-double-21-oloroso",
@@ -6044,7 +6044,7 @@
   "country": "Scotland",
   "region": "Speyside",
   "abv": "43%",
-  "image": "bottle_img/glenfiddich_vat02.png",
+  "image": "bottle_img/glenfiddich_vat02.webp",
 
   "whenToOffer": [
     "Klient zna VAT 01",
@@ -6065,7 +6065,7 @@
   "country": "Scotland",
   "region": "Speyside",
   "abv": "43%",
-  "image": "bottle_img/glenfiddich_vat03.png",
+  "image": "bottle_img/glenfiddich_vat03.webp",
 
   "whenToOffer": [
     "Klient szuka edycji kolekcjonerskiej",
@@ -6086,7 +6086,7 @@
   "country": "Scotland",
   "region": "Speyside",
   "abv": "43%",
-  "image": "bottle_img/glenfiddich_vat04.png",
+  "image": "bottle_img/glenfiddich_vat04.webp",
 
   "whenToOffer": [
     "Klient zbiera serię VAT",
@@ -8590,9 +8590,10 @@
   ],
 
   "howToPresent": "Klasyczna tequila typu silver w przystępnej cenie. Lżejsza, mniej złożona, idealna do shotów i prostych drinków."
-},
+}
 
 ]      
+
 
 
 
