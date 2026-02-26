@@ -5836,7 +5836,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/lauders.png",
+  "image": "bottle_img/lauders.webp",
 
   "whenToOffer": [
     "Klient szuka tańszej szkockiej",
@@ -5853,7 +5853,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/clan_campbell.png",
+  "image": "bottle_img/campbell.webp",
 
   "whenToOffer": [
     "Budżetowa opcja",
@@ -5870,7 +5870,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/deacon.png",
+  "image": "bottle_img/deacon.webp",
 
   "whenToOffer": [
     "Klient szuka czegoś nowoczesnego",
@@ -5887,7 +5887,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/buchanans_12.png",
+  "image": "bottle_img/buchanan's12.webp",
 
   "whenToOffer": [
     "Klient zna markę z Ameryki Południowej",
@@ -5904,7 +5904,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/jb.png",
+  "image": "bottle_img/jb.webp",
 
   "whenToOffer": [
     "Klient szuka klasycznego blendu",
@@ -5921,7 +5921,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/william_peel.png",
+  "image": "bottle_img/william.webp",
 
   "whenToOffer": [
     "Klient szuka bardzo budżetowej whisky",
@@ -5938,7 +5938,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/dewars_white.png",
+  "image": "bottle_img/dewars.webp",
 
   "whenToOffer": [
     "Klient szuka klasycznej szkockiej whisky",
@@ -5956,7 +5956,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/dewars_12.png",
+  "image": "bottle_img/dewars12.webp",
 
   "whenToOffer": [
     "Klient szuka 12-letniej whisky",
@@ -5974,7 +5974,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/dewars_15.png",
+  "image": "bottle_img/dewars15.webp",
 
   "whenToOffer": [
     "Klient szuka czegoś pomiędzy 12 a 18 lat",
@@ -5991,7 +5991,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "46%",
-  "image": "bottle_img/dewars_21_mizunara.png",
+  "image": "bottle_img/dewars21_mizunara.webp",
 
   "whenToOffer": [
     "Klient szuka czegoś nietypowego",
@@ -6008,7 +6008,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "46%",
-  "image": "bottle_img/dewars_21_oloroso.png",
+  "image": "bottle_img/dewars20_oloroso.webp",
 
   "whenToOffer": [
     "Klient szuka czegoś premium",
@@ -6025,7 +6025,7 @@
   "category": "whisky-blended",
   "country": "Scotland",
   "abv": "46%",
-  "image": "bottle_img/dewars_26_palo_cortado.png",
+  "image": "bottle_img/dewars26_palocortado.webp",
 
   "whenToOffer": [
     "Klient szuka ultra premium",
@@ -6107,7 +6107,7 @@
   "country": "Scotland",
   "region": "Speyside",
   "abv": "43%",
-  "image": "bottle_img/balvenie_12_rum.png",
+  "image": "bottle_img/balvenie12_rum.webp",
 
   "whenToOffer": [
     "Klient lubi słodsze whisky",
@@ -6128,7 +6128,7 @@
   "country": "Scotland",
   "region": "Speyside",
   "abv": "43%",
-  "image": "bottle_img/balvenie_15_madeira.png",
+  "image": "bottle_img/balvenie15_madeira.webp",
 
   "whenToOffer": [
     "Klient lubi słodsze, winne profile",
@@ -6148,7 +6148,7 @@
   "country": "Scotland",
   "region": "Speyside",
   "abv": "43%",
-  "image": "bottle_img/balvenie_18_px.png",
+  "image": "bottle_img/balvenie18_px.webp",
 
   "whenToOffer": [
     "Klient szuka starszej whisky sherry",
@@ -6168,7 +6168,7 @@
   "country": "Scotland",
   "region": "Speyside",
   "abv": "48.3%",
-  "image": "bottle_img/balvenie_19_peat.png",
+  "image": "bottle_img/balvenie19.webp",
 
   "whenToOffer": [
     "Klient lubi torfowe whisky",
@@ -6189,7 +6189,7 @@
   "country": "Scotland",
   "region": "Speyside",
   "abv": "40%",
-  "image": "bottle_img/glenlivet_14_tr.png",
+  "image": "bottle_img/glenlivet14_trex.jpg",
 
   "whenToOffer": [
     "Klient szuka czegoś tylko z lotniska",
@@ -6210,7 +6210,7 @@
   "country": "Scotland",
   "region": "Speyside",
   "abv": "40%",
-  "image": "bottle_img/glenlivet_16_tr.png",
+  "image": "bottle_img/glenlivet16_trex.avif",
 
   "whenToOffer": [
     "Klient szuka starszej wersji Glenlivet",
@@ -6230,7 +6230,7 @@
   "category": "whisky-blended-malt",
   "country": "Scotland",
   "abv": "46%",
-  "image": "bottle_img/big_peat.png",
+  "image": "bottle_img/big_peat.webp",
 
   "whenToOffer": [
     "Klient lubi torfowe whisky",
@@ -6248,7 +6248,7 @@
   "category": "whisky-blended-malt",
   "country": "Scotland",
   "abv": "46%",
-  "image": "bottle_img/peat_monster.png",
+  "image": "bottle_img/peat_monster.webp",
 
   "whenToOffer": [
     "Klient szuka torfu ale bardziej eleganckiego",
@@ -6266,7 +6266,7 @@
   "category": "whisky-blended-malt",
   "country": "Scotland",
   "abv": "46%",
-  "image": "bottle_img/orchard_house.png",
+  "image": "bottle_img/orchard_house.webp",
 
   "whenToOffer": [
     "Klient nie lubi torfu",
@@ -6284,7 +6284,7 @@
   "category": "whisky-blended-malt",
   "country": "Scotland",
   "abv": "40%",
-  "image": "bottle_img/monkey_shoulder.png",
+  "image": "bottle_img/monkey.webp",
 
   "whenToOffer": [
     "Klient szuka whisky do koktajli",
@@ -6303,7 +6303,7 @@
   "country": "Scotland",
   "region": "Speyside",
   "abv": "40%",
-  "image": "bottle_img/aberlour_12.png",
+  "image": "bottle_img/aberlour12.webp",
 
   "whenToOffer": [
     "Klient lubi whisky z nutą sherry",
@@ -6324,7 +6324,7 @@
   "country": "Scotland",
   "region": "Speyside",
   "abv": "40%",
-  "image": "bottle_img/aberlour_14.png",
+  "image": "bottle_img/aberlour14.webp",
 
   "whenToOffer": [
     "Klient szuka czegoś bardziej dojrzałego niż 12",
@@ -6345,7 +6345,7 @@
   "country": "Scotland",
   "region": "Speyside",
   "abv": "48%",
-  "image": "bottle_img/aberlour_suthain.png",
+  "image": "bottle_img/suthain.webp",
 
   "whenToOffer": [
     "Klient szuka edycji lotniskowej",
@@ -6366,7 +6366,7 @@
   "country": "Scotland",
   "region": "Highland",
   "abv": "40%",
-  "image": "bottle_img/old_pulteney_10.png",
+  "image": "bottle_img/oldpulteney10.webp",
 
   "whenToOffer": [
     "Klient szuka czegoś innego niż Speyside",
@@ -6387,7 +6387,7 @@
   "country": "Scotland",
   "region": "Islay",
   "abv": "50%",
-  "image": "bottle_img/bunnahabhain_an_cladach.png",
+  "image": "bottle_img/an_cladach.webp",
 
   "whenToOffer": [
     "Klient chce Islay bez mocnego torfu",
@@ -6408,7 +6408,7 @@
   "country": "Scotland",
   "region": "Highland",
   "abv": "45%",
-  "image": "bottle_img/glenglassaugh_12.png",
+  "image": "bottle_img/glenglassaugh12.webp",
 
   "whenToOffer": [
     "Klient szuka mniej znanej destylarni",
@@ -6428,7 +6428,7 @@
   "country": "Scotland",
   "region": "Islay",
   "abv": "50%",
-  "image": "bottle_img/classic_laddie.png",
+  "image": "bottle_img/classic_laddie.webp",
 
   "whenToOffer": [
     "Klient chce Islay bez torfu",
@@ -6449,7 +6449,7 @@
   "country": "Scotland",
   "region": "Islay",
   "abv": "50%",
-  "image": "bottle_img/port_charlotte_10.png",
+  "image": "bottle_img/port_charlotte10.webp",
 
   "whenToOffer": [
     "Klient lubi mocno torfowe whisky",
@@ -6470,7 +6470,7 @@
   "country": "Scotland",
   "region": "Highland",
   "abv": "43%",
-  "image": "bottle_img/aberfeldy_12_madeira.png",
+  "image": "bottle_img/aberfeldy12_trex.webp",
 
   "whenToOffer": [
     "Klient lubi słodsze profile",
@@ -6491,7 +6491,7 @@
   "country": "Scotland",
   "region": "Highland",
   "abv": "43%",
-  "image": "bottle_img/aberfeldy_16_madeira.png",
+  "image": "bottle_img/aberfeldy16_trex.webp",
 
   "whenToOffer": [
     "Klient szuka starszej wersji",
@@ -6512,7 +6512,7 @@
   "country": "Scotland",
   "region": "Highland",
   "abv": "40%",
-  "image": "bottle_img/tomatin_8_trex.png",
+  "image": "bottle_img/tomatin8.webp",
 
   "whenToOffer": [
     "Klient szuka łagodnej whisky w dobrej cenie",
@@ -6533,7 +6533,7 @@
   "country": "Scotland",
   "region": "Speyside",
   "abv": "46%",
-  "image": "bottle_img/benriach_quarter_cask.png",
+  "image": "bottle_img/benriach_quarter.webp",
 
   "whenToOffer": [
     "Klient chce bardziej intensywną Speyside",
@@ -6554,7 +6554,7 @@
   "country": "Scotland",
   "region": "Speyside",
   "abv": "40%",
-  "image": "bottle_img/singleton_autumn.png",
+  "image": "bottle_img/singleton_autumn.webp",
 
   "whenToOffer": [
     "Klient szuka czegoś łagodnego",
@@ -6573,7 +6573,7 @@
   "country": "Scotland",
   "region": "Speyside",
   "abv": "40%",
-  "image": "bottle_img/singleton_spring.png",
+  "image": "bottle_img/singleton_spring.jpg",
 
   "whenToOffer": [
     "Klient chce coś świeżego i lekkiego",
@@ -6591,7 +6591,7 @@
   "country": "Scotland",
   "region": "Islay",
   "abv": "46%",
-  "image": "bottle_img/ardbeg_10.png",
+  "image": "bottle_img/ardbeg10.webp",
 
   "whenToOffer": [
     "Klient lubi mocny torf",
@@ -6612,7 +6612,7 @@
   "country": "Scotland",
   "region": "Islay",
   "abv": "46%",
-  "image": "bottle_img/ardbeg_smoketrails_napa.png",
+  "image": "bottle_img/ardbeg_smoketrails.webp",
 
   "whenToOffer": [
     "Klient szuka czegoś unikalnego",
@@ -6633,7 +6633,7 @@
   "country": "Scotland",
   "region": "Islay",
   "abv": "40%",
-  "image": "bottle_img/bowmore_11_trex.png",
+  "image": "bottle_img/bowmore11.webp",
 
   "whenToOffer": [
     "Klient chce łagodniejsze Islay",
@@ -6654,7 +6654,7 @@
   "country": "Scotland",
   "region": "Islay",
   "abv": "43%",
-  "image": "bottle_img/bowmore_14_bordeaux.png",
+  "image": "bottle_img/bowmore14.webp",
 
   "whenToOffer": [
     "Klient lubi wine finish",
@@ -6675,7 +6675,7 @@
   "country": "Scotland",
   "region": "Islay",
   "abv": "43%",
-  "image": "bottle_img/bowmore_16_ruby_port.png",
+  "image": "bottle_img/bowmore16.webp",
 
   "whenToOffer": [
     "Klient szuka słodszej Islay",
@@ -6696,7 +6696,7 @@
   "country": "Scotland",
   "region": "Islay",
   "abv": "48%",
-  "image": "bottle_img/lagavulin_8.png",
+  "image": "bottle_img/lagavulin8.webp",
 
   "whenToOffer": [
     "Klient lubi intensywny torf",
@@ -6717,7 +6717,7 @@
   "country": "Scotland",
   "region": "Islay",
   "abv": "43%",
-  "image": "bottle_img/lagavulin_10_trex.png",
+  "image": "bottle_img/lagavulin10.webp",
 
   "whenToOffer": [
     "Klient chce edycję lotniskową",
@@ -6737,7 +6737,7 @@
   "country": "Scotland",
   "region": "Islay",
   "abv": "43%",
-  "image": "bottle_img/lagavulin_16.png",
+  "image": "bottle_img/lagavulin16.webp",
 
   "whenToOffer": [
     "Klient zna i szuka Lagavulin",
@@ -6758,7 +6758,7 @@
   "country": "Scotland",
   "region": "Islay",
   "abv": "40%",
-  "image": "bottle_img/laphroaig_four_oak.png",
+  "image": "bottle_img/laphroaig_fouroak.webp",
 
   "whenToOffer": [
     "Fan Laphroaig",
@@ -6779,7 +6779,7 @@
   "country": "Scotland",
   "region": "Islay",
   "abv": "48%",
-  "image": "bottle_img/laphroaig_px.png",
+  "image": "bottle_img/laphroaig_px.webp",
 
   "whenToOffer": [
     "Fan intensywnego torfu",
@@ -6800,7 +6800,7 @@
   "country": "Scotland",
   "region": "Isle of Skye",
   "abv": "45.8%",
-  "image": "bottle_img/talisker_10.png",
+  "image": "bottle_img/talisker10.webp",
 
   "whenToOffer": [
     "Klient chce torf, ale nie Islay",
@@ -6821,7 +6821,7 @@
   "country": "Scotland",
   "region": "Isle of Skye",
   "abv": "45.8%",
-  "image": "bottle_img/talisker_dark_storm.png",
+  "image": "bottle_img/talisker_darkstorm.webp",
 
   "whenToOffer": [
     "Klient chce mocniejszy styl Talisker",
@@ -6842,7 +6842,7 @@
   "country": "Scotland",
   "region": "Isle of Skye",
   "abv": "45.8%",
-  "image": "bottle_img/talisker_surge.png",
+  "image": "bottle_img/talisker_surge.webp",
 
   "whenToOffer": [
     "Klient szuka świeższej wersji Talisker",
@@ -6862,7 +6862,7 @@
   "country": "Scotland",
   "region": "Orkney",
   "abv": "44.2%",
-  "image": "bottle_img/highland_park_14.png",
+  "image": "bottle_img/hp14_land.webp",
 
   "whenToOffer": [
     "Klient chce torf subtelniejszy niż Islay",
@@ -6882,7 +6882,7 @@
   "country": "Scotland",
   "region": "Orkney",
   "abv": "43%",
-  "image": "bottle_img/highland_park_16.png",
+  "image": "bottle_img/hp16_sea.webp",
 
   "whenToOffer": [
     "Klient szuka bardziej dojrzałej Orkney",
@@ -6902,7 +6902,7 @@
   "country": "Scotland",
   "region": "Orkney",
   "abv": "43%",
-  "image": "bottle_img/highland_park_17.png",
+  "image": "bottle_img/hp17_trex.jpg",
 
   "whenToOffer": [
     "Klient chce starszą edycję",
