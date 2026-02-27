@@ -1,0 +1,509 @@
+[
+{
+    "slug": "ciroc",
+    "name": "Ciroc",
+    "subtitle": "Wódka winogronowa · Francja",
+    "category": "vodka",
+    "country": "France",
+    "abv": "40%",
+    "rawMaterial": "Winogrona",
+    "image": "bottle_img/ciroc.webp",
+    "whenToOffer": [
+      "Klient idealną wódkę do drinków",
+      "Klient lubi gładkie, delikatne alkohole",
+      "Klient chce coś innego niż zbożowa wódka"
+    ],
+
+    "howToPresent": "Cîroc pochodzi z wysokiej jakości francuskich winogron (Mauzac Blanc + Ugni Blanc), destylowana 5 razy z których ostatni w specjalnie zaprojektowanym miedzianym alembiku, co wyróżnia Ciroc spośród innych wódek i sprawia, że jest ona elegancko gładka i wyrafinowana.",
+
+    "crossSell": [
+  "Wina mususujące i szampany",
+  "Rozne likiery di innych koktajli"
+],
+    "cocktails": [
+    "Idealna do mieszania z sokami przez swoją winogronową bazę",
+    "Dobrze komponuje się z musującymi winami i szampanem a nawet z prostym tonikiem jak sugeruje producent",
+    "Jedna z najlepszych opcji do klasycznego Cosmopolitana"
+  ]
+  },
+
+  {
+    "slug": "belvedere",
+    "name": "Belvedere",
+    "subtitle": "Wódka żytnia · Polska",
+    "category": "vodka",
+    "country": "Poland",
+    "abv": "40%",
+    "rawMaterial": "Żyto organiczne",
+    "image": "bottle_img/belvedere_organic.jpg",
+    "whenToOffer": [
+      "Klient szuka znanej wódki premium",
+      "Klient lubi wódkę z charakterem"
+    ],
+
+    "howToPresent": "Malibu to likier na bazie rumu z dodatkiem kokosa. Niski alkohol, bardzo przystępny, idealny do prostych drinków i koktajli."
+  },
+
+  {
+    "slug": "grey-goose",
+    "name": "Grey Goose",
+    "subtitle": "Wódka pszeniczna · Francja",
+    "category": "vodka",
+    "country": "France",
+    "abv": "40%",
+    "rawMaterial": "Pszenica",
+    "image": "bottle_img/grey_goose.png",
+    "whenToOffer": [
+      "Klient szuka bardzo gładkiej wódki",
+      "Klient chce markę premium na prezent",
+      "Wódkę premium do drinków"
+    ],
+
+    "howToPresent": "Wódka GREY GOOSE destylowaną tylko raz, aby pozwolić jej naturalnemu charakterowi zabłysnąć. Efektem jest wódka o przyjemnym smaku i wyjątkowo gładkiej teksturze.",
+
+      "cocktails": [
+    "Cytrusowe, orzeźwiające koktajle, które podkreślają naturalne nuty GREY GOOSE"
+    ]
+  },
+
+  {
+    "slug": "danzka",
+    "name": "Danzka",
+    "subtitle": "Wódka pszeniczna · Dania",
+    "category": "vodka",
+    "country": "Denmark",
+    "abv": "40%",
+    "rawMaterial": "Zboża (w większości pszenica)",
+    "image": "bottle_img/danzka.jpg",
+    "whenToOffer": [
+      "Klient szuka klasycznej, wodki w bezpiecznym opakowaniu",
+      "KLient szuka lekkiego opakowania, które łatwo zabrać w podróż",
+      "Klient szuka wódki do drinków w rozsądnej cenie"
+    ],
+
+        "howToPresent": "Butelka DANZKA Forty jest również znana jako najlepsza na świecie premium wódka do podróży. Jedyna wódka, która się nie stłucze podczas podróży. Dodatkowo unikalny materiał sprawia, że schładza się znacznie szybciej."
+
+  },
+
+  {
+    "slug": "smirnoff",
+    "name": "Smirnoff",
+    "subtitle": "Wódka klasyczna · Międzynarodowa",
+    "category": "vodka",
+    "country": "UK",
+    "abv": "37.5%",
+    "image": "bottle_img/smirnoff.webp",
+    "whenToOffer": [
+      "Klient szuka znanej, uniwersalnej wódki",
+      "Klient potrzebuje alkoholu do drinków"
+    ],
+
+    "howToPresent": "Potrójnie destylowana i filtrowana 10 razy, co daje tej wódce bardzo neutralny smak."
+  },
+
+  {
+    "slug": "titos",
+    "name": "Tito’s Handmade Vodka",
+    "subtitle": "Wódka kukurydziana · USA",
+    "category": "vodka",
+    "country": "USA",
+    "abv": "40%",
+    "rawMaterial": "Kukurydza",
+    "image": "bottle_img/titos.jpg",
+    "whenToOffer": [
+      "Klient szuka wódki rzemieślniczej",
+      "Klient unika glutenu"
+    ],
+
+    "howToPresent": "Wytwarzany w tradycyjnych alembikach i inspirowany metodami destylacji szkockich single maltów oraz francuskich koniaków. Jest tak samo gładka i delikatna jak pszeniczne wódki, ale przyjemniejsza w smaku",
+
+        "cocktails": [
+    "",
+    "",
+    ""
+    ]
+  },
+
+  {
+    "slug": "zubrowka",
+    "name": "Żubrówka",
+    "subtitle": "Wódka z trawą żubrową · Polska",
+    "category": "vodka",
+    "country": "Poland",
+    "abv": "37.5%",
+    "rawMaterial": "Zboża i ekstrakt z trawy żubrowej",
+    "image": "bottle_img/zubrowka.png",
+    "whenToOffer": [
+      "Klient szuka klasycznej polskiej wódki",
+      "Klient lubi delikatnie aromatyczne alkohole",
+      ""
+    ],
+
+    "howToPresent": "Polska wódka aromatyzowana naturalną trawą żubrową. Zachowuje wytrawny charakter wódki, ale dzięki delikatnemu aromatowi waniliowo-ziołowemu pije się wyraźnie łagodniej niż klasyczne wódki.",
+
+        "cocktails": [
+    "Szarlotka (40ml Żubrówka, sok jabłkowy, cynamon w proszku)",
+    "Żubrówka  sour (50ml Żubrówka, 30ml sok z cytryny, 20ml syrop cukrowy)"
+    ],
+
+    "salesTip": [
+      "Żubrówka jest bardzo skuteczna jako alternatywa dla najtańszych wódek neutralnych. Klient, który wybiera tanią białą wódkę, zwykle nie szuka konkretnej marki szuka ceny i łagodności."
+    ]
+  },
+
+  {
+    "slug": "absolut",
+    "name": "Absolut",
+    "subtitle": "Wódka pszeniczna · Szwecja",
+    "category": "vodka",
+    "country": "Szwecja",
+    "abv": "40%",
+    "rawMaterial": "Pszenica",
+    "image": "/absolut.webp",
+    "whenToOffer": [
+      "Klient szuka wódki do drinków",
+      "Klient chce rozpoznawalną markę"
+    ],
+
+    "howToPresent":" "
+  },
+
+  {
+    "slug": "chopin-rye",
+    "name": "Chopin Rye",
+    "subtitle": "Wódka żytnia · Polska",
+    "category": "vodka",
+    "country": "Poland",
+    "abv": "40%",
+    "rawMaterial":"Żyto",
+    "image": "bottle_img/chopin-rye.png",
+    "whenToOffer": [
+      "Dla osób ceniących intensywny smak i charakter trunku",
+      "Idelny dla miłośników wyrazistych koktajli"
+    ],
+
+    "howToPresent":"Wódka o intensywnym smaku, pikantnymi nutami pieprzu charakterystycznymi dla żyta"
+
+  },
+
+  {
+    "slug": "chopin-wheat",
+    "name": "Chopin Wheat",
+    "subtitle": "Wódka pszeniczna · Polska",
+    "category": "vodka",
+    "country": "Poland",
+    "abv": "40%",
+    "rawMaterial":"Pszenica",
+    "image": "/images/chopin-wheat.png",
+    "whenToOffer": [
+      "Klient szuka łagodnej i delikatnej wódki",
+      "Osób lubiących wódki pszeniczne",
+      "Dla miłośników subtelnych koktajli"
+    ],
+    "howToPresent":"Lekka, neutralna, delikatna, gładka, uniwersalna."
+  },
+
+  {
+    "slug": "chopin-potato",
+    "name": "Chopin Potato",
+    "subtitle": "Wódka ziemniaczana · Polska",
+    "category": "vodka",
+    "country": "Poland",
+    "abv": "40%",
+    "rawMaterial":"Ziemniaki",
+    "image": "bottle_img/chopin-potato.png",
+    "whenToOffer": [
+      "Klient szukający unikalnej wódki polskiej",
+      "Osób ceniących pełniejsze i wyraziste trunki",
+      "Szukających prezentu z Polski"
+    ],
+
+      "howToPresent":"Ikoniczna wódka ziemniaczana, ma bogatszy profil smakowy, kremowa, pełna, oleista, z subtelną słodyczą. Idealny prezent z Polski, ponieważ wódek z tego surowca praktycznie nie robią w innych krajach."
+  },
+
+  {
+    "slug": "chopin-indygo",
+    "name": "Chopin Blended Potatoes, Wheat & Rye",
+    "subtitle": "Wódka ziemniaczana · Polska",
+    "category": "vodka",
+    "country": "Poland",
+    "abv": "40%",
+    "rawMaterial":"Ziemniaki, pszenica, żyto",
+    "image": "bottle_img/chopin_indygo.png",
+    "whenToOffer": [
+      "Osób ceniących wygląd i design butelki",
+      "Klienta znającego podstawowe trio marki chopin"
+       ],
+
+    "howToPresent":"Chopin Indygo jest zwieńczeniem kolekcji i połączeniem wszystkich trzech flagowych wódek marki Chopin Potato, Wheat i Rye. W jednej butelce zawarte są kremowy smak wódki ziemniaczanej, delikatność pszenicy i pikanteria żyta, z przewagą charakteru żyta."
+   
+  },
+
+  {
+    "slug": "chopin-gold",
+    "name": "Chopin Blended Potatoes & Wheat",
+    "subtitle": "Wódka ziemniaczana · Polska",
+    "category": "vodka",
+    "country": "Poland",
+    "abv": "40%",
+    "rawMaterial":"Ziemniaki, pszenica",
+    "image": "bottle_img/chopin_gold.png",
+    "whenToOffer": [
+      "Osób lubiących gładkie i delikatne wódki",
+      "Osób ceniących wyglad i design",
+      "Klienta znającego podstawowe trio marki chopin"
+    ],
+
+    "howToPresent":""
+
+  },
+
+  {
+    "slug": "chopin-baltic",
+    "name": "Baltic Vodka",
+    "subtitle": "Wódka ziemniaczana · Polska",
+    "category": "vodka",
+    "country": "Poland",
+    "abv": "40%",
+    "rawMaterial":"Ziemniaki",
+    "image": "bottle_img/chopin_baltic.jpg",
+    "whenToOffer": [
+      "Klienta szukającego budżetowej wódki ziemniaczanej",
+      "Osób szukających czegoś lokalenego"
+    ],
+
+    "howToPresent":"Jest to wódka ziemniaczana, nawiązująca do Bałtyku, kremowa, oleista, intensywna, lekko ostra. Jest produkowana w gorzelni Chopin",
+ 
+    "salesTip": [
+      "Można zastosować up-selling przy półlitrowych wódkach stock, żubrówka, soplica, jarzębiak, polecając Baltic vodka jako ciekawsza alternatywe zrobioną w 100% z ziemniaków."
+    ]
+  },
+
+  {
+    "slug": "chopin-rye-organic",
+    "name": "Chopin Rye Organic",
+    "subtitle": "Wódka ziemniaczana · Polska",
+    "category": "vodka",
+    "country": "Poland",
+    "abv": "40%",
+    "rawMaterial":"Żyto organiczne",
+    "image": "bottle_img/chopin_organic.png",
+    "whenToOffer": [
+      "Klienta szukającego wódek bio/organicznych",
+      "Klienta lubiącego wódki żytnie",
+      "Osób potrzebujących wódkę o pojemności 0.7 l"
+    ],
+
+    "howToPresent":"Jest to wódka tylko z polskiego certyfikowanego żyta ekologicznego. Zachowuje ona charakter wódki żytniej, przy tym ma pełniejsze ciało i głębszy smak."
+
+  },
+
+  {
+    "slug": "chopin-bartender",
+    "name": "Chopin Bartender's Choice",
+    "subtitle": "Wódka zytnia · Polska",
+    "category": "vodka",
+    "country": "Poland",
+    "abv": "59.8%",
+    "rawMaterial":"Żyto",
+    "image": "bottle_img/chopin_bartender.jpg",
+    "whenToOffer": [
+      "Klienta szukającego wódek i mocniejszym stężeniu alkoholu",
+      "Osób interesujących miksologią, robieniem wyrazistych koktajli."
+    ],
+
+    "howToPresent":"Mocniejsza wersja popularnej Chopin Rye, stworzona z myślą o barmanach i miksologach. Balans pomiędzy mocą a bogatym smakiem, wyróżnia ją z pośród innych mocniejszych wódek."
+
+  },
+
+  {
+    "slug": "chopin-young-potato-2024",
+    "name": "Młody Ziemniak 2024",
+    "subtitle": "Destylat ziemniaczany · Polska",
+    "category": "spirit-drink",
+    "country": "Poland",
+    "abv": "40%",
+    "rawMaterial":"Młode ziemniaki",
+    "image": "bottle_img/chopin_young2024.jpg",
+    "whenToOffer": [
+      "Osób szukających okowite",
+      "Osób lubiących wódki ziemniaczane",
+      "Klientów szukających czegoś do kolekcji, czegoś ciekawego polskiego"
+    ],
+
+    "howToPresent":"Młody ziemniak nie ma określenia prawnego, ale charakterem jest bardzo zbliżony do okowit. Jest to destylat z młodych ziemniaków odmiany Denar, destylowany tylko raz, co daje mu intensywny smak i zapach surowca, a także nuty ziemistości"
+
+  },
+
+
+  {
+    "slug": "cjopin-familyReserve",
+    "name": "Chopin Vodka Family Reserve",
+    "subtitle": "Wódka ziemniaczana · Polska",
+    "category": "vodka",
+    "country": "Poland",
+    "abv": "40%",
+    "rawMaterial":"Młode ziemniaki",
+    "maturation": "Pięćdziesięcioletnie kufry dębowe.",
+    "image" : "bottle_img/chopin_familyReserve.jpg",
+    "whenToOffer": [
+      "Klient szukający eleganckiego prezentu",
+      "Osób ceniących wygląd i prezentowane opakowanie",
+      "Osób potrzebujących czegoś wyjątkowego i ekskluzywnego"
+    ],
+
+    "howToPresent":"Zrobiona ze specjalnej odmiany młodych ziemniaków. jest zapakowana w skórzane pudełko, a sama wódka jest w ładnej karafce."
+
+  },
+
+   {
+    "slug": "chopin-tribute",
+    "name": "Chopin Tribute Edition",
+    "subtitle": "Wódka ziemniaczana · Polska",
+    "category": "vodka",
+    "country": "Poland",
+    "abv": "40%",
+    "rawMaterial":"Ziemniaki",
+    "image": "bottle_img/chopin-tribute.png",
+    "whenToOffer": [
+      "Osób ceniących wygląd i prezentowane opakowanie",
+      "Klient szukający eleganckiego prezentu",
+      "Osób potrzebujących czegoś wyjątkowego i ekskluzywnego"
+
+    ],
+
+    "howToPresent":"Edycja Tribute nawiązuje stylistyką do postaci Fryderyka Chopina i polskiego dziedzictwa kulturowego. Profil smakowy pozostaje zbliżony do wersji ziemniaczanej, natomiast Tribute Edition wyróżnia się oprawą wizualną i charakterem edycji okolicznościowej."
+
+  },
+
+{
+    "slug": "chopin-vitage-vault",
+    "name": "Chopin Vintage Vault",
+    "subtitle": "Wódka ziemniaczana · Polska",
+    "category": "vodka",
+    "country": "Poland",
+    "abv": "43.6%",
+    "rawMaterial":"Ziemniaki",
+    "image": "bottle_img/vintage_vault.jpg",
+    "whenToOffer": [
+      "Osób ceniących historię marki Chopin",
+      "Klient szukający eleganckiego prezentu, wyjątkowego, ekskluzywnego prezentu",
+      "Dla kolekcjonerów, "
+
+    ],
+
+    "howToPresent":" 30-letnia Chopin Vintage Vault z pierwszej oryginalnej partii. Chopin Vintage Vault jest najstarszą wódką premium na świecie – ta niewielka partia alkoholu pochodzi z pierwszej destylacji ziemniaczanego Chopina, która przez ostatnie trzy dekady ukryta była w znajdującym się na terenie destylarni skarbcu. Jest przedstawiona w szlifowanej eko karafce z kryształu wykonaną z najwyższą starannością w Republice Czeskiej i umieszczono w wykonanej z drewna olchowego skrzyni. Zestaw zamyka metalowe logo Chopin Vodka. Dodatkowo, wewnątrz skrzyni znajduje się kieszeń, która skrywa dwie oryginalne szpilki koktajlowe ozdobione naturalnymi perłami. Chopin Vintage Vault zachwyca wyraźnym aromatem cytrusów. Bukiet smakowy otwierają natomiast słodkie, rozgrzewające podniebienie nuty, które łagodnie przechodzą w akcenty świeżego zielonego jabłka, wanilii i grejpfruta. Paletę smaków zamyka odrobina białego pieprzu i kolendry. Na rynek trafiło jedynie 1000 butelek."
+
+  },
+
+  {
+    "slug": "debowa",
+    "name": "Dębowa oak vodka",
+    "subtitle": "Wódka · Polska",
+    "category": "vodka",
+    "country": "Poland",
+    "abv": "40%",
+    "rawMaterial":"Zboża",
+    "image": "bottle_img/debowa.png",
+    "whenToOffer": [
+      "Osób szukających coś śmiesznego",
+      "Klienta sugerującego tylko wyglądem",
+      "Osób szukających alkohol na półkę"
+
+    ],
+
+    "howToPresent":"W środku znajduje się wódka zbożowa, komponowana ekstraktem dębowym. W środku jest umieszczony kawałek dębiny.",
+
+        "packaging": [
+  {
+    "name": "Mapa Polski",
+    "image": "bottle_img/mapa.png"
+  },
+  {
+    "name": "Tuba",
+    "image": "bottle_img/debowa-tuba.png"
+  },
+  {
+    "name": "Goool",
+    "image": "bottle_img/Goool.png"
+  },
+    {
+    "name": "Goool Uchwyt",
+    "image": "bottle_img/uchwyt.png"
+  },
+  {
+    "name": "Polska beczka",
+    "image": "bottle_img/Debowa-beczka.png"
+  },
+  {
+    "name": "Beczka cooler",
+    "image": "bottle_img/beczka-cooler.png"
+  },
+   {
+    "name": "Buklak",
+    "image": "bottle_img/buklak.png"
+  }
+]
+
+  },
+
+ {
+    "slug": "debowa-excellent",
+    "keywords": [
+  "dębowa",
+  "kanister",
+  "gaśnica"
+],
+    "name": "Dębowa Excellent",
+    "subtitle": "Wódka · Polska", 
+    "category": "vodka",
+    "country": "Poland",
+    "abv": "40%",
+    "rawMaterial":"Zboża",
+    "image": "bottle_img/gasnica.png",
+    "whenToOffer": [
+      "Osób szukających coś żartownego",
+      "Klienta sugerującego tylko wyglądem",
+      "Osób szukających alkohol na półkę"
+
+    ],
+
+    "howToPresent":"W środku znajduje się wódka zbożowa, komponowana nalewami z dębu i kwiat bzu.",
+
+    "packaging": [
+  {
+    "name": "Klasyczna butelka",
+    "image": "bottle_img/sruba.png"
+  },
+  {
+    "name": "Kanister",
+    "image": "bottle_img/kanister.png"
+  },
+  {
+    "name": "Strzykawka",
+    "image": "bottle_img/strzykawka.png"
+  }
+]
+
+
+  },  
+
+  {
+  "slug": "ketel-one",
+  "name": "Ketel One",
+  "subtitle": "Wódka pszeniczna · Holandia",
+  "category": "vodka",
+  "country": "Netherlands",
+  "abv": "40%",
+  "rawMaterial": "Pszenica",
+  "image": "bottle_img/ketel_one.webp",
+
+  "whenToOffer": [
+    "Klient szuka wódki premium do drinków",
+    "Fan Cosmopolitana lub Martini",
+    "Alternatywa dla Grey Goose i Belvedere"
+  ],
+
+  "howToPresent": "Holenderska wódka destylowana częściowo w miedzianych alembikach. Bardziej wytrawna i czysta niż wiele francuskich wódek premium. Bardzo ceniona w barach koktajlowych."
+}
+  ]

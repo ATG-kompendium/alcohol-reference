@@ -1,88 +1,83 @@
 ---
+
+
 import "../styles/main.css";
 
+
 const BASE = import.meta.env.BASE_URL;
+
 ---
 
 <!DOCTYPE html>
 <html lang="pl">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Alcohol Reference</title>
-  </head>
-  <body>
-    <h1>Alcohol Reference</h1>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Alcohol Reference</title>
+</head>
+<body>
 
-    <input
-      id="search"
-      type="text"
-      placeholder="Szukaj produktu..."
-      autocomplete="off"
-    />
+<h1>Alcohol Reference</h1>
 
-    <ul id="results"></ul>
+<input id="search" type="text" placeholder="Szukaj produktu..." autocomplete="off" />
+<ul id="results"></ul>
 
-    <script>
-      const BASE = import.meta.env.BASE_URL;
+<script>
+  window.BASE_URL = "{BASE}";
+</script>
 
-      const input = document.getElementById("search");
+<script>
+const BASE = import.meta.env.BASE_URL;
+
+const input = document.getElementById("search");
 const results = document.getElementById("results");
 
-if (input && results) {
+let products = null;
 
-  let products = [];
+/* блокируем поле пока база не загрузилась */
+input.placeholder = "Ładowanie bazy...";
+input.disabled = true;
 
-  fetch(`${BASE}data/products.json`)
-    .then(res => res.json())
-    .then(data => {
-      products = data;
-      render([]);
-    });
+fetch(BASE + "products.json")
+  .then(r => r.json())
+  .then(data => {
+    products = data;
 
-  function render(list) {
-    results.innerHTML = "";
-    if (list.length === 0) return;
-
-    list.forEach(p => {
-      const li = document.createElement("li");
-      const a = document.createElement("a");
-      a.href = `${BASE}products/${p.slug}/`;
-      a.textContent = p.name;
-      li.appendChild(a);
-      results.appendChild(li);
-    });
-  }
-
-  input.addEventListener("input", e => {
-    const q = e.target.value.trim().toLowerCase();
-
-    if (q === "") {
-      render([]);
-      return;
-    }
-
-    const filtered = products.filter(p => {
-      const search = q.toLowerCase();
-
-      const inName = p.name?.toLowerCase().includes(search);
-      const inCategory = p.category?.toLowerCase().includes(search);
-      const inCountry = p.country?.toLowerCase().includes(search);
-      const inRaw = p.rawMaterial
-        ? p.rawMaterial.toLowerCase().includes(search)
-        : false;
-      const inKeywords = p.keywords
-        ? p.keywords.some(k => k.toLowerCase().includes(search))
-        : false;
-
-      return inName || inCategory || inCountry || inRaw || inKeywords;
-    });
-
-    render(filtered);
+    input.disabled = false;
+    input.placeholder = "Szukaj produktu...";
   });
 
+function render(list) {
+  results.innerHTML = "";
+  if (!list.length) return;
+
+  list.forEach(p => {
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    a.href = BASE + "products/" + p.slug + "/";
+    a.textContent = p.name;
+    li.appendChild(a);
+    results.appendChild(li);
+  });
 }
 
-    </script>
-  </body>
+input.addEventListener("input", e => {
+  if (!products) return;   // ← ВАЖНО
+
+  const q = e.target.value.trim().toLowerCase();
+  if (!q) return render([]);
+
+  const filtered = products.filter(p =>
+    p.name?.toLowerCase().includes(q) ||
+    p.category?.toLowerCase().includes(q) ||
+    p.country?.toLowerCase().includes(q) ||
+    p.rawMaterial?.toLowerCase().includes(q) ||
+    p.keywords?.some(k => k.toLowerCase().includes(q))
+  );
+
+  render(filtered);
+});
+</script>
+
+</body>
 </html>

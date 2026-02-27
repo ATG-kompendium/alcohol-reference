@@ -1,0 +1,3271 @@
+[
+{
+  "slug": "wild-fields-single-malt",
+  "name": "Wild Fields Single Malt",
+  "subtitle": "Polska whisky · Single Malt",
+  "category": "whisky",
+  "country": "Poland",
+  "abv": "43%",
+  "image": "bottle_img/wildfields_singlemalt.png",
+
+  "whenToOffer": [
+    "Klient chce spróbować polskiej whisky",
+    "Osoba szuka czegoś innego niż szkocka klasyka",
+    "Klient interesuje się nowymi destylarniami"
+  ],
+
+  "howToPresent": "Polska interpretacja klasycznego single malt. Produkowana ze słodu jęczmiennego, dojrzewająca w dębie, z wyraźnym charakterem i lokalnym pochodzeniem.",
+
+  "salesTip": [
+    "Można proponować jako ciekawą alternatywę dla młodych szkockich single maltów.",
+    "Dobry wybór dla klientów otwartych na nowe kierunki whisky."
+  ]
+},
+
+{
+  "slug": "wild-fields-single-grain-sherry",
+  "name": "Wild Fields Single Grain Sherry Cask",
+  "subtitle": "Polska whisky · Single Grain · Sherry Cask",
+  "category": "whisky",
+  "country": "Poland",
+  "abv": "43%",
+  "image": "bottle_img/wildfields_singlegrain_sherrycask.png",
+
+  "whenToOffer": [
+    "Klient lubi whisky dojrzewające w beczkach po sherry",
+    "Osoba szuka czegoś bardziej intensywnego niż klasyczny grain",
+    "Klient chce whisky z wyraźnym profilem smakowym"
+  ],
+
+  "howToPresent": "Wersja single grain dojrzewająca w beczkach po sherry. Bardziej wyrazista, z nutami słodyczy i głębi charakterystycznej dla tego typu beczek.",
+
+  "salesTip": [
+    "Można proponować fanom sherry cask szkockich whisky jako ciekawą alternatywę z Polski."
+  ]
+},
+
+{
+  "slug": "wild-fields-single-grain",
+  "name": "Wild Fields Single Grain",
+  "subtitle": "Polska whisky · Single Grain",
+  "category": "whisky",
+  "country": "Poland",
+  "abv": "40%",
+  "image": "bottle_img/wildfields_singlegrain.png",
+
+  "whenToOffer": [
+    "Klient szuka łagodniejszej whisky",
+    "Osoba dopiero zaczyna przygodę z whisky",
+    "Klient chce coś bardziej przystępnego cenowo"
+  ],
+
+  "howToPresent": "Whisky typu single grain – lżejsza, bardziej przystępna i delikatniejsza niż single malt. Dobra opcja dla osób zaczynających przygodę z whisky.",
+
+  "salesTip": [
+    "Można proponować zamiast tanich blendów jako coś ciekawszego, ale nadal przystępnego."
+  ]
+},
+
+{
+  "slug": "johnnie-walker-red-label",
+  "name": "Johnnie Walker Red Label",
+  "subtitle": "Blended Scotch Whisky · Szkocja",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/jw_red.webp",
+
+  "whenToOffer": [
+    "Klient szuka whisky do mieszania",
+    "Budżetowa opcja",
+    "Whisky do coli"
+  ],
+
+  "howToPresent": "Najbardziej dynamiczna i dymna z podstawowych wersji. Stworzona głównie do koktajli."
+},
+
+{
+  "slug": "johnnie-walker-black-label-12",
+  "name": "Johnnie Walker Black Label 12 Y.O.",
+  "subtitle": "Blended Scotch · 12 lat",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/jw_black12.webp",
+
+  "whenToOffer": [
+    "Klient szuka klasycznej 12-letniej whisky",
+    "Bezpieczny wybór prezentowy"
+  ],
+
+  "howToPresent": "Zbalansowana 12-letnia whisky z delikatną nutą dymu i wanilii."
+},
+
+{
+  "slug": "johnnie-walker-double-black",
+  "name": "Johnnie Walker Double Black",
+  "subtitle": "Blended Scotch · Intensywniejsza",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/jw_doubleblack.webp",
+
+  "whenToOffer": [
+    "Klient lubi bardziej dymne whisky",
+    "Alternatywa dla Black Label"
+  ],
+
+  "howToPresent": "Bardziej dymna i intensywna interpretacja Black Label."
+},
+
+{
+  "slug": "johnnie-walker-island-green",
+  "name": "Johnnie Walker Island Green",
+  "subtitle": "Blended Malt · Travel Retail Exclusive",
+  "category": "whisky-blended-malt",
+  "country": "Scotland",
+  "abv": "43%",
+  "image": "bottle_img/jw_green.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś tylko z lotniska",
+    "Lubi delikatny torf"
+  ],
+
+  "howToPresent": "Blended malt z wyraźniejszym udziałem whisky z wysp. Bardziej torfowa niż Black Label."
+},
+
+{
+  "slug": "johnnie-walker-black-ruby",
+  "name": "Johnnie Walker Black Ruby",
+  "subtitle": "Travel Retail Exclusive",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/jw_ruby.webp",
+
+  "whenToOffer": [
+    "Klient szuka limitowanej wersji",
+    "Prezent"
+  ],
+
+  "howToPresent": "Edycja travel retail z bardziej owocowym profilem."
+},
+
+{
+  "slug": "johnnie-walker-triple-cask",
+  "name": "Johnnie Walker Triple Cask",
+  "subtitle": "Travel Retail Exclusive",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/jw_triplecask.webp",
+
+  "whenToOffer": [
+    "Klient szuka łagodniejszej wersji",
+    "Whisky mniej dymna"
+  ],
+
+  "howToPresent": "Dojrzewana w trzech typach beczek. Bardziej miękka i słodsza."
+},
+
+{
+  "slug": "johnnie-walker-gold-label",
+  "name": "Johnnie Walker Gold Label Reserve",
+  "subtitle": "Blended Scotch",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/jw_gold.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś bardziej eleganckiego niż Black",
+    "Prezent"
+  ],
+
+  "howToPresent": "Bardziej kremowa i miodowa niż Black Label."
+},
+
+{
+  "slug": "johnnie-walker-18",
+  "name": "Johnnie Walker 18 Y.O.",
+  "subtitle": "Blended Scotch · 18 lat",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/jw18.webp",
+
+  "whenToOffer": [
+    "Klient szuka starszej whisky",
+    "Alternatywa dla Blue"
+  ],
+
+  "howToPresent": "Dojrzalsza i bardziej złożona niż Gold Label."
+},
+
+{
+  "slug": "johnnie-walker-blue-label",
+  "name": "Johnnie Walker Blue Label",
+  "subtitle": "Ultra Premium Blend",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/jw_blue.webp",
+
+  "whenToOffer": [
+    "Klient szuka luksusowej whisky",
+    "Prezent premium"
+  ],
+
+  "howToPresent": "Najbardziej luksusowa linia Johnnie Walker. Bardzo gładka i złożona."
+},
+
+{
+  "slug": "johnnie-walker-blue-label-cognac-cask",
+  "name": "Johnnie Walker Blue Label Cognac Cask",
+  "subtitle": "Limited Edition",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/jw_xordinaire.webp",
+
+  "whenToOffer": [
+    "Klient szuka limitowanej edycji",
+    "Fan koniaku"
+  ],
+
+  "howToPresent": "Blue Label z finiszem w beczkach po koniaku. Bardziej owocowa i elegancka."
+},
+
+{
+  "slug": "johnnie-walker-blue-label-elusive-umami",
+  "name": "Johnnie Walker Blue Label Elusive Umami",
+  "subtitle": "Limited Edition",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "43%",
+  "image": "bottle_img/jw_umami.webp",
+
+  "whenToOffer": [
+    "Klient szuka unikalnej edycji",
+    "Kolekcjoner"
+  ],
+
+  "howToPresent": "Eksperymentalna edycja Blue Label o bardziej wytrawnym, złożonym charakterze."
+},
+
+{
+  "slug": "ballantines-7-bourbon-finish",
+  "name": "Ballantine’s 7 Bourbon Finish",
+  "subtitle": "Blended Scotch · 7 lat",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/ballantines7.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś łagodniejszego niż Finest",
+    "Whisky do mieszania"
+  ],
+
+  "howToPresent": "Dojrzewana 7 lat z finiszem w beczkach po bourbonie. Bardziej waniliowa i słodsza niż klasyczna wersja."
+},
+
+{
+  "slug": "ballantines-10",
+  "name": "Ballantine’s 10 Y.O.",
+  "subtitle": "Blended Scotch · 10 lat",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/ballantines10.webp",
+
+  "whenToOffer": [
+    "Klient szuka whisky z wiekiem",
+    "Alternatywa dla Black Label"
+  ],
+
+  "howToPresent": "Łagodna i zbalansowana 10-letnia whisky o nutach wanilii i owoców."
+},
+
+{
+  "slug": "ballantines-finest",
+  "name": "Ballantine’s Finest",
+  "subtitle": "Blended Scotch Whisky · Szkocja",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/ballantines.webp",
+
+  "whenToOffer": [
+    "Klient szuka klasycznej szkockiej whisky",
+    "Budżetowa opcja do picia solo lub z colą",
+    "Bezpieczny wybór bez eksperymentów"
+  ],
+
+  "howToPresent": "Najbardziej klasyczna i rozpoznawalna wersja Ballantine’s. Łagodna, lekko słodowa, z delikatną nutą wanilii i miodu. Uniwersalna – sprawdzi się zarówno solo, jak i w drinkach."
+},
+
+{
+  "slug": "ballantines-30",
+  "name": "Ballantine’s 30 Y.O.",
+  "subtitle": "Blended Scotch · 30 lat",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/ballantines30.webp",
+
+  "whenToOffer": [
+    "Klient szuka bardzo starej whisky",
+    "Ultra premium",
+    "Prezent luksusowy"
+  ],
+
+  "howToPresent": "Bardzo rzadka i dojrzała 30-letnia whisky. Głęboka i złożona."
+},
+
+{
+  "slug": "ballantines-23",
+  "name": "Ballantine’s 23 Y.O.",
+  "subtitle": "Blended Scotch · 23 lata",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/ballantines23.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś powyżej 21 lat",
+    "Alternatywa dla Blue Label"
+  ],
+
+  "howToPresent": "Rzadsza i bardziej dojrzała edycja o głębszym profilu smakowym."
+},
+
+{
+  "slug": "ballantines-21",
+  "name": "Ballantine’s 21 Y.O.",
+  "subtitle": "Blended Scotch · 21 lat",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/ballantines21.webp",
+
+  "whenToOffer": [
+    "Klient szuka whisky premium",
+    "Prezent elegancki"
+  ],
+
+  "howToPresent": "Bardziej dojrzała i złożona niż 17. Nuty suszonych owoców i przypraw."
+},
+
+{
+  "slug": "ballantines-17",
+  "name": "Ballantine’s 17 Y.O.",
+  "subtitle": "Blended Scotch · 17 lat",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/ballantines17.webp",
+
+  "whenToOffer": [
+    "Klient szuka starszej whisky",
+    "Alternatywa dla JW 18"
+  ],
+
+  "howToPresent": "Elegancka, dobrze zbalansowana 17-letnia whisky o nutach miodu i dębu."
+},
+
+{
+  "slug": "ballantines-brasil",
+  "name": "Ballantine’s Brasil",
+  "subtitle": "Whisky z nutą limonki",
+  "category": "whisky-flavoured",
+  "country": "Scotland",
+  "abv": "35%",
+  "image": "bottle_img/ballantines_brasil.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś lżejszego",
+    "Do mieszania",
+    "Alternatywa dla likierów"
+  ],
+
+  "howToPresent": "Whisky z naturalnym aromatem limonki. Bardziej przystępna i koktajlowa."
+},
+
+{
+  "slug": "ballantines-single-grain-rum-finish",
+  "name": "Ballantine’s Single Grain Rum Finish",
+  "subtitle": "Single Grain Scotch",
+  "category": "whisky-single-grain",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/ballantines_singlegrain.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś innego niż blend",
+    "Whisky łagodniejsza i słodsza"
+  ],
+
+  "howToPresent": "Single grain z finiszem w beczkach po rumie. Bardziej słodka i deserowa."
+},
+
+{
+  "slug": "chivas-12",
+  "name": "Chivas Regal 12 Y.O.",
+  "subtitle": "Blended Scotch · 12 lat",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/chivas12.webp",
+
+  "whenToOffer": [
+    "Klient szuka klasycznej 12-letniej whisky",
+    "Alternatywa dla JW Black",
+    "Bezpieczny prezent"
+  ],
+
+  "howToPresent": "Klasyczna, gładka i lekko miodowa whisky z nutami wanilii i jabłka. Bardziej kremowa niż konkurencyjne blendy."
+
+}, 
+
+{
+  "slug": "chivas-13",
+  "name": "Chivas Regal 13 Y.O.",
+  "subtitle": "Blended Scotch · Różne wykończenia beczek",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/chivas13_sherry.webp",
+
+  "whenToOffer": [
+    "Klient chce coś innego niż klasyczna 12",
+    "Whisky z ciekawym finiszem",
+    "Travel Retail Exclusive"
+  ],
+
+  "howToPresent": [
+    "Seria Chivas 13 to klasyczna baza Chivas 12 z dodatkowym wykończeniem w różnych typach beczek.",
+    "Różnice wynikają głównie z rodzaju beczki, która nadaje końcowy charakter."
+  ],
+
+  "variants": [
+    {
+      "type": "Sherry Cask",
+      "image": "bottle_img/chivas13_sherry.webp",
+      "note": "Finisz w beczkach po sherry Oloroso – więcej suszonych owoców i przypraw."
+    },
+    {
+      "type": "Rum Cask",
+      "image": "bottle_img/chivas13_rum.webp",
+      "note": "Finisz w beczkach po rumie – nuty karmelu i tropikalnych owoców."
+    },
+    {
+      "type": "Irish Whiskey Cask",
+      "image": "bottle_img/chivas13_irish.webp",
+      "note": "Finisz w beczkach po irlandzkiej whiskey – bardziej kremowa i łagodna."
+    }
+  ]
+},
+
+{
+  "slug": "chivas-15-cognac",
+  "name": "Chivas Regal 15 Cognac Cask Finish",
+  "subtitle": "Blended Scotch · Finisz Cognac",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/chivas15.webp",
+
+  "whenToOffer": [
+    "Klient lubi koniak",
+    "Prezent premium"
+  ],
+
+  "howToPresent": "Finisz w beczkach po koniaku. Bardziej elegancka i owocowa niż 12."
+},
+
+{
+  "slug": "chivas-18",
+  "name": "Chivas Regal 18 Y.O.",
+  "subtitle": "Blended Scotch · 18 lat",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/chivas18.webp",
+
+  "whenToOffer": [
+    "Klient szuka starszej whisky",
+    "Alternatywa dla JW 18"
+  ],
+
+  "howToPresent": "Bardziej złożona i czekoladowa niż 12. Nuty kakao, karmelu i przypraw."
+},
+
+{
+  "slug": "chivas-18-pauillac",
+  "name": "Chivas Regal 18 Pauillac Cask Finish",
+  "subtitle": "Non Chill Filtered · Travel Retail",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "48%",
+  "image": "bottle_img/chivas18_trex.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś mocniejszego",
+    "Fan win Bordeaux"
+  ],
+
+  "howToPresent": "Finisz w beczkach po winie Pauillac. Niefiltrowana na zimno, bardziej intensywna."
+},
+
+{
+  "slug": "chivas-25",
+  "name": "Chivas Regal 25 Y.O.",
+  "subtitle": "Blended Scotch · 25 lat",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/chivas25.webp",
+
+  "whenToOffer": [
+    "Klient szuka bardzo starej whisky",
+    "Luksusowy prezent"
+  ],
+
+  "howToPresent": "Bardzo dojrzała i elegancka 25-letnia whisky o nutach miodu i owoców."
+},
+
+{
+  "slug": "royal-salute-21-vintage-2002",
+  "name": "Royal Salute 21 Vintage 2002",
+  "subtitle": "Blended Scotch · Travel Retail",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/royalsalute_vintage.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś wyjątkowego",
+    "Prezent kolekcjonerski"
+  ],
+
+  "howToPresent": "Ekskluzywna edycja Royal Salute z wyselekcjonowanych rocznikowych destylatów."
+},
+
+{
+  "slug": "royal-salute-25",
+  "name": "Royal Salute 25 Y.O.",
+  "subtitle": "Ultra Premium · Travel Retail",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/royal_25.webp",
+
+  "whenToOffer": [
+    "Klient szuka ultra premium",
+    "Prezent luksusowy"
+  ],
+
+  "howToPresent": "Wyjątkowo rzadka i luksusowa wersja Royal Salute."
+},
+
+{
+  "slug": "famous-grouse",
+  "name": "The Famous Grouse",
+  "subtitle": "Blended Scotch Whisky · Szkocja",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/famous_grouse.webp",
+
+  "whenToOffer": [
+    "Klient szuka klasycznej szkockiej whisky",
+    "Alternatywa dla Ballantine’s",
+    "Budżetowa opcja"
+  ],
+
+  "howToPresent": "Klasyczny szkocki blend o łagodnym, słodowo-waniliowym charakterze."
+},
+
+{
+  "slug": "grants-triple-wood",
+  "name": "Grant’s Triple Wood",
+  "subtitle": "Blended Scotch Whisky · Szkocja",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/grants.webp",
+
+  "whenToOffer": [
+    "Klient szuka łagodnej whisky",
+    "Whisky do mieszania"
+  ],
+
+  "howToPresent": "Dojrzewana w trzech typach beczek. Łagodna, waniliowa, uniwersalna."
+},
+
+{
+  "slug": "grants-distillers-reserve",
+  "name": "Grant’s Distiller’s Reserve",
+  "subtitle": "Blended Scotch · Sherry Cask",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/grants_distillery.webp",
+
+  "whenToOffer": [
+    "Klient chce coś bardziej owocowego",
+    "Alternatywa dla sherry finish"
+  ],
+
+  "howToPresent": "Wersja z większym wpływem beczek po sherry. Bardziej owocowa niż klasyczny Grant’s."
+},
+
+{
+  "slug": "sir-edwards",
+  "name": "Sir Edward’s",
+  "subtitle": "Blended Scotch Whisky · Szkocja",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/sir_edwards.webp",
+
+  "whenToOffer": [
+    "Klient szuka budżetowej szkockiej",
+    "Whisky do coli",
+    "Alternatywa dla William Peel lub Label 5"
+  ],
+
+  "howToPresent": "Prosty i lekki szkocki blend przeznaczony głównie do mieszania. Neutralny profil, bez wyraźnego dymu."
+},
+
+{
+  "slug": "label-5",
+  "name": "Label 5",
+  "subtitle": "Blended Scotch Whisky",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/label5.webp ",
+
+  "whenToOffer": [
+    "Budżetowa alternatywa",
+    "Whisky do drinków"
+  ],
+
+  "howToPresent": "Łagodna, lekko słodowa whisky do codziennego picia."
+},
+
+{
+  "slug": "lauders",
+  "name": "Lauders",
+  "subtitle": "Blended Scotch Whisky",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/lauders.webp",
+
+  "whenToOffer": [
+    "Klient szuka tańszej szkockiej",
+    "Alternatywa dla Grant’s"
+  ],
+
+  "howToPresent": "Klasyczny, lekki blend o prostym i przyjemnym charakterze."
+},
+
+{
+  "slug": "clan-campbell",
+  "name": "Clan Campbell",
+  "subtitle": "Blended Scotch Whisky",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/campbell.webp",
+
+  "whenToOffer": [
+    "Budżetowa opcja",
+    "Whisky do mieszania"
+  ],
+
+  "howToPresent": "Prosty i delikatny blend do codziennego picia."
+},
+
+{
+  "slug": "the-deacon",
+  "name": "The Deacon",
+  "subtitle": "Blended Scotch Whisky",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/deacon.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś nowoczesnego",
+    "Alternatywa dla bardziej dymnych whisky"
+  ],
+
+  "howToPresent": "Nowoczesny blend z delikatnym dymnym akcentem i charakterystycznym designem butelki."
+},
+
+{
+  "slug": "buchanans-12",
+  "name": "Buchanan’s 12 Y.O.",
+  "subtitle": "Blended Scotch · 12 lat",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/buchanan's12.webp",
+
+  "whenToOffer": [
+    "Klient zna markę z Ameryki Południowej",
+    "Alternatywa dla JW Black"
+  ],
+
+  "howToPresent": "12-letnia whisky o łagodnym, miodowym charakterze."
+},
+
+{
+  "slug": "jb-rare",
+  "name": "J&B Rare",
+  "subtitle": "Blended Scotch Whisky",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/jb.webp",
+
+  "whenToOffer": [
+    "Klient szuka klasycznego blendu",
+    "Whisky do mieszania"
+  ],
+
+  "howToPresent": "Lekka i świeża whisky o cytrusowym charakterze."
+},
+
+{
+  "slug": "william-peel",
+  "name": "William Peel",
+  "subtitle": "Blended Scotch Whisky",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/william.webp",
+
+  "whenToOffer": [
+    "Klient szuka bardzo budżetowej whisky",
+    "Whisky do drinków"
+  ],
+
+  "howToPresent": "Prosty, neutralny blend przeznaczony głównie do mieszania."
+},
+
+{
+  "slug": "dewars-white-label",
+  "name": "Dewar’s White Label",
+  "subtitle": "Blended Scotch Whisky · Szkocja",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/dewars.webp",
+
+  "whenToOffer": [
+    "Klient szuka klasycznej szkockiej whisky",
+    "Alternatywa dla Ballantine’s Finest",
+    "Whisky do mieszania"
+  ],
+
+  "howToPresent": "Lekki i świeży blend o delikatnych nutach miodu i wanilii. Bardzo uniwersalny."
+},
+
+{
+  "slug": "dewars-12",
+  "name": "Dewar’s 12 Y.O.",
+  "subtitle": "Blended Scotch · 12 lat",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/dewars12.webp",
+
+  "whenToOffer": [
+    "Klient szuka 12-letniej whisky",
+    "Alternatywa dla JW Black",
+    "Prezent"
+  ],
+
+  "howToPresent": "Dojrzewana minimum 12 lat, podwójnie starzona dla większej gładkości. Nuty miodu, jabłka i karmelu."
+},
+
+{
+  "slug": "dewars-15",
+  "name": "Dewar’s 15 Y.O.",
+  "subtitle": "Blended Scotch · 15 lat",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/dewars15.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś pomiędzy 12 a 18 lat",
+    "Łagodna, elegancka whisky"
+  ],
+
+  "howToPresent": "Bardziej kremowa i owocowa niż 12. Delikatne nuty wanilii i suszonych owoców."
+},
+
+{
+  "slug": "dewars-double-double-21-mizunara",
+  "name": "Dewar’s Double Double 21 Mizunara",
+  "subtitle": "Blended Scotch · 21 lat",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "46%",
+  "image": "bottle_img/dewars21_mizunara.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś nietypowego",
+    "Fan japońskiego stylu beczek"
+  ],
+
+  "howToPresent": "Finisz w rzadkich beczkach z dębu Mizunara. Bardziej korzenna i egzotyczna."
+},
+
+{
+  "slug": "dewars-double-double-21-oloroso",
+  "name": "Dewar’s Double Double 21 Oloroso",
+  "subtitle": "Blended Scotch · 21 lat",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "46%",
+  "image": "bottle_img/dewars20_oloroso.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś premium",
+    "Fan sherry finish"
+  ],
+
+  "howToPresent": "Czterostopniowy proces starzenia z finiszem w beczkach po sherry Oloroso. Głębsza, bardziej owocowa."
+},
+
+{
+  "slug": "dewars-double-double-26-palo-cortado",
+  "name": "Dewar’s Double Double 26 Palo Cortado",
+  "subtitle": "Blended Scotch · 26 lat",
+  "category": "whisky-blended",
+  "country": "Scotland",
+  "abv": "46%",
+  "image": "bottle_img/dewars26_palocortado.webp",
+
+  "whenToOffer": [
+    "Klient szuka ultra premium",
+    "Ekskluzywny prezent",
+    "Alternatywa dla 25+ letnich whisky"
+  ],
+
+  "howToPresent": "26-letnia edycja z finiszem w beczkach po sherry Palo Cortado. Bardzo złożona i elegancka."
+},
+
+{
+  "slug": "glenfiddich-vat-02",
+  "name": "Glenfiddich VAT 02",
+  "subtitle": "Single Malt · Speyside · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Speyside",
+  "abv": "43%",
+  "image": "bottle_img/glenfiddich_vat02.webp",
+
+  "whenToOffer": [
+    "Klient zna VAT 01",
+    "Szukają czegoś bardziej wyrazistego",
+    "Travel Retail Exclusive"
+  ],
+
+  "maturation": "American Oak, European Oak, and Red Wine Casks",
+
+  "howToPresent": "Druga odsłona serii VAT. Bardziej intensywna i owocowa niż VAT 01, z większą strukturą beczki."
+},
+
+{
+  "slug": "glenfiddich-vat-03",
+  "name": "Glenfiddich VAT 03",
+  "subtitle": "Single Malt · Speyside · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Speyside",
+  "abv": "43%",
+  "image": "bottle_img/glenfiddich_vat03.webp",
+
+  "whenToOffer": [
+    "Klient szuka edycji kolekcjonerskiej",
+    "Fan serii VAT",
+    "Prezent"
+  ],
+
+  "maturation": "American Oak, European Oak, and Red Wine Casks",
+
+  "howToPresent": "Kolejna ewolucja systemu solera VAT. Bardziej złożona i dojrzała interpretacja serii."
+},
+
+{
+  "slug": "glenfiddich-vat-04",
+  "name": "Glenfiddich VAT 04",
+  "subtitle": "Single Malt · Speyside · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Speyside",
+  "abv": "43%",
+  "image": "bottle_img/glenfiddich_vat04.webp",
+
+  "whenToOffer": [
+    "Klient zbiera serię VAT",
+    "Szukają limitowanej edycji lotniskowej",
+    "Alternatywa dla 15 Solera"
+  ],
+
+  "maturation": "American Oak, European Oak, and Red Wine Casks",
+
+  "howToPresent": "Najbardziej dopracowana odsłona serii VAT. Łączy słodycz dębu z owocową głębią charakterystyczną dla Glenfiddich."
+},
+
+{
+  "slug": "balvenie-12-caribbean-cask",
+  "name": "The Balvenie 12 Caribbean Cask",
+  "subtitle": "Single Malt · Speyside · Rum Finish",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Speyside",
+  "abv": "43%",
+  "image": "bottle_img/balvenie12_rum.webp",
+
+  "whenToOffer": [
+    "Klient lubi słodsze whisky",
+    "Fan rumu",
+    "Alternatywa dla Glenfiddich 15"
+  ],
+
+  "maturation": "American Oak + finisz w beczkach po rumie",
+
+  "howToPresent": "Klasyczna 12-letnia Balvenie z dodatkowym finiszem w beczkach po rumie. Bardziej kremowa, z nutami toffi i owoców tropikalnych."
+},
+
+{
+  "slug": "balvenie-15-madeira-cask",
+  "name": "The Balvenie 15 Madeira Cask",
+  "subtitle": "Single Malt · Speyside · Madeira Finish",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Speyside",
+  "abv": "43%",
+  "image": "bottle_img/balvenie15_madeira.webp",
+
+  "whenToOffer": [
+    "Klient lubi słodsze, winne profile",
+    "Fan sherry / madeira finish"
+  ],
+
+  "maturation": "American Oak + finisz w beczkach po winie Madeira",
+
+  "howToPresent": "Finisz w beczkach po winie Madeira nadaje nuty suszonych owoców i delikatnej przyprawowości."
+},
+
+{
+  "slug": "balvenie-18-px",
+  "name": "The Balvenie 18 Pedro Ximénez",
+  "subtitle": "Single Malt · Speyside · PX Finish",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Speyside",
+  "abv": "43%",
+  "image": "bottle_img/balvenie18_px.webp",
+
+  "whenToOffer": [
+    "Klient szuka starszej whisky sherry",
+    "Alternatywa dla Macallan"
+  ],
+
+  "maturation": "American Oak + finisz w beczkach po sherry Pedro Ximénez",
+
+  "howToPresent": "18-letnia Balvenie z intensywnym finiszem PX. Bogata, z nutami rodzynek, miodu i czekolady."
+},
+
+{
+  "slug": "balvenie-19-peat-week",
+  "name": "The Balvenie 19 Peat Week",
+  "subtitle": "Single Malt · Speyside · Peated",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Speyside",
+  "abv": "48.3%",
+  "image": "bottle_img/balvenie19.webp",
+
+  "whenToOffer": [
+    "Klient lubi torfowe whisky",
+    "Alternatywa dla Islay",
+    "Fan limitowanych edycji"
+  ],
+
+  "maturation": "American Oak",
+
+  "howToPresent": "Limitowana edycja torfowa z destylarni Balvenie. Delikatny torf połączony z miodowym charakterem Speyside."
+},
+
+{
+  "slug": "glenlivet-14-european-american-oak",
+  "name": "The Glenlivet 14 European & American Oak",
+  "subtitle": "Single Malt · Speyside · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Speyside",
+  "abv": "40%",
+  "image": "bottle_img/glenlivet14_trex.jpg",
+
+  "whenToOffer": [
+    "Klient szuka czegoś tylko z lotniska",
+    "Alternatywa dla 12 lub 15",
+    "Prezent z segmentu premium"
+  ],
+
+  "maturation": "European Oak + American Oak",
+
+  "howToPresent": "Edycja travel retail dojrzewająca w kombinacji dębu europejskiego i amerykańskiego. Bardziej zbalansowana – łączy waniliową słodycz z nutą przypraw."
+},
+
+{
+  "slug": "glenlivet-16-american-oak",
+  "name": "The Glenlivet 16 American Oak",
+  "subtitle": "Single Malt · Speyside · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Speyside",
+  "abv": "40%",
+  "image": "bottle_img/glenlivet16_trex.avif",
+
+  "whenToOffer": [
+    "Klient szuka starszej wersji Glenlivet",
+    "Łagodny, waniliowy profil",
+    "Travel Retail Exclusive"
+  ],
+
+  "maturation": "American Oak",
+
+  "howToPresent": "Dojrzewana głównie w beczkach z amerykańskiego dębu. Bardziej kremowa i waniliowa niż klasyczne edycje."
+},
+
+{
+  "slug": "big-peat",
+  "name": "Big Peat",
+  "subtitle": "Blended Malt · Islay",
+  "category": "whisky-blended-malt",
+  "country": "Scotland",
+  "abv": "46%",
+  "image": "bottle_img/big_peat.webp",
+
+  "whenToOffer": [
+    "Klient lubi torfowe whisky",
+    "Alternatywa dla Ardbeg / Laphroaig",
+    "Coś innego niż single malt"
+  ],
+
+  "howToPresent": "Blended malt z Islay łączący kilka destylarni wyspiarskich. Intensywnie torfowa, dymna i wytrawna."
+},
+
+{
+  "slug": "compass-box-peat-monster",
+  "name": "Compass Box Peat Monster",
+  "subtitle": "Blended Malt · Torfowa",
+  "category": "whisky-blended-malt",
+  "country": "Scotland",
+  "abv": "46%",
+  "image": "bottle_img/peat_monster.webp",
+
+  "whenToOffer": [
+    "Klient szuka torfu ale bardziej eleganckiego",
+    "Fan nowoczesnych marek",
+    "Alternatywa dla klasycznego Islay"
+  ],
+
+  "howToPresent": "Nowoczesna interpretacja torfowej whisky. Dymna, ale bardziej zbalansowana i elegancka niż klasyczne Islay."
+},
+
+{
+  "slug": "compass-box-orchard-house",
+  "name": "Compass Box Orchard House",
+  "subtitle": "Blended Malt · Owocowa",
+  "category": "whisky-blended-malt",
+  "country": "Scotland",
+  "abv": "46%",
+  "image": "bottle_img/orchard_house.webp",
+
+  "whenToOffer": [
+    "Klient nie lubi torfu",
+    "Szuka świeżej i owocowej whisky",
+    "Alternatywa dla Glenlivet"
+  ],
+
+  "howToPresent": "Bardziej owocowa i świeża kompozycja Compass Box. Nuty jabłka, gruszki i wanilii."
+},
+
+{
+  "slug": "monkey-shoulder",
+  "name": "Monkey Shoulder",
+  "subtitle": "Blended Malt · Speyside",
+  "category": "whisky-blended-malt",
+  "country": "Scotland",
+  "abv": "40%",
+  "image": "bottle_img/monkey.webp",
+
+  "whenToOffer": [
+    "Klient szuka whisky do koktajli",
+    "Barowy styl",
+    "Alternatywa dla blendów"
+  ],
+
+  "howToPresent": "Blended malt z destylarni Speyside. Bardzo popularna w barach – gładka, słodowa i idealna do koktajli."
+},
+
+{
+  "slug": "aberlour-12",
+  "name": "Aberlour 12 Y.O.",
+  "subtitle": "Single Malt · Speyside",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Speyside",
+  "abv": "40%",
+  "image": "bottle_img/aberlour12.webp",
+
+  "whenToOffer": [
+    "Klient lubi whisky z nutą sherry",
+    "Alternatywa dla Glenlivet 12",
+    "Whisky bardziej owocowa niż dymna"
+  ],
+
+  "maturation": "American Oak + European Oak (Sherry)",
+
+  "howToPresent": "Klasyczny styl Speyside z wyraźnym wpływem beczek po sherry. Nuty suszonych owoców, wanilii i przypraw."
+},
+
+{
+  "slug": "aberlour-14",
+  "name": "Aberlour 14 Y.O.",
+  "subtitle": "Single Malt · Speyside",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Speyside",
+  "abv": "40%",
+  "image": "bottle_img/aberlour14.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś bardziej dojrzałego niż 12",
+    "Fan sherry finish",
+    "Alternatywa dla Macallan"
+  ],
+
+  "maturation": "American Oak + European Oak (Sherry)",
+
+  "howToPresent": "Bardziej złożona i głębsza niż 12. Więcej nut karmelu, czekolady i suszonych owoców."
+},
+
+{
+  "slug": "aberlour-suthain",
+  "name": "Aberlour Suthain",
+  "subtitle": "Single Malt · Travel Retail Exclusive",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Speyside",
+  "abv": "48%",
+  "image": "bottle_img/suthain.webp",
+
+  "whenToOffer": [
+    "Klient szuka edycji lotniskowej",
+    "Fan intensywnego sherry",
+    "Coś bardziej wyrazistego niż standardowa seria"
+  ],
+
+  "maturation": "Wyłącznie w beczkach po sherry Oloroso",
+
+  "howToPresent": "Edycja travel retail dojrzewająca w 100% w beczkach po sherry Oloroso. Bardziej intensywna, z nutami rodzynek, przypraw i czekolady."
+},
+
+{
+  "slug": "old-pulteney-10",
+  "name": "Old Pulteney 10 Y.O.",
+  "subtitle": "Single Malt · Highland",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Highland",
+  "abv": "40%",
+  "image": "bottle_img/oldpulteney10.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś innego niż Speyside",
+    "Whisky lekko morska, ale niedymna",
+    "Alternatywa dla Glenmorangie"
+  ],
+
+  "maturation": "American Oak",
+
+  "howToPresent": "Highland o delikatnie morskim charakterze. Świeża, lekko słona, z nutą wanilii i cytrusów."
+},
+
+{
+  "slug": "bunnahabhain-an-cladach",
+  "name": "Bunnahabhain An Cladach",
+  "subtitle": "Single Malt · Islay · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Islay",
+  "abv": "50%",
+  "image": "bottle_img/an_cladach.webp",
+
+  "whenToOffer": [
+    "Klient chce Islay bez mocnego torfu",
+    "Edycja lotniskowa",
+    "Alternatywa dla Laphroaig"
+  ],
+
+  "maturation": "Sherry Casks",
+
+  "howToPresent": "Islay w mniej torfowym stylu. Bardziej sherry, więcej suszonych owoców i przypraw."
+},
+
+{
+  "slug": "glenglassaugh-12",
+  "name": "Glenglassaugh 12 Y.O.",
+  "subtitle": "Single Malt · Highland",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Highland",
+  "abv": "45%",
+  "image": "bottle_img/glenglassaugh12.webp",
+
+  "whenToOffer": [
+    "Klient szuka mniej znanej destylarni",
+    "Alternatywa dla klasycznego Speyside"
+  ],
+
+  "maturation": "American Oak + Sherry",
+
+  "howToPresent": "Highland o świeżym, owocowym charakterze z nutą dębu i przypraw."
+},
+
+{
+  "slug": "bruichladdich-classic-laddie",
+  "name": "Bruichladdich The Classic Laddie",
+  "subtitle": "Single Malt · Islay · Unpeated",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Islay",
+  "abv": "50%",
+  "image": "bottle_img/classic_laddie.webp",
+
+  "whenToOffer": [
+    "Klient chce Islay bez torfu",
+    "Whisky bardziej nowoczesna",
+    "Alternatywa dla Speyside"
+  ],
+
+  "maturation": "American Oak",
+
+  "howToPresent": "Nietorfowa whisky z Islay. Świeża, mineralna, bardziej elegancka niż klasyczne torfowe wyspy."
+},
+
+{
+  "slug": "port-charlotte-10",
+  "name": "Port Charlotte 10 Y.O.",
+  "subtitle": "Single Malt · Islay · Peated",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Islay",
+  "abv": "50%",
+  "image": "bottle_img/port_charlotte10.webp",
+
+  "whenToOffer": [
+    "Klient lubi mocno torfowe whisky",
+    "Alternatywa dla Ardbeg",
+    "Fan Islay"
+  ],
+
+  "maturation": "American Oak",
+
+  "howToPresent": "Intensywnie torfowa whisky z Islay. Dymna, morska i wytrawna."
+},
+
+{
+  "slug": "aberfeldy-12-madeira",
+  "name": "Aberfeldy 12 Madeira Cask",
+  "subtitle": "Single Malt · Highland · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Highland",
+  "abv": "43%",
+  "image": "bottle_img/aberfeldy12_trex.webp",
+
+  "whenToOffer": [
+    "Klient lubi słodsze profile",
+    "Fan wine finish",
+    "Edycja lotniskowa"
+  ],
+
+  "maturation": "American Oak + Madeira Cask Finish",
+
+  "howToPresent": "Łagodna i miodowa whisky z finiszem w beczkach po winie Madeira. Więcej owoców i słodyczy."
+},
+
+{
+  "slug": "aberfeldy-16-madeira",
+  "name": "Aberfeldy 16 Madeira Cask",
+  "subtitle": "Single Malt · Highland · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Highland",
+  "abv": "43%",
+  "image": "bottle_img/aberfeldy16_trex.webp",
+
+  "whenToOffer": [
+    "Klient szuka starszej wersji",
+    "Alternatywa dla 12 Madeira",
+    "Prezent premium"
+  ],
+
+  "maturation": "American Oak + Madeira Cask Finish",
+
+  "howToPresent": "Bardziej dojrzała i głębsza wersja 12. Więcej nut suszonych owoców i przypraw."
+},
+
+{
+  "slug": "tomatin-8-trex",
+  "name": "Tomatin 8 Y.O.",
+  "subtitle": "Single Malt · Highland · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Highland",
+  "abv": "40%",
+  "image": "bottle_img/tomatin8.webp",
+
+  "whenToOffer": [
+    "Klient szuka łagodnej whisky w dobrej cenie",
+    "Alternatywa dla Glenlivet 12",
+    "Whisky na prezent z lotniska"
+  ],
+
+  "maturation": "American Oak",
+
+  "howToPresent": "Łagodna i przystępna Highland. Delikatna wanilia, miód i świeże owoce."
+},
+
+{
+  "slug": "benriach-quarter-cask",
+  "name": "Benriach Quarter Cask",
+  "subtitle": "Single Malt · Speyside · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Speyside",
+  "abv": "46%",
+  "image": "bottle_img/benriach_quarter.webp",
+
+  "whenToOffer": [
+    "Klient chce bardziej intensywną Speyside",
+    "Whisky o większej strukturze",
+    "Alternatywa dla Aberlour"
+  ],
+
+  "maturation": "Beczki Quarter Cask",
+
+  "howToPresent": "Dojrzewanie w mniejszych beczkach daje większą intensywność. Więcej przypraw, dębu i koncentracji smaku."
+},
+
+{
+  "slug": "singleton-golden-autumn-orchard",
+  "name": "The Singleton Golden Autumn Orchard",
+  "subtitle": "Single Malt · Speyside",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Speyside",
+  "abv": "40%",
+  "image": "bottle_img/singleton_autumn.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś łagodnego",
+    "Whisky bardziej owocowa",
+    "Alternatywa dla Glenfiddich"
+  ],
+
+  "howToPresent": "Owocowy, jesienny profil – jabłka, gruszka, delikatny miód i wanilia."
+},
+
+{
+  "slug": "singleton-radiant-spring-garden",
+  "name": "The Singleton Radiant Spring Garden",
+  "subtitle": "Single Malt · Speyside",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Speyside",
+  "abv": "40%",
+  "image": "bottle_img/singleton_spring.jpg",
+
+  "whenToOffer": [
+    "Klient chce coś świeżego i lekkiego",
+    "Whisky dla początkujących"
+  ],
+
+  "howToPresent": "Lżejsza, świeża i kwiatowa wersja Singletona. Bardzo przystępna."
+},
+
+{
+  "slug": "ardbeg-10",
+  "name": "Ardbeg 10 Y.O.",
+  "subtitle": "Single Malt · Islay · Peated",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Islay",
+  "abv": "46%",
+  "image": "bottle_img/ardbeg10.webp",
+
+  "whenToOffer": [
+    "Klient lubi mocny torf",
+    "Alternatywa dla Laphroaig",
+    "Fan Islay"
+  ],
+
+  "maturation": "American Oak",
+
+  "howToPresent": "Intensywnie torfowa whisky z Islay. Dym, jodyna, morska bryza i cytrusy."
+},
+
+{
+  "slug": "ardbeg-smoketrails-napa",
+  "name": "Ardbeg Smoketrails Napa Valley Cask",
+  "subtitle": "Single Malt · Islay · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Islay",
+  "abv": "46%",
+  "image": "bottle_img/ardbeg_smoketrails.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś unikalnego",
+    "Edycja lotniskowa",
+    "Fan torfu + wine finish"
+  ],
+
+  "maturation": "American Oak + Napa Valley Red Wine Cask",
+
+  "howToPresent": "Połączenie klasycznego torfu Ardbeg z finiszem w beczkach po czerwonym winie z Napa Valley. Dym + czerwone owoce."
+},
+
+{
+  "slug": "bowmore-11-trex",
+  "name": "Bowmore 11 Y.O.",
+  "subtitle": "Single Malt · Islay · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Islay",
+  "abv": "40%",
+  "image": "bottle_img/bowmore11.webp",
+
+  "whenToOffer": [
+    "Klient chce łagodniejsze Islay",
+    "Alternatywa dla Ardbeg",
+    "Edycja lotniskowa"
+  ],
+
+  "maturation": "American Oak",
+
+  "howToPresent": "Islay w bardziej przystępnej wersji – delikatny torf, wanilia i morska świeżość."
+},
+
+{
+  "slug": "bowmore-14-bordeaux",
+  "name": "Bowmore 14 Bordeaux Cask",
+  "subtitle": "Single Malt · Islay · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Islay",
+  "abv": "43%",
+  "image": "bottle_img/bowmore14.webp",
+
+  "whenToOffer": [
+    "Klient lubi wine finish",
+    "Fan torfu, ale mniej agresywnego",
+    "Edycja lotniskowa"
+  ],
+
+  "maturation": "American Oak + Bordeaux Wine Cask",
+
+  "howToPresent": "Subtelny torf Bowmore połączony z czerwonym winem Bordeaux. Dym + czerwone owoce."
+},
+
+{
+  "slug": "bowmore-16-ruby-port",
+  "name": "Bowmore 16 Ruby Port Cask",
+  "subtitle": "Single Malt · Islay · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Islay",
+  "abv": "43%",
+  "image": "bottle_img/bowmore16.webp",
+
+  "whenToOffer": [
+    "Klient szuka słodszej Islay",
+    "Fan porto finish",
+    "Alternatywa dla Lagavulin"
+  ],
+
+  "maturation": "American Oak + Ruby Port Cask",
+
+  "howToPresent": "Torf w bardziej owocowym wydaniu. Nuty suszonych śliwek i czerwonych owoców."
+},
+
+{
+  "slug": "lagavulin-8",
+  "name": "Lagavulin 8 Y.O.",
+  "subtitle": "Single Malt · Islay",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Islay",
+  "abv": "48%",
+  "image": "bottle_img/lagavulin8.webp",
+
+  "whenToOffer": [
+    "Klient lubi intensywny torf",
+    "Fan Ardbeg",
+    "Mocniejsza, młodsza wersja Lagavulin"
+  ],
+
+  "maturation": "American Oak",
+
+  "howToPresent": "Bardziej surowa i intensywna wersja stylu Lagavulin. Dym, sól morska i pieprz."
+},
+
+{
+  "slug": "lagavulin-10-trex",
+  "name": "Lagavulin 10 Y.O.",
+  "subtitle": "Single Malt · Islay · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Islay",
+  "abv": "43%",
+  "image": "bottle_img/lagavulin10.webp",
+
+  "whenToOffer": [
+    "Klient chce edycję lotniskową",
+    "Fan klasycznego stylu Lagavulin"
+  ],
+
+  "maturation": "American Oak",
+
+  "howToPresent": "Klasyczny torfowy styl Lagavulin w wersji travel retail."
+},
+
+{
+  "slug": "lagavulin-16",
+  "name": "Lagavulin 16 Y.O.",
+  "subtitle": "Single Malt · Islay",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Islay",
+  "abv": "43%",
+  "image": "bottle_img/lagavulin16.webp",
+
+  "whenToOffer": [
+    "Klient zna i szuka Lagavulin",
+    "Fan klasycznego torfu",
+    "Prezent premium"
+  ],
+
+  "maturation": "American Oak + Sherry",
+
+  "howToPresent": "Ikoniczna Islay. Głęboki torf, dym, suszone owoce i morska bryza."
+},
+
+{
+  "slug": "laphroaig-four-oak",
+  "name": "Laphroaig Four Oak",
+  "subtitle": "Single Malt · Islay · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Islay",
+  "abv": "40%",
+  "image": "bottle_img/laphroaig_fouroak.webp",
+
+  "whenToOffer": [
+    "Fan Laphroaig",
+    "Klient szuka czegoś łagodniejszego niż 10",
+    "Edycja lotniskowa"
+  ],
+
+  "maturation": "Four types of oak casks",
+
+  "howToPresent": "Klasyczny medyczny torf Laphroaig w bardziej zbalansowanej, wielobeczkowej wersji."
+},
+
+{
+  "slug": "laphroaig-px",
+  "name": "Laphroaig PX Cask",
+  "subtitle": "Single Malt · Islay · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Islay",
+  "abv": "48%",
+  "image": "bottle_img/laphroaig_px.webp",
+
+  "whenToOffer": [
+    "Fan intensywnego torfu",
+    "Klient lubi sherry finish",
+    "Edycja lotniskowa premium"
+  ],
+
+  "maturation": "American Oak + Pedro Ximénez Cask Finish",
+
+  "howToPresent": "Połączenie torfowego, medycznego charakteru Laphroaig z słodyczą beczek po sherry PX."
+},
+
+{
+  "slug": "talisker-10",
+  "name": "Talisker 10 Y.O.",
+  "subtitle": "Single Malt · Isle of Skye",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Isle of Skye",
+  "abv": "45.8%",
+  "image": "bottle_img/talisker10.webp",
+
+  "whenToOffer": [
+    "Klient chce torf, ale nie Islay",
+    "Fan morskiego charakteru",
+    "Alternatywa dla Lagavulin 16"
+  ],
+
+  "maturation": "American Oak",
+
+  "howToPresent": "Dymna, pieprzna i morska whisky ze Skye. Słony finisz i charakterystyczna pikantność."
+},
+
+{
+  "slug": "talisker-dark-storm",
+  "name": "Talisker Dark Storm",
+  "subtitle": "Single Malt · Isle of Skye · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Isle of Skye",
+  "abv": "45.8%",
+  "image": "bottle_img/talisker_darkstorm.webp",
+
+  "whenToOffer": [
+    "Klient chce mocniejszy styl Talisker",
+    "Fan intensywnego dymu",
+    "Edycja lotniskowa"
+  ],
+
+  "maturation": "Intensywnie wypalane beczki z amerykańskiego dębu",
+
+  "howToPresent": "Bardziej dymna i intensywna wersja Talisker. Więcej przypraw i głębi."
+},
+
+{
+  "slug": "talisker-surge",
+  "name": "Talisker Surge",
+  "subtitle": "Single Malt · Isle of Skye · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Isle of Skye",
+  "abv": "45.8%",
+  "image": "bottle_img/talisker_surge.webp",
+
+  "whenToOffer": [
+    "Klient szuka świeższej wersji Talisker",
+    "Edycja lotniskowa"
+  ],
+
+  "maturation": "American Oak",
+
+  "howToPresent": "Bardziej cytrusowa i świeża odsłona Talisker, zachowująca morski charakter."
+},
+
+{
+  "slug": "highland-park-14",
+  "name": "Highland Park 14 Y.O.",
+  "subtitle": "Single Malt · Orkney · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Orkney",
+  "abv": "44.2%",
+  "image": "bottle_img/hp14_land.webp",
+
+  "whenToOffer": [
+    "Klient chce torf subtelniejszy niż Islay",
+    "Alternatywa dla Talisker"
+  ],
+
+  "maturation": "American Oak + Sherry",
+
+  "howToPresent": "Zbalansowana whisky z Orkney – lekki torf, miód i suszone owoce."
+},
+
+{
+  "slug": "highland-park-16",
+  "name": "Highland Park 16 Y.O.",
+  "subtitle": "Single Malt · Orkney · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Orkney",
+  "abv": "43%",
+  "image": "bottle_img/hp16_sea.webp",
+
+  "whenToOffer": [
+    "Klient szuka bardziej dojrzałej Orkney",
+    "Prezent premium"
+  ],
+
+  "maturation": "American Oak + Sherry",
+
+  "howToPresent": "Głębsza, bardziej złożona wersja – miód, przyprawy i delikatny torf."
+},
+
+{
+  "slug": "highland-park-17",
+  "name": "Highland Park 17 Y.O.",
+  "subtitle": "Single Malt · Orkney · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Orkney",
+  "abv": "43%",
+  "image": "bottle_img/hp17_trex.jpg",
+
+  "whenToOffer": [
+    "Klient chce starszą edycję",
+    "Whisky prezentowa"
+  ],
+
+  "maturation": "American Oak + Sherry",
+
+  "howToPresent": "Bardziej dojrzała i elegancka Orkney z wyraźnym balansem torfu i słodyczy."
+},
+
+{
+  "slug": "jura-islanders-madeira",
+  "name": "Jura Islanders Expression Madeira",
+  "subtitle": "Single Malt · Isle of Jura · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Isle of Jura",
+  "abv": "40%",
+  "image": "bottle_img/jura_madeira_trex.webp",
+
+  "whenToOffer": [
+    "Klient lubi wine finish",
+    "Edycja lotniskowa"
+  ],
+
+  "maturation": "American Oak + Madeira Finish",
+
+  "howToPresent": "Delikatna i owocowa Jura z finiszem w beczkach po winie Madeira."
+},
+
+{
+  "slug": "jura-white-oak",
+  "name": "Jura White Oak",
+  "subtitle": "Single Malt · Isle of Jura · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Isle of Jura",
+  "abv": "40%",
+  "image": "bottle_img/jura_whiteoak_trex.jpg",
+
+  "whenToOffer": [
+    "Klient szuka łagodnej whisky",
+    "Alternatywa dla Glenlivet"
+  ],
+
+  "maturation": "American White Oak",
+
+  "howToPresent": "Lekka i waniliowa Jura. Bardzo przystępna i miękka."
+},
+
+{
+  "slug": "jura-13",
+  "name": "Jura 13 Y.O.",
+  "subtitle": "Single Malt · Isle of Jura · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Isle of Jura",
+  "abv": "40%",
+  "image": "bottle_img/jura13.jpg",
+
+  "whenToOffer": [
+    "Klient chce coś bardziej złożonego niż White Oak"
+  ],
+
+  "maturation": "American Oak + Wine Finish",
+
+  "howToPresent": "Owocowa, lekko przyprawowa Jura z delikatnym wpływem wina."
+},
+
+{
+  "slug": "jura-19",
+  "name": "Jura 19 Y.O.",
+  "subtitle": "Single Malt · Isle of Jura · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Isle of Jura",
+  "abv": "40%",
+  "image": "bottle_img/jura19_trex.jpg",
+
+  "whenToOffer": [
+    "Klient szuka starszej edycji",
+    "Prezent premium"
+  ],
+
+  "maturation": "American Oak + Wine Cask Finish",
+
+  "howToPresent": "Dojrzała, elegancka Jura z większą głębią i owocowym charakterem."
+},
+
+{
+  "slug": "glenmorangie-12",
+  "name": "Glenmorangie 12 Y.O.",
+  "subtitle": "Single Malt · Highland",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Highland",
+  "abv": "40%",
+  "image": "bottle_img/glenmorangie12.webp",
+
+  "whenToOffer": [
+    "Klient szuka łagodnej whisky",
+    "Alternatywa dla Glenlivet 12",
+    "Whisky dla początkujących"
+  ],
+
+  "maturation": "American Oak",
+
+  "howToPresent": "Bardzo łagodna i elegancka Highland. Wanilia, miód i świeże owoce."
+},
+
+{
+  "slug": "glenmorangie-12-accord",
+  "name": "Glenmorangie 12 Accord",
+  "subtitle": "Single Malt · Highland · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Highland",
+  "abv": "43%",
+  "image": "bottle_img/glenmorangie12_accord.webp",
+
+  "whenToOffer": [
+    "Klient chce edycję lotniskową",
+    "Fan sherry influence"
+  ],
+
+  "maturation": "American Oak + Oloroso Sherry",
+
+  "howToPresent": "Bardziej sherry styl Glenmorangie. Więcej przypraw i suszonych owoców."
+},
+
+{
+  "slug": "glenmorangie-14-elementa",
+  "name": "Glenmorangie 14 Elementa",
+  "subtitle": "Single Malt · Highland · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Highland",
+  "abv": "43%",
+  "image": "bottle_img/glenmorangie14_elementa.webp",
+
+  "whenToOffer": [
+    "Klient lubi bardziej złożone whisky",
+    "Alternatywa dla Macallan"
+  ],
+
+  "maturation": "American Oak + Sherry",
+
+  "howToPresent": "Bogatsza i bardziej złożona wersja Glenmorangie. Nuty przypraw, czekolady i suszonych owoców."
+},
+
+{
+  "slug": "glenmorangie-16-vidima",
+  "name": "Glenmorangie 16 Vidima",
+  "subtitle": "Single Malt · Highland · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Highland",
+  "abv": "43%",
+  "image": "bottle_img/glenmorangie16_vidima.webp",
+
+  "whenToOffer": [
+    "Klient szuka starszej edycji",
+    "Whisky prezentowa"
+  ],
+
+  "maturation": "American Oak + Wine Cask Finish",
+
+  "howToPresent": "Dojrzała i elegancka. Więcej głębi, nut owocowych i przypraw."
+},
+
+{
+  "slug": "glenmorangie-18-infinita",
+  "name": "Glenmorangie 18 Infinita",
+  "subtitle": "Single Malt · Highland · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Highland",
+  "abv": "43%",
+  "image": "bottle_img/glenmorangie18_infinita.webp",
+
+  "whenToOffer": [
+    "Klient szuka whisky premium",
+    "Prezent wysokiej klasy"
+  ],
+
+  "maturation": "American Oak + Oloroso Sherry",
+
+  "howToPresent": "Elegancka, głęboka i harmonijna. Nuty suszonych owoców, miodu i przypraw."
+},
+
+{
+  "slug": "glenmorangie-signet",
+  "name": "Glenmorangie Signet",
+  "subtitle": "Single Malt · Highland · Premium",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Highland",
+  "abv": "46%",
+  "image": "bottle_img/glenmorangie_signet.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś wyjątkowego",
+    "Prezent luksusowy",
+    "Whisky dla kolekcjonera"
+  ],
+
+  "maturation": "Specjalnie wypalane beczki + unikalne prażone słody",
+
+  "howToPresent": "Flagowa i najbardziej luksusowa pozycja Glenmorangie. Intensywne nuty kawy, czekolady i przypraw."
+},
+
+{
+  "slug": "dalmore-the-trio",
+  "name": "Dalmore The Trio",
+  "subtitle": "Single Malt · Highland · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Highland",
+  "abv": "40%",
+  "image": "bottle_img/dalmore_trio.webp",
+
+  "whenToOffer": [
+    "Klient szuka eleganckiej whisky",
+    "Fan sherry influence",
+    "Prezent premium z lotniska"
+  ],
+
+  "maturation": "American Oak + Tawny Port + Matusalem Sherry",
+
+  "howToPresent": "Trzy rodzaje beczek nadają whisky nut suszonych owoców, czekolady i przypraw. Bardzo elegancka i gładka."
+},
+
+{
+  "slug": "dalmore-13-px",
+  "name": "Dalmore 13 PX",
+  "subtitle": "Single Malt · Highland · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Highland",
+  "abv": "43%",
+  "image": "bottle_img/dalmore13_px.jpg",
+
+  "whenToOffer": [
+    "Klient lubi słodszy profil",
+    "Fan Pedro Ximénez",
+    "Alternatywa dla Macallan"
+  ],
+
+  "maturation": "American Oak + Pedro Ximénez Cask Finish",
+
+  "howToPresent": "Wyraźny wpływ sherry PX – rodzynki, czekolada i przyprawy. Bardzo gładka i bogata."
+},
+
+{
+  "slug": "dalmore-16-px",
+  "name": "Dalmore 16 PX",
+  "subtitle": "Single Malt · Highland · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Highland",
+  "abv": "43%",
+  "image": "bottle_img/dalmore16_px.jpg",
+
+  "whenToOffer": [
+    "Klient szuka starszej wersji PX",
+    "Whisky prezentowa",
+    "Fan intensywnego sherry"
+  ],
+
+  "maturation": "American Oak + Pedro Ximénez",
+
+  "howToPresent": "Bardziej dojrzała i głębsza wersja PX. Nuty suszonych owoców, karmelu i przypraw."
+},
+
+{
+  "slug": "dalmore-cigar-malt-travel",
+  "name": "Dalmore Cigar Malt (Travel Edition)",
+  "subtitle": "Single Malt · Highland · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Highland",
+  "abv": "44%",
+  "image": "bottle_img/dalmore_cigarmalt.jpg",
+
+  "whenToOffer": [
+    "Klient szuka whisky do cygara",
+    "Whisky premium",
+    "Prezent dla konesera"
+  ],
+
+  "maturation": "American Oak + Sherry + Cabernet Sauvignon",
+
+  "howToPresent": "Bogata, pełna i wyrazista. Stworzona z myślą o łączeniu z cygarem – nuty czekolady, przypraw i suszonych owoców."
+},
+
+{
+  "slug": "tullamore-dew",
+  "name": "Tullamore D.E.W.",
+  "subtitle": "Blended Irish Whiskey · Ireland",
+  "category": "whisky-irish",
+  "country": "Ireland",
+  "abv": "40%",
+  "image": "bottle_img/tullamore.webp",
+
+  "whenToOffer": [
+    "Klient szuka łagodnej whisky",
+    "Alternatywa dla Jameson",
+    "Whisky do drinków"
+  ],
+
+  "howToPresent": "Klasyczna irlandzka whisky – potrójnie destylowana, bardzo gładka i delikatna."
+},
+
+{
+  "slug": "tullamore-honey",
+  "name": "Tullamore Honey",
+  "subtitle": "Irish Whiskey Liqueur · Ireland",
+  "category": "whisky-irish",
+  "country": "Ireland",
+  "abv": "35%",
+  "image": "bottle_img/tullamore_honey.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś łagodniejszego",
+    "Alternatywa dla likierów miodowych"
+  ],
+
+  "howToPresent": "Irlandzka whiskey z dodatkiem naturalnego miodu. Słodsza i bardziej przystępna."
+},
+
+{
+  "slug": "tullamore-12",
+  "name": "Tullamore D.E.W. 12 Y.O.",
+  "subtitle": "Blended Irish Whiskey · Ireland",
+  "category": "whisky-irish",
+  "country": "Ireland",
+  "abv": "40%",
+  "image": "bottle_img/tullamore12.jpg",
+
+  "whenToOffer": [
+    "Klient chce starszą irlandzką whisky",
+    "Prezent w średnim segmencie"
+  ],
+
+  "howToPresent": "Bardziej dojrzała wersja klasycznego Tullamore. Więcej nut wanilii i przypraw."
+},
+
+{
+  "slug": "bushmills-original",
+  "name": "Bushmills Original",
+  "subtitle": "Blended Irish Whiskey · Ireland",
+  "category": "whisky-irish",
+  "country": "Ireland",
+  "abv": "40%",
+  "image": "bottle_img/bushmills.webp",
+
+  "whenToOffer": [
+    "Klient szuka delikatnej irlandzkiej whisky",
+    "Alternatywa dla Tullamore"
+  ],
+
+  "howToPresent": "Łagodna i lekka irlandzka whisky. Idealna do picia solo lub w drinkach."
+},
+
+{
+  "slug": "bushmills-black-bush-px",
+  "name": "Bushmills Black Bush 80/20 PX",
+  "subtitle": "Blended Irish Whiskey · Travel Retail",
+  "category": "whisky-irish",
+  "country": "Ireland",
+  "abv": "40%",
+  "image": "bottle_img/bushmills_blackbush_px.webp",
+
+  "whenToOffer": [
+    "Klient lubi sherry influence",
+    "Alternatywa dla szkockiej sherry",
+    "Edycja lotniskowa"
+  ],
+
+  "maturation": "80% single malt + PX Sherry Casks",
+
+  "howToPresent": "Bardziej słodka i owocowa wersja Black Bush dzięki beczkom po PX."
+},
+
+{
+  "slug": "bushmills-10-sherry",
+  "name": "Bushmills 10 Sherry Cask",
+  "subtitle": "Single Malt · Ireland · Travel Retail",
+  "category": "whisky-irish",
+  "country": "Ireland",
+  "abv": "40%",
+  "image": "bottle_img/bushmills10_sherry.webp",
+
+  "whenToOffer": [
+    "Klient chce single malt z Irlandii",
+    "Fan sherry"
+  ],
+
+  "maturation": "Sherry Casks",
+
+  "howToPresent": "Irlandzki single malt z wyraźnym wpływem sherry – łagodny i owocowy."
+},
+
+{
+  "slug": "bushmills-15-first-fill",
+  "name": "Bushmills 15 First Fill Bourbon Cask",
+  "subtitle": "Single Malt · Ireland",
+  "category": "whisky-irish",
+  "country": "Ireland",
+  "abv": "40%",
+  "image": "bottle_img/bushmills15.webp",
+
+  "whenToOffer": [
+    "Klient szuka bardziej dojrzałej irlandzkiej whisky",
+    "Fan bourbon cask influence",
+    "Prezent premium"
+  ],
+
+  "maturation": "First Fill Bourbon Casks",
+
+  "howToPresent": "Bardziej złożona i waniliowa wersja Bushmills. Delikatna, ale z głębią."
+},
+
+{
+  "slug": "smokehead-trex",
+  "name": "Smokehead",
+  "subtitle": "Single Malt · Islay · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Islay",
+  "abv": "43%",
+  "image": "bottle_img/smokehead_trex.webp",
+
+  "whenToOffer": [
+    "Klient szuka bardzo torfowej whisky",
+    "Alternatywa dla Ardbeg",
+    "Fan intensywnego dymu"
+  ],
+
+  "maturation": "American Oak",
+
+  "howToPresent": "Bardzo intensywna, dymna i torfowa whisky z Islay. Wyrazista, morska i zdecydowana."
+},
+
+{
+  "slug": "jameson-original",
+  "name": "Jameson Original",
+  "subtitle": "Blended Irish Whiskey · Ireland",
+  "category": "whisky-irish",
+  "country": "Ireland",
+  "abv": "40%",
+  "image": "bottle_img/jameson.webp",
+
+  "whenToOffer": [
+    "Klient szuka klasycznej irlandzkiej whisky",
+    "Whisky do drinków",
+    "Alternatywa dla Tullamore"
+  ],
+
+  "howToPresent": "Potrójnie destylowana, bardzo gładka i uniwersalna irlandzka whiskey."
+},
+
+{
+  "slug": "jameson-triple-triple-marsala",
+  "name": "Jameson Triple Triple Marsala",
+  "subtitle": "Irish Whiskey · Travel Retail",
+  "category": "whisky-irish",
+  "country": "Ireland",
+  "abv": "40%",
+  "image": "bottle_img/jameson_marsala.webp",
+
+  "whenToOffer": [
+    "Klient lubi wine finish",
+    "Edycja lotniskowa"
+  ],
+
+  "maturation": "American Oak + Sherry + Marsala Casks",
+
+  "howToPresent": "Owocowa i lekko słodsza wersja Jameson z wpływem beczek po winie Marsala."
+},
+
+{
+  "slug": "jameson-triple-triple-malaga",
+  "name": "Jameson Triple Triple Malaga",
+  "subtitle": "Irish Whiskey · Travel Retail",
+  "category": "whisky-irish",
+  "country": "Ireland",
+  "abv": "40%",
+  "image": "bottle_img/jameson_malaga.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś słodszego",
+    "Edycja lotniskowa"
+  ],
+
+  "maturation": "American Oak + Sherry + Malaga Casks",
+
+  "howToPresent": "Delikatniejsza i bardziej owocowa wersja z wyraźnym wpływem słodkiego wina Malaga."
+},
+
+{
+  "slug": "jameson-black-barrel",
+  "name": "Jameson Black Barrel",
+  "subtitle": "Blended Irish Whiskey · Ireland",
+  "category": "whisky-irish",
+  "country": "Ireland",
+  "abv": "40%",
+  "image": "bottle_img/jameson_barrel.webp",
+
+  "whenToOffer": [
+    "Klient chce bardziej intensywną wersję Jameson",
+    "Alternatywa dla szkockiej"
+  ],
+
+  "maturation": "Double charred bourbon barrels",
+
+  "howToPresent": "Bardziej intensywna, waniliowa i karmelowa wersja Jameson dzięki mocniej wypalanym beczkom."
+},
+
+{
+  "slug": "midleton",
+  "name": "Midleton Very Rare",
+  "subtitle": "Premium Irish Whiskey · Ireland",
+  "category": "whisky-irish",
+  "country": "Ireland",
+  "abv": "40%",
+  "image": "bottle_img/midleton.webp",
+
+  "whenToOffer": [
+    "Klient szuka luksusowej irlandzkiej whisky",
+    "Prezent premium"
+  ],
+
+  "howToPresent": "Jedna z najbardziej prestiżowych irlandzkich whiskey. Limitowane roczniki, elegancka i złożona."
+},
+
+{
+  "slug": "sexton-11",
+  "name": "The Sexton 11 Y.O.",
+  "subtitle": "Single Malt · Ireland · Travel Retail",
+  "category": "whisky-irish",
+  "country": "Ireland",
+  "abv": "40%",
+  "image": "bottle_img/sexton11.webp",
+
+  "whenToOffer": [
+    "Klient chce single malt z Irlandii",
+    "Fan sherry influence"
+  ],
+
+  "maturation": "Sherry Casks",
+
+  "howToPresent": "Irlandzki single malt dojrzewający w beczkach po sherry. Owocowy i łagodny."
+},
+
+{
+  "slug": "connemara",
+  "name": "Connemara Peated",
+  "subtitle": "Peated Irish Whiskey · Ireland",
+  "category": "whisky-irish",
+  "country": "Ireland",
+  "abv": "40%",
+  "image": "bottle_img/connemara.webp",
+
+  "whenToOffer": [
+    "Klient chce torfową irlandzką whisky",
+    "Alternatywa dla szkockiej Islay"
+  ],
+
+  "howToPresent": "Jedna z nielicznych torfowych irlandzkich whiskey. Dymna, ale łagodniejsza niż Islay."
+},
+
+{
+  "slug": "slane-triple-sherry",
+  "name": "Slane Triple Sherry Wood",
+  "subtitle": "Irish Whiskey · Ireland",
+  "category": "whisky-irish",
+  "country": "Ireland",
+  "abv": "40%",
+  "image": "bottle_img/slane.webp",
+
+  "whenToOffer": [
+    "Klient lubi sherry influence",
+    "Alternatywa dla Bushmills"
+  ],
+
+  "maturation": "Three types of sherry casks",
+
+  "howToPresent": "Wyraźny wpływ sherry – owocowa i lekko przyprawowa."
+},
+
+{
+  "slug": "paddy",
+  "name": "Paddy Irish Whiskey",
+  "subtitle": "Blended Irish Whiskey · Ireland",
+  "category": "whisky-irish",
+  "country": "Ireland",
+  "abv": "40%",
+  "image": "bottle_img/paddy.webp",
+
+  "whenToOffer": [
+    "Klient szuka budżetowej irlandzkiej whisky",
+    "Whisky do drinków"
+  ],
+
+  "howToPresent": "Lekka, łagodna i przystępna cenowo irlandzka whiskey."
+},
+
+{
+  "slug": "woodford-reserve",
+  "name": "Woodford Reserve",
+  "subtitle": "Kentucky Straight Bourbon · USA",
+  "category": "whisky-bourbon",
+  "country": "USA",
+  "abv": "43.2%",
+  "image": "bottle_img/woodford.webp",
+
+  "whenToOffer": [
+    "Klient szuka klasycznego bourbona premium",
+    "Do Old Fashioned",
+    "Alternatywa dla Maker's Mark"
+  ],
+
+  "howToPresent": "Zbalansowany bourbon z nutami wanilii, karmelu i przypraw. Bardzo uniwersalny."
+},
+
+{
+  "slug": "woodford-reserve-malt",
+  "name": "Woodford Reserve Malt",
+  "subtitle": "American Malt Whiskey · USA",
+  "category": "whisky-bourbon",
+  "country": "USA",
+  "abv": "45.2%",
+  "image": "bottle_img/woodford_malt.webp",
+
+  "whenToOffer": [
+    "Klient chce coś innego niż klasyczny bourbon",
+    "Fan słodowego charakteru"
+  ],
+
+  "howToPresent": "Amerykańska whiskey słodowa – bardziej zbożowa i kremowa niż klasyczny bourbon."
+},
+
+{
+  "slug": "woodford-reserve-double-oaked",
+  "name": "Woodford Reserve Double Oaked",
+  "subtitle": "Kentucky Straight Bourbon · USA",
+  "category": "whisky-bourbon",
+  "country": "USA",
+  "abv": "43.2%",
+  "image": "bottle_img/woodford_doubleoak.webp",
+
+  "whenToOffer": [
+    "Klient lubi intensywną wanilię",
+    "Alternatywa dla Angel’s Envy"
+  ],
+
+  "howToPresent": "Dojrzewany w drugiej, mocniej wypalanej beczce. Bardziej słodki, waniliowy i karmelowy."
+},
+
+{
+  "slug": "knob-creek-9",
+  "name": "Knob Creek 9 Y.O.",
+  "subtitle": "Kentucky Straight Bourbon · USA",
+  "category": "whisky-bourbon",
+  "country": "USA",
+  "abv": "50%",
+  "image": "bottle_img/knob_creek9.webp",
+
+  "whenToOffer": [
+    "Klient chce mocniejszy bourbon",
+    "Fan wyrazistych smaków"
+  ],
+
+  "howToPresent": "Intensywny i wyrazisty bourbon o wyższej mocy. Nuty dębu, karmelu i przypraw."
+},
+
+{
+  "slug": "eagle-rare-10",
+  "name": "Eagle Rare 10 Y.O.",
+  "subtitle": "Kentucky Straight Bourbon · USA",
+  "category": "whisky-bourbon",
+  "country": "USA",
+  "abv": "45%",
+  "image": "bottle_img/eagle_rare10.webp",
+
+  "whenToOffer": [
+    "Klient szuka bourbona z wiekiem",
+    "Prezent w segmencie premium"
+  ],
+
+  "howToPresent": "10-letni bourbon o eleganckim profilu – wanilia, dąb i lekka słodycz."
+},
+
+{
+  "slug": "makers-mark",
+  "name": "Maker’s Mark",
+  "subtitle": "Kentucky Straight Bourbon · USA",
+  "category": "whisky-bourbon",
+  "country": "USA",
+  "abv": "45%",
+  "image": "bottle_img/makers_mark.webp",
+
+  "whenToOffer": [
+    "Klient chce łagodny bourbon",
+    "Do koktajli"
+  ],
+
+  "howToPresent": "Pszeniczny bourbon o miękkim i słodkim charakterze. Bardzo przystępny."
+},
+
+{
+  "slug": "buffalo-trace",
+  "name": "Buffalo Trace",
+  "subtitle": "Kentucky Straight Bourbon · USA",
+  "category": "whisky-bourbon",
+  "country": "USA",
+  "abv": "40%",
+  "image": "bottle_img/buffalo.webp",
+
+  "whenToOffer": [
+    "Klient szuka klasycznego bourbona",
+    "Do Old Fashioned"
+  ],
+
+  "howToPresent": "Klasyczny styl Kentucky – wanilia, karmel i przyprawy."
+},
+
+{
+  "slug": "wild-turkey-101",
+  "name": "Wild Turkey 101",
+  "subtitle": "Kentucky Straight Bourbon · USA",
+  "category": "whisky-bourbon",
+  "country": "USA",
+  "abv": "50.5%",
+  "image": "bottle_img/wild_turkey101.webp",
+
+  "whenToOffer": [
+    "Klient chce mocniejszy bourbon",
+    "Do koktajli klasycznych"
+  ],
+
+  "howToPresent": "Wyższa moc, intensywniejszy smak – karmel, przyprawy i dąb."
+},
+
+{
+  "slug": "angels-envy",
+  "name": "Angel’s Envy",
+  "subtitle": "Kentucky Bourbon · Port Finish · USA",
+  "category": "whisky-bourbon",
+  "country": "USA",
+  "abv": "43.3%",
+  "image": "bottle_img/angels_envy.png",
+
+  "whenToOffer": [
+    "Klient lubi wine finish",
+    "Alternatywa dla Double Oaked"
+  ],
+
+  "maturation": "Port Wine Finish",
+
+  "howToPresent": "Bourbon finiszowany w beczkach po porto. Bardziej owocowy i słodszy."
+},
+
+{
+  "slug": "southern-comfort",
+  "name": "Southern Comfort",
+  "subtitle": "American Liqueur · USA",
+  "category": "whisky-bourbon",
+  "country": "USA",
+  "abv": "35%",
+  "image": "bottle_img/southern_comfort.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś słodszego",
+    "Do prostych drinków"
+  ],
+
+  "howToPresent": "Likier na bazie whiskey z nutą owoców i przypraw."
+},
+
+{
+  "slug": "crown-royal",
+  "name": "Crown Royal",
+  "subtitle": "Canadian Whisky · Canada",
+  "category": "whisky-canadian",
+  "country": "Canada",
+  "abv": "40%",
+  "image": "bottle_img/crown.webp",
+
+  "whenToOffer": [
+    "Klient szuka kanadyjskiej whisky",
+    "Łagodniejsza alternatywa dla bourbona"
+  ],
+
+  "howToPresent": "Miękka i lekka kanadyjska whisky o delikatnym profilu."
+},
+
+{
+  "slug": "fireball",
+  "name": "Fireball Cinnamon",
+  "subtitle": "Cinnamon Whisky Liqueur · USA",
+  "category": "whisky-bourbon",
+  "country": "USA",
+  "abv": "33%",
+  "image": "bottle_img/fireball.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś słodkiego i pikantnego",
+    "Imprezowa opcja"
+  ],
+
+  "howToPresent": "Likier cynamonowy na bazie whiskey. Słodki i pikantny."
+},
+
+{
+  "slug": "jim-beam-white",
+  "name": "Jim Beam White",
+  "subtitle": "Kentucky Straight Bourbon · USA",
+  "category": "whisky-bourbon",
+  "country": "USA",
+  "abv": "40%",
+  "image": "bottle_img/beam.webp",
+
+  "whenToOffer": [
+    "Klient szuka klasycznego bourbona",
+    "Do drinków",
+    "Alternatywa dla Jack Daniel’s"
+  ],
+
+  "howToPresent": "Klasyczny bourbon o nutach wanilii, karmelu i lekkiej słodyczy. Bardzo uniwersalny."
+},
+
+{
+  "slug": "jim-beam-flavoured",
+  "name": "Jim Beam Flavoured",
+  "subtitle": "Flavoured Bourbon · USA",
+  "category": "whisky-bourbon",
+  "country": "USA",
+  "abv": "32.5%",
+  "image": "bottle_img/beam_apple.png",
+
+  "whenToOffer": [
+    "Klient nie lubi klasycznej whisky",
+    "Szuka czegoś słodszego",
+    "Na imprezę"
+  ],
+
+  "howToPresent": "Lżejsza i słodsza wersja bourbona. Bardziej przystępna dla osób, które nie piją klasycznej whisky.",
+
+  "variants": [
+    {
+      "type": "Apple",
+      "image": "bottle_img/beam_apple.png"
+    },
+    {
+      "type": "Honey",
+      "image": "bottle_img/beam_honey.png"
+    }
+  ],
+
+  "salesTip": [
+    "Apple – bardziej świeży i owocowy.",
+    "Honey – łagodniejszy i bardziej słodki."
+  ]
+},
+
+{
+  "slug": "jack-daniels-no7",
+  "name": "Jack Daniel’s Old No.7",
+  "subtitle": "Tennessee Whiskey · USA",
+  "category": "whisky-bourbon",
+  "country": "USA",
+  "abv": "40%",
+  "image": "bottle_img/jack.webp",
+
+  "whenToOffer": [
+    "Klient szuka klasycznej amerykańskiej whisky",
+    "Alternatywa dla Jim Beam",
+    "Do drinków"
+  ],
+
+  "howToPresent": "Ikona Tennessee whiskey. Filtrowana przez węgiel drzewny, łagodna z nutami karmelu i wanilii."
+}, 
+
+{
+  "slug": "jack-daniels-flavoured",
+  "name": "Jack Daniel’s Flavoured",
+  "subtitle": "Flavoured Tennessee Whiskey · USA",
+  "category": "whisky-bourbon",
+  "country": "USA",
+  "abv": "35%",
+  "image": "bottle_img/jack_apple.webp",
+
+  "whenToOffer": [
+    "Klient nie pije klasycznej whisky",
+    "Szukają czegoś słodszego",
+    "Na imprezę"
+  ],
+
+  "howToPresent": "Lżejsze i słodsze wersje Jack Daniel’s. Bardziej przystępne dla osób początkujących.",
+
+  "variants": [
+    {
+      "type": "Apple",
+      "image": "bottle_img/jack_apple.webp"
+    },
+    {
+      "type": "Honey",
+      "image": "bottle_img/jack_honey.webp"
+    },
+    {
+      "type": "Fire",
+      "image": "bottle_img/jack_fire.webp"
+    }
+  ]
+},
+
+{
+  "slug": "jack-daniels-gentleman",
+  "name": "Jack Daniel’s Gentleman Jack",
+  "subtitle": "Tennessee Whiskey · USA",
+  "category": "whisky-bourbon",
+  "country": "USA",
+  "abv": "40%",
+  "image": "bottle_img/jack_gentleman.webp",
+
+  "whenToOffer": [
+    "Klient chce coś lepszego niż No.7",
+    "Łagodniejsza wersja Jack Daniel’s"
+  ],
+
+  "howToPresent": "Podwójnie filtrowany przez węgiel drzewny. Bardziej gładki i elegancki niż klasyczny No.7."
+},
+
+{
+  "slug": "jack-daniels-bonded",
+  "name": "Jack Daniel’s Bonded",
+  "subtitle": "Tennessee Whiskey · USA",
+  "category": "whisky-bourbon",
+  "country": "USA",
+  "abv": "50%",
+  "image": "bottle_img/jack_bonded.webp",
+
+  "whenToOffer": [
+    "Klient chce mocniejszą wersję",
+    "Fan wyższej mocy"
+  ],
+
+  "howToPresent": "Wyższa moc (100 proof). Bardziej intensywna, dębowa i wyrazista."
+},
+
+{
+  "slug": "jack-daniels-bonded-rye",
+  "name": "Jack Daniel’s Bonded Rye",
+  "subtitle": "Tennessee Rye Whiskey · USA",
+  "category": "whisky-bourbon",
+  "country": "USA",
+  "abv": "50%",
+  "image": "bottle_img/jack_bonded_rye.webp",
+
+  "whenToOffer": [
+    "Klient lubi żytnie whiskey",
+    "Alternatywa dla klasycznego bourbona"
+  ],
+
+  "howToPresent": "Rye w stylu Jack Daniel’s – bardziej pieprzna i wytrawna niż klasyczny bourbon."
+},
+
+{
+  "slug": "jack-daniels-single-barrel-trex",
+  "name": "Jack Daniel’s Single Barrel",
+  "subtitle": "Tennessee Whiskey · Travel Retail",
+  "category": "whisky-bourbon",
+  "country": "USA",
+  "abv": "45%",
+  "image": "bottle_img/jack_singlebarrel.webp",
+
+  "whenToOffer": [
+    "Klient szuka premium Jack Daniel’s",
+    "Prezent",
+    "Alternatywa dla Woodford"
+  ],
+
+  "howToPresent": "Whiskey z pojedynczej beczki. Bardziej złożona, intensywna i elegancka niż standardowa seria."
+},
+
+{
+  "slug": "brenne-single-malt",
+  "name": "Brenne Single Malt",
+  "subtitle": "Single Malt · Francja",
+  "category": "whisky-single-malt",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/brenne.webp",
+
+  "whenToOffer": [
+    "Klient szuka nietypowej whisky",
+    "Alternatywa dla szkockich single maltów"
+  ],
+
+  "howToPresent": "Francuski single malt dojrzewający częściowo w beczkach po koniaku. Owocowy, elegancki, delikatnie winny."
+},
+
+{
+  "slug": "nikka-days",
+  "name": "Nikka Days",
+  "subtitle": "Blended Whisky · Japonia",
+  "category": "whisky-blended",
+  "country": "Japan",
+  "abv": "40%",
+  "image": "bottle_img/nikka_days.webp",
+
+  "whenToOffer": [
+    "Klient zaczyna przygodę z japońską whisky",
+    "Łagodna i przystępna opcja"
+  ],
+
+  "howToPresent": "Lekka, kwiatowo-owocowa japońska whisky. Bardzo przystępna."
+},
+
+{
+  "slug": "nikka-from-the-barrel",
+  "name": "Nikka From The Barrel",
+  "subtitle": "Blended Whisky · Japonia",
+  "category": "whisky-blended",
+  "country": "Japan",
+  "abv": "51.4%",
+  "image": "bottle_img/nikka_barrel.webp",
+
+  "whenToOffer": [
+    "Klient szuka mocnej whisky",
+    "Coś charakternego z Japonii"
+  ],
+
+  "howToPresent": "Kultowa japońska whisky o wysokiej mocy. Intensywna, przyprawowa i złożona."
+},
+
+{
+  "slug": "nikka-tailored",
+  "name": "Nikka Tailored",
+  "subtitle": "Blended Whisky · Japonia",
+  "category": "whisky-blended",
+  "country": "Japan",
+  "abv": "43%",
+  "image": "bottle_img/tailored.webp",
+
+  "whenToOffer": [
+    "Klient szuka eleganckiej japońskiej whisky",
+    "Prezent"
+  ],
+
+  "howToPresent": "Elegancki blend o zbalansowanym profilu – wanilia, owoce i subtelne przyprawy."
+},
+
+{
+  "slug": "yoichi-single-malt",
+  "name": "Yoichi",
+  "subtitle": "Single Malt · Japonia",
+  "category": "whisky-single-malt",
+  "country": "Japan",
+  "abv": "45%",
+  "image": "bottle_img/yoichi.webp",
+
+  "whenToOffer": [
+    "Klient szuka bardziej wytrawnej japońskiej whisky",
+    "Fan lekkiego torfu",
+    "Alternatywa dla szkockich wysp"
+  ],
+
+  "howToPresent": "Single malt z destylarni Yoichi. Bardziej wytrawny i lekko dymny niż większość japońskich whisky."
+},
+
+{
+  "slug": "miyagikyo-single-malt",
+  "name": "Miyagikyo",
+  "subtitle": "Single Malt · Japonia",
+  "category": "whisky-single-malt",
+  "country": "Japan",
+  "abv": "45%",
+  "image": "bottle_img/miyagikyo.webp",
+
+  "whenToOffer": [
+    "Klient szuka delikatniejszej japońskiej whisky",
+    "Owocowy profil",
+    "Prezent"
+  ],
+
+  "howToPresent": "Bardziej owocowy i elegancki niż Yoichi. Delikatny, z nutami gruszki i kwiatów."
+},
+
+{
+  "slug": "yoichi-aromatic-yeast",
+  "name": "Yoichi Aromatic Yeast",
+  "subtitle": "Single Malt · Japonia",
+  "category": "whisky-single-malt",
+  "country": "Japan",
+  "abv": "48%",
+  "image": "bottle_img/yoichi_aromatic.jpg",
+
+  "whenToOffer": [
+    "Klient szuka limitowanej edycji",
+    "Znawca japońskiej whisky"
+  ],
+
+  "howToPresent": "Limitowana seria z wykorzystaniem specjalnych szczepów drożdży podkreślających aromaty fermentacyjne i owocowe."
+},
+
+{
+  "slug": "miyagikyo-aromatic-yeast",
+  "name": "Miyagikyo Aromatic Yeast",
+  "subtitle": "Single Malt · Japonia",
+  "category": "whisky-single-malt",
+  "country": "Japan",
+  "abv": "48%",
+  "image": "bottle_img/miyagikyo_aromatic.webp",
+
+  "whenToOffer": [
+    "Klient kolekcjonerski",
+    "Fan eksperymentalnych edycji"
+  ],
+
+  "howToPresent": "Limitowana odsłona Miyagikyo z unikalnym profilem fermentacji – bardziej owocowa i aromatyczna."
+},
+
+{
+  "slug": "taketsuru-pure-malt",
+  "name": "Taketsuru Pure Malt",
+  "subtitle": "Blended Malt · Japonia",
+  "category": "whisky-blended-malt",
+  "country": "Japan",
+  "abv": "43%",
+  "image": "bottle_img/taketsuru.jpg",
+
+  "whenToOffer": [
+    "Klient chce klasyczną japońską whisky",
+    "Balans między Yoichi i Miyagikyo"
+  ],
+
+  "howToPresent": "Blend maltów z dwóch destylarni Nikka – Yoichi i Miyagikyo. Zbalansowana, lekko dymna i owocowa."
+},
+
+{
+  "slug": "nikka-coffey-malt",
+  "name": "Nikka Coffey Malt",
+  "subtitle": "Coffey Malt · Japonia",
+  "category": "whisky-single-malt",
+  "country": "Japan",
+  "abv": "45%",
+  "image": "bottle_img/coffey_malt.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś nietypowego",
+    "Fan słodszych profili"
+  ],
+
+  "howToPresent": "Destylowana w kolumnach Coffey still. Bardziej kremowa i słodsza niż klasyczny single malt."
+},
+
+{
+  "slug": "nikka-coffey-grain",
+  "name": "Nikka Coffey Grain",
+  "subtitle": "Coffey Grain · Japonia",
+  "category": "whisky-grain",
+  "country": "Japan",
+  "abv": "45%",
+  "image": "bottle_img/coffey_grain.webp",
+
+  "whenToOffer": [
+    "Klient szuka łagodnej whisky",
+    "Alternatywa dla bourbonu"
+  ],
+
+  "howToPresent": "Whisky zbożowa destylowana w kolumnach Coffey. Bardziej słodka i kremowa."
+},
+
+{
+  "slug": "evade-single-malt",
+  "name": "Evade Single Malt",
+  "subtitle": "Single Malt · Francja",
+  "category": "whisky-single-malt",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/evade.webp",
+
+  "whenToOffer": [
+    "Klient szuka francuskiej whisky",
+    "Coś innego niż Szkocja",
+    "Alternatywa dla Brenne"
+  ],
+
+  "howToPresent": "Francuski single malt dojrzewający w beczkach po winie i koniaku. Owocowy, elegancki, lekko winny charakter."
+},
+
+{
+  "slug": "kavalan-masters-reserve-2",
+  "name": "Kavalan Master’s Reserve No.2",
+  "subtitle": "Single Malt · Taiwan · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Taiwan",
+  "abv": "40%",
+  "image": "bottle_img/kavalan_nr2.webp",
+
+  "whenToOffer": [
+    "Klient zna markę Kavalan",
+    "Szukają edycji travel retail"
+  ],
+
+  "howToPresent": "Druga odsłona serii Master’s Reserve. Bogata, owocowa, z wyraźnym wpływem beczki."
+},
+
+{
+  "slug": "kavalan-masters-reserve-1",
+  "name": "Kavalan Master’s Reserve No.1",
+  "subtitle": "Single Malt · Taiwan · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Taiwan",
+  "abv": "40%",
+  "image": "bottle_img/kavalan_nr1.webp",
+
+  "whenToOffer": [
+    "Klient szuka egzotycznej whisky",
+    "Prezent premium",
+    "Alternatywa dla szkockich single maltów"
+  ],
+
+  "howToPresent": "Tajwański single malt dojrzewający w klimacie tropikalnym, co przyspiesza maturację. Intensywnie owocowy, kremowy, z nutą wanilii."
+},
+
+{
+  "slug": "matsui-peated",
+  "name": "Matsui Peated",
+  "subtitle": "Single Malt · Japonia",
+  "category": "whisky-single-malt",
+  "country": "Japan",
+  "abv": "48%",
+  "image": "bottle_img/matsui_peated.jpg",
+
+  "whenToOffer": [
+    "Klient szuka torfowej japońskiej whisky",
+    "Alternatywa dla szkockiego Islay"
+  ],
+
+  "howToPresent": "Japoński single malt o wyraźnym torfowym charakterze. Dymny, ale bardziej elegancki niż klasyczne Islay."
+},
+
+{
+  "slug": "kurayoshi-12",
+  "name": "Kurayoshi 12",
+  "subtitle": "Pure Malt · Japonia",
+  "category": "whisky-blended-malt",
+  "country": "Japan",
+  "abv": "43%",
+  "image": "bottle_img/kurayoshi12.webp",
+
+  "whenToOffer": [
+    "Klient szuka wieku w japońskiej whisky",
+    "Prezent"
+  ],
+
+  "howToPresent": "Dojrzewająca 12 lat whisky o nutach wanilii, miodu i przypraw."
+},
+
+{
+  "slug": "fuji-single-malt",
+  "name": "Fuji Single Malt",
+  "subtitle": "Single Malt · Japonia",
+  "category": "whisky-single-malt",
+  "country": "Japan",
+  "abv": "46%",
+  "image": "bottle_img/fuji_malt.webp",
+
+  "whenToOffer": [
+    "Klient szuka nowoczesnej japońskiej whisky",
+    "Fan delikatnych profili"
+  ],
+
+  "howToPresent": "Czysty, elegancki single malt z destylarni Fuji."
+},
+
+{
+  "slug": "fuji-single-grain",
+  "name": "Fuji Single Grain",
+  "subtitle": "Single Grain · Japonia",
+  "category": "whisky-grain",
+  "country": "Japan",
+  "abv": "46%",
+  "image": "bottle_img/fuji_grain.webp",
+
+  "whenToOffer": [
+    "Klient szuka łagodniejszej whisky",
+    "Alternatywa dla bourbonu"
+  ],
+
+  "howToPresent": "Single grain z destylarni Fuji – bardziej kremowy i słodszy profil."
+},
+
+{
+  "slug": "akashi-blended",
+  "name": "Akashi Blended",
+  "subtitle": "Blended Whisky · Japonia",
+  "category": "whisky-blended",
+  "country": "Japan",
+  "abv": "40%",
+  "image": "bottle_img/akashi.webp",
+
+  "whenToOffer": [
+    "Klient zaczyna z japońską whisky",
+    "Budżetowa opcja Japonii"
+  ],
+
+  "howToPresent": "Lekki i przystępny blend z destylarni White Oak."
+},
+
+{
+  "slug": "akashi-takumi",
+  "name": "Akashi Takumi",
+  "subtitle": "Blended Whisky · Japonia",
+  "category": "whisky-blended",
+  "country": "Japan",
+  "abv": "40%",
+  "image": "bottle_img/akashi_takumi.webp",
+
+  "whenToOffer": [
+    "Klient chce lepszą wersję Akashi",
+    "Prezent"
+  ],
+
+  "howToPresent": "Bardziej dopracowana i zbalansowana wersja klasycznego Akashi."
+},
+
+{
+  "slug": "akashi-single-malt",
+  "name": "Akashi Single Malt",
+  "subtitle": "Single Malt · Japonia",
+  "category": "whisky-single-malt",
+  "country": "Japan",
+  "abv": "46%",
+  "image": "bottle_img/akashi_singlemalt.webp",
+
+  "whenToOffer": [
+    "Klient szuka japońskiego single malta",
+    "Alternatywa dla Yamazaki"
+  ],
+
+  "howToPresent": "Rzemieślniczy single malt z destylarni White Oak."
+},
+
+{
+  "slug": "yamazakura-blended",
+  "name": "Yamazakura Blended",
+  "subtitle": "Blended Whisky · Japonia",
+  "category": "whisky-blended",
+  "country": "Japan",
+  "abv": "40%",
+  "image": "bottle_img/yamazakura.webp",
+
+  "whenToOffer": [
+    "Klient szuka delikatnej japońskiej whisky"
+  ],
+
+  "howToPresent": "Lekki blend z nutami kwiatowymi i owocowymi."
+},
+
+{
+  "slug": "yamazakura-peated",
+  "name": "Yamazakura Peated",
+  "subtitle": "Blended Whisky · Japonia",
+  "category": "whisky-blended",
+  "country": "Japan",
+  "abv": "46%",
+  "image": "bottle_img/yamazakura_peated.webp",
+
+  "whenToOffer": [
+    "Klient szuka torfowej Japonii"
+  ],
+
+  "howToPresent": "Bardziej dymna odsłona Yamazakura."
+},
+
+{
+  "slug": "togouchi-kiwami",
+  "name": "Togouchi Kiwami",
+  "subtitle": "Blended Whisky · Japonia",
+  "category": "whisky-blended",
+  "country": "Japan",
+  "abv": "40%",
+  "image": "bottle_img/togouchi_kiwami.webp",
+
+  "whenToOffer": [
+    "Klient szuka eleganckiego blendu"
+  ],
+
+  "howToPresent": "Delikatna, czysta whisky dojrzewająca w tunelach Togouchi."
+},
+
+{
+  "slug": "togouchi-9",
+  "name": "Togouchi 9 Y.O.",
+  "subtitle": "Blended Whisky · Japonia",
+  "category": "whisky-blended",
+  "country": "Japan",
+  "abv": "40%",
+  "image": "bottle_img/togouchi9.webp",
+
+  "whenToOffer": [
+    "Klient szuka wieku w japońskiej whisky"
+  ],
+
+  "howToPresent": "Dojrzewająca 9 lat wersja – bardziej złożona i głębsza."
+},
+
+{
+  "slug": "togouchi-ayumi",
+  "name": "Togouchi Ayumi",
+  "subtitle": "Sake Finish · Japonia",
+  "category": "whisky-blended",
+  "country": "Japan",
+  "abv": "40%",
+  "image": "bottle_img/togouchi_ayumi.jpg",
+
+  "whenToOffer": [
+    "Klient szuka nietypowego finiszu"
+  ],
+
+  "howToPresent": "Finiszowana w beczkach po sake – subtelnie owocowa i delikatna."
+},
+
+{
+  "slug": "yamazaki",
+  "name": "Yamazaki",
+  "subtitle": "Single Malt · Japonia",
+  "category": "whisky-single-malt",
+  "country": "Japan",
+  "abv": "43%",
+  "image": "bottle_img/yamazaki.webp",
+
+  "whenToOffer": [
+    "Klient szuka topowej japońskiej whisky"
+  ],
+
+  "howToPresent": "Pierwsza japońska destylarnia. Elegancka, owocowa, z nutami dębu."
+},
+
+{
+  "slug": "hakushu",
+  "name": "Hakushu",
+  "subtitle": "Single Malt · Japonia",
+  "category": "whisky-single-malt",
+  "country": "Japan",
+  "abv": "43%",
+  "image": "bottle_img/hakushu.webp",
+
+  "whenToOffer": [
+    "Klient szuka świeżej i lekko dymnej whisky"
+  ],
+
+  "howToPresent": "Bardziej świeża i lekko torfowa niż Yamazaki."
+},
+
+{
+  "slug": "suntory-toki",
+  "name": "Suntory Toki",
+  "subtitle": "Blended Whisky · Japonia",
+  "category": "whisky-blended",
+  "country": "Japan",
+  "abv": "43%",
+  "image": "bottle_img/toki.webp",
+
+  "whenToOffer": [
+    "Klient szuka przystępnej Japonii",
+    "Do highball"
+  ],
+
+  "howToPresent": "Lekki, świeży blend idealny do highball."
+},
+
+{
+  "slug": "chita",
+  "name": "The Chita",
+  "subtitle": "Single Grain · Japonia",
+  "category": "whisky-grain",
+  "country": "Japan",
+  "abv": "43%",
+  "image": "bottle_img/chita.webp",
+
+  "whenToOffer": [
+    "Klient szuka łagodnej whisky"
+  ],
+
+  "howToPresent": "Single grain o kremowym, słodkim charakterze."
+},
+
+{
+  "slug": "hibiki",
+  "name": "Hibiki",
+  "subtitle": "Blended Whisky · Japonia",
+  "category": "whisky-blended",
+  "country": "Japan",
+  "abv": "43%",
+  "image": "bottle_img/hibiki.webp",
+
+  "whenToOffer": [
+    "Prezent premium",
+    "Topowa japońska whisky"
+  ],
+
+  "howToPresent": "Ikoniczny japoński blend – harmonijny, elegancki i wielowarstwowy."
+},
+
+  {
+    "slug": "glenfiddich-vat-01",
+    "name": "Glenfiddich VAT 01",
+    "subtitle": "Single Malt · Speyside · Travel Retail",
+    "category": "whisky-single-malt",
+    "country": "Scotland",
+    "region": "Speyside",
+    "abv": "40%",
+    "image": "bottle_img/glenfiddich-vat01.webp",
+
+    "whenToOffer": [
+      "Klient szuka Glenfiddich 12",
+      "Klient chce łagodną, niedymną whisky",
+      "Klient interesuje się edycjami airport exclusive"
+    ],
+
+    "maturation": "American Oak, European Oak, and Red Wine Casks",
+
+    "howToPresent": "To edycja travel retail, tworzona w systemie solera – każda partia bazuje na poprzedniej.",
+
+    "salesTip": ["Często klienci szukają Glenfiddich 12, aby nie stracić sprzedaż mozemy zaproponować właśnie VAT 01."],
+
+    "aroma": "Owocowo-kwiatowy, z nutami wanilii, kremowego toffi i delikatnego dębu.",
+    "taste": "Gładki, słodowo-owocowy, z wanilią i lekką nutą przypraw.",
+    "finish": "Średni, czysty, lekko dębowy."
+  }
+]

@@ -1,0 +1,2420 @@
+[
+{
+    "slug": "chopin-etiuda",
+    "name": "Chopin Etiuda Kwiat Czarnego Bzu",
+    "subtitle": "Likier · Polska",
+    "category": "likier",
+    "country": "Poland",
+    "abv": "30%",
+    "image": "bottle_img/etiuda_bez.png",
+    "whenToOffer": [
+      "Klientów szukających likieru z czarnego bzu",
+      "Osób lubiących likiery lekkie słodkie kwiatowo-cytrusowe",
+      "Jako alternatywa Aperol spritz"
+    ],
+
+    "howToPresent":"Etiuda Kwiat Czarnego Bzu jest całkowicie naturalna i prosta w składzie. Nie zawiera sztucznych aromatów i barwników. Walory smakowe i kolor zawdzięcza wyłącznie swym wysokiej jakości składnikom: suszonym kwiatom czarnego bzu macerowanym w spirytusie żytnim. Doskonale smakuje solo, na lodzie lub… z szampanem. Stanowi wyśmienity dodatek do świeżych, kwiatowo-owocowych koktajli.",
+
+    "cocktails": [
+    "Hugo (prosecco/szampan, etiuda, woda gazowana)"
+]
+  },
+
+{
+    "slug": "lemon-tree",
+    "name": "Lemon tree",
+    "subtitle": "Cytrynówka · Polska",
+    "category": "Likier",
+    "country": "Poland",
+    "abv": "35%",
+    "image": "bottle_img/lemon_tree.jpg",
+    "whenToOffer": [
+      "Osób lubiących kwaśne naturalne cytrynowki",
+      "Klient szukający budżetowej cytrynówki.",
+      "Klient potrzebujący nie słodkiego likieru o mocniejszym stężeniu alkoholu."
+
+    ],
+
+    "howToPresent":"Soczyste cytryny wyciskane wraz z miąższem nadają trunkowi naturalną mętność oraz świeży, intensywnie cytrynowy smak i zapach. ",
+
+    "cocktails" : [
+    "Lemon-tree + Sprite"
+]
+  },
+
+{
+    "slug": "chopin-coconut",
+    "name": "Chopin Likier Kokosowy",
+    "subtitle": "Likier · Polska",
+    "category": "likier",
+    "country": "Poland",
+    "abv": "18%",
+    "image": "bottle_img/chopin_coconut.jpg",
+    "whenToOffer": [
+      "Osób szukających likieru kokosowego",
+      "Klienta szukającego Polski likier mleczny "
+
+    ],
+
+    "howToPresent":"Świeże płatki z soczystych kokosów połączone z mlekiem i wódką Chopin Rye. Likier zachwyca doskonale jedwabistą konsystencją i delikatnym, tropikalnym smakiem. Doskonale sprawdza się jako składnik egzotycznych koktajli i shake’ów."
+
+  },
+
+{
+    "slug": "chopin-chocolate-coffe",
+    "name": "Chopin Likier Kawowo Czekoladowy",
+    "subtitle": "Likier · Polska",
+    "category": "likier",
+    "country": "Poland",
+    "abv": "18%",
+    "image": "bottle_img/chopin_coffee.jpg",
+    "whenToOffer": [
+      "Osób szukających likieru kawowego bądź czekoladowego",
+      "Klienta szukającego Polski likier mleczny"
+
+    ],
+
+    "howToPresent":" Idealny balans słodyczy czekolady, goryczy kawy i ostrości Chopin Rye. Stosować można jako dodatek do kaw, lodów i deserów. Likier nie smakuje chemicznie jak większość podobnych, a także nie jest mocno wyczuwalny alkohol jak w budżetowych markach."
+
+  },
+
+{
+    "slug": "chopin-chocolate",
+    "name": "Chopin Likier Czekoladowy",
+    "subtitle": "Likier · Polska",
+    "category": "likier",
+    "country": "Poland",
+    "abv": "18%",
+    "image": "bottle_img/chopin_chocolate.png",
+    "whenToOffer": [
+      "Osób szukających likieru czekoladowego",
+      "Klienta szukającego Polski likier mleczny"
+
+    ],
+
+    "howToPresent":"Likier czekoladowy Łączący dwie znakomite polskie marki: E. Wedel oraz Wódki Chopin. Jego bazą jest wódka Chopin Rye oraz znana czekolada. Likier nie smakuje chemicznie jak większość podobnych, a także nie jest mocno wyczuwalny alkohol jak w budżetowych markach. Jest zapakowany w kartonik, więc idealnie się nadaje na prezent."
+
+  },
+
+  {
+    "slug": "chopin-krzeska",
+    "name": "Chopin Krzeska",
+    "subtitle": "Nalewka · Polska",
+    "category": "nalewka",
+    "country": "Poland",
+    "abv": "40%",
+    "image": "bottle_img/krzeska.png",
+    "whenToOffer": [
+      "Osób szukających ziołowej nalewki, nie słodkiej",
+      "Klienta szukającego ładnie zapakow"
+
+    ],
+
+    "howToPresent":"Likier karmelowy z solą morską idealny balans słodkości i słoności. Stosować można jako dodatek do kaw, lodów i deserów. Likier nie smakuje chemicznie jak większość podobnych, a także nie jest mocno wyczuwalny alkohol jak w budżetowych markach. Jest zapakowany w kartonik, więc idealnie się nadaje na prezent."
+
+  },
+
+  {
+    "slug": "chopin-karamel",
+    "name": "Chopin Likier Karmelowy z solą morską",
+    "subtitle": "Likier · Polska",
+    "category": "likier",
+    "country": "Poland",
+    "abv": "18%",
+    "image": "bottle_img/chopin_karamel.jpg",
+    "whenToOffer": [
+      "Osób szukających likieru karmelowego",
+      "Klienta szukającego Polski likier mleczny"
+
+    ],
+
+    "howToPresent":"Likier karmelowy z solą morską idealny balans słodkości i słoności. Stosować można jako dodatek do kaw, lodów i deserów. Likier nie smakuje chemicznie jak większość podobnych, a także nie jest mocno wyczuwalny alkohol jak w budżetowych markach. Jest zapakowany w kartonik, więc idealnie się nadaje na prezent."
+
+  },
+
+  {
+    "slug": "chopin-deia",
+    "name": "Chopin Deia & Prosecco",
+    "subtitle": "Likier · Polska",
+    "category": "likier",
+    "country": "Poland",
+    "abv": "25% + 11%",
+    "image": "bottle_img/chopin-deia.png",
+    "whenToOffer": [
+      "Osób szukających gotowe drinki",
+      "Klienta szukajacego czegoś truskawkowego",
+      "Jako alternatywa do Aperol Spritz"
+
+    ],
+
+    "howToPresent":"Jest to likier z truskawek i hibiskusa, lekko słodki, kwiatowo-owocowy, świeży.",
+
+    "cocktails": [ 
+    "Deia + Prosecco/woda gazowana/tonik"
+]
+
+  },
+
+  
+
+  
+{
+    "slug": "debowa-orzech",
+    "name": "Dębowa Orzech",
+    "subtitle": "Wódka smakowa· Polska",
+    "category": "vodka-flavoured",
+    "country": "Poland",
+    "abv": "40%",
+    "rawMaterial":"Zboża i orzechy",
+    "image": "bottle_img/debowa-orzech.png",
+    "whenToOffer": [
+      "Osób szukających wytrawnej lub wysokoprocentowej orzechówki",
+      "Klienta szukającego wódki smakowej",
+      "Osób lubiących coś niezwykłego, nowego"
+
+    ],
+
+    "howToPresent":"W środku znajduje się destylat zbożowy połączony z nalewami orzecha włoskiego, co czyni tą wódkę unikalną, nie słodką, mocno różniącą się od standardowych orzechówek z orzechów laskowych."
+
+  },
+
+{
+    "slug": "debowa-cherry",
+    "name": "Dębowa Likier Gold Cherry-Wiśnia",
+    "subtitle": "Likier· Polska",
+    "category": "likier",
+    "country": "Poland",
+    "abv": "30%",
+    "image": "bottle_img/debowa-cherry.png",
+    "whenToOffer": [
+      "Osób lubiących wiśniówki",
+      "Klienta szukającego wysokoprocentowych Wiśniówek",
+      "Osób ceniących naturalne słodkie likiery"
+
+    ],
+
+    "howToPresent":"Likier wiśniowy zrobiony z naturalnych wisień, owocowy, mocno słodki. naturalny smak.",
+
+"variants": [
+  {
+    "type": "Wersja standardowa",
+    "image": "bottle_img/debowa-cherry.png"
+  },
+  {
+    "type": "Wersja w karafce",
+    "image": "bottle_img/debowa-cherry-karafka.png"
+  }
+]
+
+  },   
+
+{
+    "slug": "debowa-currant",
+    "name": "Dębowa Black Currant",
+    "subtitle": "Likier· Polska",
+    "category": "likier",
+    "country": "Poland",
+    "abv": "35%",
+    "image": "bottle_img/debowa-currant.png",
+    "whenToOffer": [
+      "Osób lubiących stropowe likiery naturalne",
+      "Klienta szukającego wysokoprocentowych likierów",
+      "Osób szukających likier z czarnej porzeczki"
+
+    ],
+
+    "howToPresent":"Likier z czarnej porzeczki, naturalny, owocowy, mocno słodki, syropowy, lekko cierpki."
+
+},   
+
+{
+    "slug": "debowa-advocat",
+    "name": "Dębowa Gold Advicatka",
+    "subtitle": "Likier· Polska",
+    "category": "likier",
+    "country": "Poland",
+    "abv": "21%",
+    "image": "bottle_img/debowa-advocat.png",
+    "whenToOffer": [
+      "Osób lubiących Advocaty/Ajerkoniaki",
+      "Klienta szukającego kremowe, gęste likiery",
+      "Dla starszego pokolenia"
+
+    ],
+
+    "howToPresent":"Likier na bazie brandy, z wykorzystaniem tylko naturalnych składników żółtek, śmietanki, mleka."
+
+  },
+
+{
+    "slug": "debowa-advocat-coffee",
+    "name": "Dębowa Gold Advicatka Kawowa",
+    "subtitle": "Likier· Polska",
+    "category": "likier",
+    "country": "Poland",
+    "abv": "18%",
+    "image": "bottle_img/debowa-advocat-coffee.png",
+    "whenToOffer": [
+      "Osób lubiących Advocaty/Ajerkoniaki",
+      "Klienta szukającego kremowe, gęste likiery",
+      "Dla starszego pokolenia"
+
+    ],
+
+    "howToPresent":"Likier na bazie brandy, z wykorzystaniem tylko naturalnych składników żółtek, śmietanki, mleka, ziarna kawowe."
+
+  },        
+
+{
+    "slug": "debowa-cytrynowka",
+    "name": "Dębowa Cytrynówka",
+    "subtitle": "Likier· Polska",
+    "category": "likier",
+    "country": "Poland",
+    "abv": "30%",
+    "image": "bottle_img/debowa-cytrynowka.webp",
+    "whenToOffer": [
+      "Osób lubiących cytrynówki",
+      "Klienta szukającego cytrynówkę 0.7l"
+
+    ],
+
+    "howToPresent":"Cytrynówka o naturalnym kwaśnym smaku, w nietypowej pojemności 0.7"
+
+  },
+
+  {
+    "slug": "debowa-lornetka",
+    "name": "Dębowa Lornetka",
+    "subtitle": "Wódka smakowa· Polska",
+    "category": "vodka-flavoured",
+    "country": "Poland",
+    "abv": "40% i 38%",
+    "rawMaterial":"Zboża, orzechy i czeremcza",
+    "image": "bottle_img/lornetka.png",
+    "whenToOffer": [
+      "Osób szukających wódek smakowych, ale nie słodkich",
+      "Klienta szukającego małe pojemności",
+      "Osób potrzebujących prezentowe opakowanie"
+
+    ],
+
+    "howToPresent":"W środku zostały umieszczone wódki smakowe - orzechowa i czeremchowa. Obie są mocne, nie słodkie, z wyrażnym smakiem i aromatem surowców"
+
+  },
+
+  {
+    "slug": "debowa-apteczka",
+    "name": "Dębowa Apteczka Leśna",
+    "subtitle": "Wódka smakowa· Polska",
+    "category": "vodka-flavoured",
+    "country": "Poland",
+    "abv": "38-40%",
+    "image": "bottle_img/apteczka.png",
+    "whenToOffer": [
+      "Klienta szukającego małe pojemności i zestawy miniatur",
+      "Osób potrzebujących prezentowe opakowanie"
+
+    ],
+
+    "howToPresent": [ 
+"W środku jest 8 miniaturek z których 6 wódek i 2 likiery.", 
+"Dębowa Polska – klasyczna biała wódka", "Czeremcha – smak owocu czeremchy", 
+"Śliwa – zapach i smak śliwki",
+"Orzech – naturalny aromat oraz charakterystyczny smak orzecha włoskiego", "Black Oak – kawai karmel", 
+"Golden Oak – nuty brandy",
+"Gold Cherry – smak i zapach wiśni",
+"Gold Blackcurrant Czarna Porzeczka – wyrazisty słodko-cierpki smak czarnej porzeczki"
+
+]
+  },
+
+{
+  "slug": "miodula-prezydencka",
+  "name": "Miodula Prezydencka",
+  "subtitle": "Likier miodowy · Polska",
+  "category": "likier",
+  "country": "Poland",
+  "abv": "40%",
+  "maturation" : "Beczki z polskiego dębu",
+  "image": "bottle_img/miodula_prezydencka.png",
+
+  "whenToOffer": [
+    "Klient szuka wódki smakowej, miodowej",
+    "Osób chcących przywieźć coś prezentowego i tradycyjnego z Polski",
+    "Klientów lubiących alkohole tradycyjne rzemieślnicze."
+  ],
+
+  "howToPresent": "Flagowy produkt linii Miodula. Inspirowana tradycyjnymi recepturami, łączy naturalną słodycz miodu z intensywnością wódki. Najbardziej rozpoznawalna i najczęściej wybierana z całej serii.",
+
+"variants": [
+  {
+    "type": "Wersja standardowa",
+    "image": "bottle_img/miodula_prezydencka.png"
+  },
+  {
+    "type": "Zestaw z kieliszkiem",
+    "image": "bottle_img/miodula_prezydencka_set.png"
+  }
+],
+
+  "salesTip": [
+    "Dostępna również w zestawie z kieliszkiem degustacyjnym – bardzo dobry wybór prezentowy.",
+    "Można proponować klientom szukającym czegoś bardziej wyrazistego niż klasyczny miód pitny."
+  ],
+
+  "aroma": "Miód wielokwiatowy, zioła, delikatne nuty korzenne.",
+  "taste": "Pełna, miodowa, z lekką ziołową goryczką balansującą słodycz.",
+  "finish": "Średni do długiego, miodowo-ziołowy."
+},
+
+{
+  "slug": "miodula-awangarda",
+  "name": "Miodula Awangarda",
+  "subtitle": " · Polska",
+  "category": "vodka-flavoured",
+  "country": "Poland",
+  "abv": "40%",
+  "maturation" : "Beczki z polskiego dębu",
+  "image": "bottle_img/miodula_awangarda.png",
+
+  "whenToOffer": [
+    "Osób dla których miodula prezydencka jest za słodka.",
+    "Klient szuka polskiego brandy, koniaku."
+  ],
+
+  "howToPresent": "Jest to edycja mioduli, w której zawarta jest Miodula Prezydencka I francuski cognac, skierowana do osób lubiących koniaki i brandy.",
+
+  "salesTip": [
+    "Można proponować jako alternatywe do brandy lub jeżeli ktoś szuka brandy 0.5l."
+  ]
+},
+
+{
+  "slug": "miodula-vodka-polska",
+  "name": "Miodula Vodka Polska",
+  "subtitle": "Wódka smakowa · Polska",
+  "category": "vodka-flavoured",
+  "country": "Poland",
+  "abv": "40%",
+  "rawMaterial": "Żyto",
+  "maturation" : "Beczki używane do leżakowania Mioduli Prezydenckiej",
+  "image": "bottle_img/miodula_vodka.png",
+
+  "whenToOffer": [
+    "Klient chce wódkę z delikatnym charakterem miodowym",
+    "Klient szuka czegoś pomiędzy klasyczną wódką a likierem"
+  ],
+
+  "howToPresent": "Łączy strukturę klasycznej wódki z subtelną nutą miodową. Lżejsza i bardziej wytrawna niż likiery miodowe."
+}, 
+
+{
+  "slug": "miodula-gin",
+  "name": "Miodula Gin",
+  "subtitle": "Gin z nutą miodu · Polska",
+  "category": "gin",
+  "country": "Poland",
+  "abv": "40%",
+  "image": "bottle_img/miodula_gin.png",
+
+  "whenToOffer": [
+    "Klient szuka polskiego ginu",
+    "Klient lubi delikatniejsze, lekko słodsze profile"
+  ],
+
+  "howToPresent": "Gin z 9 botaników: cytryny, pomarańcze, korzeń irysa, kolendra, korzeń arcydzięgla, kardamon, korzeń lukrecji, całe laski wanilii. Jałowiec jest dobrze ukryty innymi składnikami i dodatkiem miodu. "
+},
+
+{
+  "slug": "miodula-lemoncello",
+  "name": "Miodula Lemoncello",
+  "subtitle": "Likier cytrynowy · Polska",
+  "category": "likier",
+  "country": "Poland",
+  "abv": "28%",
+  "image": "bottle_img/miodula_lemoncello.png",
+
+  "whenToOffer": [
+    "Klient szuka limoncello",
+    "Klient chce coś lekkiego i cytrusowego"
+  ],
+
+  "howToPresent": "Polskie wydanie limoncello, syropowe, słodko-kwaśne, cukierkowe."
+},
+
+{
+  "slug": "miodula-espresso",
+  "name": "Miodula Espresso",
+  "subtitle": "Likier kawowy · Polska",
+  "category": "likier",
+  "country": "Poland",
+  "abv": "30%",
+  "image": "bottle_img/miodula_espresso.jpg",
+
+  "whenToOffer": [
+    "Klienta szukajacego likieru kawowego",
+    "Osób lubiących dobrą kawę"
+  ],
+
+  "howToPresent": "Ten likier jest połączeniem Mioduli Prezydenckiej z włoską kawą."
+},
+
+{
+  "slug": "polowaca-bimber-goralski",
+  "name": "Polowaca Bimber Góralski",
+  "subtitle": "Wódka regionalna · Polska · Styl góralski",
+  "category": "vodka",
+  "country": "Poland",
+  "abv": "40%",
+  "rawMaterial": "Zboża",
+  "image": "bottle_img/polowaca_bimber.png",
+
+  "whenToOffer": [
+    "Klient szuka regionalnego alkoholu z Polski",
+    "Klient pyta o coś w stylu tradycyjnego bimbru",
+    "Klient chce prezent z góralskim klimatem"
+  ],
+
+  "howToPresent": "Stylizowana na tradycyjny góralski bimber, ale produkowana w kontrolowanych warunkach. Wyraźniejsza i bardziej charakterna niż klasyczne wódki neutralne."
+
+},
+
+{
+  "slug": "polowaca-orzechowka",
+  "name": "Polowaca Orzechówka Góralska",
+  "subtitle": "Likier orzechowy · Polska",
+  "category": "likier",
+  "country": "Poland",
+  "abv": "30%",
+  "image": "bottle_img/polowaca_orzech.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś w stylu orzechówki",
+    "Osób lubiących słodko-wytrawne nalewki",
+    "Klient chce coś regionalnego"
+  ],
+
+  "howToPresent": "Góralska interpretacja klasycznej orzechówki. Wyraźnie orzechowa, lekko korzenna, z przyjemną słodyczą."
+
+ 
+},
+
+{
+  "slug": "polowaca-zurawinowka",
+  "name": "Polowaca Żurawinówka Góralska",
+  "subtitle": "Likier żurawinowy · Polska",
+  "category": "likier",
+  "country": "Poland",
+  "abv": "30%",
+  "image": "bottle_img/polowaca_zurawina.png",
+
+  "whenToOffer": [
+    "Klient szuka żurawinówki",
+    "Osób lubiących słodko-kwaśne alkohole",
+    "Klient chce coś mniej ciężkiego niż wiśniówka"
+  ],
+
+  "howToPresent": "Owocowa i lekko kwaskowa żurawinówka w stylu regionalnym. Bardziej świeża i mniej ciężka niż klasyczne likiery owocowe."
+
+},
+
+{
+  "slug": "polowaca-herbaciana",
+  "name": "Polowaca Herbaciana Góralska",
+  "subtitle": "Likier herbaciany · Polska",
+  "category": "likier",
+  "country": "Poland",
+  "abv": "30%",
+  "image": "bottle_img/polowaca_herbaciana.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś rozgrzewającego",
+    "Osób lubiących nuty herbaciane i korzenne",
+    "Klient chce coś na jesień / zimę"
+  ],
+
+  "howToPresent": ""
+},
+
+{
+  "slug": "goldwasser",
+  "name": "Goldwasser",
+  "subtitle": "Likier korzenny ze złotem · Gdańsk",
+  "category": "likier",
+  "country": "Poland",
+  "abv": "40%",
+  "image": "bottle_img/goldwasser.jpg",
+
+  "whenToOffer": [
+    "Klient szuka czegoś efektownego na prezent",
+    "Osoba interesuje się historią Gdańska",
+    "Klient chce alkohol z 'czymś wyjątkowym'"
+  ],
+
+  "howToPresent": "Historyczny likier korzenny z Gdańska zawierający płatki 22-karatowego złota. Produkowany według tradycyjnej receptury z dodatkiem ziół i przypraw.",
+
+  "salesTip": [
+    "Złote płatki robią ogromne wrażenie przy podawaniu – warto pokazać butelkę i delikatnie nią poruszyć.",
+    "Dobry wybór prezentowy dla osób spoza Polski."
+  ]
+
+},
+
+{
+  "slug": "goldwasser-brandy",
+  "name": "Goldwasser Brandy",
+  "subtitle": "Brandy z płatkami złota · Polska",
+  "category": "brandy",
+  "country": "Poland",
+  "abv": "40%",
+  "image": "bottle_img/goldwasser_brandy.jpg",
+
+  "whenToOffer": [
+    "Klient szuka bardziej wytrawnej wersji Goldwassera",
+    "Osoba lubiąca brandy i koniak",
+    "Klient chce prezent z efektem 'złota w kieliszku'"
+  ],
+
+  "howToPresent": "Wersja oparta na brandy z dodatkiem charakterystycznych złotych płatków. Bardziej wytrawna i głębsza niż klasyczny likier Goldwasser.",
+
+  "salesTip": [
+    "Można proponować jako alternatywę dla klasycznej brandy – z dodatkowym efektem wizualnym."
+  ]
+},
+
+{
+  "slug": "bimber-na-przeleczy-oryginalny",
+  "name": "Bimber na Przełęczy Oryginalny",
+  "subtitle": "Wódka regionalna · Polska",
+  "category": "vodka",
+  "country": "Poland",
+  "abv": "40%",
+  "image": "bottle_img/bimber_oryginalny.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś w klimacie góralskim",
+    "Osoba chce prezent z przymrużeniem oka",
+    "Klient pyta o 'bimber', ale legalny"
+  ],
+
+  "howToPresent": "Stylizowany na tradycyjny bimber górski, ale produkowany legalnie i w kontrolowanych warunkach. Surowy, prosty, bez zbędnych dodatków.",
+
+  "salesTip": [
+    "Działa bardzo dobrze jako humorystyczny prezent.",
+    "Można proponować klientom szukającym czegoś 'z klimatem'."
+  ]
+},
+
+{
+  "slug": "bimber-na-przeleczy-gruszkowy",
+  "name": "Bimber na Przełęczy Gruszkowy",
+  "subtitle": "Wódka smakowa · Polska",
+  "category": "vodka-flavoured",
+  "country": "Poland",
+  "abv": "40%",
+  "image": "bottle_img/bimber_gruszkowy.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś owocowego, ale mocnego",
+    "Osoba chce regionalny alkohol w lżejszym stylu",
+    "Klient lubi gruszkowe nuty"
+  ],
+
+  "howToPresent": "Wersja z nutą gruszki, łagodniejsza i bardziej przystępna niż klasyczny wariant. Zachowuje góralski charakter, ale jest bardziej aromatyczna.",
+
+  "salesTip": [
+    "Dobry wybór dla osób, którym klasyczny bimber wydaje się zbyt surowy."
+  ]
+},
+
+{
+  "slug": "bimber-na-przeleczy-rozany",
+  "name": "Bimber na Przełęczy Różany",
+  "subtitle": "Wódka smakowa · Polska",
+  "category": "vodka-flavoured",
+  "country": "Poland",
+  "abv": "40%",
+  "image": "bottle_img/bimber_rose.png",
+
+  "whenToOffer": [
+    "Klient szuka nietypowego, aromatycznego alkoholu",
+    "Osoba chce prezent bardziej elegancki niż klasyczny bimber",
+    "Klient lubi kwiatowe nuty"
+  ],
+
+  "howToPresent": "Aromatyczna wersja z nutą róży. Łączy góralski styl z delikatniejszym, bardziej perfumowanym profilem.",
+
+  "salesTip": [
+    "Można proponować jako ciekawszą alternatywę dla klasycznych nalewek kwiatowych."
+  ]
+},
+
+{
+  "slug": "sliwowica-podbeskidzka",
+  "name": "Śliwowica Podbeskidzka",
+  "subtitle": "Destylat śliwkowy · Polska",
+  "category": "okowita",
+  "country": "Poland",
+  "abv": "70%",
+  "rawMaterial": "Śliwki",
+  "image": "bottle_img/sliwowica_podbeskidzka.webp",
+
+  "whenToOffer": [
+    "Klient szuka mocnego, tradycyjnego alkoholu",
+    "Osoba interesuje się regionalnymi destylatami",
+    "Klient chce coś w stylu bałkańskiej śliwowicy"
+  ],
+
+  "howToPresent": "Tradycyjny destylat śliwkowy z regionu Podbeskidzia o wysokiej mocy. Intensywny, wyrazisty i zdecydowanie dla osób świadomych, czego szukają.",
+
+  "salesTip": [
+    "Warto uprzedzić o wysokiej zawartości alkoholu – 70%.",
+    "Dobry wybór dla klientów znających śliwowice z Bałkanów."
+  ]
+},
+
+{
+  "slug": "absynt-grand-de-luxe-68",
+  "name": "Absynt Grand De Luxe 68%",
+  "subtitle": "Absynt · Polska",
+  "category": "absynt",
+  "country": "Poland",
+  "abv": "68%",
+  "image": "bottle_img/absynt_68.jpg",
+
+  "whenToOffer": [
+    "Klient szuka mocnego alkoholu o wyrazistym charakterze",
+    "Osoba interesuje się klasycznymi absyntami",
+    "Klient chce coś nietypowego na degustację"
+  ],
+
+  "howToPresent": "Klasyczny absynt o wysokiej mocy 68%, oparty na piołunie oraz mieszance ziół. Intensywny i wyraźny, przeznaczony do degustacji w niewielkich ilościach.",
+
+  "salesTip": [
+    "Warto zaproponować sposób podania z wodą i kostką cukru.",
+    "Nie jest to alkohol do picia jak wódka – raczej do rytuału i degustacji."
+  ]
+},
+
+{
+  "slug": "absynt-de-luxe-55",
+  "name": "Absynt De Luxe 55%",
+  "subtitle": "Absynt · Polska",
+  "category": "absynt",
+  "country": "Poland",
+  "abv": "55%",
+  "image": "bottle_img/absynt_55.jpg",
+
+  "whenToOffer": [
+    "Klient chce spróbować absyntu w łagodniejszej wersji",
+    "Osoba zaczynająca przygodę z absyntem",
+    "Klient szuka czegoś nietypowego, ale mniej ekstremalnego"
+  ],
+
+  "howToPresent": "Łagodniejsza wersja klasycznego absyntu. Nadal ziołowy i wyrazisty, ale bardziej przystępny niż wersja 68%.",
+
+  "salesTip": [
+    "Dobry wybór dla osób, które pierwszy raz próbują absyntu.",
+    "Można proponować jako bezpieczniejszą alternatywę dla wersji 68%."
+  ]
+},
+
+{
+  "slug": "casa-hamaca",
+  "name": "Casa Hamaca",
+  "subtitle": "Gotowe koktajle · Polska",
+  "category": "rtd",
+  "country": "Poland",
+  "abv": "ok. 15%",
+  "image": "bottle_img/casa_hamaca_main.png",
+
+  "whenToOffer": [
+    "Klient szuka gotowego drinka",
+    "Osoba chce coś prostego na imprezę",
+    "Klient nie chce mieszać koktajli samodzielnie"
+  ],
+
+  "howToPresent": "Seria gotowych koktajli w stylu karaibskim. Wystarczy schłodzić lub podać z lodem.",
+
+  "variants": [
+    {
+      "type": "Pink Colada",
+      "image": "bottle_img/casa_pinacolada.png"
+    },
+    {
+      "type": "Batido de Mango",
+      "image": "bottle_img/casa_mango.png"
+    },
+    {
+      "type": "Cocoa",
+      "image": "bottle_img/casa_cocoa.png"
+    }
+  ],
+
+  "salesTip": [
+    "Dobry wybór na imprezę lub szybkie spotkanie bez potrzeby mieszania drinków.",
+    "Można proponować klientom szukającym Malibu lub likierów kokosowych."
+  ]
+},
+
+{
+  "slug": "wybitny-gin",
+  "name": "Wybitny Gin",
+  "subtitle": "Gin rzemieślniczy · Kraków",
+  "category": "gin",
+  "country": "Poland",
+  "abv": "40%",
+  "image": "bottle_img/wybitny_gin.png",
+
+  "whenToOffer": [
+    "Klient szuka polskiego ginu craftowego",
+    "Osoba interesuje się małymi destylarniami",
+    "Klient chce coś lokalnego z Krakowa"
+  ],
+
+  "howToPresent": "Rzemieślniczy gin produkowany w Krakowie. Ma bardziej wyraźny, klasyczny charakter z dobrze zaznaczonym jałowcem i botanikami.",
+
+  "salesTip": [
+    "Dobry wybór dla klientów, którzy chcą spróbować polskiego craftowego ginu zamiast masowych marek."
+  ]
+},
+
+{
+  "slug": "genever-tradycyjny",
+  "name": "Genever Tradycyjny",
+  "subtitle": "Destylat zbożowy · Styl holenderski",
+  "category": "genever",
+  "country": "Poland",
+  "abv": "40%",
+  "image": "bottle_img/jenever.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś pomiędzy ginem a whisky",
+    "Osoba interesuje się historią alkoholi",
+    "Klient chce spróbować czegoś nietypowego"
+  ],
+
+  "howToPresent": "Tradycyjny genever inspirowany holenderskim stylem. Bardziej zbożowy i pełniejszy niż klasyczny gin.",
+
+  "salesTip": [
+    "Można proponować klientom znającym historię ginu – genever to jego poprzednik."
+  ]
+},
+
+{
+  "slug": "sliwka-w-czekoladzie",
+  "name": "Śliwka w Czekoladzie",
+  "subtitle": "Likier owocowy · Kraków",
+  "category": "likier",
+  "country": "Poland",
+  "abv": "30%",
+  "image": "bottle_img/sliwka_czekolada.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś deserowego",
+    "Osoba lubi likiery czekoladowe",
+    "Klient chce coś prezentowego"
+  ],
+
+  "howToPresent": "Likier inspirowany klasycznym połączeniem śliwki i czekolady. Słodki, deserowy, bardziej do degustacji niż do drinków.",
+
+  "salesTip": [
+    "Dobry wybór jako prezent lub do podania po kolacji."
+  ]
+},
+
+{
+  "slug": "likier-whisky-kawa",
+  "name": "Likier Whisky z Kawą",
+  "subtitle": "Likier kawowy na bazie whisky · Kraków",
+  "category": "likier",
+  "country": "Poland",
+  "abv": "30%",
+  "image": "bottle_img/whisky_kawa.png",
+
+  "whenToOffer": [
+    "Klient szuka alternatywy dla Baileys",
+    "Osoba lubi kawowe alkohole",
+    "Klient chce coś mniej mlecznego"
+  ],
+
+  "howToPresent": "Likier kawowy oparty na polskiej whisky. Mniej mleczny niż klasyczne cream likiery, bardziej wytrawny i kawowy.",
+
+  "salesTip": [
+    "Można proponować zamiast Baileys osobom, które nie chcą likieru śmietankowego."
+  ]
+},
+
+{
+  "slug": "likier-whisky-wild-fields",
+  "name": "Likier na bazie whisky Wild Fields",
+  "subtitle": "Likier owocowy · Polska",
+  "category": "likier",
+  "country": "Poland",
+  "abv": "30%",
+  "image": "bottle_img/malina_whisky.png",
+
+  "whenToOffer": [
+    "Klient lubi owocowe likiery",
+    "Osoba chce coś pomiędzy wiśniówką a whisky",
+    "Klient szuka czegoś mniej słodkiego niż klasyczny likier"
+  ],
+
+  "howToPresent": "Seria likierów opartych na polskiej whisky Wild Fields. Łączą charakter whisky z naturalną nutą owocową.",
+
+  "variants": [
+    {
+      "type": "Wiśnia",
+      "image": "bottle_img/malina_whisky.png"
+    },
+    {
+      "type": "Malina",
+      "image": "bottle_img/malina_whisky.png"
+    },
+    {
+      "type": "Owoce leśne",
+      "image": "bottle_img/malina_whisky.png"
+    }
+  ],
+
+  "salesTip": [
+    "Dobry wybór dla klientów, którzy lubią owocowe nalewki, ale chcą czegoś bardziej wyrazistego."
+  ]
+},
+
+{
+  "slug": "okowita-lezakowana-7-lat",
+  "name": "Okowita Leżakowana 7 lat",
+  "subtitle": "Destylat starzony · Polska",
+  "category": "okowita",
+  "country": "Poland",
+  "abv": "40%",
+  "image": "bottle_img/okowita7.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś w stylu brandy lub młodej whisky",
+    "Osoba interesuje się polskimi destylatami",
+    "Klient chce coś dojrzewającego, ale niekoniecznie whisky"
+  ],
+
+  "howToPresent": "Polska okowita leżakowana przez 7 lat w dębie. Łączy charakter destylatu z nutami dojrzewania, tworząc produkt pomiędzy tradycyjną okowitą a whisky.",
+
+  "salesTip": [
+    "Można proponować jako alternatywę dla młodej whisky.",
+    "Dobry wybór dla klientów szukających czegoś bardziej rzemieślniczego."
+  ]
+},
+
+{
+  "slug": "likier-dereniowy",
+  "name": "Likier Dereniowy",
+  "subtitle": "Likier owocowy · Polska",
+  "category": "likier",
+  "country": "Poland",
+  "abv": "30%",
+  "image": "bottle_img/deren.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś nietypowego owocowego",
+    "Osoba zna smak derenia",
+    "Klient chce regionalny produkt"
+  ],
+
+  "howToPresent": "Likier oparty na owocach derenia. Wyraźnie owocowy, lekko kwaśny i bardziej złożony niż klasyczne wiśniówki.",
+
+  "salesTip": [
+    "Dobry wybór dla klientów, którzy szukają czegoś mniej oczywistego niż wiśnia czy żurawina."
+  ]
+},
+
+{
+  "slug": "likier-tarninowy",
+  "name": "Likier Tarninowy",
+  "subtitle": "Likier owocowy · Polska",
+  "category": "likier",
+  "country": "Poland",
+  "abv": "30%",
+  "image": "bottle_img/tarnina.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś wytrawniejszego wśród likierów",
+    "Osoba interesuje się tradycyjnymi nalewkami",
+    "Klient chce coś regionalnego"
+  ],
+
+  "howToPresent": "Likier z tarniny – bardziej wytrawny i mniej słodki niż klasyczne likiery owocowe. Ma lekko cierpki charakter.",
+
+  "salesTip": [
+    "Można proponować osobom, którym klasyczne likiery wydają się zbyt słodkie."
+  ]
+},
+
+{
+  "slug": "korona-polska-175l",
+  "name": "Korona Polska 1.75L",
+  "subtitle": "Wódka klasyczna · Duża pojemność",
+  "category": "vodka",
+  "country": "Poland",
+  "abv": "40%",
+  "image": "bottle_img/korona_polska.png",
+
+  "whenToOffer": [
+    "Klient organizuje większą imprezę",
+    "Osoba szuka ekonomicznego rozwiązania",
+    "Klient chce dużą butelkę"
+  ],
+
+  "howToPresent": "Klasyczna wódka w dużej, ekonomicznej pojemności 1.75L – dobra opcja na większe wydarzenia.",
+
+  "salesTip": [
+    "Opłacalna opcja przy większych zakupach."
+  ]
+},
+
+{
+  "slug": "the-path-175l",
+  "name": "The Path 1.75L",
+  "subtitle": "Whisky · Duża pojemność",
+  "category": "whisky",
+  "country": "Poland",
+  "abv": "40%",
+  "image": "bottle_img/the_path.png",
+
+  "whenToOffer": [
+    "Klient organizuje większe spotkanie",
+    "Osoba szuka whisky w dobrej cenie za litr",
+    "Klient potrzebuje większej butelki"
+  ],
+
+  "howToPresent": "Whisky w dużej pojemności 1.75L. Praktyczne rozwiązanie na większe wydarzenia i imprezy.",
+
+  "salesTip": [
+    "Ekonomiczny wybór przy większym zapotrzebowaniu."
+  ]
+},
+
+{
+  "slug": "longinus-agrest",
+  "name": "Longinus Nalewka Agrestowa",
+  "subtitle": "Nalewka owocowa · Polska",
+  "category": "nalewka",
+  "country": "Poland",
+  "abv": "18%",
+  "image": "bottle_img/longinus_agrest.jpg",
+
+  "whenToOffer": [
+    "Klient szuka czegoś lekko kwaskowego",
+    "Osoba lubi mniej słodkie nalewki",
+    "Klient chce coś mniej oczywistego niż wiśnia"
+  ],
+
+  "howToPresent": "Nalewka z agrestu o wyraźnie świeżym, lekko kwaśnym charakterze. Lżejsza i mniej ciężka niż klasyczne nalewki wiśniowe.",
+
+  "salesTip": [
+    "Dobry wybór dla osób, którym klasyczne słodkie nalewki wydają się zbyt ciężkie."
+  ]
+},
+
+{
+  "slug": "longinus-deren",
+  "name": "Longinus Nalewka Dereniowa",
+  "subtitle": "Nalewka owocowa · Polska",
+  "category": "nalewka",
+  "country": "Poland",
+  "abv": "18%",
+  "image": "bottle_img/longinus_deren.jpg",
+
+  "whenToOffer": [
+    "Klient zna smak derenia",
+    "Osoba szuka czegoś bardziej wytrawnego",
+    "Klient chce regionalny charakter"
+  ],
+
+  "howToPresent": "Nalewka z derenia o bardziej złożonym, lekko cierpkim charakterze. Mniej słodka niż klasyczne owocowe likiery.",
+
+  "salesTip": [
+    "Można proponować osobom szukającym czegoś mniej oczywistego niż wiśnia czy malina."
+  ]
+},
+
+{
+  "slug": "longinus-mirabelka",
+  "name": "Longinus Nalewka Mirabelkowa",
+  "subtitle": "Nalewka owocowa · Polska",
+  "category": "nalewka",
+  "country": "Poland",
+  "abv": "18%",
+  "image": "bottle_img/longinus_mirabelka.jpg",
+
+  "whenToOffer": [
+    "Klient szuka czegoś delikatniejszego",
+    "Osoba lubi śliwkowe nuty",
+    "Klient chce coś sezonowego"
+  ],
+
+  "howToPresent": "Nalewka z mirabelki – owocowa, lekko śliwkowa, bardziej miękka i przystępna niż dereniówka czy tarnina.",
+
+  "salesTip": [
+    "Dobry wybór dla osób, które chcą czegoś owocowego, ale mniej intensywnego."
+  ]
+},
+
+{
+  "slug": "longinus-malina",
+  "name": "Longinus Nalewka Malinowa",
+  "subtitle": "Nalewka owocowa · Polska",
+  "category": "nalewka",
+  "country": "Poland",
+  "abv": "18%",
+  "image": "bottle_img/longinus_malina.jpg",
+
+  "whenToOffer": [
+    "Klient szuka klasycznej nalewki malinowej",
+    "Osoba chce coś owocowego i aromatycznego",
+    "Klient szuka prezentu"
+  ],
+
+  "howToPresent": "Klasyczna nalewka malinowa o wyraźnym owocowym aromacie i przyjemnej słodyczy.",
+
+  "salesTip": [
+    "Bezpieczny wybór dla osób lubiących klasyczne owocowe nalewki."
+  ]
+},
+
+{
+  "slug": "longinus-pigwa",
+  "name": "Longinus Nalewka Pigwowa",
+  "subtitle": "Nalewka owocowa · Polska",
+  "category": "nalewka",
+  "country": "Poland",
+  "abv": "18%",
+  "image": "bottle_img/longinus_pigwa.jpg",
+
+  "whenToOffer": [
+    "Klient szuka czegoś cytrusowo-kwaskowego",
+    "Osoba lubi pigwę",
+    "Klient chce coś mniej słodkiego"
+  ],
+
+  "howToPresent": "Nalewka z pigwy o świeżym, lekko cytrusowym charakterze. Wyraźnie owocowa, ale nie przesadnie słodka.",
+
+  "salesTip": [
+    "Dobry wybór dla osób, które lubią wyraźniejszą kwasowość."
+  ]
+},
+
+{
+  "slug": "mikrogorzelnia-pure-potato",
+  "name": "Mikrogorzelnia Pure Potato",
+  "subtitle": "Wódka ziemniaczana · Travel Exclusive · 0.5L",
+  "category": "vodka",
+  "country": "Poland",
+  "abv": "40%",
+  "rawMaterial": "Ziemniaki",
+  "image": "bottle_img/mikrogorzelnia_potato.png",
+
+  "whenToOffer": [
+    "Klient szuka wódki niedostępnej w zwykłej sprzedaży",
+    "Osoba kupuje prezent z Polski",
+    "Klient interesuje się rzemieślniczymi produktami"
+  ],
+
+  "howToPresent": "Rzemieślnicza wódka ziemniaczana produkowana w najmniejszej destylarni w Polsce (ok. 12 m²). Edycja dostępna wyłącznie w kanale travel retail.",
+
+  "salesTip": [
+    "Podkreślić ograniczoną dostępność – to produkt, którego nie znajdzie w każdym sklepie."
+  ]
+},
+
+{
+  "slug": "mikrogorzelnia-zyto",
+  "name": "Mikrogorzelnia Żyto",
+  "subtitle": "Wódka żytnia · Polska · 0.5L",
+  "category": "vodka",
+  "country": "Poland",
+  "abv": "40%",
+  "rawMaterial": "Żyto",
+  "image": "bottle_img/mikrogorzelnia_zyto.png",
+
+  "whenToOffer": [
+    "Klient lubi wódki o bardziej wyrazistym charakterze",
+    "Osoba szuka wódki żytniej rzemieślniczej"
+  ],
+
+  "howToPresent": "Rzemieślnicza wódka żytnia produkowana w 12-metrowej destylarni. Bardziej pikantna i charakterystyczna niż pszeniczne odpowiedniki."
+},
+
+{
+  "slug": "mikrogorzelnia-gin",
+  "name": "Mikrogorzelnia Gin",
+  "subtitle": "Gin · Polskie botaniki · 0.5L",
+  "category": "gin",
+  "country": "Poland",
+  "abv": "40%",
+  "image": "bottle_img/mikrogorzelnia_botaniki.png",
+
+  "whenToOffer": [
+    "Klient szuka polskiego ginu",
+    "Osoba interesuje się craftem"
+  ],
+
+  "howToPresent": "Gin tworzony w małej destylarni (12 m²) z wykorzystaniem polskich botaników. Wyraźny, rzemieślniczy charakter."
+},
+
+{
+  "slug": "mikrogorzelnia-gin-earl-grey",
+  "name": "Mikrogorzelnia Gin Earl Grey",
+  "subtitle": "Gin aromatyzowany · 0.5L",
+  "category": "gin",
+  "country": "Poland",
+  "abv": "40%",
+  "image": "bottle_img/mikrogorzelnia_eg.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś nietypowego",
+    "Osoba lubi herbaciane nuty"
+  ],
+
+  "howToPresent": "Craftowy gin z dodatkiem herbaty Earl Grey. Łączy klasyczny jałowiec z wyraźnym cytrusowo-herbacianym profilem."
+},
+
+{
+  "slug": "mikrogorzelnia-gin-torfowy",
+  "name": "Mikrogorzelnia Gin Torfowy",
+  "subtitle": "Gin · Nuty torfowe · 0.5L",
+  "category": "gin",
+  "country": "Poland",
+  "abv": "40%",
+  "image": "bottle_img/mikrogorzelnia_peat.png",
+
+  "whenToOffer": [
+    "Klient lubi whisky torfową",
+    "Osoba szuka mocnego, wytrawnego ginu"
+  ],
+
+  "howToPresent": "Nietypowy gin o lekko torfowym charakterze. Dobry wybór dla osób znających whisky torfowe i szukających czegoś oryginalnego."
+},
+
+{
+  "slug": "heritage-magnolia-gin",
+  "name": "Heritage Magnolia Gin",
+  "subtitle": "Gin rzemieślniczy · Szczecin · Polska",
+  "category": "gin",
+  "country": "Poland",
+  "abv": "40%",
+  "image": "bottle_img/heritage_magnolia.png",
+
+  "whenToOffer": [
+    "Klient szuka polskiego ginu premium",
+    "Osoba interesuje się nagradzanymi alkoholami",
+    "Klient chce coś wyjątkowego na prezent"
+  ],
+
+  "howToPresent": "Flagowy gin marki Heritage ze Szczecina. Zdobywca tytułu Gin of the Year w Londynie (2023). Wyraźnie kwiatowy profil z nutą magnolii, elegancki i nowoczesny.",
+
+  "salesTip": [
+    "Warto podkreślić nagrodę londyńską – to mocny argument sprzedażowy."
+  ]
+},
+
+{
+  "slug": "heritage-baltic-gin",
+  "name": "Heritage Baltic Gin",
+  "subtitle": "Gin rzemieślniczy · Polska",
+  "category": "gin",
+  "country": "Poland",
+  "abv": "40%",
+  "image": "bottle_img/heritage_baltic.png",
+
+  "whenToOffer": [
+    "Klient szuka bardziej wytrawnego ginu",
+    "Osoba lubi klasyczne profile jałowcowe"
+  ],
+
+  "howToPresent": "Gin inspirowany regionem Bałtyku. Bardziej wytrawny i klasyczny w charakterze niż Magnolia, z wyraźnym jałowcem."
+},
+
+{
+  "slug": "heritage-classique-gin",
+  "name": "Heritage Classique Gin",
+  "subtitle": "Gin klasyczny · Polska",
+  "category": "gin",
+  "country": "Poland",
+  "abv": "40%",
+  "image": "bottle_img/heritage_classique.jpg",
+
+  "whenToOffer": [
+    "Klient szuka klasycznego London Dry",
+    "Osoba potrzebuje ginu do koktajli"
+  ],
+
+  "howToPresent": "Klasyczny styl London Dry. Czysty, zbalansowany, z wyraźnym jałowcem – bez dominujących nut kwiatowych."
+},
+
+{
+  "slug": "heritage-cold-brew-coffee",
+  "name": "Heritage Gin Cold Brew Coffee Liqueur",
+  "subtitle": "Likier kawowy na bazie ginu · Polska",
+  "category": "likier",
+  "country": "Poland",
+  "abv": "25%",
+  "image": "bottle_img/heritage_coffe.jpg",
+
+  "whenToOffer": [
+    "Klient szuka likieru kawowego",
+    "Osoba lubi espresso martini",
+    "Klient chce coś nietypowego"
+  ],
+
+  "howToPresent": "Likier kawowy na bazie ginu Heritage. Połączenie cold brew z charakterem jałowca – ciekawa alternatywa dla klasycznych likierów kawowych.",
+
+  "salesTip": [
+    "Można proponować jako twist do Espresso Martini."
+  ]
+}, 
+
+{
+  "slug": "3city-gin",
+  "name": "3City Gin",
+  "subtitle": "Gin rzemieślniczy · Sopot · Polska",
+  "category": "gin",
+  "country": "Poland",
+  "abv": "40%",
+  "rawMaterial": "100% pszeniczny destylat",
+  "image": "bottle_img/3city.png",
+
+  "whenToOffer": [
+    "Klient szuka lokalnego produktu z Trójmiasta",
+    "Osoba chce coś związanego z Gdańskiem/Sopotem",
+    "Klient szuka lekkiego, delikatnego ginu"
+  ],
+
+  "howToPresent": "Gin produkowany w Sopocie – najbliższa destylarnia względem lotniska w Trójmieście. Tworzony w 100% z pszenicznego destylatu, dzięki czemu jest wyjątkowo lekki i gładki.",
+
+  "salesTip": [
+    "Mocny argument lokalności – idealny jako prezent z regionu.",
+    "Warto podkreślić jego lekkość w porównaniu do bardziej wytrawnych ginów."
+  ]
+},
+
+{
+  "slug": "ima-gin-polish-forest",
+  "name": "IMA Gin Polish Forest",
+  "subtitle": "Gin rzemieślniczy · Polska · 0.5L",
+  "category": "gin",
+  "country": "Poland",
+  "abv": "40%",
+  "image": "bottle_img/polish_forest.jpg",
+
+  "whenToOffer": [
+    "Klient szuka polskiego ginu craft",
+    "Osoba lubi leśne, ziołowe nuty",
+    "Klient chce prezent z ciekawym designem"
+  ],
+
+  "howToPresent": "Gin inspirowany polskim lasem. Charakter leśno-ziołowy. Butelka z grawerem lasu oraz brelokiem w kształcie szyszki – mocny element prezentowy.",
+
+  "salesTip": [
+    "Warto podkreślić stosunek jakości do ceny w porównaniu z droższymi craft ginami."
+  ]
+}, 
+
+{
+  "slug": "ima-gin-navy-strength",
+  "name": "IMA Gin Navy Strength",
+  "subtitle": "Gin 57% · Polska · 0.5L",
+  "category": "gin",
+  "country": "Poland",
+  "abv": "57%",
+  "image": "bottle_img/navy_gin.jpg",
+
+  "whenToOffer": [
+    "Klient lubi mocniejsze alkohole",
+    "Osoba szuka intensywnego ginu do koktajli",
+    "Fan stylu navy strength"
+  ],
+
+  "howToPresent": "Mocniejsza wersja ginu (57%). Intensywniejszy aromat i dłuższy finisz. Na etykiecie mapa Bałtyku oraz brelok w kształcie kotwicy – wyrazisty, marynistyczny charakter."
+},
+
+{
+  "slug": "ima-potato-vodka",
+  "name": "IMA Potato Vodka",
+  "subtitle": "Wódka ziemniaczana · Polska · 0.5L",
+  "category": "vodka",
+  "country": "Poland",
+  "abv": "40%",
+  "rawMaterial": "Ziemniaki",
+  "image": "bottle_img/ima_potato.jpg",
+
+  "whenToOffer": [
+    "Klient szuka craftowej wódki ziemniaczanej",
+    "Osoba chce coś lokalnego z Wielkopolski"
+  ],
+
+  "howToPresent": "Rzemieślnicza wódka ziemniaczana z destylarni pod Poznaniem. Pełniejsza i bardziej kremowa niż klasyczne wódki zbożowe."
+},
+
+{
+  "slug": "ima-apple-vodka",
+  "name": "IMA Apple Vodka",
+  "subtitle": "Destylat jabłkowy · Polska · 0.5L",
+  "category": "vodka",
+  "country": "Poland",
+  "abv": "40%",
+  "rawMaterial": "Jabłka",
+  "image": "bottle_img/ima_apple.jpg",
+
+  "whenToOffer": [
+    "Klient szuka czegoś innego niż klasyczna wódka",
+    "Osoba interesuje się destylatami owocowymi"
+  ],
+
+  "howToPresent": "Destylat produkowany bezpośrednio z jabłek, nie aromatyzowana wódka. Bardziej owocowy i świeży charakter."
+},
+
+{
+  "slug": "ima-wisnia-w-czekoladzie",
+  "name": "IMA Nalewka Wiśnia w Czekoladzie",
+  "subtitle": "Nalewka rzemieślnicza · Polska · 0.5L",
+  "category": "nalewka",
+  "country": "Poland",
+  "abv": "18%",
+  "image": "bottle_img/ima_wisnia.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś deserowego",
+    "Osoba lubi wiśnię w czekoladzie"
+  ],
+
+  "howToPresent": "Legalna nalewka o smaku wiśni w czekoladzie. Wyraźnie owocowa z deserowym charakterem."
+},
+
+{
+  "slug": "ima-mirabelka-deren",
+  "name": "IMA Nalewka Mirabelka-Dereń",
+  "subtitle": "Nalewka rzemieślnicza · Polska · 0.5L",
+  "category": "nalewka",
+  "country": "Poland",
+  "abv": "18%",
+  "image": "bottle_img/mirabelka_deren.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś mniej oczywistego",
+    "Osoba lubi kwaśno-owocowe profile"
+  ],
+
+  "howToPresent": "Połączenie mirabelki i derenia. Bardziej wytrawna i świeża niż klasyczne słodkie nalewki."
+},
+
+{
+  "slug": "podole-wielkie-vodka-rye",
+  "name": "Podole Wielkie Vodka Rye",
+  "subtitle": "Wódka żytnia · Polska · 0.7L",
+  "category": "vodka",
+  "country": "Poland",
+  "abv": "40%",
+  "rawMaterial": "Żyto",
+  "image": "bottle_img/podole_vodka_rye.webp",
+
+  "whenToOffer": [
+    "Klient szuka jakościowej wódki żytniej",
+    "Osoba interesuje się lokalnymi producentami"
+  ],
+
+  "howToPresent": "Wódka żytnia z rodzinnego gospodarstwa w okolicach Trójmiasta. Produkowana z własnego surowca."
+},
+
+{
+  "slug": "podole-wielkie-vodka-potato",
+  "name": "Podole Wielkie Vodka Potato",
+  "subtitle": "Wódka ziemniaczana · Polska · 0.7L",
+  "category": "vodka",
+  "country": "Poland",
+  "abv": "40%",
+  "rawMaterial": "Ziemniaki",
+  "image": "bottle_img/podole_vodka_potato.webp",
+
+  "whenToOffer": [
+    "Klient szuka wódki ziemniaczanej",
+    "Osoba chce coś bardziej pełnego w smaku"
+  ],
+
+  "howToPresent": "Wódka ziemniaczana z własnych upraw. Bardziej kremowa i wyrazista niż klasyczne wódki zbożowe."
+},
+
+{
+  "slug": "podole-wielkie-okowita-pszenica",
+  "name": "Podole Wielkie Okowita Pszenica",
+  "subtitle": "Okowita pszeniczna · Polska · 0.7L",
+  "category": "okowita",
+  "country": "Poland",
+  "abv": "40%",
+  "rawMaterial": "Pszenica",
+  "image": "bottle_img/podole_okowita_pszenica.webp",
+
+  "whenToOffer": [
+    "Klient chce spróbować prawdziwej okowity",
+    "Osoba interesuje się surowcowym charakterem alkoholu"
+  ],
+
+  "howToPresent": "Okowita z jednego surowca – pszenicy. Czysty, wyraźny charakter z zachowaniem cech zboża."
+},
+
+{
+  "slug": "podole-wielkie-okowita-zyto",
+  "name": "Podole Wielkie Okowita Żyto",
+  "subtitle": "Okowita żytnia · Polska · 0.7L",
+  "category": "okowita",
+  "country": "Poland",
+  "abv": "40%",
+  "rawMaterial": "Żyto",
+  "image": "bottle_img/podole_okowita_zyto.webp",
+
+  "whenToOffer": [
+    "Klient zna pojęcie okowita",
+    "Osoba lubi bardziej wyrazisty charakter"
+  ],
+
+  "howToPresent": "Jednosurowcowa okowita żytnia z rodzinnego gospodarstwa. Wyraźniejsza i bardziej strukturalna niż klasyczna wódka."
+},
+
+{
+  "slug": "podole-wielkie-okowita-ziemniak",
+  "name": "Podole Wielkie Okowita Ziemniak",
+  "subtitle": "Okowita ziemniaczana · Polska · 0.7L",
+  "category": "okowita",
+  "country": "Poland",
+  "abv": "40%",
+  "rawMaterial": "Ziemniaki",
+  "image": "bottle_img/podole_okowita_ziemniak.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś bardziej surowego niż wódka ziemniaczana",
+    "Osoba interesuje się terroir"
+  ],
+
+  "howToPresent": "Okowita ziemniaczana pokazująca czysty charakter surowca bez wygładzania profilu."
+},
+
+{
+  "slug": "podole-wielkie-okowita-ziemniak-alter-ego",
+  "name": "Podole Wielkie Okowita Ziemniak Alter Ego",
+  "subtitle": "Okowita ziemniaczana · Edycja w kartonie · 0.7L",
+  "category": "okowita",
+  "country": "Poland",
+  "abv": "40%",
+  "rawMaterial": "Ziemniaki",
+  "image": "bottle_img/podole_okowita_alterego.webp",
+
+  "whenToOffer": [
+    "Klient szuka wersji prezentowej",
+    "Osoba chce bardziej eleganckie opakowanie"
+  ],
+
+  "howToPresent": "Ta sama okowita ziemniaczana w wersji Alter Ego, zapakowana w karton prezentowy."
+},
+
+{
+  "slug": "podole-wielkie-okowita-jeczmien",
+  "name": "Podole Wielkie Okowita Jęczmień",
+  "subtitle": "Okowita jęczmienna · Polska · 0.7L",
+  "category": "okowita",
+  "country": "Poland",
+  "abv": "40%",
+  "rawMaterial": "Jęczmień",
+  "image": "bottle_img/podole_okowita_jeczmien.webp",
+
+  "whenToOffer": [
+    "Klient interesuje się whisky",
+    "Osoba chce spróbować czegoś surowcowego"
+  ],
+
+  "howToPresent": "Okowita jęczmienna pokazująca charakter zboża. Ciekawa alternatywa dla osób znających whisky."
+},
+
+{
+  "slug": "wodki-torunskie-sliwka-w-czekoladzie",
+  "name": "Wódki Toruńskie Śliwka w Czekoladzie",
+  "subtitle": "Likier · Polska · 0.5L",
+  "category": "likier",
+  "country": "Poland",
+  "abv": "30%",
+  "image": "bottle_img/torunska_sliwka.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś deserowego",
+    "Osoba lubi klasyczne połączenie śliwki i czekolady"
+  ],
+
+  "howToPresent": "Budżetowa propozycja o wyraźnie deserowym charakterze. Dobry stosunek jakości do ceny."
+},
+
+{
+  "slug": "wodki-torunskie-wisnia",
+  "name": "Wódki Toruńskie Wiśnia",
+  "subtitle": "Likier wiśniowy · Polska · 0.5L",
+  "category": "likier",
+  "country": "Poland",
+  "abv": "30%",
+  "image": "bottle_img/torunska_wisnia.png",
+
+  "whenToOffer": [
+    "Klient szuka klasycznej wiśniówki",
+    "Osoba chce coś w rozsądnej cenie"
+  ],
+
+  "howToPresent": "Klasyczna wiśniówka w bardzo dobrym przedziale cenowym."
+},
+
+{
+  "slug": "wodki-torunskie-pigwa",
+  "name": "Wódki Toruńskie Pigwa",
+  "subtitle": "Likier pigwowy · Polska · 0.5L",
+  "category": "likier",
+  "country": "Poland",
+  "abv": "30%",
+  "image": "bottle_img/torunska_pigwa.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś cytrusowo-owocowego",
+    "Osoba nie chce bardzo słodkiej nalewki"
+  ],
+
+  "howToPresent": "Owocowa, lekko kwaskowa propozycja w budżetowej cenie."
+},
+
+{
+  "slug": "wodki-torunskie-przepalanka",
+  "name": "Wódki Toruńskie Przepalanka",
+  "subtitle": "Wódka karmelizowana · Polska · 0.5L",
+  "category": "vodka-flavoured",
+  "country": "Poland",
+  "abv": "37.5%",
+  "image": "bottle_img/torunska_przepalanka.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś tradycyjnego",
+    "Osoba lubi karmelowe nuty"
+  ],
+
+  "howToPresent": "Klasyczna przepalanka o karmelowym charakterze. Tradycyjny styl w przystępnej cenie."
+},
+
+{
+  "slug": "wodki-torunskie-hubertowka-original",
+  "name": "Hubertówka Leśna Original",
+  "subtitle": "Likier ziołowy · Polska · 0.5L",
+  "category": "likier",
+  "country": "Poland",
+  "abv": "37.5%",
+  "image": "bottle_img/hubertowka.webp",
+
+  "whenToOffer": [
+    "Klient lubi ziołowe alkohole",
+    "Osoba szuka czegoś w stylu leśnym"
+  ],
+
+  "howToPresent": "Leśny, ziołowy profil. Mocniejsza, klasyczna wersja."
+},
+
+{
+  "slug": "wodki-torunskie-hubertowka-bitter",
+  "name": "Hubertówka Leśna Bitter",
+  "subtitle": "Likier ziołowy · Polska · 0.5L",
+  "category": "likier",
+  "country": "Poland",
+  "abv": "32%",
+  "image": "bottle_img/hubertowka_bitter.webp",
+
+  "whenToOffer": [
+    "Klient szuka lżejszej wersji ziołowej",
+    "Osoba nie chce wysokiego alkoholu"
+  ],
+
+  "howToPresent": "Łagodniejsza i mniej intensywna wersja klasycznej Hubertówki."
+},
+
+{
+  "slug": "wodki-torunskie-ziemniaczana",
+  "name": "Wódki Toruńskie Ziemniaczana",
+  "subtitle": "Wódka ziemniaczana · Polska · 0.5L",
+  "category": "vodka",
+  "country": "Poland",
+  "abv": "40%",
+  "rawMaterial": "Ziemniaki",
+  "image": "bottle_img/torunska_ziemniaczana.png",
+
+  "whenToOffer": [
+    "Klient szuka budżetowej wódki ziemniaczanej"
+  ],
+
+  "howToPresent": "Prosta, ziemniaczana wódka w bardzo atrakcyjnej cenie."
+},
+
+{
+  "slug": "wodki-torunskie-czysta",
+  "name": "Wódki Toruńskie Czysta",
+  "subtitle": "Wódka klasyczna · Polska · 0.5L",
+  "category": "vodka",
+  "country": "Poland",
+  "abv": "40%",
+  "image": "bottle_img/torunska_czysta.png",
+
+  "whenToOffer": [
+    "Klient szuka taniej, klasycznej wódki"
+  ],
+
+  "howToPresent": "Neutralna wódka w przystępnej cenie."
+},
+
+{
+  "slug": "wodki-torunskie-69",
+  "name": "Wódki Toruńskie 69%",
+  "subtitle": "Wódka wysokoprocentowa · Polska · 0.5L",
+  "category": "vodka",
+  "country": "Poland",
+  "abv": "69%",
+  "image": "bottle_img/vodka_69.png",
+
+  "whenToOffer": [
+    "Klient szuka najmocniejszej wódki",
+    "Osoba chce coś ekstremalnego"
+  ],
+
+  "howToPresent": "Najmocniejsza wódka dostępna w ofercie – 69% alkoholu."
+},
+
+{
+  "slug": "wodki-torunskie-sliwowica-zlota-cz",
+  "name": "Śliwowica Złota 55%",
+  "subtitle": "Destylat śliwkowy · Czechy · 0.5L",
+  "category": "okowita",
+  "country": "Czechy",
+  "abv": "55%",
+  "image": "bottle_img/sliwowica_czeska.png",
+
+  "whenToOffer": [
+    "Klient szuka klasycznej śliwowicy"
+  ],
+
+  "howToPresent": "Śliwowica produkcji czeskiej, w przystępnej cenie."
+},
+
+{
+  "slug": "wodki-torunskie-sliwowica-63",
+  "name": "Śliwowica 63%",
+  "subtitle": "Destylat śliwkowy · Polska · 0.7L",
+  "category": "okowita",
+  "country": "Poland",
+  "abv": "63%",
+  "image": "bottle_img/sliwowica_polska.png",
+
+  "whenToOffer": [
+    "Klient szuka mocnej, polskiej śliwowicy"
+  ],
+
+  "howToPresent": "Polska śliwowica o wyższym alkoholu i bardziej intensywnym charakterze."
+},
+
+{
+  "slug": "philadelphia-boulevard",
+  "name": "Philadelphia Boulevard",
+  "subtitle": "Likier kawowy · Polska · 0.5L",
+  "category": "likier",
+  "country": "Poland",
+  "abv": "32%",
+  "image": "bottle_img/pb_coffe.webp",
+
+  "whenToOffer": [
+    "Klient szuka likieru kawowego",
+    "Osoba chce alternatywę dla Kahlua"
+  ],
+
+  "howToPresent": "Likier kawowy o intensywnym aromacie. Dobra opcja w atrakcyjnej cenie."
+},
+
+{
+  "slug": "apis-poltorak-jadwiga",
+  "name": "Półtorak Jadwiga",
+  "subtitle": "Miód pitny półtorak · Polska",
+  "category": "miod-pitny",
+  "country": "Poland",
+  "abv": "16%",
+  "image": "bottle_img/jadwiga_oplot.png",
+
+  "whenToOffer": [
+    "Klient szuka najbardziej prestiżowego miodu pitnego",
+    "Klient chce coś tradycyjnego i historycznego",
+    "Na prezent premium z Polski"
+  ],
+
+  "howToPresent": "Najbardziej skoncentrowany typ miodu pitnego. Bardzo gęsty, bogaty i słodki. Produkowany w tradycyjnej proporcji 1:0,5 (miód:woda)."
+},
+{
+  "slug": "apis-poltorak-lubelski",
+  "name": "Półtorak Lubelski",
+  "subtitle": "Miód pitny półtorak · Polska",
+  "category": "miod-pitny",
+  "country": "Poland",
+  "abv": "16%",
+  "image": "bottle_img/poltorak_lubelski.png",
+
+  "whenToOffer": [
+    "Klient chce półtoraka w bardziej klasycznym wydaniu",
+    "Na prezent regionalny"
+  ],
+
+  "howToPresent": "Tradycyjny półtorak produkowany według dawnych receptur. Bardzo słodki, intensywny i długo dojrzewający."
+},
+{
+  "slug": "apis-poltorak-zaklety-ksiaze",
+  "name": "Półtorak Zaklęty Książę z trawą żubrową",
+  "subtitle": "Miód pitny półtorak · Polska",
+  "category": "miod-pitny",
+  "country": "Poland",
+  "abv": "16%",
+  "image": "bottle_img/poltorak_bisongrass.png",
+
+  "whenToOffer": [
+    "Klient chce coś klasycznego, ale z twistem",
+    "Miłośnicy Żubrówki"
+  ],
+
+  "howToPresent": "Półtorak wzbogacony naturalnym aromatem trawy żubrowej. Łączy miodową słodycz z delikatną ziołową nutą."
+},
+{
+  "slug": "apis-dwojniak-staropolski",
+  "name": "Dwójniak Staropolski",
+  "subtitle": "Miód pitny dwójniak · Polska",
+  "category": "miod-pitny",
+  "country": "Poland",
+  "abv": "16%",
+  "image": "bottle_img/dwojniak_staropolski.png",
+
+  "whenToOffer": [
+    "Klient szuka miodu mniej słodkiego niż półtorak",
+    "Dla osób zaczynających przygodę z miodami pitnymi"
+  ],
+
+  "howToPresent": "Bardziej zbalansowany niż półtorak. Nadal słodki, ale lżejszy i łatwiejszy w odbiorze."
+},
+{
+  "slug": "apis-dwojniak-kurpiowski",
+  "name": "Dwójniak Kurpiowski",
+  "subtitle": "Miód pitny dwójniak · Polska",
+  "category": "miod-pitny",
+  "country": "Poland",
+  "abv": "16%",
+  "image": "bottle_img/dwojniak_kurpiowski.png",
+
+  "whenToOffer": [
+    "Klient chce regionalny miód pitny",
+    "Osób szukających tradycyjnych smaków"
+  ],
+
+  "howToPresent": "Dwójniak inspirowany tradycją regionu Kurpiowskiego. Zbalansowana słodycz i klasyczny charakter."
+},
+{
+  "slug": "apis-trojniak-staropolski",
+  "name": "Trójniak Staropolski",
+  "subtitle": "Miód pitny trójniak · Polska",
+  "category": "miod-pitny",
+  "country": "Poland",
+  "abv": "13%",
+  "image": "bottle_img/trojniak_staropolski.png",
+
+  "whenToOffer": [
+    "Klient szuka lżejszego miodu pitnego",
+    "Na pierwsze spróbowanie miodu"
+  ],
+
+  "howToPresent": "Najlżejszy styl spośród klasycznych miodów pitnych. Delikatniejszy, mniej słodki, bardziej przystępny."
+},
+{
+  "slug": "apis-poltorak-malinowy",
+  "name": "Półtorak Malinowy",
+  "subtitle": "Miód pitny półtorak z sokiem malinowym · Polska",
+  "category": "miod-pitny",
+  "country": "Poland",
+  "abv": "16%",
+  "image": "bottle_img/malinowy_as.png",
+
+  "whenToOffer": [
+    "Klient chce coś bardziej owocowego",
+    "Dla osób lubiących maliny"
+  ],
+
+  "howToPresent": "Klasyczny półtorak wzbogacony naturalnym sokiem malinowym. Intensywnie owocowy, bardzo aromatyczny."
+},
+{
+  "slug": "apis-dwojniak-porzeczkowy",
+  "name": "Dwójniak Porzeczkowy",
+  "subtitle": "Miód pitny z czarną porzeczką · Polska",
+  "category": "miod-pitny",
+  "country": "Poland",
+  "abv": "16%",
+  "image": "bottle_img/porzeczkowy_krol.png",
+
+  "whenToOffer": [
+    "Klient szuka miodu z wyraźną kwasowością",
+    "Miłośnicy czarnej porzeczki"
+  ],
+
+  "howToPresent": "Dwójniak z dodatkiem czarnej porzeczki. Słodycz miodu przełamana owocową świeżością."
+},
+{
+  "slug": "apis-trojniak-sliwkowy",
+  "name": "Trójniak Śliwkowy",
+  "subtitle": "Miód pitny z dodatkiem śliwki · Polska",
+  "category": "miod-pitny",
+  "country": "Poland",
+  "abv": "13%",
+  "image": "bottle_img/sliwkowa_dama.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś owocowego, ale lżejszego",
+    "Osób lubiących nuty śliwki"
+  ],
+
+  "howToPresent": "Lżejszy trójniak z dodatkiem śliwki. Słodycz miodu połączona z delikatną owocową nutą."
+},
+{
+  "slug": "apis-grzaniec-miodowy",
+  "name": "Grzaniec Miodowy APIS",
+  "subtitle": "Napój miodowy do podgrzewania · Polska",
+  "category": "miod-pitny",
+  "country": "Poland",
+  "abv": "13%",
+  "image": "bottle_img/grzaniec_miodowy.png",
+
+  "whenToOffer": [
+    "Sezon zimowy",
+    "Klient szuka czegoś rozgrzewającego",
+    "Alternatywa dla grzańca winnego"
+  ],
+
+  "howToPresent": "Gotowy napój miodowy z przyprawami do podgrzewania. Idealny na zimę jako alternatywa dla klasycznego grzańca."
+},
+
+{
+  "slug": "mazurskie-whisky-rodowa",
+  "name": "Whisky Rodowa",
+  "subtitle": "Polska single malt · Warmia",
+  "category": "whisky-single-malt",
+  "country": "Poland",
+  "abv": "40%",
+  "maturation": "6 lat w beczkach po miodach pitnych i winach francuskich",
+  "image": "bottle_img/whisky_mm.webp",
+
+  "whenToOffer": [
+    "Klient szuka polskiej whisky",
+    "Osób interesujących się lokalnym rzemiosłem",
+    "Alternatywa dla szkockich single malt"
+  ],
+
+  "howToPresent": "Polska whisky single malt z 100% jęczmienia. Dojrzewa 6 lat w beczkach po miodach pitnych oraz winach francuskich, co nadaje jej delikatnie miodowy i winny charakter."
+},
+
+{
+  "slug": "mazurskie-okowita-miodowa",
+  "name": "Okowita Miodowa",
+  "subtitle": "Okowita z miodu · Warmia",
+  "category": "okowita",
+  "country": "Poland",
+  "abv": "40%",
+  "rawMaterial": "Miód rzepakowy i lipowy",
+  "image": "bottle_img/okowita_mm.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś unikalnego z miodu",
+    "Osób interesujących się tradycją pszczelarską",
+    "Alternatywa dla klasycznych okowit zbożowych"
+  ],
+
+  "howToPresent": "Okowita destylowana w 100% z miodu rzepakowego i lipowego. Naturalna, niebarwiona, z wyraźnym charakterem miodu i delikatną nutą dębu."
+},
+
+{
+  "slug": "mazurskie-sliwowica-starzona",
+  "name": "Śliwowica Starzona",
+  "subtitle": "Destylat ze śliwek · Warmia",
+  "category": "okowita",
+  "country": "Poland",
+  "abv": "40%",
+  "rawMaterial": "Polskie śliwki",
+  "image": "bottle_img/sliwowica_mm.webp",
+
+  "whenToOffer": [
+    "Klient szuka śliwowicy premium",
+    "Osób ceniących destylaty owocowe",
+    "Alternatywa dla śliwowicy łąckiej"
+  ],
+
+  "howToPresent": "Destylat w 100% z polskich śliwek, uszlachetniony miodem wielokwiatowym. Łączy owocową soczystość z aksamitnym, lekko miodowym wykończeniem."
+},
+
+{
+  "slug": "mazurskie-poltorak-piasecki",
+  "name": "Półtorak Piasecki",
+  "subtitle": "Miód pitny półtorak · Warmia",
+  "category": "miod-pitny",
+  "country": "Poland",
+  "abv": "16%",
+  "image": "bottle_img/piasecki_mm.webp",
+
+  "whenToOffer": [
+    "Klient szuka bardzo intensywnego miodu pitnego",
+    "Na prezent regionalny",
+    "Osób znających klasyfikację półtorak/dwójniak"
+  ],
+
+  "howToPresent": "Kompozycja tradycyjnego miodu pitnego i naturalnego soku śliwkowego. Długi proces dojrzewania nadaje mu głęboki, złożony charakter z wyraźną słodyczą miodu."
+},
+
+{
+  "slug": "mazurskie-dwojniak-grunwaldzki",
+  "name": "Dwójniak Grunwaldzki",
+  "subtitle": "Miód pitny dwójniak · Warmia",
+  "category": "miod-pitny",
+  "country": "Poland",
+  "abv": "16%",
+  "image": "bottle_img/mazurskie_dwojniak_grunwaldzki.png",
+
+  "whenToOffer": [
+    "Klient chce mniej słodki miód niż półtorak",
+    "Osób szukających czegoś tradycyjnego, ale lżejszego",
+    "Na pierwszy kontakt z miodem pitnym"
+  ],
+
+  "howToPresent": "Dwójniak o zbalansowanej słodyczy. Zachowuje głębię miodu, ale jest bardziej przystępny i mniej gęsty niż półtorak."
+},
+
+{
+  "slug": "specjal-podlaski-slodkie",
+  "name": "Specjał Podlaski Słodki",
+  "subtitle": "Wódki smakowe · Podlasie",
+  "category": "vodka-flavoured",
+  "country": "Poland",
+  "abv": "40%",
+  "image": "bottle_img/slodka_sliwka.png",
+
+  "variants": [
+    {
+      "type": "Słodka Śliwka",
+      "image": "bottle_img/slodka_sliwka.png"
+    },
+    {
+      "type": "Słodka Gruszka",
+      "image": "bottle_img/slodka_gruszka.png"
+    },
+    {
+      "type": "Słodki Pigwowiec",
+      "image": "bottle_img/slodki_pigwowiec.png"
+    }
+  ],
+
+  "whenToOffer": [
+    "Klient szuka tradycyjnej polskiej wódki smakowej",
+    "Osób lubiących półsłodkie profile owocowe",
+    "Dobry budżetowy prezent regionalny"
+  ],
+
+  "howToPresent": "Linia tradycyjnych wódek smakowych inspirowanych recepturami Podlasia. Intensywny smak owoców, delikatna słodycz i klasyczna moc 40%."
+},
+
+{
+  "slug": "old-polish-jarzebinowa",
+  "name": "Wódka Jarzębinowa",
+  "subtitle": "Manufakturowa · Polska",
+  "category": "vodka-flavoured",
+  "country": "Poland",
+  "abv": "38%",
+  "image": "bottle_img/wodka_jarzebinowa.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś tradycyjnego i mniej oczywistego",
+    "Osób interesujących się klasycznymi polskimi smakami",
+    "Alternatywa dla wiśni i śliwowicy"
+  ],
+
+  "howToPresent": "Wódka smakowa tworzona na bazie maceratu z jarzębiny. Łączy owocową goryczkę z delikatną słodyczą, inspirowana dawną tradycją polskich nalewek."
+},
+
+{
+  "slug": "old-polish-manufakturowa-rocznikowana",
+  "name": "Wódka Manufakturowa Rocznikowana",
+  "subtitle": "Rocznikowana · Polska",
+  "category": "vodka",
+  "country": "Poland",
+  "abv": "46,2%",
+  "rawMaterial": "Żyto bio",
+  "image": "bottle_img/wodka_rocznikowa.jpg",
+
+  "whenToOffer": [
+    "Klient szuka mocniejszej, charakternej wódki",
+    "Osób zainteresowanych limitowanymi partiami",
+    "Alternatywa dla klasycznej czystej premium"
+  ],
+
+  "howToPresent": "Wódka rocznikowana produkowana w małych partiach na bazie polskiego żyta bio. Wyższa moc 46,2% podkreśla jej strukturę i charakter."
+},
+
+{
+  "slug": "old-polish-wisniowa-manufakturowa",
+  "name": "Wódka Wiśniowa",
+  "subtitle": "Manufakturowa · Polska",
+  "category": "vodka-flavoured",
+  "country": "Poland",
+  "abv": "38%",
+  "image": "bottle_img/wodka_wisniowa.png",
+
+  "whenToOffer": [
+    "Klient szuka klasycznej wiśniówki",
+    "Osób lubiących półsłodkie wódki owocowe",
+    "Alternatywa dla likierów wiśniowych"
+  ],
+
+  "howToPresent": "Manufakturowa wódka wiśniowa tworzona na bazie naturalnego maceratu z owoców. Łagodna, owocowa i dobrze zbalansowana."
+},
+
+{
+  "slug": "specjal-bialowieski-ziemniak-63",
+  "name": "Specjał Białowieski Mocny Ziemniak",
+  "subtitle": "Wódka 63% · Podlasie",
+  "category": "vodka",
+  "country": "Poland",
+  "abv": "63%",
+  "rawMaterial": "Ziemniaki",
+  "image": "bottle_img/specjal_ziemniak.png",
+
+  "whenToOffer": [
+    "Klient szuka mocnej wódki ziemniaczanej",
+    "Osób zainteresowanych różnicą między ziemniakiem a żytem",
+    "Prezent dla konesera mocnych alkoholi"
+  ],
+
+  "howToPresent": "Wódka o mocy 63% produkowana na bazie polskich ziemniaków. Wyrazista, strukturalna i intensywna."
+},
+
+{
+  "slug": "specjal-bialowieski-lesny-63",
+  "name": "Specjał Białowieski Mocny Zbożowy",
+  "subtitle": "Wódka 63% · Podlasie",
+  "category": "vodka",
+  "country": "Poland",
+  "abv": "63%",
+  "rawMaterial": "Żyto",
+  "image": "bottle_img/specjal_lesny.png",
+
+  "whenToOffer": [
+    "Klient szuka bardzo mocnej wódki żytniej",
+    "Osób preferujących klasyczny zbożowy charakter",
+    "Alternatywa dla standardowej czystej"
+  ],
+
+  "howToPresent": "Mocna wódka żytnia o zawartości 63%. Bardziej wytrawna i klasyczna w charakterze niż wersja ziemniaczana."
+},
+
+{
+  "slug": "specjal-bialowieski-sliwowy-63",
+  "name": "Specjał Białowieski Mocny Śliwowy",
+  "subtitle": "Wódka 63% · Podlasie",
+  "category": "vodka",
+  "country": "Poland",
+  "abv": "63%",
+  "image": "bottle_img/specjal_sliwowy.png",
+
+  "whenToOffer": [
+    "Klient szuka mocnej wódki z nutą owocową",
+    "Osób zainteresowanych mocnymi wariacjami smakowymi",
+    "Coś nietypowego na prezent"
+  ],
+
+  "howToPresent": "Wersja o mocy 63% z akcentem śliwkowym. Łączy wysoką moc z delikatnym owocowym charakterem."
+},
+
+{
+  "slug": "tessellis-dark-chocolate-orange",
+  "name": "Tessellis Dark Chocolate & Orange Vodka",
+  "subtitle": "Wódka smakowa · Polska",
+  "category": "vodka-flavoured",
+  "country": "Poland",
+  "abv": "40%",
+  "image": "bottle_img/tessellis_orange.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś deserowego",
+    "Alternatywa dla likierów czekoladowych",
+    "Do koktajli lub jako digestif"
+  ],
+
+  "howToPresent": "Połączenie nut gorzkiej czekolady i organicznej pomarańczy zamknięte w bazie wysokiej jakości wódki. Intensywny, deserowy charakter."
+},
+
+{
+  "slug": "tessellis-orange-jasmine",
+  "name": "Tessellis Orange & Jasmine Botanical Vodka",
+  "subtitle": "Wódka botaniczna · Polska",
+  "category": "vodka-flavoured",
+  "country": "Poland",
+  "abv": "40%",
+  "image": "bottle_img/tessellis_jasmine.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś cytrusowego",
+    "Do long drinków i koktajli",
+    "Osób lubiących delikatne aromaty kwiatowe"
+  ],
+
+  "howToPresent": "Botaniczna wódka z ekologiczną pomarańczą i aromatycznym jaśminem. Lżejszy, świeży profil, idealny do miksologii."
+},
+
+{
+  "slug": "manufaktura-miodowka-500",
+  "name": "Miodówka z Manufaktury",
+  "subtitle": "Likier miodowy · Polska · 500 ml",
+  "category": "likier",
+  "country": "Poland",
+  "abv": "30%",
+  "maturation": "Leżakowana w beczkach po miodzie",
+  "image": "bottle_img/miodowka_manufaktura.png",
+
+  "whenToOffer": [
+    "Klient szuka klasycznej miodówki",
+    "Osób lubiących delikatne, miodowe profile",
+    "Alternatywa dla miodów pitnych"
+  ],
+
+  "howToPresent": "Rzemieślnicza miodówka leżakowana w beczkach po miodzie. Wyraźne nuty miodowe i ziołowe z lekkim akcentem cynamonu oraz delikatną słodyczą w finiszu."
+},
+
+{
+  "slug": "manufaktura-sliwowica-500",
+  "name": "Śliwowica z Manufaktury",
+  "subtitle": "Śliwowica · Polska · 500 ml",
+  "category": "okowita",
+  "country": "Poland",
+  "abv": "50%",
+  "maturation": "Leżakowana w beczkach po miodzie pitnym",
+  "image": "bottle_img/sliwowica_manufaktura.png",
+
+  "whenToOffer": [
+    "Klient szuka śliwowicy premium",
+    "Osób preferujących mocniejsze alkohole",
+    "Prezent dla miłośnika destylatów owocowych"
+  ],
+
+  "howToPresent": "Rzemieślnicza śliwowica o mocy 50%, dojrzewająca w dębowych beczkach po miodzie pitnym. Intensywny owocowy charakter z nutą miodu i przypraw korzennych."
+},
+
+  {
+    "slug": "polski-ziemniak",
+    "name": "Polski Ziemniak",
+    "subtitle": "Wódka rzemieślnicza · Polska",
+    "category": "vodka",
+    "country": "Poland",
+    "abv": "43,2%",
+    "image": "bottle_img/polski_zieminak.png",
+
+    "whenToOffer": [
+      "Klient pyta o rzemieślnicze alkohole",
+      "Klient interesuje się niszowymi produktami",
+      "Klient chce coś innego niż popularne wódki ziemniaczane"
+    ],
+
+    "howToPresent": "To specjalna linia polskich wódek,  wytwarzanych w krótkoseryjnych, limitowanych partiach. Jest poddawana procesowi leżakowania.Posiada certyfikat koszerności.",
+
+    "salesTip": [
+      "Klient szukający wódki ziemniaczanej, ale czegoś innego niż popularne marki, może być zainteresowany właśnie tą wódką. ",
+      "Klient szukający produktu koszernego " ],
+
+    "aroma": "Intensywny, ziemniaczany, ziemisty.",
+    "taste": "Oleisty, lekko słodki, łagodny",
+    "finish": "Średni, oleisty, przyprawowy."
+  },
+
+   {
+    "slug": "sublimat-kopernika",
+    "name": "Sublimat Winny Kopernika",
+    "subtitle": "Miód pitny",
+    "category": "Likier",
+    "country": "Poland",
+    "abv": "32%",
+    "image": "bottle_img/sublimat-winny.png",
+
+    "whenToOffer": [
+      "Klient pyta o regionalne, historyczne ciekawostki",
+      "Klient interesuje się niszowymi produktami",
+      "Klient chce coś innego niż miód pitny"
+    ],
+
+    "howToPresent": "Sublimat to rekonstrukcja historycznego trunku z czasów Mikołaja Kopernika – destylat winny o bogatym, korzennym charakterze.",
+
+    "salesTip": ["Klient który potrzebuje czegoś podobnego, ale innego niz miod pitny, czegoś unikalnego, uzupełnić koszyk pojemnością 0,35l."],
+
+    "aroma": "Cynamon, goździki, miód, szafran, figi, pierniki.",
+    "taste": "Słodko-korzenny, rozgrzewający, piernikowy.",
+    "finish": "Średni, korzenny, piernikowy, miodowy."
+  },
+
+    {
+    "slug": "trunek-piernikowy",
+    "name": "Trunek Piernikowy",
+    "subtitle": "Likier korzenny · Toruń",
+    "category": "Likier",
+    "country": "Poland",
+    "abv": "32%",
+    "image":"bottle_img/piernikowy-trunek.webp",
+
+    "whenToOffer": [
+      "Klient szuka lokalnego produktu",
+      "Klient chce coś korzennego",
+      "Klient lubi pierniki lub może był czy jest z Torunia"
+    ],
+
+    "howToPresent": "Trunek inspirowany toruńskim piernikiem – korzenny, ciepły, idealny na zimę.",
+
+    "salesTip": ["Często mamy na sklepie taką sytuację że nie ma Malibu, aby nie stracić sprzedaż mozemy zaproponować Bacardi Carta Blanca + syrop kokosowy albo gotową Pina Coladę."],
+
+    "aroma": "Cynamon, goździki, imbir.",
+    "taste": "Słodko-korzenny, rozgrzewający.",
+    "finish": "Średni, przyprawowy."
+  },
+
+    {
+    "slug": "jaworzanski-jarzebiak",
+    "name": "Jaworzański Jarzębiak",
+    "subtitle": "Destylat owocowy · Polska",
+    "category": "likier",
+    "country": "Poland",
+    "abv": "37.5%",
+    "image": "bottle_img/jarzebiak-jaworzanski.png",
+
+    "whenToOffer": [
+      "Klient szuka coś podobnego do rakii",
+      "Klient szuka polską brandy",
+      "Klient szuka jarzębiaka"
+    ],
+
+    "howToPresent": "Polska brandy z jarzębiny – owocowa, wytrawna, z charakterystyczną cierpkością. Idealna dla miłośników mocnych trunków.",
+
+    "salesTip": ["Gdy klient szuka polskiej brandy – jarzębiak jaworzański jest naturalną alternatywą."],
+
+    "aroma": "Nuty dębowe, owoce jarzebiny.",
+    "taste": "słodki, wyczuwalna nuta cierpkości.",
+    "finish": "Długi, rozgrzewający."
+  },
+
+   {
+    "slug": "nalewka-wisniowa-longinus",
+    "name": "Longinus Nalewka Wiśniowa",
+    "subtitle": "Nalewka · Polska · Bez sztucznej słodyczy",
+    "category": "nalewka",
+    "country": "Poland",
+    "abv": "18%",
+    "image": "bottle_img/nalewka-wisniowa-longinus.png",
+
+    "whenToOffer": [
+      "Klient szuka prawdziwej nalewki, nie likieru",
+      "Klient chce coś wiśniowego bez przesłodzenia",
+      "Klient szukający Wiśniewskiego"
+    ],
+
+    "howToPresent": "To klasyczna nalewka wiśniowa – bez cukrowego efektu likieru. Bardziej owocowa i naturalna.",
+
+    "salesTip": ["Najlepszy wybór dla klienta szukajucego wiśniewskiego, którego nie mamy na sklepie."],
+
+    "aroma": "Świeża wiśnia, lekki migdał.",
+    "taste": "Owocowy, mniej slodki niż likieru.",
+    "finish": "Średni, lekko kwaskowy."
+  },
+
+    {
+    "slug": "chopin-etiuda",
+    "name": "Chopin Etiuda",
+    "subtitle": "Wódka rzemieślnicza · Polska",
+    "category": "likier",
+    "country": "Poland",
+    "abv": "35%",
+    "image": "bottle_img/Etiuda-Wisniowa.png",
+    "cocktails": [
+  "wiśniówka spritz",
+  "wiśniówka sour",
+  "wiśniówka twist"
+],
+
+"crossSell": [
+  "Prosecco dla wiśniówka spritz",
+  "Whisky lub bourbon dla wiśniówka sour",
+  "Likier bitter i gin dla wiśniówka twist"
+]
+,
+
+    "whenToOffer": [
+      "Klient szuka wiśniowki do drinków",
+      "Klient potrzebuję wysokoprocentowej, mniej słodkiej wiśniówki",
+      "Klient szukający wódek smakowych"
+    ],
+
+    "howToPresent": "Etiuda Wiśniowa z Gorzelni Chopin to doskonały wybór o każdej porze roku. Niespiesznie sączona w długie jesienne wieczory delikatnie rozgrzeje a podana w wersji letniej na lodzie lub lekko schłodzona oprócz niezrównanych doznań smakowych, przyniesie soczyste orzeźwienie.",
+
+    "aroma": "Wiśniowy, delikatnie zbożowy.",
+    "taste": "słodka, z wyraźnym charakterem, ostra.",
+    "finish": "Krótki, słodki wisniowy."
+  },
+
+   {
+    "slug": "chopin-vintage-young-potato",
+    "name": "Chopin Vintage Young Potato Arielle",
+    "subtitle": "Wódka ziemniaczana · Polska · Starzona",
+    "category": "spirit-drink",
+    "country": "Poland",
+    "abv": "42,7%",
+    "image": "bottle_img/vintage_young_potato.png",
+    "maturation": "5 lat w nowych dębowych beczkach",
+    
+
+    "whenToOffer": [
+      "Klient szukający polską whisky, brandy",
+      "Klient interesuje się starzonymi alkoholami",
+      "Klient poszukuje poslki starzony alkohol"
+    ],
+
+    "howToPresent": "Chopin Vintage Young Potato to jednokrotnie destylowany alkohol z młodych ziemniaków, leżakowany w dębowych beczkach.",
+
+    "salesTip": ["Często klienci szukają polską whisky, jedną z opcji wląśnie może być Vintage."],
+
+    "aroma": "Delikatny, owocowy z nutami suszonej śliwki i gruszki, nuty suchego dębowego drewna",
+    "taste": "Miękka, lekko słodka, z waniliowym akcentem.",
+    "finish": "Gładki, lekko beczkowy."
+  },
+
+   {
+    "slug": "chopin-vintage-potato",
+    "name": "Chopin Vintage Potato",
+    "subtitle": "Wódka ziemniaczana · Polska · Starzona",
+    "category": "spirit-drink",
+    "country": "Poland",
+    "abv": "45,3%",
+    "image": "bottle_img/vintage_young_potato.png",
+    "maturation": "3 lata w beczkach z polskiego dębu",
+    
+
+    "whenToOffer": [
+      "Klient szukający polską whisky, brandy",
+      "Klient interesuje się starzonymi alkoholami",
+      "Klient poszukuje poslki starzony alkohol"
+    ],
+
+    "howToPresent": "Chopin Vintage to rzadkość – wódka ziemniaczana leżakowana w dębowych beczkach. Łączy czystość wódki z nutami znanymi z whisky.",
+
+    "salesTip": ["Często klienci szukają polską whisky, jedną z opcji wląśnie może być Vintage."],
+
+    "aroma": "Intensywny i mocny suszone owoce, korzenie chrzanu.",
+    "taste": "Wanilia, nuty dębu, gorzkiej czekolady, ziemistości.",
+    "finish": "Długi, aromatyczny, z nutami pieprzu i dębu."
+  }
+
+]

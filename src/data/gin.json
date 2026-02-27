@@ -1,0 +1,516 @@
+[
+{
+  "slug": "roku-gin",
+  "name": "Roku Gin",
+  "subtitle": "Japanese Craft Gin · Japonia",
+  "category": "gin",
+  "country": "Japan",
+  "abv": "43%",
+  "image": "bottle_img/roku.webp",
+
+  "whenToOffer": [
+    "Klient szuka japońskiego ginu",
+    "Lubi subtelne i eleganckie profile",
+    "Na prezent premium"
+  ],
+
+  "howToPresent": "Japoński gin z 6 lokalnymi botanikami (m.in. sakura, yuzu, zielona herbata). Bardzo zbalansowany i elegancki.",
+
+  "salesTip": [
+    "Świetny do klasycznego Gin & Tonic z delikatnym tonikiem."
+  ]
+},
+
+{
+  "slug": "bombay-sapphire",
+  "name": "Bombay Sapphire",
+  "subtitle": "London Dry Gin · Wielka Brytania",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "40%",
+  "image": "bottle_img/bombay.webp",
+
+  "whenToOffer": [
+    "Klient szuka klasycznego London Dry",
+    "Bezpieczny wybór do Gin & Tonic",
+    "Rozpoznawalna marka"
+  ],
+
+  "howToPresent": "Klasyczny London Dry o wyraźnym jałowcu i cytrusach. Uniwersalny i bardzo popularny w barach.",
+
+  "salesTip": [
+    "Dobry wybór do klasycznego G&T."
+  ]
+},
+
+{
+  "slug": "bombay-premier-cru",
+  "name": "Bombay Premier Cru",
+  "subtitle": "Premium London Dry · Wielka Brytania",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "47%",
+  "image": "bottle_img/bombay_cru.webp",
+
+  "whenToOffer": [
+    "Klient szuka bardziej cytrusowego i świeżego ginu",
+    "Alternatywa dla Tanqueray Ten",
+    "Gin premium do martini"
+  ],
+
+  "howToPresent": "Premium wersja Bombay destylowana z wykorzystaniem świeżych cytrusów z Hiszpanii. Bardziej elegancki i wyrazisty niż klasyczna wersja."
+},
+
+{
+  "slug": "bombay-sunset",
+  "name": "Bombay Sunset",
+  "subtitle": "Spiced Gin · Wielka Brytania",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "43%",
+  "image": "bottle_img/bombay_sunset.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś łagodniejszego",
+    "Do letnich drinków",
+    "Mniej klasyczny profil jałowcowy"
+  ],
+
+  "howToPresent": "Aromatyczna wersja Bombay z nutami przypraw i cytrusów. Lżejsza i bardziej przystępna."
+},
+
+{
+  "slug": "tanqueray-london-dry",
+  "name": "Tanqueray London Dry",
+  "subtitle": "London Dry Gin · Wielka Brytania",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "43.1%",
+  "image": "bottle_img/tanqueray.webp",
+
+  "whenToOffer": [
+    "Klient szuka wyraźnie jałowcowego ginu",
+    "Do martini",
+    "Klasyka barowa"
+  ],
+
+  "howToPresent": "Intensywny London Dry o wyraźnym jałowcu i cytrusach. Bardziej wytrawny niż wiele konkurencyjnych marek."
+},
+
+{
+  "slug": "tanqueray-no-ten",
+  "name": "Tanqueray No. Ten",
+  "subtitle": "Premium London Dry · Wielka Brytania",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "47.3%",
+  "image": "bottle_img/tanqueray10.webp",
+
+  "whenToOffer": [
+    "Klient szuka premium ginu do martini",
+    "Lubi świeże cytrusowe nuty",
+    "Alternatywa dla Monkey 47"
+  ],
+
+  "howToPresent": "Premium wersja Tanqueray destylowana ze świeżymi cytrusami. Bardziej elegancka i zbalansowana niż klasyczna wersja."
+},
+
+{
+  "slug": "tanqueray-sevilla",
+  "name": "Tanqueray Sevilla",
+  "subtitle": "Flavoured Gin · Wielka Brytania",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "41.3%",
+  "image": "bottle_img/tanqueray_sevilla.webp",
+
+  "whenToOffer": [
+    "Klient szuka bardziej owocowego ginu",
+    "Do lekkiego Gin & Tonic",
+    "Letni styl"
+  ],
+
+  "howToPresent": "Pomarańczowa wersja Tanqueray inspirowana sewilskimi pomarańczami. Łagodniejsza i bardziej owocowa."
+},
+
+{
+  "slug": "malfy-gin",
+  "name": "Malfy Gin",
+  "subtitle": "Italian Gin · Włochy",
+  "category": "gin",
+  "country": "Italy",
+  "abv": "41%",
+  "image": "bottle_img/malfy.webp",
+
+  "whenToOffer": [
+    "Klient szuka włoskiego ginu",
+    "Lubi cytrusowe profile",
+    "Na letnie drinki"
+  ],
+
+  "howToPresent": "Włoski gin inspirowany cytrusami i stylem aperitivo.",
+
+  "variants": [
+    {
+      "type": "Originale",
+      "image": "bottle_img/malfy.webp"
+    },
+    {
+      "type": "Rosa",
+      "image": "bottle_img/malfy_rosa.webp"
+    }
+  ]
+},
+
+{
+  "slug": "hendricks-gin",
+  "name": "Hendrick’s Gin",
+  "subtitle": "Scottish Gin · Szkocja",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "41.4%",
+  "image": "bottle_img/hendricks.webp",
+
+  "whenToOffer": [
+    "Klient szuka nietypowego ginu",
+    "Lubi ogórkowe nuty",
+    "Prezent premium"
+  ],
+
+  "howToPresent": "Gin z dodatkiem ogórka i róży. Charakterystyczny i bardzo rozpoznawalny."
+},
+
+{
+  "slug": "hendricks-amazonia",
+  "name": "Hendrick’s Amazonia",
+  "subtitle": "Limited Edition · Szkocja",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "43.4%",
+  "image": "bottle_img/hendricks_amazonia.webp",
+
+  "whenToOffer": [
+    "Klient szuka limitowanej wersji",
+    "Fan marki Hendrick’s",
+    "Coś nietypowego"
+  ],
+
+  "howToPresent": "Edycja inspirowana Amazonką. Bardziej egzotyczny i złożony profil."
+},
+
+{
+  "slug": "hendricks-sunspell",
+  "name": "Hendrick’s Sunspell",
+  "subtitle": "Limited Edition · Szkocja",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "43.4%",
+  "image": "bottle_img/hendricks_sunspell.webp",
+
+  "whenToOffer": [
+    "Klient szuka lżejszego stylu Hendrick’s",
+    "Letnia edycja",
+    "Alternatywa dla klasycznej wersji"
+  ],
+
+  "howToPresent": "Jaśniejsza, bardziej cytrusowa interpretacja Hendrick’s."
+},
+
+{
+  "slug": "monkey-47",
+  "name": "Monkey 47",
+  "subtitle": "Schwarzwald Dry Gin · Niemcy",
+  "category": "gin",
+  "country": "Germany",
+  "abv": "47%",
+  "image": "bottle_img/monkey47.webp",
+
+  "whenToOffer": [
+    "Klient szuka bardzo złożonego ginu",
+    "Gin premium",
+    "Alternatywa dla Tanqueray Ten"
+  ],
+
+  "howToPresent": "Destylowany z 47 botaników. Bardzo złożony, intensywny, wyraźnie premium."
+},
+
+{
+  "slug": "engine-gin",
+  "name": "Engine Gin",
+  "subtitle": "Organic Gin · Włochy",
+  "category": "gin",
+  "country": "Italy",
+  "abv": "42%",
+  "image": "bottle_img/engine.webp",
+
+  "whenToOffer": [
+    "Klient ceni design",
+    "Szukający czegoś nowoczesnego",
+    "Prezent"
+  ],
+
+  "howToPresent": "Organiczny gin inspirowany motoryzacją. Świeży, ziołowo-cytrusowy."
+},
+
+{
+  "slug": "drumshanbo",
+  "name": "Drumshanbo Gunpowder",
+  "subtitle": "Irish Gin · Irlandia",
+  "category": "gin",
+  "country": "Ireland",
+  "abv": "43%",
+  "image": "bottle_img/gunpowder.webp",
+
+  "whenToOffer": [
+    "Klient szuka nietypowego ginu",
+    "Z nutą herbaty",
+    "Coś bardziej aromatycznego"
+  ],
+
+  "howToPresent": "Irlandzki gin z dodatkiem zielonej herbaty Gunpowder. Ziołowy i cytrusowy."
+},
+
+{
+  "slug": "the-botanist",
+  "name": "The Botanist",
+  "subtitle": "Islay Gin · Szkocja",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "46%",
+  "image": "bottle_img/botanist.webp",
+
+  "whenToOffer": [
+    "Klient szuka ginu wytrawnego",
+    "Fan whisky z Islay",
+    "Premium London Dry alternatywa"
+  ],
+
+  "howToPresent": "Destylowany z 22 lokalnych botaników z Islay. Bardzo ziołowy i wytrawny."
+},
+
+{
+  "slug": "silent-pool",
+  "name": "Silent Pool Gin",
+  "subtitle": "Premium Gin · Wielka Brytania",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "43%",
+  "image": "bottle_img/silent_pool.jpg",
+
+  "whenToOffer": [
+    "Klient ceni estetyczne butelki",
+    "Prezent premium",
+    "Elegancki gin"
+  ],
+
+  "howToPresent": "Bogaty, cytrusowo-kwiatowy gin w charakterystycznej turkusowej butelce."
+},
+
+{
+  "slug": "beefeater",
+  "name": "Beefeater London Dry",
+  "subtitle": "London Dry Gin · Wielka Brytania",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "40%",
+  "image": "bottle_img/beefeater.webp",
+
+  "whenToOffer": [
+    "Klient szuka klasycznego London Dry",
+    "Do klasycznego G&T",
+    "Budżetowy gin znanej marki"
+  ],
+
+  "howToPresent": "Klasyczny londyński styl, wyraźny jałowiec i cytrusy."
+},
+
+{
+  "slug": "gordons",
+  "name": "Gordon’s Gin",
+  "subtitle": "London Dry Gin · Wielka Brytania",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "37.5%",
+  "image": "bottle_img/gordons.webp",
+
+  "whenToOffer": [
+    "Klient szuka budżetowego ginu",
+    "Bezpieczny wybór do drinków"
+  ],
+
+  "howToPresent": "Popularny i przystępny London Dry.",
+
+  "variants": [
+    {
+      "type": "Classic",
+      "image": "bottle_img/gordons.webp"
+    },
+    {
+      "type": "Pink",
+      "image": "bottle_img/gordons_pink.webp"
+    }
+  ]
+},
+
+{
+  "slug": "citadelle",
+  "name": "Citadelle Gin",
+  "subtitle": "French Gin · Francja",
+  "category": "gin",
+  "country": "France",
+  "abv": "44%",
+  "image": "bottle_img/citadelle.webp",
+
+  "whenToOffer": [
+    "Klient szuka francuskiego ginu",
+    "Gin bardziej aromatyczny",
+    "Alternatywa dla Hendrick’s"
+  ],
+
+  "howToPresent": "Francuski gin destylowany tradycyjnie, z wyraźną nutą cytrusów i przypraw."
+},
+
+{
+  "slug": "gin-mare",
+  "name": "Gin Mare",
+  "subtitle": "Mediterranean Gin · Hiszpania",
+  "category": "gin",
+  "country": "Spain",
+  "abv": "42.7%",
+  "image": "bottle_img/ginmare.webp",
+
+  "whenToOffer": [
+    "Klient szuka śródziemnomorskiego stylu",
+    "Do wytrawnego G&T",
+    "Alternatywa dla klasycznego London Dry"
+  ],
+
+  "howToPresent": "Śródziemnomorski gin z nutami oliwek, rozmarynu i bazylii."
+},
+
+{
+  "slug": "bulldog",
+  "name": "Bulldog Gin",
+  "subtitle": "London Dry · Wielka Brytania",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "40%",
+  "image": "bottle_img/bulldog.webp",
+
+  "whenToOffer": [
+    "Nowoczesny design",
+    "Gin do klubowych drinków",
+    "Mniej intensywny jałowiec"
+  ],
+
+  "howToPresent": "Nowoczesny, łagodniejszy London Dry z egzotycznymi botanikami."
+},
+
+{
+  "slug": "roku-gin",
+  "name": "Roku Gin",
+  "subtitle": "Japanese Craft Gin · Japonia",
+  "category": "gin",
+  "country": "Japan",
+  "abv": "43%",
+  "image": "bottle_img/roku.webp",
+
+  "whenToOffer": [
+    "Klient szuka japońskiego alkoholu",
+    "Fan whisky japońskiej",
+    "Gin delikatny i elegancki"
+  ],
+
+  "howToPresent": "Japoński gin z 6 lokalnymi botanikami: sakura, yuzu, zielona herbata. Bardzo czysty i elegancki."
+},
+
+{
+  "slug": "gvine-gin",
+  "name": "G’Vine Gin",
+  "subtitle": "Gin z winogron · Francja",
+  "category": "gin",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/gvine.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś delikatniejszego",
+    "Gin mniej jałowcowy",
+    "Alternatywa dla Ciroc"
+  ],
+
+  "howToPresent": "Gin destylowany z winogron zamiast zboża. Bardziej miękki i kwiatowy."
+},
+
+{
+  "slug": "generous-gin",
+  "name": "Generous Gin",
+  "subtitle": "French Organic Gin · Francja",
+  "category": "gin",
+  "country": "France",
+  "abv": "44%",
+  "image": "bottle_img/generous.webp",
+
+  "whenToOffer": [
+    "Klient szuka ginu organicznego",
+    "Nowoczesny design",
+    "Prezent"
+  ],
+
+  "howToPresent": "Francuski gin organiczny, lekko kwiatowy i cytrusowy. Bardzo estetyczna butelka."
+},
+
+{
+  "slug": "edinburgh-gin-classic",
+  "name": "Edinburgh Gin Classic",
+  "subtitle": "Scottish Gin · Szkocja",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "43%",
+  "image": "bottle_img/edinburgh.webp",
+
+  "whenToOffer": [
+    "Klient szuka szkockiego ginu",
+    "Gin wytrawny",
+    "Alternatywa dla London Dry"
+  ],
+
+  "howToPresent": "Szkocki gin o klasycznym profilu, z wyraźnym jałowcem i cytrusami."
+},
+
+{
+  "slug": "edinburgh-rhubarb",
+  "name": "Edinburgh Rhubarb & Ginger",
+  "subtitle": "Flavoured Gin · Szkocja",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "40%",
+  "image": "bottle_img/edinburgh_rhubarb.webp",
+
+  "whenToOffer": [
+    "Klient szuka owocowego ginu",
+    "Gin mniej wytrawny",
+    "Letnie drinki"
+  ],
+
+  "howToPresent": "Gin z dodatkiem rabarbaru i imbiru. Bardziej owocowy i łagodniejszy."
+},
+
+{
+  "slug": "gin-xii",
+  "name": "Gin XII",
+  "subtitle": "Mediterranean Gin · Włochy",
+  "category": "gin",
+  "country": "Italy",
+  "abv": "40%",
+  "image": "bottle_img/gin_xii.webp",
+
+  "whenToOffer": [
+    "Klient szuka włoskiego stylu",
+    "Gin z nutami ziołowymi",
+    "Alternatywa dla Malfy"
+  ],
+
+  "howToPresent": "Śródziemnomorski gin z ziołami i cytrusami. Lekki i aromatyczny."
+}
+]

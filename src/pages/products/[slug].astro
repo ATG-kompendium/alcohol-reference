@@ -1,11 +1,28 @@
 ---
-import products from "../../data/products";
+import vodka from "../../data/vodka.json";
+import whisky from "../../data/whisky.json";
+import rum from "../../data/rum.json";
+import tequila from "../../data/tequila.json";
+import gin from "../../data/gin.json";
+import liqueur from "../../data/liqueur.json";
+import brandy from "../../data/brandy.json";
+import polish from "../../data/polish.json";
+
 import "../../styles/main.css";
 
-/**
- * ОБЯЗАТЕЛЬНО для GitHub Pages
- */
 export async function getStaticPaths() {
+
+  const products = [
+    ...vodka,
+    ...whisky,
+    ...rum,
+    ...tequila,
+    ...gin,
+    ...liqueur,
+    ...brandy,
+    ...polish
+  ];
+
   return products.map((product) => ({
     params: { slug: product.slug },
     props: { product },

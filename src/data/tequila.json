@@ -1,0 +1,179 @@
+[
+{
+  "slug": "patron-silver",
+  "name": "Patrón Silver",
+  "subtitle": "Tequila Blanco · Meksyk",
+  "category": "tequila",
+  "country": "Mexico",
+  "abv": "40%",
+  "image": "bottle_img/patron_silver.webp",
+
+  "whenToOffer": [
+    "Klient szuka premium tequili",
+    "Do koktajli jak Margarita",
+    "Czysta tequila bez leżakowania"
+  ],
+
+  "howToPresent": "Nieleżakowana tequila z 100% agawy Blue Weber. Świeża, cytrusowa, z nutą pieprzu i agawy."
+},
+
+{
+  "slug": "patron-reposado",
+  "name": "Patrón Reposado",
+  "subtitle": "Tequila Reposado · Meksyk",
+  "category": "tequila",
+  "country": "Mexico",
+  "abv": "40%",
+  "image": "bottle_img/patron_reposado.webp",
+
+  "whenToOffer": [
+    "Klient chce łagodniejszą tequilę",
+    "Alternatywa dla Silver",
+    "Do picia solo"
+  ],
+
+  "howToPresent": "Leżakowana w dębowych beczkach. Łączy świeżość agawy z nutami wanilii i lekkiego dębu."
+},
+
+{
+  "slug": "patron-anejo",
+  "name": "Patrón Añejo",
+  "subtitle": "Tequila Añejo · Meksyk",
+  "category": "tequila",
+  "country": "Mexico",
+  "abv": "40%",
+  "image": "bottle_img/patron_anejo.webp",
+
+  "whenToOffer": [
+    "Klient szuka tequili premium do degustacji",
+    "Alternatywa dla whisky"
+  ],
+
+  "howToPresent": "Dojrzewająca ponad rok w dębie. Głębsza, bardziej waniliowa i karmelowa niż Reposado."
+},
+
+{
+  "slug": "don-julio-blanco",
+  "name": "Don Julio Blanco",
+  "subtitle": "Tequila Blanco · Meksyk",
+  "category": "tequila",
+  "country": "Mexico",
+  "abv": "40%",
+  "image": "bottle_img/donjulio_blanco.webp",
+
+  "whenToOffer": [
+    "Klient szuka premium tequili do drinków",
+    "Do Margarity",
+    "Czysta agawa bez beczki"
+  ],
+
+  "howToPresent": "Tequila z 100% agawy Blue Weber. Świeża, cytrusowa, z wyraźnym charakterem agawy."
+},
+
+{
+  "slug": "don-julio-reposado",
+  "name": "Don Julio Reposado",
+  "subtitle": "Tequila Reposado · Meksyk",
+  "category": "tequila",
+  "country": "Mexico",
+  "abv": "40%",
+  "image": "bottle_img/donjulio_reposado.webp",
+
+  "whenToOffer": [
+    "Klient chce łagodniejszą tequilę",
+    "Do picia solo",
+    "Alternatywa dla Patrón Reposado"
+  ],
+
+  "howToPresent": "Leżakowana około 8 miesięcy w beczkach z amerykańskiego dębu. Wanilia, karmel i delikatne przyprawy."
+},
+
+{
+  "slug": "don-julio-anejo",
+  "name": "Don Julio Añejo",
+  "subtitle": "Tequila Añejo · Meksyk",
+  "category": "tequila",
+  "country": "Mexico",
+  "abv": "40%",
+  "image": "bottle_img/donjulio_anejo.webp",
+
+  "whenToOffer": [
+    "Klient szuka tequili do degustacji",
+    "Alternatywa dla whisky"
+  ],
+
+  "howToPresent": "Dojrzewająca 18 miesięcy w dębie. Głębsza, z nutami czekolady, karmelu i dębu."
+},
+
+{
+  "slug": "don-julio-cristalino",
+  "name": "Don Julio Cristalino",
+  "subtitle": "Tequila Añejo filtrada · Meksyk",
+  "category": "tequila",
+  "country": "Mexico",
+  "abv": "40%",
+  "image": "bottle_img/donjulio_cristalino.webp",
+
+  "whenToOffer": [
+    "Klient chce coś wyjątkowego",
+    "Prezent premium",
+    "Łagodna tequila o charakterze añejo"
+  ],
+
+  "howToPresent": "Añejo filtrowana przez węgiel, dzięki czemu pozostaje klarowna jak blanco, ale zachowuje nuty beczki – wanilia, karmel, gładkość."
+},
+
+{
+  "slug": "1800-reposado",
+  "name": "1800 Reposado",
+  "subtitle": "Tequila Reposado · Meksyk",
+  "category": "tequila",
+  "country": "Mexico",
+  "abv": "40%",
+  "image": "bottle_img/1800_reposado.webp",
+
+  "whenToOffer": [
+    "Klient szuka dobrej tequili w średnim segmencie",
+    "Alternatywa dla Don Julio Reposado",
+    "Do picia solo lub w koktajlach"
+  ],
+
+  "howToPresent": "Tequila z 100% agawy Blue Weber, dojrzewająca w beczkach z amerykańskiego i francuskiego dębu. Balans między świeżością agawy a nutami wanilii i karmelu."
+},
+
+{
+  "slug": "1800-anejo",
+  "name": "1800 Añejo",
+  "subtitle": "Tequila Añejo · Meksyk",
+  "category": "tequila",
+  "country": "Mexico",
+  "abv": "40%",
+  "image": "bottle_img/1800_anejo.webp",
+
+  "whenToOffer": [
+    "Klient szuka tequili do degustacji",
+    "Alternatywa dla whisky",
+    "Prezent w średnim segmencie premium"
+  ],
+
+  "howToPresent": "Dojrzewająca minimum 14 miesięcy w dębie. Głębsza i bardziej złożona niż Reposado – nuty karmelu, dębu i przypraw."
+},
+
+{
+  "slug": "san-jose-silver",
+  "name": "San José Silver",
+  "subtitle": "Tequila Silver · Meksyk",
+  "category": "tequila",
+  "country": "Mexico",
+  "abv": "38%",
+  "image": "bottle_img/san_jose.webp",
+
+  "whenToOffer": [
+    "Klient szuka budżetowej tequili",
+    "Na imprezę",
+    "Do shotów z solą i cytryną"
+  ],
+
+  "howToPresent": "Klasyczna tequila typu silver w przystępnej cenie. Lżejsza, mniej złożona, idealna do shotów i prostych drinków."
+}
+]

@@ -1,0 +1,740 @@
+[
+{
+  "slug": "bumbu-cream",
+  "name": "Bumbu Cream",
+  "subtitle": "Likier kremowy na bazie rumu · Barbados",
+  "category": "likier-kremowy",
+  "country": "Barbados",
+  "abv": "15%",
+  "image": "bottle_img/bumbu_cream.webp",
+
+  "whenToOffer": [
+    "Klient lubi rum Bumbu",
+    "Szuka czegoś bardziej egzotycznego niż Baileys",
+    "Lubi kokosowe i tropikalne nuty"
+  ],
+
+  "howToPresent": "Kremowy likier na bazie rumu z Barbadosu. Bardziej tropikalny i kokosowy niż klasyczne irlandzkie cream liqueurs. Dobry solo z lodem lub do deserów.",
+
+  "salesTip": [
+    "Dobry wybór dla fanów rumu, którzy chcą spróbować czegoś słodszego.",
+    "Można proponować jako alternatywę dla Baileys."
+  ]
+},
+
+{
+  "slug": "amarula",
+  "name": "Amarula",
+  "subtitle": "Likier kremowy z owocu marula · RPA",
+  "category": "likier-kremowy",
+  "country": "South Africa",
+  "abv": "17%",
+  "image": "bottle_img/amarula.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś innego niż Baileys",
+    "Lubi egzotyczne produkty",
+    "Chce likier kremowy z owocowym charakterem"
+  ],
+
+  "howToPresent": "Kremowy likier produkowany z owocu marula rosnącego w Afryce. Bardziej owocowy i lekko karmelowy w charakterze niż klasyczne likiery irlandzkie.",
+
+  "salesTip": [
+    "Ciekawa alternatywa dla Baileys.",
+    "Dobry wybór prezentowy z egzotycznym akcentem."
+  ]
+},
+
+{
+  "slug": "sheridans",
+  "name": "Sheridan’s",
+  "subtitle": "Likier kawowo-waniliowy · Irlandia",
+  "category": "likier-kremowy",
+  "country": "Ireland",
+  "abv": "15.5%",
+  "image": "bottle_img/sheridans.webp",
+
+  "whenToOffer": [
+    "Klient szuka efektownego prezentu",
+    "Lubi likiery kawowe",
+    "Chce coś wizualnie wyjątkowego"
+  ],
+
+  "howToPresent": "Dwukomorowa butelka łącząca likier kawowy i waniliowo-kremowy. Przy nalewaniu tworzy warstwowy efekt. Bardziej deserowy i kawowy w charakterze.",
+
+  "salesTip": [
+    "Bardzo efektowny produkt wizualnie.",
+    "Często wybierany jako prezent."
+  ]
+},
+
+{
+  "slug": "baileys-irish-cream",
+  "name": "Baileys Irish Cream",
+  "subtitle": "Likier kremowy · Irlandia",
+  "category": "likier-kremowy",
+  "country": "Ireland",
+  "abv": "17%",
+  "image": "bottle_img/baileys.webp",
+
+  "whenToOffer": [
+    "Klient szuka likieru do kawy",
+    "Klient chce coś słodkiego na prezent",
+    "Osoba nie pije mocnych alkoholi",
+    "Klient szuka czegoś deserowego"
+  ],
+
+  "howToPresent": "Klasyczny irlandzki likier na bazie śmietanki i whiskey. Słodki, kremowy i bardzo przystępny. Idealny do kawy, deserów, lodów lub solo z lodem.",
+
+  "salesTip": [
+    "Bezpieczny wybór prezentowy.",
+    "Często wybierany przez osoby, które nie piją klasycznej wódki czy whisky."
+  ],
+
+  "cocktails": [
+    "Kawa z Baileys",
+    "Baileys on the rocks",
+    "Desery i lody"
+  ],
+
+  "variants": [
+    {
+      "type": "Original",
+      "image": "bottle_img/baileys.webp"
+    },
+    {
+      "type": "Salted Caramel",
+      "image": "bottle_img/baileys_saltedcaramel.webp"
+    },
+    {
+      "type": "Strawberry Cake",
+      "image": "bottle_img/baileys_strawberry.webp"
+    },
+    {
+      "type": "Tiramisu",
+      "image": "bottle_img/baileys_tiramisu.webp"
+    },
+    {
+      "type": "Mint Chocolate",
+      "image": "bottle_img/baileys_mint.png"
+    },
+    {
+      "type": "Piña Colada",
+      "image": "bottle_img/baileys_colada.webp"
+    }
+  ]
+},
+
+{
+  "slug": "cointreau",
+  "name": "Cointreau",
+  "subtitle": "Likier pomarańczowy · Francja",
+  "category": "likier",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/cointreau.webp",
+
+  "whenToOffer": [
+    "Klient robi Margaritę",
+    "Klient potrzebuje Triple Sec",
+    "Do Cosmopolitana lub drinków cytrusowych"
+  ],
+
+  "howToPresent": "Francuski likier pomarańczowy typu triple sec. Wytrawny, intensywnie cytrusowy, z wyraźnym aromatem skórek pomarańczy. Klasyczny składnik wielu koktajli.",
+
+  "salesTip": [
+    "Podstawowy składnik Margarity.",
+    "Lepsza jakość niż tańsze triple sec."
+  ]
+},
+
+{
+  "slug": "grand-marnier",
+  "name": "Grand Marnier",
+  "subtitle": "Likier pomarańczowy na bazie koniaku · Francja",
+  "category": "likier",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/grandmarnier.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś bardziej eleganckiego niż Cointreau",
+    "Do deserów i kuchni",
+    "Do koktajli premium"
+  ],
+
+  "howToPresent": "Likier pomarańczowy na bazie francuskiego koniaku. Bogatszy i bardziej złożony niż klasyczne triple sec. Łączy cytrusy z nutą brandy.",
+
+  "salesTip": [
+    "Dobry wybór do deserów i do picia solo.",
+    "Można proponować jako bardziej premium alternatywę dla Cointreau."
+  ]
+},
+
+{
+  "slug": "aperol",
+  "name": "Aperol",
+  "subtitle": "Likier aperitif · Włochy",
+  "category": "likier",
+  "country": "Italy",
+  "abv": "11%",
+  "image": "bottle_img/aperol.webp",
+
+  "whenToOffer": [
+    "Klient robi Aperol Spritz",
+    "Szuka lekkiego aperitifu",
+    "Lubi delikatnie gorzkie profile"
+  ],
+
+  "howToPresent": "Włoski aperitif o niskiej zawartości alkoholu. Słodko-gorzki, cytrusowo-ziołowy. Najczęściej używany do Aperol Spritz.",
+
+  "salesTip": [
+    "Jeden z najpopularniejszych letnich drinków.",
+    "Sprzedaje się bardzo dobrze w sezonie wakacyjnym."
+  ]
+},
+
+{
+  "slug": "campari",
+  "name": "Campari",
+  "subtitle": "Likier bitter · Włochy",
+  "category": "likier",
+  "country": "Italy",
+  "abv": "25%",
+  "image": "bottle_img/campari.webp",
+
+  "whenToOffer": [
+    "Klient robi Negroni",
+    "Szuka mocniejszego bitteru",
+    "Lubi wyraźnie gorzkie alkohole"
+  ],
+
+  "howToPresent": "Intensywnie gorzki włoski bitter. Ziołowo-cytrusowy profil smakowy. Kluczowy składnik Negroni i wielu klasycznych koktajli.",
+
+  "salesTip": [
+    "Podstawa klasycznego Negroni.",
+    "Bardziej wyrazisty niż Aperol."
+  ]
+},
+
+{
+  "slug": "limoncello-palini",
+  "name": "Limoncello Palini",
+  "subtitle": "Likier cytrynowy · Włochy",
+  "category": "likier",
+  "country": "Italy",
+  "abv": "26%",
+  "image": "bottle_img/pallini.webp",
+
+  "whenToOffer": [
+    "Klient szuka klasycznego limoncello",
+    "Do podania schłodzone po kolacji",
+    "Klient lubi cytrusowe, słodko-kwaśne profile"
+  ],
+
+  "howToPresent": "Klasyczne włoskie limoncello produkowane ze skórek cytryn. Intensywnie cytrusowe, słodko-kwaśne. Najlepiej podawać mocno schłodzone.",
+
+  "salesTip": [
+    "Dobry wybór jako digestif po kolacji.",
+    "Można proponować jako prezent z włoskim charakterem."
+  ]
+},
+
+{
+  "slug": "limoncello-bottega",
+  "name": "Limoncello Bottega",
+  "subtitle": "Likier cytrynowy · Włochy",
+  "category": "likier",
+  "country": "Italy",
+  "abv": "30%",
+  "image": "bottle_img/bottega_lemon.webp",
+
+  "whenToOffer": [
+    "Klient szuka mocniejszego limoncello",
+    "Klient zwraca uwagę na design butelki",
+    "Do podania po kolacji"
+  ],
+
+  "howToPresent": "Włoskie limoncello o wyższej zawartości alkoholu. Bardziej intensywne i wyraźne w smaku. Charakterystyczna, elegancka butelka.",
+
+  "salesTip": [
+    "Mocniejsza alternatywa dla klasycznych limoncello.",
+    "Dobrze wygląda jako prezent."
+  ]
+},
+
+{
+  "slug": "ricard-pastis",
+  "name": "Ricard Pastis",
+  "subtitle": "Likier anyżowy · Francja",
+  "category": "likier",
+  "country": "France",
+  "abv": "45%",
+  "image": "bottle_img/ricard.webp",
+
+  "whenToOffer": [
+    "Klient szuka pastis",
+    "Lubi anyżowe profile",
+    "Zna francuską kulturę picia"
+  ],
+
+  "howToPresent": "Francuski alkohol anyżowy typu pastis. Intensywnie ziołowy, wytrawny. Tradycyjnie podawany z wodą, która nadaje mu mleczny kolor.",
+
+  "salesTip": [
+    "Popularny we Francji jako aperitif.",
+    "Podawać z zimną wodą."
+  ]
+},
+
+{
+  "slug": "absinth-van-gogh",
+  "name": "Absinth Van Gogh",
+  "subtitle": "Absynt · Holandia",
+  "category": "absynt",
+  "country": "Netherlands",
+  "abv": "55%",
+  "image": "bottle_img/absente_vangogh.webp",
+
+  "whenToOffer": [
+    "Klient szuka absyntu",
+    "Lubi mocne, ziołowe alkohole",
+    "Interesuje się historią absyntu"
+  ],
+
+  "howToPresent": "Ziołowy alkohol inspirowany tradycyjnym absyntem. Intensywny, anyżowo-piołunowy profil. Można podawać klasycznie z cukrem i wodą.",
+
+  "salesTip": [
+    "Produkt niszowy, wybierany przez świadomych klientów.",
+    "Warto wyjaśnić sposób podania."
+  ]
+},
+
+{
+  "slug": "martini-bianco",
+  "name": "Martini Bianco",
+  "subtitle": "Wermut biały · Włochy",
+  "category": "wermut",
+  "country": "Italy",
+  "abv": "15%",
+  "image": "bottle_img/martini_bianco.webp",
+
+  "whenToOffer": [
+    "Klient robi Martini z tonikiem",
+    "Szuka słodszego wermutu",
+    "Do lekkich, letnich drinków"
+  ],
+
+  "howToPresent": "Biały wermut o delikatnie słodkim, waniliowo-ziołowym charakterze. Najczęściej podawany z tonikiem lub jako składnik koktajli.",
+
+  "salesTip": [
+    "Dobry wybór dla osób, które nie lubią mocno gorzkich smaków."
+  ]
+},
+
+{
+  "slug": "martini-rosso",
+  "name": "Martini Rosso",
+  "subtitle": "Wermut czerwony · Włochy",
+  "category": "wermut",
+  "country": "Italy",
+  "abv": "15%",
+  "image": "bottle_img/martini_rosso.webp",
+
+  "whenToOffer": [
+    "Klient robi Negroni",
+    "Do Manhattan",
+    "Szuka klasycznego czerwonego wermutu"
+  ],
+
+  "howToPresent": "Klasyczny czerwony wermut o karmelowo-ziołowym profilu. Kluczowy składnik Negroni i Manhattan.",
+
+  "salesTip": [
+    "Podstawa klasycznych koktajli barowych."
+  ]
+},
+
+{
+  "slug": "martini-rosato",
+  "name": "Martini Rosato",
+  "subtitle": "Wermut różowy · Włochy",
+  "category": "wermut",
+  "country": "Italy",
+  "abv": "15%",
+  "image": "bottle_img/martini_rosato.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś lżejszego i owocowego",
+    "Do letnich drinków"
+  ],
+
+  "howToPresent": "Różowy wermut o bardziej owocowym charakterze. Lżejszy i mniej gorzki niż Rosso.",
+
+  "salesTip": [
+    "Dobry wybór dla osób zaczynających przygodę z wermutem."
+  ]
+},
+
+{
+  "slug": "porto-cruz-tawny",
+  "name": "Porto Cruz Tawny",
+  "subtitle": "Porto Tawny · Portugalia",
+  "category": "porto",
+  "country": "Portugal",
+  "abv": "19%",
+  "image": "bottle_img/porto_cruz_tawny.webp",
+
+  "whenToOffer": [
+    "Klient szuka słodkiego wina deserowego",
+    "Do serów pleśniowych",
+    "Do deserów czekoladowych"
+  ],
+
+  "howToPresent": "Porto typu Tawny dojrzewające w beczce. Nuty karmelu, orzechów i suszonych owoców. Słodkie, deserowe.",
+
+  "salesTip": [
+    "Dobry wybór dla osób zaczynających przygodę z porto."
+  ]
+},
+
+{
+  "slug": "taylors-vintage-2019",
+  "name": "Taylor's Vintage 2019",
+  "subtitle": "Porto Vintage · Portugalia",
+  "category": "porto",
+  "country": "Portugal",
+  "abv": "20%",
+  "image": "bottle_img/taylors.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś kolekcjonerskiego",
+    "Na prezent premium",
+    "Miłośnik klasycznych porto"
+  ],
+
+  "howToPresent": "Porto typu Vintage z rocznika 2019. Bardziej skoncentrowane i strukturalne niż Tawny. Potencjał do długiego starzenia.",
+
+  "salesTip": [
+    "Dobry wybór prezentowy dla konesera."
+  ]
+},
+
+{
+  "slug": "ramos-pinto-10-anos",
+  "name": "Ramos Pinto 10 Anos",
+  "subtitle": "Porto Tawny 10 lat · Portugalia",
+  "category": "porto",
+  "country": "Portugal",
+  "abv": "20%",
+  "image": "bottle_img/ramos_pinto.jpg",
+
+  "whenToOffer": [
+    "Klient szuka bardziej dojrzałego porto",
+    "Na prezent",
+    "Do serów i deserów"
+  ],
+
+  "howToPresent": "Porto Tawny starzone średnio 10 lat w beczkach. Bardziej złożone niż podstawowe Tawny. Nuty orzechowe, karmelowe, suszone owoce.",
+
+  "salesTip": [
+    "Wyższa półka niż standardowe Tawny."
+  ]
+},
+
+{
+  "slug": "jagermeister-original",
+  "name": "Jägermeister Original",
+  "subtitle": "Likier ziołowy · Niemcy",
+  "category": "likier",
+  "country": "Germany",
+  "abv": "35%",
+  "image": "bottle_img/jager.webp",
+
+  "whenToOffer": [
+    "Klient szuka ziołowego likieru",
+    "Do picia schłodzonego jako shot",
+    "Do drinków typu Jäger & Cola"
+  ],
+
+  "howToPresent": "Klasyczny niemiecki likier ziołowy tworzony z 56 składników roślinnych. Intensywny, korzenny, najlepiej podawać mocno schłodzony.",
+
+  "salesTip": [
+    "Najlepiej sprzedaje się schłodzony.",
+    "Popularny wśród młodszych klientów."
+  ]
+},
+
+{
+  "slug": "jagermeister-orange",
+  "name": "Jägermeister Orange",
+  "subtitle": "Likier ziołowo-pomarańczowy · Niemcy",
+  "category": "likier",
+  "country": "Germany",
+  "abv": "33%",
+  "image": "bottle_img/jager_orange.webp",
+
+  "whenToOffer": [
+    "Klient lubi Jägermeister, ale szuka czegoś lżejszego",
+    "Do letnich drinków"
+  ],
+
+  "howToPresent": "Wersja z dodatkiem naturalnych nut pomarańczy. Łagodniejsza i bardziej owocowa niż klasyczny Jägermeister."
+},
+
+{
+  "slug": "jagermeister-manifest",
+  "name": "Jägermeister Manifest",
+  "subtitle": "Likier ziołowy premium · Niemcy",
+  "category": "likier",
+  "country": "Germany",
+  "abv": "38%",
+  "image": "bottle_img/jager_manifest.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś bardziej premium",
+    "Fan klasycznego Jägermeister"
+  ],
+
+  "howToPresent": "Bardziej złożona, dojrzewająca w beczkach wersja Jägermeister. Głębszy, bardziej elegancki profil smakowy."
+},
+
+{
+  "slug": "disaronno",
+  "name": "Disaronno",
+  "subtitle": "Likier migdałowy · Włochy",
+  "category": "likier",
+  "country": "Italy",
+  "abv": "28%",
+  "image": "bottle_img/disaronno.webp",
+
+  "whenToOffer": [
+    "Klient szuka amaretto",
+    "Do kawy lub deserów",
+    "Do drinków typu Amaretto Sour"
+  ],
+
+  "howToPresent": "Klasyczny włoski likier o smaku migdałowym. Słodki, deserowy, idealny do kawy i koktajli."
+},
+
+{
+  "slug": "amaretto-adriatico",
+  "name": "Amaretto Adriatico",
+  "subtitle": "Likier migdałowy · Włochy",
+  "category": "likier",
+  "country": "Italy",
+  "abv": "28%",
+  "image": "bottle_img/adriatico.webp",
+
+  "whenToOffer": [
+    "Klient szuka bardziej rzemieślniczego amaretto",
+    "Do koktajli premium"
+  ],
+
+  "howToPresent": "Nowoczesna interpretacja amaretto, bardziej naturalna i mniej cukrowa niż klasyczne wersje."
+},
+
+{
+  "slug": "pimms",
+  "name": "Pimm’s No.1",
+  "subtitle": "Likier na bazie ginu · UK",
+  "category": "likier",
+  "country": "United Kingdom",
+  "abv": "25%",
+  "image": "bottle_img/pimms.webp",
+
+  "whenToOffer": [
+    "Klient robi Pimm’s Cup",
+    "Letnie drinki z owocami"
+  ],
+
+  "howToPresent": "Brytyjski likier na bazie ginu z dodatkiem ziół i przypraw. Najczęściej podawany z lemoniadą i świeżymi owocami."
+},
+
+{
+  "slug": "get-27",
+  "name": "Get 27",
+  "subtitle": "Likier miętowy · Francja",
+  "category": "likier",
+  "country": "France",
+  "abv": "21%",
+  "image": "bottle_img/get27.webp",
+
+  "whenToOffer": [
+    "Klient lubi miętowe alkohole",
+    "Do deserów lub drinków"
+  ],
+
+  "howToPresent": "Francuski likier miętowy o intensywnym, świeżym charakterze. Podawać schłodzony."
+},
+
+{
+  "slug": "st-germain",
+  "name": "St-Germain",
+  "subtitle": "Likier z kwiatów czarnego bzu · Francja",
+  "category": "likier",
+  "country": "France",
+  "abv": "20%",
+  "image": "bottle_img/st_germain.webp",
+
+  "whenToOffer": [
+    "Klient robi Hugo Spritz",
+    "Szuka kwiatowego likieru",
+    "Do eleganckich koktajli"
+  ],
+
+  "howToPresent": "Francuski likier z kwiatów czarnego bzu. Lekki, kwiatowy, bardzo popularny w nowoczesnej miksologii."
+},
+
+{
+  "slug": "lick-likier-kawowy",
+  "name": "LICK Likier Kawowy",
+  "subtitle": "Likier kawowy · Polska",
+  "category": "likier",
+  "country": "Poland",
+  "abv": "20%",
+  "image": "bottle_img/lick.webp",
+
+  "whenToOffer": [
+    "Klient szuka polskiego likieru kawowego",
+    "Do kawy lub deserów",
+    "Budżetowa alternatywa dla importowanych marek"
+  ],
+
+  "howToPresent": "Polski likier kawowy o słodkim, deserowym charakterze. Dobry do kawy, lodów oraz prostych koktajli.",
+
+  "salesTip": [
+    "Można proponować jako tańszą alternatywę dla zagranicznych likierów kawowych."
+  ]
+},
+
+{
+  "slug": "patron-xo-cafe",
+  "name": "Patrón XO Café",
+  "subtitle": "Likier kawowy na bazie tequili · Meksyk",
+  "category": "likier",
+  "country": "Mexico",
+  "abv": "35%",
+  "image": "bottle_img/patron_cafe.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś premium",
+    "Lubi tequilę Patrón",
+    "Do espresso martini"
+  ],
+
+  "howToPresent": "Likier kawowy oparty na tequili Patrón Silver. Mniej słodki niż klasyczne likiery kawowe, bardziej wytrawny i intensywny.",
+
+  "salesTip": [
+    "Premium alternatywa dla klasycznych likierów kawowych.",
+    "Świetny do Espresso Martini."
+  ]
+},
+
+{
+  "slug": "belvedere-cold-brew",
+  "name": "Belvedere Cold Brew Coffee",
+  "subtitle": "Wódka aromatyzowana kawą · Polska",
+  "category": "vodka-flavoured",
+  "country": "Poland",
+  "abv": "30%",
+  "image": "bottle_img/belvedere_coffee.webp",
+
+  "whenToOffer": [
+    "Klient szuka wódki smakowej premium",
+    "Do espresso martini",
+    "Fan marki Belvedere"
+  ],
+
+  "howToPresent": "Wódka Belvedere z dodatkiem naturalnego ekstraktu kawy. Bardziej wytrawna i mniej słodka niż klasyczne likiery kawowe.",
+
+  "salesTip": [
+    "Dobry wybór do koktajli kawowych w wersji premium."
+  ]
+},
+
+{
+  "slug": "diageo-classic-cocktail-collection",
+  "name": "Diageo Classic Cocktail Collection",
+  "subtitle": "Gotowe koktajle premium · 0.5L",
+  "category": "ready-to-drink",
+  "country": "United Kingdom",
+  "abv": "12.5–17.5%",
+  "image": "bottle_img/diageo_old_fashioned.png",
+
+  "whenToOffer": [
+    "Klient chce gotowy koktajl premium",
+    "Na prezent dla osoby lubiącej klasyczne drinki",
+    "Nie chce mieszać samodzielnie koktajli"
+  ],
+
+  "howToPresent": "Seria gotowych koktajli stworzona na bazie kultowych marek Diageo. Wystarczy schłodzić i podać – smak klasycznego koktajlu bez potrzeby miksowania.",
+
+  "variants": [
+    {
+      "type": "Johnnie Walker Old Fashioned",
+      "image": "bottle_img/diageo_jw.png"
+    },
+    {
+      "type": "Tanqueray Negroni",
+      "image": "bottle_img/diageo_negroni.webp"
+    },
+    {
+      "type": "Cîroc Cosmopolitan",
+      "image": "bottle_img/diageo_cosmopolitan.webp"
+    }
+  ],
+
+  "salesTip": [
+    "Bardzo dobre rozwiązanie prezentowe.",
+    "Wystarczy dodać lód – zero barmańskich umiejętności."
+  ]
+},
+
+{
+  "slug": "bacardi-mojito-1l",
+  "name": "Bacardi Mojito",
+  "subtitle": "Gotowy koktajl · 1L",
+  "category": "ready-to-drink",
+  "country": "Cuba",
+  "abv": "14.9%",
+  "image": "bottle_img/bacardi_mojito.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś lekkiego i imprezowego",
+    "Na wakacyjny wyjazd",
+    "Duża grupa osób"
+  ],
+
+  "howToPresent": "Gotowy do podania klasyczny Mojito na bazie rumu Bacardi. Świeży, limonkowo-miętowy profil, wystarczy schłodzić i podać z lodem.",
+
+  "salesTip": [
+    "Duża butelka 1L – dobra opcja na imprezy.",
+    "Wystarczy dodać świeżą miętę i limonkę dla lepszego efektu."
+  ]
+},
+
+ {
+  "slug": "malibu-coconut",
+  "name": "Malibu Coconut",
+  "subtitle": "Likier rumowy · Kokos",
+  "category": "likier",
+  "country": "Barbados",
+  "abv": "21%",
+  "image": "bottle_img/malibu.webp",
+
+  "whenToOffer": [
+    "Klient pyta o Malibu do Pina Colady",
+    "Klient szuka lekkiego, kokosowego alkoholu",
+    "Klient chce coś wakacyjnego lub do drinków"
+  ],
+
+  "howToPresent": "Malibu to likier na bazie rumu z dodatkiem kokosa. Niski alkohol, bardzo przystępny, idealny do prostych drinków i koktajli.",
+
+  "salesTip": ["Często mamy na sklepie taką sytuację że nie ma Malibu, aby nie stracić sprzedaż mozemy zaproponować Bacardi Carta Blanca + syrop kokosowy albo gotową Pina Coladę."],
+
+  "cocktails": [
+    "Pina Colada",
+    "Malibu & Cola",
+    "Malibu & Pineapple"
+  ]
+}
+]

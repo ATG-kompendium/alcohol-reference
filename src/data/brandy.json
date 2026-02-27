@@ -1,0 +1,401 @@
+[
+{
+  "slug": "stock-84",
+  "name": "Stock 84",
+  "subtitle": "Brandy · Polska",
+  "category": "brandy",
+  "country": "Poland",
+  "abv": "36%",
+  "image": "bottle_img/stock84.webp",
+
+  "whenToOffer": [
+    "Klient szuka budżetowej brandy",
+    "Alternatywa dla Metaxy 5",
+    "Do mieszania"
+  ],
+
+  "howToPresent": "Polska brandy o łagodnym, lekko słodkim profilu. Bardziej przystępna cenowo niż koniaki francuskie."
+},
+
+{
+  "slug": "three-barrels",
+  "name": "Three Barrels",
+  "subtitle": "French Brandy · Francja",
+  "category": "brandy",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/three_barrels.webp",
+
+  "whenToOffer": [
+    "Klient szuka taniej francuskiej brandy",
+    "Alternatywa dla VS"
+  ],
+
+  "howToPresent": "Francuska brandy o klasycznym, karmelowo-waniliowym charakterze."
+},
+
+{
+  "slug": "st-remy-xo",
+  "name": "St-Rémy XO",
+  "subtitle": "French Brandy · XO",
+  "category": "brandy",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/st_remy_xo.webp",
+
+  "whenToOffer": [
+    "Klient szuka tańszego XO",
+    "Alternatywa dla koniaku XO"
+  ],
+
+  "howToPresent": "Francuska brandy XO, bardziej złożona i dojrzalsza niż standardowe VSOP."
+},
+
+{
+  "slug": "metaxa-5",
+  "name": "Metaxa 5",
+  "subtitle": "Greek Brandy · 5 gwiazdek",
+  "category": "brandy",
+  "country": "Greece",
+  "abv": "38%",
+  "image": "bottle_img/metaxa5.webp",
+
+  "whenToOffer": [
+    "Klient szuka łagodnej brandy",
+    "Budżetowa opcja"
+  ],
+
+  "howToPresent": "Grecki styl – łagodniejszy i słodszy niż koniak."
+},
+
+{
+  "slug": "metaxa-7",
+  "name": "Metaxa 7",
+  "subtitle": "Greek Brandy · 7 gwiazdek",
+  "category": "brandy",
+  "country": "Greece",
+  "abv": "40%",
+  "image": "bottle_img/metaxa7.webp",
+
+  "whenToOffer": [
+    "Klient zna Metaxę",
+    "Lepsza wersja niż 5"
+  ],
+
+  "howToPresent": "Bardziej złożona i głębsza niż Metaxa 5."
+},
+
+{
+  "slug": "metaxa-12",
+  "name": "Metaxa 12",
+  "subtitle": "Greek Brandy · 12 gwiazdek",
+  "category": "brandy",
+  "country": "Greece",
+  "abv": "40%",
+  "image": "bottle_img/metaxa12.png",
+
+  "whenToOffer": [
+    "Klient szuka czegoś bardziej premium",
+    "Alternatywa dla VSOP"
+  ],
+
+  "howToPresent": "Najbardziej elegancka i dojrzała wersja Metaxy."
+},
+
+{
+  "slug": "hennessy-vs",
+  "name": "Hennessy VS",
+  "subtitle": "Cognac · VS",
+  "category": "cognac",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/hennessy_vs.webp",
+
+  "whenToOffer": [
+    "Klient szuka znanego koniaku",
+    "Wejście w markę Hennessy"
+  ],
+
+  "howToPresent": "Najbardziej rozpoznawalny koniak świata. Intensywny i młodszy styl."
+},
+
+{
+  "slug": "hennessy-vsop",
+  "name": "Hennessy VSOP",
+  "subtitle": "Cognac · VSOP",
+  "category": "cognac",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/hennessy_vsop.webp",
+
+  "whenToOffer": [
+    "Klient chce lepszą wersję niż VS",
+    "Prezent"
+  ],
+
+  "howToPresent": "Bardziej elegancki i dojrzalszy niż VS."
+},
+
+{
+  "slug": "hennessy-xo",
+  "name": "Hennessy XO",
+  "subtitle": "Cognac · XO",
+  "category": "cognac",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/hennessy_xo.webp",
+
+  "whenToOffer": [
+    "Klient szuka luksusowego koniaku",
+    "Prezent premium"
+  ],
+
+  "howToPresent": "Bardzo złożony i głęboki koniak klasy XO."
+},
+
+{
+  "slug": "hennessy-xxo",
+  "name": "Hennessy XXO",
+  "subtitle": "Cognac · XXO",
+  "category": "cognac",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/hennessy_xxo.webp",
+
+  "whenToOffer": [
+    "Klient szuka najwyższej półki",
+    "Ultra premium"
+  ],
+
+  "howToPresent": "Najwyższa linia Hennessy – jeszcze bardziej złożony niż XO."
+},
+
+{
+  "slug": "camus-vs",
+  "name": "Camus VS",
+  "subtitle": "Cognac · VS",
+  "category": "cognac",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/camus_vs.webp",
+
+  "whenToOffer": [
+    "Klient szuka mniej mainstreamowej marki",
+    "Alternatywa dla Hennessy VS"
+  ],
+
+  "howToPresent": "Francuski koniak o bardziej aromatycznym i kwiatowym profilu niż Hennessy."
+},
+
+{
+  "slug": "camus-vsop",
+  "name": "Camus VSOP",
+  "subtitle": "Cognac · VSOP",
+  "category": "cognac",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/camus_vsop_set.webp",
+
+  "whenToOffer": [
+    "Klient chce coś innego niż Hennessy",
+    "VSOP o bardziej eleganckim stylu"
+  ],
+
+  "howToPresent": "Bardziej złożony i delikatniejszy niż wersja VS. Styl kwiatowo-owocowy."
+},
+
+{
+  "slug": "martell-vs",
+  "name": "Martell VS",
+  "subtitle": "Cognac · VS",
+  "category": "cognac",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/martell_vs.webp",
+
+  "whenToOffer": [
+    "Klient szuka klasycznej marki",
+    "Alternatywa dla Hennessy VS"
+  ],
+
+  "howToPresent": "Koniak o delikatniejszym, bardziej owocowym stylu niż Hennessy."
+},
+
+{
+  "slug": "martell-vsop",
+  "name": "Martell VSOP",
+  "subtitle": "Cognac · VSOP",
+  "category": "cognac",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/martell_vsop.webp",
+
+  "whenToOffer": [
+    "Klient chce elegancki VSOP",
+    "Alternatywa dla Remy Martin VSOP"
+  ],
+
+  "howToPresent": "Bardziej owocowy i miękki styl VSOP."
+},
+
+{
+  "slug": "martell-xo",
+  "name": "Martell XO",
+  "subtitle": "Cognac · XO",
+  "category": "cognac",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/martell_xo.webp",
+
+  "whenToOffer": [
+    "Klient szuka eleganckiego XO",
+    "Alternatywa dla Hennessy XO"
+  ],
+
+  "howToPresent": "Bardziej finezyjny i owocowy XO niż konkurencyjne marki."
+},
+
+{
+  "slug": "remy-martin-vsop",
+  "name": "Rémy Martin VSOP",
+  "subtitle": "Cognac · VSOP",
+  "category": "cognac",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/remy_vsop.webp",
+
+  "whenToOffer": [
+    "Klient szuka bardziej eleganckiego VSOP",
+    "Fine Champagne Cognac"
+  ],
+
+  "howToPresent": "Koniak typu Fine Champagne, bardziej kremowy i zbalansowany."
+},
+
+{
+  "slug": "remy-martin-xo",
+  "name": "Rémy Martin XO",
+  "subtitle": "Cognac · XO",
+  "category": "cognac",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/remy_xo.webp",
+
+  "whenToOffer": [
+    "Klient szuka bardzo eleganckiego XO",
+    "Prezent premium"
+  ],
+
+  "howToPresent": "Bogaty i aksamitny XO typu Fine Champagne."
+},
+
+{
+  "slug": "courvoisier-vs",
+  "name": "Courvoisier VS",
+  "subtitle": "Cognac · VS",
+  "category": "cognac",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/courvoisier_vs.webp",
+
+  "whenToOffer": [
+    "Alternatywa dla Hennessy VS",
+    "Klient szuka czegoś mniej mainstreamowego"
+  ],
+
+  "howToPresent": "Łagodniejszy styl VS, bardziej owocowy."
+},
+
+{
+  "slug": "courvoisier-vsop",
+  "name": "Courvoisier VSOP",
+  "subtitle": "Cognac · VSOP",
+  "category": "cognac",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/courvoisier_vsop.webp",
+
+  "whenToOffer": [
+    "Klient szuka eleganckiego VSOP",
+    "Alternatywa dla Remy Martin"
+  ],
+
+  "howToPresent": "Zbalansowany i elegancki VSOP o owocowym profilu."
+},
+
+{
+  "slug": "a-de-fussigny-vs",
+  "name": "A. de Fussigny VS",
+  "subtitle": "Cognac · VS",
+  "category": "cognac",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/fussigny_vs.webp",
+
+  "whenToOffer": [
+    "Klient szuka mniej znanej marki",
+    "Alternatywa dla VS"
+  ],
+
+  "howToPresent": "Nowoczesna marka koniaku, lżejszy i bardziej świeży styl."
+},
+
+{
+  "slug": "a-de-fussigny-vsop",
+  "name": "A. de Fussigny VSOP",
+  "subtitle": "Cognac · VSOP",
+  "category": "cognac",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/fussigny_vsop.webp",
+
+  "whenToOffer": [
+    "Klient szuka mniej mainstreamowego VSOP",
+    "Prezent"
+  ],
+
+  "howToPresent": "Elegancki, bardziej kwiatowy styl VSOP."
+},
+
+{
+  "slug": "a-de-fussigny-xo",
+  "name": "A. de Fussigny XO",
+  "subtitle": "Cognac · XO",
+  "category": "cognac",
+  "country": "France",
+  "abv": "40%",
+  "image": "bottle_img/fussigny_xo.webp",
+
+  "whenToOffer": [
+    "Klient szuka XO spoza mainstreamu",
+    "Alternatywa dla Hennessy XO"
+  ],
+
+  "howToPresent": "Bardziej elegancki i subtelny XO o zbalansowanym charakterze."
+},
+
+  {
+    "slug": "james-hennessy",
+    "name": "James Hennessy",
+    "subtitle": "Koniak · Francja · XO style",
+    "category": "cognac",
+    "country": "France",
+    "abv": "40%",
+    "image": "bottle_img/james-hennessy.png",
+    "maturation": "7-20 lat w uzywanych beczkach z francuskiego dębu",
+
+    "whenToOffer": [
+      "Klient szuka prestiżowego koniaku na prezent",
+      "Klient interesuje się historią marki Hennessy",
+      "Klient chce czegoś bardziej eleganckiego niż VSOP"
+    ],
+
+    "howToPresent": "James Hennessy to pozycja pomiędzy VSOP a XO – bardziej dojrzała niż VSOP, ale lżejsza i przystępniejsza niż klasyczne XO.Butelkę zaprojektował Marc Newson, co czyni ten koniak bardzo dobrym wyborem na prezent.",
+
+    "salesTip": ["Często mamy na sklepie taką sytuację że nie ma Malibu, aby nie stracić sprzedaż mozemy zaproponować Bacardi Carta Blanca + syrop kokosowy albo gotową Pina Coladę."],
+
+    "aroma": "Suszone owoce, wanilia, delikatne przyprawy i nuty dębu.",
+    "taste": "Bogaty, aksamitny, z nutami karmelu i przypraw.",
+    "finish": "Długi, rozgrzewający, lekko korzenny."
+  }
+]
