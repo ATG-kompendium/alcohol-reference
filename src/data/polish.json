@@ -43,8 +43,8 @@
   },
 
 {
-    "slug": "chopin-coconut",
-    "name": "Chopin Likier Kokosowy",
+    "slug": "chopin-milk-likier",
+    "name": "Chopin Likiery mleczne",
     "subtitle": "Likier · Polska",
     "category": "likier",
     "country": "Poland",
@@ -53,47 +53,24 @@
     "whenToOffer": [
       "Osób szukających likieru kokosowego",
       "Klienta szukającego Polski likier mleczny "
-
     ],
 
-    "howToPresent":"Świeże płatki z soczystych kokosów połączone z mlekiem i wódką Chopin Rye. Likier zachwyca doskonale jedwabistą konsystencją i delikatnym, tropikalnym smakiem. Doskonale sprawdza się jako składnik egzotycznych koktajli i shake’ów."
-
+"variants": [
+  {
+    "type": "Karmel z solą morską",
+    "image": "bottle_img/chopin_karamel.jpg"
   },
-
-{
-    "slug": "chopin-chocolate-coffe",
-    "name": "Chopin Likier Kawowo Czekoladowy",
-    "subtitle": "Likier · Polska",
-    "category": "likier",
-    "country": "Poland",
-    "abv": "18%",
-    "image": "bottle_img/chopin_coffee.jpg",
-    "whenToOffer": [
-      "Osób szukających likieru kawowego bądź czekoladowego",
-      "Klienta szukającego Polski likier mleczny"
-
-    ],
-
-    "howToPresent":" Idealny balans słodyczy czekolady, goryczy kawy i ostrości Chopin Rye. Stosować można jako dodatek do kaw, lodów i deserów. Likier nie smakuje chemicznie jak większość podobnych, a także nie jest mocno wyczuwalny alkohol jak w budżetowych markach."
-
+  {
+    "type": "Czekolada z kawą",
+    "image": "bottle_img/chopin_coffee.jpg"
   },
-
 {
-    "slug": "chopin-chocolate",
-    "name": "Chopin Likier Czekoladowy",
-    "subtitle": "Likier · Polska",
-    "category": "likier",
-    "country": "Poland",
-    "abv": "18%",
-    "image": "bottle_img/chopin_chocolate.png",
-    "whenToOffer": [
-      "Osób szukających likieru czekoladowego",
-      "Klienta szukającego Polski likier mleczny"
+    "type": "Czekolada&Wedel",
+    "image": "bottle_img/chopin_chocolate.png"
+  }
+],
 
-    ],
-
-    "howToPresent":"Likier czekoladowy Łączący dwie znakomite polskie marki: E. Wedel oraz Wódki Chopin. Jego bazą jest wódka Chopin Rye oraz znana czekolada. Likier nie smakuje chemicznie jak większość podobnych, a także nie jest mocno wyczuwalny alkohol jak w budżetowych markach. Jest zapakowany w kartonik, więc idealnie się nadaje na prezent."
-
+    "howToPresent":"Deserowe likiery na bazie żytniej wódki Chopin i mleka. Dzięki mleku (zamiast ciężkiej śmietanki) mają lżejszą konsystencję i nie są tak gęste ani przesłodzone jak likiery śmietankowe w budżetowych markach. Alkohol jest dobrze zintegrowany ze smakiem – nie daje ostrego posmaku spirytusu, dlatego odbierane są jako łagodniejsze i łatwiejsze w piciu.
   },
 
   {
