@@ -128,12 +128,12 @@
     "image": "bottle_img/debowa-orzech.png",
     "whenToOffer": [
       "Osób szukających wytrawnej lub wysokoprocentowej orzechówki",
-      "Klienta szukającego wódki smakowej",
-      "Osób lubiących coś niezwykłego, nowego"
+      "Klienta szukającego niestandardowych smakowych wódek",
+      "Dobry wybór dla nie oczywistego prezentu"
 
     ],
 
-    "howToPresent":"W środku znajduje się destylat zbożowy połączony z nalewami orzecha włoskiego, co czyni tą wódkę unikalną, nie słodką, mocno różniącą się od standardowych orzechówek z orzechów laskowych."
+    "howToPresent":"To wytrawna orzechówka na destylacie zbożowym. Nie jest słodka jak klasyczne likiery – bardziej zbalansowana i mocniejsza w charakterze. Dobry wybór dla osób, które chcą czegoś „polskiego”, ale nie oczywistego."
 
   },
 
@@ -152,7 +152,7 @@
 
     ],
 
-    "howToPresent":"Likier wiśniowy zrobiony z naturalnych wisień, owocowy, mocno słodki. naturalny smak.",
+    "howToPresent":"Naturalna wiśniówka o bardzo intensywnym, słodkim smaku. Ma 30% – jest wyraźnie mocniejsza niż większość likierów owocowych. Piękna, masywna butelka sprawia, że świetnie sprawdzi się jako prezent z Polski.",
 
 "variants": [
   {
@@ -176,13 +176,13 @@
     "abv": "35%",
     "image": "bottle_img/debowa-currant.png",
     "whenToOffer": [
-      "Osób lubiących stropowe likiery naturalne",
+      "Osób lubiących syropowe likiery naturalne",
       "Klienta szukającego wysokoprocentowych likierów",
       "Osób szukających likier z czarnej porzeczki"
 
     ],
 
-    "howToPresent":"Likier z czarnej porzeczki, naturalny, owocowy, mocno słodki, syropowy, lekko cierpki."
+    "howToPresent":"Bardzo gęsty, intensywnie słodki likier z czarnej porzeczki.Ma aż 35%, więc mimo deserowego charakteru czuć też wyraźną moc. Dla osób, które lubią skoncentrowane, syropowe likiery."
 
 },   
 
@@ -198,31 +198,22 @@
       "Osób lubiących Advocaty/Ajerkoniaki",
       "Klienta szukającego kremowe, gęste likiery",
       "Dla starszego pokolenia"
-
     ],
 
-    "howToPresent":"Likier na bazie brandy, z wykorzystaniem tylko naturalnych składników żółtek, śmietanki, mleka."
+"variants": [
+  {
+    "type": "Wersja standardowa",
+    "image": "bottle_img/debowa-advocat.png"
+  },
+  {
+    "type": "Wersja kawowa",
+    "image": "bottle_img/debowa-advocat-coffee.png"
+  }
+]
+
+    "howToPresent":"Gęsty, kremowy likier jajeczny na bazie brandy. Produkowany z naturalnych składników – bez chemicznego, sztucznego posmaku. Bardzo deserowy, tradycyjny smak kojarzący się ze świętami i domową atmosferą."
 
   },
-
-{
-    "slug": "debowa-advocat-coffee",
-    "name": "Dębowa Gold Advicatka Kawowa",
-    "subtitle": "Likier· Polska",
-    "category": "likier",
-    "country": "Poland",
-    "abv": "18%",
-    "image": "bottle_img/debowa-advocat-coffee.png",
-    "whenToOffer": [
-      "Osób lubiących Advocaty/Ajerkoniaki",
-      "Klienta szukającego kremowe, gęste likiery",
-      "Dla starszego pokolenia"
-
-    ],
-
-    "howToPresent":"Likier na bazie brandy, z wykorzystaniem tylko naturalnych składników żółtek, śmietanki, mleka, ziarna kawowe."
-
-  },        
 
 {
     "slug": "debowa-cytrynowka",
