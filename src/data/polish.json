@@ -49,7 +49,7 @@
     "category": "likier",
     "country": "Poland",
     "abv": "18%",
-    "image": "bottle_img/chopin_coconut.jpg",
+    "image": "bottle_img/chopin_karmel.jpg",
     "whenToOffer": [
       "Osób szukających likieru kokosowego",
       "Klienta szukającego Polski likier mleczny "
@@ -196,8 +196,7 @@
     "image": "bottle_img/debowa-advocat.png",
     "whenToOffer": [
       "Osób lubiących Advocaty/Ajerkoniaki",
-      "Klienta szukającego kremowe, gęste likiery",
-      "Dla starszego pokolenia"
+      "Klienta szukającego kremowe, gęste likiery"
     ],
 
 "variants": [
@@ -211,7 +210,7 @@
   }
 ]
 
-    "howToPresent":"Gęsty, kremowy likier jajeczny na bazie brandy. Produkowany z naturalnych składników – bez chemicznego, sztucznego posmaku. Bardzo deserowy, tradycyjny smak kojarzący się ze świętami i domową atmosferą."
+    "howToPresent":"Gęsty, kremowy likier jajeczny na bazie brandy. Produkowany z naturalnych składników, bez chemicznego, sztucznego posmaku. Bardzo deserowy, tradycyjny smak kojarzący się ze świętami i domową atmosferą."
 
   },
 
@@ -224,8 +223,8 @@
     "abv": "30%",
     "image": "bottle_img/debowa-cytrynowka.webp",
     "whenToOffer": [
-      "Osób lubiących cytrynówki",
-      "Klienta szukającego cytrynówkę 0.7l"
+      "Gdy ktoś chce naturalną, prostą cytrynówkę bez chemicznej słodyczy",
+      "Dla osób, które lubią świeży, cytrusowe , orzeźwiające likiery"
 
     ],
 
@@ -243,13 +242,13 @@
     "rawMaterial":"Zboża, orzechy i czeremcza",
     "image": "bottle_img/lornetka.png",
     "whenToOffer": [
-      "Osób szukających wódek smakowych, ale nie słodkich",
-      "Klienta szukającego małe pojemności",
+      "Jeśli klient szuka czegoś małego i mocnego na prezent",
+      "Dla osób, które piją okazjonalnie i nie potrzebują dużej butelki",
       "Osób potrzebujących prezentowe opakowanie"
 
     ],
 
-    "howToPresent":"W środku zostały umieszczone wódki smakowe - orzechowa i czeremchowa. Obie są mocne, nie słodkie, z wyrażnym smakiem i aromatem surowców"
+    "howToPresent":"Charakterystyczne opakowanie w formie „lornetki” zawiera dwie mocne wódki smakowe, orzechową i czeremchową. Obie są wytrawne, 40% / 38%, z wyraźnym aromatem surowców."
 
   },
 
@@ -263,12 +262,13 @@
     "image": "bottle_img/apteczka.png",
     "whenToOffer": [
       "Klienta szukającego małe pojemności i zestawy miniatur",
-      "Osób potrzebujących prezentowe opakowanie"
+      "Osób potrzebujących prezentowe opakowanie",
+      "Gdy klient chce zabrać kilka różnych polskich smaków w jednym zestawie"
 
     ],
 
     "howToPresent": [ 
-"W środku jest 8 miniaturek z których 6 wódek i 2 likiery.", 
+"Zestaw 8 miniaturek prezentujących niemal całe portfolio marki Dębowa. W środku zarówno klasyczne wódki, jak i owocowe likiery."
 "Dębowa Polska – klasyczna biała wódka", "Czeremcha – smak owocu czeremchy", 
 "Śliwa – zapach i smak śliwki",
 "Orzech – naturalny aromat oraz charakterystyczny smak orzecha włoskiego", "Black Oak – kawai karmel", 
@@ -290,12 +290,13 @@
   "image": "bottle_img/miodula_prezydencka.png",
 
   "whenToOffer": [
-    "Klient szuka wódki smakowej, miodowej",
+    "Gdy klient pije whisky lub brandy i szuka czegoś polskiego",
     "Osób chcących przywieźć coś prezentowego i tradycyjnego z Polski",
-    "Klientów lubiących alkohole tradycyjne rzemieślnicze."
+    "Dla osób, które lubią alkohole leżakowane w beczce"
   ],
 
-  "howToPresent": "Flagowy produkt linii Miodula. Inspirowana tradycyjnymi recepturami, łączy naturalną słodycz miodu z intensywnością wódki. Najbardziej rozpoznawalna i najczęściej wybierana z całej serii.",
+  "howToPresent": "Mocny, 40% likier miodowy leżakowany w beczkach z polskiego dębu z naturalnym miodem. Formalnie klasyfikowany jako likier, jednak w charakterze bliżej mu do whisky,
+brandy i innych destylatów dojrzewających w drewnie. Ma strukturę, głębię i wyraźne nuty dębowe.",
 
 "variants": [
   {
@@ -310,7 +311,6 @@
 
   "salesTip": [
     "Dostępna również w zestawie z kieliszkiem degustacyjnym – bardzo dobry wybór prezentowy.",
-    "Można proponować klientom szukającym czegoś bardziej wyrazistego niż klasyczny miód pitny."
   ],
 
   "aroma": "Miód wielokwiatowy, zioła, delikatne nuty korzenne.",
