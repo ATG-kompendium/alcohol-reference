@@ -290,13 +290,12 @@
   "image": "bottle_img/miodula_prezydencka.png",
 
   "whenToOffer": [
-    "Gdy klient pije whisky lub brandy i szuka czegoś polskiego",
+    "Gdy klient pije whisky i szuka czegoś polskiego",
     "Osób chcących przywieźć coś prezentowego i tradycyjnego z Polski",
     "Dla osób, które lubią alkohole leżakowane w beczce"
   ],
 
-  "howToPresent": "Mocny, 40% likier miodowy leżakowany w beczkach z polskiego dębu z naturalnym miodem. Formalnie klasyfikowany jako likier, jednak w charakterze bliżej mu do whisky,
-brandy i innych destylatów dojrzewających w drewnie. Ma strukturę, głębię i wyraźne nuty dębowe.",
+  "howToPresent": "Mocny, 40% likier miodowy leżakowany w beczkach z polskiego dębu z naturalnym miodem. Formalnie klasyfikowany jako likier, jednak w charakterze bliżej mu do whisky i innych destylatów dojrzewających w drewnie, ma on też sporo słodyczy, strukturę, głębię i wyraźne nuty dębowe.",
 
 "variants": [
   {
@@ -310,7 +309,7 @@ brandy i innych destylatów dojrzewających w drewnie. Ma strukturę, głębię 
 ],
 
   "salesTip": [
-    "Dostępna również w zestawie z kieliszkiem degustacyjnym – bardzo dobry wybór prezentowy.",
+    "• Jeśli klient szuka whisky lub brandy 0.5 na prezent, zaproponuj Miodulę jako polską alternatywę.",
   ],
 
   "aroma": "Miód wielokwiatowy, zioła, delikatne nuty korzenne.",
@@ -330,13 +329,13 @@ brandy i innych destylatów dojrzewających w drewnie. Ma strukturę, głębię 
 
   "whenToOffer": [
     "Osób dla których miodula prezydencka jest za słodka.",
-    "Klient szuka polskiego brandy, koniaku."
+    "Gdy klient szuka polskiego odpowiednika brandy lub koniaku"
   ],
 
   "howToPresent": "Jest to edycja mioduli, w której zawarta jest Miodula Prezydencka I francuski cognac, skierowana do osób lubiących koniaki i brandy.",
 
   "salesTip": [
-    "Można proponować jako alternatywe do brandy lub jeżeli ktoś szuka brandy 0.5l."
+    "• Jeśli klient szuka brandy lub koniaku 0.5 na prezent, pokaż Awangardę jako polską alternatywę z dodatkiem koniaku."
   ]
 },
 
@@ -352,11 +351,15 @@ brandy i innych destylatów dojrzewających w drewnie. Ma strukturę, głębię 
   "image": "bottle_img/miodula_vodka.png",
 
   "whenToOffer": [
-    "Klient chce wódkę z delikatnym charakterem miodowym",
-    "Klient szuka czegoś pomiędzy klasyczną wódką a likierem"
+    "Klient szukający wódki żytniej",
+    "Dla osób szukających "
   ],
 
-  "howToPresent": "Łączy strukturę klasycznej wódki z subtelną nutą miodową. Lżejsza i bardziej wytrawna niż likiery miodowe."
+  "howToPresent": "Klasyczna żytnia wódka 40% z subtelną nutą miodową. Leżakowana w beczkach używanych do Mioduli Prezydenckiej, co nadaje jej delikatną głębię i miękkość.",
+
+"salesTip": [
+    "Budżetowa wódka zbożowa na prezent
+  ]
 }, 
 
 {
