@@ -208,7 +208,7 @@
     "type": "Wersja kawowa",
     "image": "bottle_img/debowa-advocat-coffee.png"
   }
-]
+],
 
     "howToPresent":"Gęsty, kremowy likier jajeczny na bazie brandy. Produkowany z naturalnych składników, bez chemicznego, sztucznego posmaku. Bardzo deserowy, tradycyjny smak kojarzący się ze świętami i domową atmosferą."
 
@@ -268,7 +268,7 @@
     ],
 
     "howToPresent": [ 
-"Zestaw 8 miniaturek prezentujących niemal całe portfolio marki Dębowa. W środku zarówno klasyczne wódki, jak i owocowe likiery."
+"Zestaw 8 miniaturek prezentujących niemal całe portfolio marki Dębowa. W środku zarówno klasyczne wódki, jak i owocowe likiery.",
 "Dębowa Polska – klasyczna biała wódka", "Czeremcha – smak owocu czeremchy", 
 "Śliwa – zapach i smak śliwki",
 "Orzech – naturalny aromat oraz charakterystyczny smak orzecha włoskiego", "Black Oak – kawai karmel", 
@@ -309,7 +309,7 @@
 ],
 
   "salesTip": [
-    "• Jeśli klient szuka whisky lub brandy 0.5 na prezent, zaproponuj Miodulę jako polską alternatywę.",
+    "• Jeśli klient szuka whisky lub brandy 0.5 na prezent, zaproponuj Miodulę jako polską alternatywę."
   ],
 
   "aroma": "Miód wielokwiatowy, zioła, delikatne nuty korzenne.",
@@ -351,16 +351,14 @@
   "image": "bottle_img/miodula_vodka.png",
 
   "whenToOffer": [
-    "",
-    "Jeśli ktoś nie chce słodkiego likieru, ale szuka wódki z charakterem",
-    "Kiedy klient wybiera 0.5 w średnim segmencie cenowym i zależy mu na wyglądzie butelki"
+    "Jeśli klient wybiera wódkę na prezent i nie chce dużej pojemności",
+    "Gdy ktoś szuka czegoś ładniejszego niż klasyczna czysta wódka"
   ],
 
-  "howToPresent": "Żytnia wódka 40% o delikatnej nucie miodowej. Leżakowana w beczkach po Mioduli Prezydenckiej, co nadaje jej subtelną głębię i miękkość. Nie jest słodkim likierem – ma strukturę i bardziej wyrazisty charakter niż klasyczna czysta wódka. Mas ywna butelka z grawerem i ręcznymi oznaczeniami podkreśla rzemieślniczy styl produktu.",
+  "howToPresent": "Żytnia wódka 40% o delikatnej nucie miodowej, leżakowana w beczkach użuwanych do Mioduli Prezydenckiej, co nadaje jej subtelną głębię i miękkość. Masywna butelka z grawerem i ręcznymi oznaczeniami podkreśla rzemieślniczy styl produktu.",
 
   "salesTip": [
-    "Najpierw pokaż butelkę i wspomnij o beczkach po Mioduli – dopiero potem podaj cenę.",
-    "Przy wyborze standardowej wódki 0.5 zaproponuj ją jako bardziej charakterystyczną opcję w podobnym budżecie."
+    "Można zapropomować osobą szukającym niedrogiej, ale ładnej i dobrej wódki na prezent."
   ]
 },
 
@@ -374,8 +372,8 @@
   "image": "bottle_img/miodula_gin.png",
 
   "whenToOffer": [
-    "Klient szuka polskiego ginu",
-    "Klient lubi delikatniejsze, lekko słodsze profile"
+    "Klient szuka słodkiego o delikatnego ginu",
+    "Klient szuka ginu w ładnej butelce "
   ],
 
   "howToPresent": "Gin z 9 botaników: cytryny, pomarańcze, korzeń irysa, kolendra, korzeń arcydzięgla, kardamon, korzeń lukrecji, całe laski wanilii. Jałowiec jest dobrze ukryty innymi składnikami i dodatkiem miodu. "
