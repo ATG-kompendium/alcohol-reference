@@ -347,20 +347,22 @@
   "country": "Poland",
   "abv": "40%",
   "rawMaterial": "Żyto",
-  "maturation" : "Beczki używane do leżakowania Mioduli Prezydenckiej",
+  "maturation": "Beczki używane do leżakowania Mioduli Prezydenckiej",
   "image": "bottle_img/miodula_vodka.png",
 
   "whenToOffer": [
-    "Klient szukający wódki żytniej",
-    "Dla osób szukających "
+    "",
+    "Jeśli ktoś nie chce słodkiego likieru, ale szuka wódki z charakterem",
+    "Kiedy klient wybiera 0.5 w średnim segmencie cenowym i zależy mu na wyglądzie butelki"
   ],
 
-  "howToPresent": "Klasyczna żytnia wódka 40% z subtelną nutą miodową. Leżakowana w beczkach używanych do Mioduli Prezydenckiej, co nadaje jej delikatną głębię i miękkość.",
+  "howToPresent": "Żytnia wódka 40% o delikatnej nucie miodowej. Leżakowana w beczkach po Mioduli Prezydenckiej, co nadaje jej subtelną głębię i miękkość. Nie jest słodkim likierem – ma strukturę i bardziej wyrazisty charakter niż klasyczna czysta wódka. Mas ywna butelka z grawerem i ręcznymi oznaczeniami podkreśla rzemieślniczy styl produktu.",
 
-"salesTip": [
-    "Budżetowa wódka zbożowa na prezent
+  "salesTip": [
+    "Najpierw pokaż butelkę i wspomnij o beczkach po Mioduli – dopiero potem podaj cenę.",
+    "Przy wyborze standardowej wódki 0.5 zaproponuj ją jako bardziej charakterystyczną opcję w podobnym budżecie."
   ]
-}, 
+},
 
 {
   "slug": "miodula-gin",
