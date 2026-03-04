@@ -51,7 +51,7 @@
     "abv": "18%",
     "image": "bottle_img/chopin_karmel.jpg",
     "whenToOffer": [
-      "Osób szukających likieru kokosowego",
+      "Osób szukających likieru na prezent",
       "Klienta szukającego Polski likier mleczny "
     ],
 
@@ -82,12 +82,12 @@
     "abv": "40%",
     "image": "bottle_img/krzeska.png",
     "whenToOffer": [
-      "Osób szukających ziołowej nalewki, nie słodkiej",
-      "Klienta szukającego ładnie zapakow"
+      "Osób szukających ziołówki, nie słodkiej",
+      "Klienta szukającego ładnie zapakowanego alkoholu"
 
     ],
 
-    "howToPresent":"Likier karmelowy z solą morską idealny balans słodkości i słoności. Stosować można jako dodatek do kaw, lodów i deserów. Likier nie smakuje chemicznie jak większość podobnych, a także nie jest mocno wyczuwalny alkohol jak w budżetowych markach. Jest zapakowany w kartonik, więc idealnie się nadaje na prezent."
+    "howToPresent":"Nalewka ziołowa składa się z 17 unikalnych ziół, jest wytrawna i intensywnym smaku i aromacie ziół, przypraw, a nawet skóry. W ładnej karafce I zapakowana w kartonik, więc idealnie nadaje się na prezent"
 
   },
 
@@ -133,7 +133,7 @@
 
     ],
 
-    "howToPresent":"To wytrawna orzechówka na destylacie zbożowym. Nie jest słodka jak klasyczne likiery – bardziej zbalansowana i mocniejsza w charakterze. Dobry wybór dla osób, które chcą czegoś „polskiego”, ale nie oczywistego."
+    "howToPresent":"Wytrawna orzechówka na destylacie zbożowym I nalewie z orzecha włoskiego. Nie jest słodka jak klasyczne likiery, bardziej zbalansowana i mocniejsza. Dobry wybór dla osób, które chcą czegoś „polskiego”, ale nie oczywistego."
 
   },
 
@@ -146,7 +146,6 @@
     "abv": "30%",
     "image": "bottle_img/debowa-cherry.png",
     "whenToOffer": [
-      "Osób lubiących wiśniówki",
       "Klienta szukającego wysokoprocentowych Wiśniówek",
       "Osób ceniących naturalne słodkie likiery"
 
@@ -372,11 +371,11 @@
   "image": "bottle_img/miodula_gin.png",
 
   "whenToOffer": [
-    "Klient szuka słodkiego o delikatnego ginu",
+    "Klient szuka słodkiego i delikatnego ginu",
     "Klient szuka ginu w ładnej butelce "
   ],
 
-  "howToPresent": "Gin z 9 botaników: cytryny, pomarańcze, korzeń irysa, kolendra, korzeń arcydzięgla, kardamon, korzeń lukrecji, całe laski wanilii. Jałowiec jest dobrze ukryty innymi składnikami i dodatkiem miodu. "
+  "howToPresent": "Gin z 9 botaników: cytryny, pomarańcze, korzeń irysa, kolendra, korzeń arcydzięgla, kardamon, korzeń lukrecji, całe laski wanilii. Jałowiec jest zintegrowany innymi składnikami i dodatkiem miodu "
 },
 
 {
@@ -393,7 +392,7 @@
     "Klient chce coś lekkiego i cytrusowego"
   ],
 
-  "howToPresent": "Polskie wydanie limoncello, syropowe, słodko-kwaśne, cukierkowe."
+  "howToPresent": "Polska interpretacja limoncello, bardzo słodki i syropowy likier cytrynowy. Styl bliższy włoskiemu limoncello niż tradycyjnej cytrynówce. Wyraźnie cytrusowy, deserowy, cukierkowy najlepiej smakuje dobrze schłodzony"
 },
 
 {
@@ -406,18 +405,19 @@
   "image": "bottle_img/miodula_espresso.jpg",
 
   "whenToOffer": [
-    "Klienta szukajacego likieru kawowego",
-    "Osób lubiących dobrą kawę"
+    "Jeśli ktoś lubi alkohole o wyraźnym smaku kawy",
+    "Osób lubiących słodkie likiery kawowe",
+    "Kiedy klient szuka likieru o lekkiej deserowej teksturze"
   ],
 
-  "howToPresent": "Ten likier jest połączeniem Mioduli Prezydenckiej z włoską kawą."
+  "howToPresent": "Słodki likier kawowy oparty na Mioduli Prezydenckiej i włoskiej kawie. Profil smakowy wyraźnie kawowy, z lekką teksturą i słodyczą miodu. Lżejszy i mniej gęsty niż klasyczne likiery kawowe, dzięki czemu jest bardziej przystępny i łatwy do picia"
 },
 
 {
   "slug": "polowaca-bimber-goralski",
   "name": "Polowaca Bimber Góralski",
-  "subtitle": "Wódka regionalna · Polska · Styl góralski",
-  "category": "vodka",
+  "subtitle": "Wódka smakowa · Polska ·",
+  "category": "vodka-flavoured",
   "country": "Poland",
   "abv": "40%",
   "rawMaterial": "Zboża",
@@ -429,7 +429,7 @@
     "Klient chce prezent z góralskim klimatem"
   ],
 
-  "howToPresent": "Stylizowana na tradycyjny góralski bimber, ale produkowana w kontrolowanych warunkach. Wyraźniejsza i bardziej charakterna niż klasyczne wódki neutralne."
+  "howToPresent": "Wódka smakowa inspirowana tradycyjnym góralskim bimbrem. Powstaje z połączenia polskiego alkoholu zbożowego oraz leżakowanych destylatów owocowych z beczek dębowych. Delikatnie dosładzana, z wyczuwalnym profilem owocowo-zbożowym i bardziej charakterystycznym smakiem niż klasyczne wódki neutralne"
 
 },
 
