@@ -443,14 +443,16 @@
   "image": "bottle_img/polowaca_orzech.png",
 
   "whenToOffer": [
-    "Klient szuka czegoś w stylu orzechówki",
-    "Osób lubiących słodko-wytrawne nalewki",
+    "Klient szuka czegoś orzechowego",
+    "Osób lubiących słodkie, lekkie likiery",
     "Klient chce coś regionalnego"
   ],
 
-  "howToPresent": "Góralska interpretacja klasycznej orzechówki. Wyraźnie orzechowa, lekko korzenna, z przyjemną słodyczą."
+  "howToPresent": "Orzechówka słodka, lekka, ",
 
- 
+salesTip": [
+     "Jeżeli klient pyta o orzechówkę, coś z orzechów, warto zacząć od tej"
+]
 },
 
 {
@@ -470,6 +472,9 @@
 
   "howToPresent": "Owocowa i lekko kwaskowa żurawinówka w stylu regionalnym. Bardziej świeża i mniej ciężka niż klasyczne likiery owocowe."
 
+ "salesTip": [
+     "To jedyna żurawinówka w naszej ofercie, więc warto ją zaproponować przy pytaniu o likiery owocowe"
+]
 },
 
 {
