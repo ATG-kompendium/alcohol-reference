@@ -351,13 +351,14 @@
 
   "whenToOffer": [
     "Jeśli klient wybiera wódkę na prezent i nie chce dużej pojemności",
-    "Gdy ktoś szuka czegoś ładniejszego niż klasyczna czysta wódka"
+    "Klient lubi wódki z dodatkiem aromatu jak Żubrówka i Dębowa",
+    "Klient szuka polskiej wódki z akcentem"
   ],
 
   "howToPresent": "Żytnia wódka 40% o delikatnej nucie miodowej, leżakowana w beczkach użuwanych do Mioduli Prezydenckiej, co nadaje jej subtelną głębię i miękkość. Masywna butelka z grawerem i ręcznymi oznaczeniami podkreśla rzemieślniczy styl produktu.",
 
   "salesTip": [
-    "Można zapropomować osobą szukającym niedrogiej, ale ładnej i dobrej wódki na prezent."
+    "Jeśli klient lubi Żubrówkę albo Dębową, można zaproponować tę wódkę jako dodatek lub zamiennik z delikatnym akcentem miodowym"
   ]
 },
 
@@ -448,10 +449,10 @@
     "Klient chce coś regionalnego"
   ],
 
-  "howToPresent": "Orzechówka słodka, lekka, ",
+  "howToPresent": "Likier z orzechów laskowych, o wyraźnym naturalnym zapachu i smaku orzecha, lekką, miękka, słodka.",
 
 salesTip": [
-     "Jeżeli klient pyta o orzechówkę, coś z orzechów, warto zacząć od tej"
+     "Jeżeli klient pyta o orzechówkę, coś z orzechów, warto zacząć od tego produktu"
 ]
 },
 
@@ -470,7 +471,7 @@ salesTip": [
     "Klient chce coś mniej ciężkiego niż wiśniówka"
   ],
 
-  "howToPresent": "Owocowa i lekko kwaskowa żurawinówka w stylu regionalnym. Bardziej świeża i mniej ciężka niż klasyczne likiery owocowe."
+  "howToPresent": "Owocowa i lekko kwaskowa żurawinówka w stylu regionalnym. Bardziej świeża i mniej ciężka niż klasyczne likiery owocowe.",
 
  "salesTip": [
      "To jedyna żurawinówka w naszej ofercie, więc warto ją zaproponować przy pytaniu o likiery owocowe"
@@ -492,7 +493,11 @@ salesTip": [
     "Klient chce coś na jesień / zimę"
   ],
 
-  "howToPresent": ""
+ "howToPresent": "Likier herbaciany z nutą Earl Grey, miodu i przypraw korzennych, oparty na destylacie śliwkowym",
+
+ "salesTip": [
+     "Można polecić jako zimowy likier lub dodatek do gorącej herbaty"
+]
 },
 
 {
@@ -510,101 +515,70 @@ salesTip": [
     "Klient chce alkohol z 'czymś wyjątkowym'"
   ],
 
-  "howToPresent": "Historyczny likier korzenny z Gdańska zawierający płatki 22-karatowego złota. Produkowany według tradycyjnej receptury z dodatkiem ziół i przypraw.",
+  "howToPresent": "Tradycyjny likier z Gdańska zawierający płatki 23-karatowego złota. Produkowany według historycznej receptury z nutami anyżu i przypraw korzennych, słodycz dobrze integrowana, likier jest ułozony i zbalansowany",
 
   "salesTip": [
-    "Złote płatki robią ogromne wrażenie przy podawaniu – warto pokazać butelkę i delikatnie nią poruszyć.",
-    "Dobry wybór prezentowy dla osób spoza Polski."
-  ]
+  "Najlepszy wybór dla klientów, którzy chcą przywieźć coś charakterystycznego z Gdańska.",
+  "Można polecić jako alternatywę dla sambuki, ponieważ są bardzo zbliżone w charakterze, ale goldwasser jest mniej anyżowy i słodki, a także bardziej ziołowy."
+]
 
 },
 
 {
   "slug": "goldwasser-brandy",
   "name": "Goldwasser Brandy",
-  "subtitle": "Brandy z płatkami złota · Polska",
-  "category": "brandy",
+  "subtitle": "Likier z płatkami złota · Polska",
+  "category": "likier",
   "country": "Poland",
   "abv": "40%",
   "image": "bottle_img/goldwasser_brandy.jpg",
 
   "whenToOffer": [
     "Klient szuka bardziej wytrawnej wersji Goldwassera",
-    "Osoba lubiąca brandy i koniak",
+    "Osób szukających polskiej brandy",
     "Klient chce prezent z efektem 'złota w kieliszku'"
   ],
 
-  "howToPresent": "Wersja oparta na brandy z dodatkiem charakterystycznych złotych płatków. Bardziej wytrawna i głębsza niż klasyczny likier Goldwasser.",
+  "howToPresent": "Likier-brandy z Gdańska zawierający płatki 23-karatowego złota. Profil korzenny, lekko anyżowy, mniej słodki niż orginalny goldwasser, intensywne nuty pomarańczy. Wersja Goldwasser Brandy łączy klasyczny Goldwasser i brandy z winogron Chardonnay."
 
   "salesTip": [
-    "Można proponować jako alternatywę dla klasycznej brandy – z dodatkowym efektem wizualnym."
+    "Sprawdza się także jako upsell dla klientów wybierających Jägermeister Orange, podobny cytrusowo-ziołowy profil."
   ]
 },
 
 {
-  "slug": "bimber-na-przeleczy-oryginalny",
-  "name": "Bimber na Przełęczy Oryginalny",
+  "slug": "bimber-na-przelaczy-oryginalny",
+  "name": "Bimber na Przelaczy Oryginalny",
   "subtitle": "Wódka regionalna · Polska",
-  "category": "vodka",
+  "category": "vodka-flavoured",
   "country": "Poland",
-  "abv": "40%",
+  "abv": "45%",
   "image": "bottle_img/bimber_oryginalny.png",
 
   "whenToOffer": [
-    "Klient szuka czegoś w klimacie góralskim",
-    "Osoba chce prezent z przymrużeniem oka",
-    "Klient pyta o 'bimber', ale legalny"
+    "Klient chce zabawny lub nietypowy prezent z Polski",
+    "Klient pyta o prawdziwy bimber"
   ],
 
-  "howToPresent": "Stylizowany na tradycyjny bimber górski, ale produkowany legalnie i w kontrolowanych warunkach. Surowy, prosty, bez zbędnych dodatków.",
+  "howToPresent": "Wódka smakowa stylizowana na tradycyjny górski bimber, ale produkowana legalnie i w kontrolowanych warunkach. Mocna (45%), z prostym, wytrawnym profilem i lekką nutą owocową.",
 
-  "salesTip": [
-    "Działa bardzo dobrze jako humorystyczny prezent.",
-    "Można proponować klientom szukającym czegoś 'z klimatem'."
-  ]
-},
-
-{
-  "slug": "bimber-na-przeleczy-gruszkowy",
-  "name": "Bimber na Przełęczy Gruszkowy",
-  "subtitle": "Wódka smakowa · Polska",
-  "category": "vodka-flavoured",
-  "country": "Poland",
-  "abv": "40%",
-  "image": "bottle_img/bimber_gruszkowy.png",
-
-  "whenToOffer": [
-    "Klient szuka czegoś owocowego, ale mocnego",
-    "Osoba chce regionalny alkohol w lżejszym stylu",
-    "Klient lubi gruszkowe nuty"
+"variants": [
+    {
+      "type": "Orginalny",
+      "image": "bottle_img/bimber_.png"
+    },
+    {
+      "type": "Gruszkowy",
+      "image": "bottle_img/bimber_oryginalny.png"
+    },
+    {
+      "type": "Różany",
+      "image": "bottle_img/bimber_rose.png"
+    }
   ],
 
-  "howToPresent": "Wersja z nutą gruszki, łagodniejsza i bardziej przystępna niż klasyczny wariant. Zachowuje góralski charakter, ale jest bardziej aromatyczna.",
-
   "salesTip": [
-    "Dobry wybór dla osób, którym klasyczny bimber wydaje się zbyt surowy."
-  ]
-},
-
-{
-  "slug": "bimber-na-przeleczy-rozany",
-  "name": "Bimber na Przełęczy Różany",
-  "subtitle": "Wódka smakowa · Polska",
-  "category": "vodka-flavoured",
-  "country": "Poland",
-  "abv": "40%",
-  "image": "bottle_img/bimber_rose.png",
-
-  "whenToOffer": [
-    "Klient szuka nietypowego, aromatycznego alkoholu",
-    "Osoba chce prezent bardziej elegancki niż klasyczny bimber",
-    "Klient lubi kwiatowe nuty"
-  ],
-
-  "howToPresent": "Aromatyczna wersja z nutą róży. Łączy góralski styl z delikatniejszym, bardziej perfumowanym profilem.",
-
-  "salesTip": [
-    "Można proponować jako ciekawszą alternatywę dla klasycznych nalewek kwiatowych."
+    "Można proponować jako lepszą opcję dla klientów rozważających budżetowe produkty typu Bimber Góralski lub Bimber Wokulski",
   ]
 },
 
@@ -614,7 +588,7 @@ salesTip": [
   "subtitle": "Destylat śliwkowy · Polska",
   "category": "okowita",
   "country": "Poland",
-  "abv": "70%",
+  "abv": "50%",
   "rawMaterial": "Śliwki",
   "image": "bottle_img/sliwowica_podbeskidzka.webp",
 
