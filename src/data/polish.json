@@ -594,16 +594,11 @@
 
   "whenToOffer": [
     "Klient szuka mocnego, tradycyjnego alkoholu",
-    "Osoba interesuje się regionalnymi destylatami",
-    "Klient chce coś w stylu bałkańskiej śliwowicy"
+    "Osoba interesuje się regionalnymi destylatami"
   ],
 
-  "howToPresent": "Tradycyjny destylat śliwkowy z regionu Podbeskidzia o wysokiej mocy. Intensywny, wyrazisty i zdecydowanie dla osób świadomych, czego szukają.",
+  "howToPresent": "Tradycyjny destylat śliwkowy o wysokiej mocy. Intensywny, dojrzałe śliwki, nutka dymu."
 
-  "salesTip": [
-    "Warto uprzedzić o wysokiej zawartości alkoholu – 70%.",
-    "Dobry wybór dla klientów znających śliwowice z Bałkanów."
-  ]
 },
 
 {
@@ -617,16 +612,12 @@
 
   "whenToOffer": [
     "Klient szuka mocnego alkoholu o wyrazistym charakterze",
-    "Osoba interesuje się klasycznymi absyntami",
-    "Klient chce coś nietypowego na degustację"
+    "Osoby szukające polskiego absyntu",
+    "Klient chce najmocniejszy alkohol oprócz wódki"
   ],
 
-  "howToPresent": "Klasyczny absynt o wysokiej mocy 68%, oparty na piołunie oraz mieszance ziół. Intensywny i wyraźny, przeznaczony do degustacji w niewielkich ilościach.",
+  "howToPresent": "Klasyczny absynt o wysokiej mocy 68%, oparty na piołunie oraz mieszance ziół. Intensywny i wyraźnie ziołowy, nie słodki"
 
-  "salesTip": [
-    "Warto zaproponować sposób podania z wodą i kostką cukru.",
-    "Nie jest to alkohol do picia jak wódka – raczej do rytuału i degustacji."
-  ]
 },
 
 {
@@ -639,17 +630,12 @@
   "image": "bottle_img/absynt_55.jpg",
 
   "whenToOffer": [
-    "Klient chce spróbować absyntu w łagodniejszej wersji",
-    "Osoba zaczynająca przygodę z absyntem",
-    "Klient szuka czegoś nietypowego, ale mniej ekstremalnego"
+    "Klient szuka polskiego absyntu",
+    "Szukających wysokoprocentową ziołówkę"
   ],
 
-  "howToPresent": "Łagodniejsza wersja klasycznego absyntu. Nadal ziołowy i wyrazisty, ale bardziej przystępny niż wersja 68%.",
+  "howToPresent": "Łagodniejsza wersja absyntu. Nadal ziołowy i wyrazisty, ale bardziej przystępny niż wersja 68%",
 
-  "salesTip": [
-    "Dobry wybór dla osób, które pierwszy raz próbują absyntu.",
-    "Można proponować jako bezpieczniejszą alternatywę dla wersji 68%."
-  ]
 },
 
 {
@@ -663,7 +649,7 @@
 
   "whenToOffer": [
     "Klient szuka gotowego drinka",
-    "Osoba chce coś prostego na imprezę",
+    "Osoba chce coś prostego",
     "Klient nie chce mieszać koktajli samodzielnie"
   ],
 
@@ -685,8 +671,7 @@
   ],
 
   "salesTip": [
-    "Dobry wybór na imprezę lub szybkie spotkanie bez potrzeby mieszania drinków.",
-    "Można proponować klientom szukającym Malibu lub likierów kokosowych."
+    "Idealna opcja dla osób szukających alkoholu poniżej 22%"
   ]
 },
 
@@ -700,16 +685,15 @@
   "image": "bottle_img/wybitny_gin.png",
 
   "whenToOffer": [
-    "Klient szuka polskiego ginu craftowego",
-    "Osoba interesuje się małymi destylarniami",
-    "Klient chce coś lokalnego z Krakowa"
+    "Osób którym zależy na wyglądzie butelki",
+    "Klient szuka ginu polskiego 0.7l",
+    "Rozważających najtańsze opcje ginów"
   ],
 
-  "howToPresent": "Rzemieślniczy gin produkowany w Krakowie. Ma bardziej wyraźny, klasyczny charakter z dobrze zaznaczonym jałowcem i botanikami.",
+  "howToPresent": "Polski gin o klasycznym profilu jałowcowym. Prosty i uniwersalny styl, lżejszy niż klasyczne London Dry",
 
   "salesTip": [
-    "Dobry wybór dla klientów, którzy chcą spróbować polskiego craftowego ginu zamiast masowych marek."
-  ]
+    "Łatwy up-sell z bardzo budżetowych ginów jak Lubuski, niewielka różnica w cenie, ale wyraźnie lepszy wybór.",
 },
 
 {
@@ -722,16 +706,13 @@
   "image": "bottle_img/jenever.png",
 
   "whenToOffer": [
-    "Klient szuka czegoś pomiędzy ginem a whisky",
+    "Klient szuka czegoś innego ale podobnego niż gin",
     "Osoba interesuje się historią alkoholi",
     "Klient chce spróbować czegoś nietypowego"
   ],
 
-  "howToPresent": "Tradycyjny genever inspirowany holenderskim stylem. Bardziej zbożowy i pełniejszy niż klasyczny gin.",
+  "howToPresent": "Tradycyjny genever inspirowany holenderskim stylem. Bardziej zbożowy i pełniejszy niż klasyczny gin, z delikatną nutą jałowca. Przodek tradycyjnego ginu",
 
-  "salesTip": [
-    "Można proponować klientom znającym historię ginu – genever to jego poprzednik."
-  ]
 },
 
 {
@@ -740,20 +721,16 @@
   "subtitle": "Likier owocowy · Kraków",
   "category": "likier",
   "country": "Poland",
-  "abv": "30%",
+  "abv": "18%",
   "image": "bottle_img/sliwka_czekolada.png",
 
   "whenToOffer": [
-    "Klient szuka czegoś deserowego",
-    "Osoba lubi likiery czekoladowe",
-    "Klient chce coś prezentowego"
+    "Klient szuka likieru że śliwek",
+    "Osób szukających czegoś lekkiego i słodkiego",
   ],
 
-  "howToPresent": "Likier inspirowany klasycznym połączeniem śliwki i czekolady. Słodki, deserowy, bardziej do degustacji niż do drinków.",
+  "howToPresent": "Likier inspirowany klasycznym połączeniem śliwki i czekolady. Słodki, deserowy, bardzo lekki, miękki",
 
-  "salesTip": [
-    "Dobry wybór jako prezent lub do podania po kolacji."
-  ]
 },
 
 {
@@ -762,19 +739,18 @@
   "subtitle": "Likier kawowy na bazie whisky · Kraków",
   "category": "likier",
   "country": "Poland",
-  "abv": "30%",
+  "abv": "40%",
   "image": "bottle_img/whisky_kawa.png",
 
   "whenToOffer": [
-    "Klient szuka alternatywy dla Baileys",
-    "Osoba lubi kawowe alkohole",
-    "Klient chce coś mniej mlecznego"
+    "Klient pyta o smakowe whisky",
+    ""Klient szuka czegoś podobnego do Jack Daniel's Honey lub Jim Beam Honey"
   ],
 
-  "howToPresent": "Likier kawowy oparty na polskiej whisky. Mniej mleczny niż klasyczne cream likiery, bardziej wytrawny i kawowy.",
+  "howToPresent": "Likier smakowy na bazie polskiej whisky z nutą kawy. Lżejszy i łatwiejszy w piciu niż klasyczna whisky",
 
-  "salesTip": [
-    "Można proponować zamiast Baileys osobom, które nie chcą likieru śmietankowego."
+   "salesTip": [
+    "Można polecić jako alternatywę dla smakowych whisky typu Jack Daniel's Honey czy Jim Beam Honey."
   ]
 },
 
