@@ -1014,15 +1014,15 @@
   "image": "bottle_img/mikrogorzelnia_potato.png",
 
   "whenToOffer": [
-    "Klient szuka wódki niedostępnej w zwykłej sprzedaży",
-    "Osoba kupuje prezent z Polski",
+    "Klient szuka wódki ziemniaczanej",
+    "Osoba kupuje mały prezent z Polski",
     "Klient interesuje się rzemieślniczymi produktami"
   ],
 
-  "howToPresent": "Rzemieślnicza wódka ziemniaczana produkowana w najmniejszej destylarni w Polsce (ok. 12 m²). Edycja dostępna wyłącznie w kanale travel retail.",
+  "howToPresent": "Rzemieślnicza wódka ziemniaczana z najmniejszej destylarni w Polsce (ok. 12 m²). Edycja dostępna wyłącznie w naszych sklepach. Różni się od innych wódek ziemniaczanych niezwykłą gładkością i łagodnością, zachowując przy tym pełniejszą, kremową strukturę",
 
   "salesTip": [
-    "Podkreślić ograniczoną dostępność – to produkt, którego nie znajdzie w każdym sklepie."
+    "Warto podkreślić, że pochodzi z najmniejszej destylarni w Polsce (ok. 12 m²)."
   ]
 },
 
@@ -1038,10 +1038,14 @@
 
   "whenToOffer": [
     "Klient lubi wódki o bardziej wyrazistym charakterze",
-    "Osoba szuka wódki żytniej rzemieślniczej"
+    "Osoba szuka wódki rzemieślniczej"
   ],
 
-  "howToPresent": "Rzemieślnicza wódka żytnia produkowana w 12-metrowej destylarni. Bardziej pikantna i charakterystyczna niż pszeniczne odpowiedniki."
+  "howToPresent": "Rzemieślnicza wódka zytnia z najmniejszej destylarni w Polsce (ok. 12 m²). Różni się od innych wódek żytnich niezwykłą gładkością i łagodnością, zachowując przy tym nuty pieprzu i pieczywa żytniego",
+
+"salesTip": [
+    "Warto podkreślić, że pochodzi z najmniejszej destylarni w Polsce (ok. 12 m²)."
+
 },
 
 {
