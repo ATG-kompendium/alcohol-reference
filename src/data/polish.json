@@ -787,7 +787,8 @@
   ],
 
   "salesTip": [
-    "Można polecić osobom, które lubią whisky z nutą owocową np. Jim Beam Red Stag, ale szukają czegoś lżejszego i mniej słodkiego."
+    "Można polecić osobom, które lubią whisky z nutą owocową np. Jim Beam Red Stag, ale szukają czegoś lżejszego i mniej słodkiego.",
+    "Wiśnia i malina tej serii liczą się jako lekki alkohol poniżej 22%"
   ]
 },
 
@@ -809,7 +810,7 @@
   "howToPresent": "Polska okowita leżakowana przez 7 lat w dębie. Profil zbliżony do whisky, ale z wyrażnym charakterem zbożowym i nutami beczkowymi",
 
   "salesTip": [
-    ""
+    "Dobrze podejdzie osobą szukającym budżetowej polskiej whisky"
   ]
 },
 
@@ -819,7 +820,7 @@
   "subtitle": "Likier owocowy · Polska",
   "category": "likier",
   "country": "Poland",
-  "abv": "30%",
+  "abv": "21%",
   "image": "bottle_img/deren.png",
 
   "whenToOffer": [
@@ -828,10 +829,10 @@
     "Klient chce regionalny produkt"
   ],
 
-  "howToPresent": "Likier oparty na owocach derenia. Wyraźnie owocowy, lekko kwaśny i bardziej złożony niż klasyczne wiśniówki.",
+  "howToPresent": "Likier oparty na owocach derenia. Wyraźnie owocowy, lekko cierpki i nieco słodko-kwaśny",
 
   "salesTip": [
-    "Dobry wybór dla klientów, którzy szukają czegoś mniej oczywistego niż wiśnia czy żurawina."
+    "Dobry wybór dla klientów, którzy szukają czegoś mniej oczywistego niż wiśnia czy żurawina"
   ]
 },
 
@@ -846,14 +847,13 @@
 
   "whenToOffer": [
     "Klient szuka czegoś wytrawniejszego wśród likierów",
-    "Osoba interesuje się tradycyjnymi nalewkami",
-    "Klient chce coś regionalnego"
+    "Osoba interesuje się nalewkami"
   ],
 
-  "howToPresent": "Likier z tarniny – bardziej wytrawny i mniej słodki niż klasyczne likiery owocowe. Ma lekko cierpki charakter.",
+  "howToPresent": "Likier z tarniny bardziej wytrawny i mniej słodki niż klasyczne likiery owocowe. Profil cierpki, lekko słodki, śliwkowy, bogaty",
 
   "salesTip": [
-    "Można proponować osobom, którym klasyczne likiery wydają się zbyt słodkie."
+    "Można proponować osobą szukającym słów ginu, którego nie mamy"
   ]
 },
 
@@ -867,16 +867,12 @@
   "image": "bottle_img/korona_polska.png",
 
   "whenToOffer": [
-    "Klient organizuje większą imprezę",
-    "Osoba szuka ekonomicznego rozwiązania",
-    "Klient chce dużą butelkę"
+    "Osoba szuka budżetowe opcję",
+    "Klient potrzebuję dużą pojemność"
   ],
 
-  "howToPresent": "Klasyczna wódka w dużej, ekonomicznej pojemności 1.75L – dobra opcja na większe wydarzenia.",
+  "howToPresent": "Leżakowana wódka w dużej pojemności 1.75L",
 
-  "salesTip": [
-    "Opłacalna opcja przy większych zakupach."
-  ]
 },
 
 {
@@ -889,16 +885,12 @@
   "image": "bottle_img/the_path.png",
 
   "whenToOffer": [
-    "Klient organizuje większe spotkanie",
     "Osoba szuka whisky w dobrej cenie za litr",
     "Klient potrzebuje większej butelki"
   ],
 
-  "howToPresent": "Whisky w dużej pojemności 1.75L. Praktyczne rozwiązanie na większe wydarzenia i imprezy.",
+  "howToPresent": "Whisky blended w dużej pojemności 1.75L",
 
-  "salesTip": [
-    "Ekonomiczny wybór przy większym zapotrzebowaniu."
-  ]
 },
 
 {
