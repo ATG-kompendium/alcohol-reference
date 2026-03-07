@@ -634,7 +634,7 @@
     "Szukających wysokoprocentową ziołówkę"
   ],
 
-  "howToPresent": "Łagodniejsza wersja absyntu. Nadal ziołowy i wyrazisty, ale bardziej przystępny niż wersja 68%",
+  "howToPresent": "Łagodniejsza wersja absyntu. Nadal ziołowy i wyrazisty, ale bardziej przystępny niż wersja 68%"
 
 },
 
@@ -693,7 +693,8 @@
   "howToPresent": "Polski gin o klasycznym profilu jałowcowym. Prosty i uniwersalny styl, lżejszy niż klasyczne London Dry",
 
   "salesTip": [
-    "Łatwy up-sell z bardzo budżetowych ginów jak Lubuski, niewielka różnica w cenie, ale wyraźnie lepszy wybór.",
+    "Łatwy up-sell z bardzo budżetowych ginów jak Lubuski, niewielka różnica w cenie, ale wyraźnie lepszy wybór."
+    ]
 },
 
 {
@@ -711,7 +712,7 @@
     "Klient chce spróbować czegoś nietypowego"
   ],
 
-  "howToPresent": "Tradycyjny genever inspirowany holenderskim stylem. Bardziej zbożowy i pełniejszy niż klasyczny gin, z delikatną nutą jałowca. Przodek tradycyjnego ginu",
+  "howToPresent": "Tradycyjny genever inspirowany holenderskim stylem. Bardziej zbożowy i pełniejszy niż klasyczny gin, z delikatną nutą jałowca. Przodek tradycyjnego ginu"
 
 },
 
@@ -726,10 +727,10 @@
 
   "whenToOffer": [
     "Klient szuka likieru że śliwek",
-    "Osób szukających czegoś lekkiego i słodkiego",
+    "Osób szukających czegoś lekkiego i słodkiego"
   ],
 
-  "howToPresent": "Likier inspirowany klasycznym połączeniem śliwki i czekolady. Słodki, deserowy, bardzo lekki, miękki",
+  "howToPresent": "Likier inspirowany klasycznym połączeniem śliwki i czekolady. Słodki, deserowy, bardzo lekki, miękki"
 
 },
 
@@ -737,14 +738,14 @@
   "slug": "likier-whisky-kawa",
   "name": "Likier Whisky z Kawą",
   "subtitle": "Likier kawowy na bazie whisky · Kraków",
-  "category": "likier",
+  "category": "spirit-drink",
   "country": "Poland",
   "abv": "40%",
   "image": "bottle_img/whisky_kawa.png",
 
   "whenToOffer": [
     "Klient pyta o smakowe whisky",
-    ""Klient szuka czegoś podobnego do Jack Daniel's Honey lub Jim Beam Honey"
+    "Klient szuka czegoś podobnego do Jack Daniel's Honey lub Jim Beam Honey"
   ],
 
   "howToPresent": "Likier smakowy na bazie polskiej whisky z nutą kawy. Lżejszy i łatwiejszy w piciu niż klasyczna whisky",
@@ -765,11 +766,10 @@
 
   "whenToOffer": [
     "Klient lubi owocowe likiery",
-    "Osoba chce coś pomiędzy wiśniówką a whisky",
-    "Klient szuka czegoś mniej słodkiego niż klasyczny likier"
+    "Klient szuka czegoś owocowego, ale nie bardzo słodkiego"
   ],
 
-  "howToPresent": "Seria likierów opartych na polskiej whisky Wild Fields. Łączą charakter whisky z naturalną nutą owocową.",
+  "howToPresent": "Owocowy likier na bazie polskiej whisky Wild Fields. Lekki (21–26%), miękki i mało słodki.",
 
   "variants": [
     {
@@ -787,7 +787,7 @@
   ],
 
   "salesTip": [
-    "Dobry wybór dla klientów, którzy lubią owocowe nalewki, ale chcą czegoś bardziej wyrazistego."
+    "Można polecić osobom, które lubią whisky z nutą owocową np. Jim Beam Red Stag, ale szukają czegoś lżejszego i mniej słodkiego."
   ]
 },
 
@@ -798,19 +798,18 @@
   "category": "okowita",
   "country": "Poland",
   "abv": "40%",
+  "rawMaterial": "Zboża",
   "image": "bottle_img/okowita7.png",
 
   "whenToOffer": [
-    "Klient szuka czegoś w stylu brandy lub młodej whisky",
-    "Osoba interesuje się polskimi destylatami",
-    "Klient chce coś dojrzewającego, ale niekoniecznie whisky"
+    "Klient szuka czegoś podobnego do whisky, ale polskiego",
+    "Osoba interesuje się okowitami"
   ],
 
-  "howToPresent": "Polska okowita leżakowana przez 7 lat w dębie. Łączy charakter destylatu z nutami dojrzewania, tworząc produkt pomiędzy tradycyjną okowitą a whisky.",
+  "howToPresent": "Polska okowita leżakowana przez 7 lat w dębie. Profil zbliżony do whisky, ale z wyrażnym charakterem zbożowym i nutami beczkowymi",
 
   "salesTip": [
-    "Można proponować jako alternatywę dla młodej whisky.",
-    "Dobry wybór dla klientów szukających czegoś bardziej rzemieślniczego."
+    ""
   ]
 },
 
