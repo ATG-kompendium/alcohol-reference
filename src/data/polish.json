@@ -871,7 +871,7 @@
     "Klient potrzebuję dużą pojemność"
   ],
 
-  "howToPresent": "Leżakowana wódka w dużej pojemności 1.75L",
+  "howToPresent": "Leżakowana wódka w dużej pojemności 1.75L"
 
 },
 
@@ -889,7 +889,7 @@
     "Klient potrzebuje większej butelki"
   ],
 
-  "howToPresent": "Whisky blended w dużej pojemności 1.75L",
+  "howToPresent": "Whisky blended w dużej pojemności 1.75L"
 
 },
 
@@ -1045,7 +1045,7 @@
 
 "salesTip": [
     "Warto podkreślić, że pochodzi z najmniejszej destylarni w Polsce (ok. 12 m²)."
-
+]
 },
 
 {
@@ -1058,11 +1058,15 @@
   "image": "bottle_img/mikrogorzelnia_botaniki.png",
 
   "whenToOffer": [
-    "Klient szuka polskiego ginu",
-    "Osoba interesuje się craftem"
+    "Klient szuka polskiego ginu rzemieślniczego",
+    "Osoba lubi giny o wyraźnym charakterze botanicznym"
   ],
 
-  "howToPresent": "Gin tworzony w małej destylarni (12 m²) z wykorzystaniem polskich botaników. Wyraźny, rzemieślniczy charakter."
+  "howToPresent": "Gin rzemieślniczy tworzony wyłącznie z polskich botanikaliów. Świeży, ziołowy, leśny i naturalny inspirowany polską naturą",
+
+  "salesTip": [
+    "Warto podkreślić, że pochodzi z najmniejszej destylarni w Polsce (ok. 12 m²)."
+]
 },
 
 {
@@ -1075,11 +1079,15 @@
   "image": "bottle_img/mikrogorzelnia_eg.png",
 
   "whenToOffer": [
-    "Klient szuka czegoś nietypowego",
+    "Klient szuka polskiego ginu rzemieślniczego",
     "Osoba lubi herbaciane nuty"
   ],
 
-  "howToPresent": "Craftowy gin z dodatkiem herbaty Earl Grey. Łączy klasyczny jałowiec z wyraźnym cytrusowo-herbacianym profilem."
+  "howToPresent":"Gin inspirowany herbatą Earl Grey. Łączy jałowiec z nutami czarnej herbaty i cytrusowej bergamotki, tworząc świeży i elegancki profil.",
+
+  "salesTip": [
+    "Warto podkreślić, że pochodzi z najmniejszej destylarni w Polsce (ok. 12 m²)."
+]
 },
 
 {
@@ -1088,15 +1096,19 @@
   "subtitle": "Gin · Nuty torfowe · 0.5L",
   "category": "gin",
   "country": "Poland",
-  "abv": "40%",
+  "abv": "43%",
   "image": "bottle_img/mikrogorzelnia_peat.png",
 
   "whenToOffer": [
     "Klient lubi whisky torfową",
-    "Osoba szuka mocnego, wytrawnego ginu"
+    "Klient szuka polskiego ginu rzemieślniczego"
   ],
 
-  "howToPresent": "Nietypowy gin o lekko torfowym charakterze. Dobry wybór dla osób znających whisky torfowe i szukających czegoś oryginalnego."
+  "howToPresent": "Nietypowy gin o lekko torfowym charakterze. Dobry wybór dla osób znających whisky torfowe i szukających czegoś oryginalnego.",
+
+  "salesTip": [
+    "Warto podkreślić, że pochodzi z najmniejszej destylarni w Polsce (ok. 12 m²)."
+]
 },
 
 {
@@ -1105,19 +1117,18 @@
   "subtitle": "Gin rzemieślniczy · Szczecin · Polska",
   "category": "gin",
   "country": "Poland",
-  "abv": "40%",
+  "abv": "47%",
   "image": "bottle_img/heritage_magnolia.png",
 
   "whenToOffer": [
     "Klient szuka polskiego ginu premium",
-    "Osoba interesuje się nagradzanymi alkoholami",
     "Klient chce coś wyjątkowego na prezent"
   ],
 
-  "howToPresent": "Flagowy gin marki Heritage ze Szczecina. Zdobywca tytułu Gin of the Year w Londynie (2023). Wyraźnie kwiatowy profil z nutą magnolii, elegancki i nowoczesny.",
+  "howToPresent": "Kwiatowy gin z wyraźną nutą magnolii. Łączy jałowiec z aromatami kwiatów, owoców i przypraw, z lekko pikantnym finiszem imbiru i pieprzu. Nagrodzony złotym medalem na London Spirits Competition 2023",
 
   "salesTip": [
-    "Warto podkreślić nagrodę londyńską – to mocny argument sprzedażowy."
+    "Warto podkreślić nagrodę londyńską to mocny argument sprzedażowy."
   ]
 },
 
@@ -1127,15 +1138,16 @@
   "subtitle": "Gin rzemieślniczy · Polska",
   "category": "gin",
   "country": "Poland",
-  "abv": "40%",
+  "abv": "45%",
   "image": "bottle_img/heritage_baltic.png",
 
   "whenToOffer": [
     "Klient szuka bardziej wytrawnego ginu",
-    "Osoba lubi klasyczne profile jałowcowe"
+    "Osoba lubi klasyczne profile",
+    "Szukających związanych z Bałtykiem produktów"
   ],
 
-  "howToPresent": "Gin inspirowany regionem Bałtyku. Bardziej wytrawny i klasyczny w charakterze niż Magnolia, z wyraźnym jałowcem."
+  "howToPresent": "Gin inspirowany regionem Bałtyku. Świeży, cytrusowo-owocowy profil, bardziej wytrawny i klasyczny w charakterze niż Magnolia, z wyraźnym jałowcem."
 },
 
 {
@@ -1144,15 +1156,15 @@
   "subtitle": "Gin klasyczny · Polska",
   "category": "gin",
   "country": "Poland",
-  "abv": "40%",
+  "abv": "46%",
   "image": "bottle_img/heritage_classique.jpg",
 
   "whenToOffer": [
     "Klient szuka klasycznego London Dry",
-    "Osoba potrzebuje ginu do koktajli"
+    "Klient lubi bardziej korzenne profile smakowe"
   ],
 
-  "howToPresent": "Klasyczny styl London Dry. Czysty, zbalansowany, z wyraźnym jałowcem – bez dominujących nut kwiatowych."
+  "howToPresent": "Klasyczny gin w stylu London Dry z dodatkiem owocowych i korzennych nut. Jałowiec łączy się z pomarańczą, jabłkiem i przyprawami, tworząc zbalansowany i elegancki profil"
 },
 
 {
@@ -1161,20 +1173,17 @@
   "subtitle": "Likier kawowy na bazie ginu · Polska",
   "category": "likier",
   "country": "Poland",
-  "abv": "25%",
+  "abv": "24%",
   "image": "bottle_img/heritage_coffe.jpg",
 
   "whenToOffer": [
     "Klient szuka likieru kawowego",
-    "Osoba lubi espresso martini",
+    "Osoba szuka czegoś do deserów lub drinków",
     "Klient chce coś nietypowego"
   ],
 
-  "howToPresent": "Likier kawowy na bazie ginu Heritage. Połączenie cold brew z charakterem jałowca – ciekawa alternatywa dla klasycznych likierów kawowych.",
+  "howToPresent": "Likier na bazie ginu z dodatkiem cold brew coffee. Intensywnie kawowy z nutami kakao, orzechów i lekką cytrusową świeżością."
 
-  "salesTip": [
-    "Można proponować jako twist do Espresso Martini."
-  ]
 }, 
 
 {
