@@ -840,7 +840,7 @@
   "slug": "likier-tarninowy",
   "name": "Likier Tarninowy",
   "subtitle": "Likier owocowy · Polska",
-  "category": "likier",
+  "category": "nalewka",
   "country": "Poland",
   "abv": "30%",
   "image": "bottle_img/tarnina.png",
@@ -853,7 +853,7 @@
   "howToPresent": "Likier z tarniny bardziej wytrawny i mniej słodki niż klasyczne likiery owocowe. Profil cierpki, lekko słodki, śliwkowy, bogaty",
 
   "salesTip": [
-    "Można proponować osobą szukającym słów ginu, którego nie mamy"
+    "Można proponować osobą szukającym sloe ginu, którego nie mamy"
   ]
 },
 
@@ -908,11 +908,11 @@
     "Klient chce coś mniej oczywistego niż wiśnia"
   ],
 
-  "howToPresent": "Nalewka z agrestu o wyraźnie świeżym, lekko kwaśnym charakterze. Lżejsza i mniej ciężka niż klasyczne nalewki wiśniowe.",
+  "howToPresent": "Nalewka z agrestu o świeżym, lekko kwaśnym charakterze — mniej słodka i bardziej orzeźwiająca niż typowe nalewki owocowe. Idealnie oddaje naturalny, charakter agrestu.",
 
   "salesTip": [
-    "Dobry wybór dla osób, którym klasyczne słodkie nalewki wydają się zbyt ciężkie."
-  ]
+  "Dobra alternatywa dla klasycznych nalewek, mniej słodka i bardziej świeża. Agrest jest rzadko spotykany, dlatego często wybierany jako coś nowego do spróbowania"
+]
 },
 
 {
@@ -921,16 +921,16 @@
   "subtitle": "Nalewka owocowa · Polska",
   "category": "nalewka",
   "country": "Poland",
-  "abv": "18%",
+  "abv": "30%",
   "image": "bottle_img/longinus_deren.jpg",
 
   "whenToOffer": [
-    "Klient zna smak derenia",
-    "Osoba szuka czegoś bardziej wytrawnego",
+    "Klient szuka coś innego niż wiśnia",
+    "Osoba szuka mniej słodkiej nalewki",
     "Klient chce regionalny charakter"
   ],
 
-  "howToPresent": "Nalewka z derenia o bardziej złożonym, lekko cierpkim charakterze. Mniej słodka niż klasyczne owocowe likiery.",
+  "howToPresent": "Nalewka z derenia o bardziej złożonym, lekko cierpkim charakterze, przypominającym połączenie żurawiny i wiśni. Bardzo tradycyjny owoc kiedyś sądzony na dworach królewskich.",
 
   "salesTip": [
     "Można proponować osobom szukającym czegoś mniej oczywistego niż wiśnia czy malina."
@@ -943,19 +943,18 @@
   "subtitle": "Nalewka owocowa · Polska",
   "category": "nalewka",
   "country": "Poland",
-  "abv": "18%",
+  "abv": "30%",
   "image": "bottle_img/longinus_mirabelka.jpg",
 
   "whenToOffer": [
-    "Klient szuka czegoś delikatniejszego",
-    "Osoba lubi śliwkowe nuty",
-    "Klient chce coś sezonowego"
+    "Klient szuka czegoś orzeźwiającego i mocniejszego",
+    "Osoba lubi śliwke"
   ],
 
-  "howToPresent": "Nalewka z mirabelki – owocowa, lekko śliwkowa, bardziej miękka i przystępna niż dereniówka czy tarnina.",
+  "howToPresent": "Nalewka z mirabelki jest orzeźwiają z nutami miodu wielokwiatowego. Jest bardziej przystępna i lekka w odbiorze niż dereń czy pigwowiec",
 
   "salesTip": [
-    "Dobry wybór dla osób, które chcą czegoś owocowego, ale mniej intensywnego."
+    "Idealna alternatywa likierom ze śliwek."
   ]
 },
 
@@ -970,33 +969,31 @@
 
   "whenToOffer": [
     "Klient szuka klasycznej nalewki malinowej",
-    "Osoba chce coś owocowego i aromatycznego",
-    "Klient szuka prezentu"
+    "Szukających czegoś delikatnego i owocowego"
   ],
 
-  "howToPresent": "Klasyczna nalewka malinowa o wyraźnym owocowym aromacie i przyjemnej słodyczy.",
+  "howToPresent": "Nalewka malinowa o naturalnym, owocowym charakterze, wyraźnie oddaje smak malin, nie jest przesłodzona i jest najłatwiejsza w odbiorze z całej serii."
 
   "salesTip": [
-    "Bezpieczny wybór dla osób lubiących klasyczne owocowe nalewki."
+    "Dobry wybór dla osób szukających delikatnej nalewki"
   ]
 },
 
 {
   "slug": "longinus-pigwa",
-  "name": "Longinus Nalewka Pigwowa",
+  "name": "Longinus Nalewka z Pigwowca",
   "subtitle": "Nalewka owocowa · Polska",
   "category": "nalewka",
   "country": "Poland",
-  "abv": "18%",
+  "abv": "30%",
   "image": "bottle_img/longinus_pigwa.jpg",
 
   "whenToOffer": [
     "Klient szuka czegoś cytrusowo-kwaskowego",
-    "Osoba lubi pigwę",
-    "Klient chce coś mniej słodkiego"
+    "Klient chce coś mniej słodkiego i intensywniejszego"
   ],
 
-  "howToPresent": "Nalewka z pigwy o świeżym, lekko cytrusowym charakterze. Wyraźnie owocowa, ale nie przesadnie słodka.",
+  "howToPresent": "Nalewka z pigwy o świeżym, lekko cytrusowym charakterze — przypomina połączenie jabłka i cytryny, wyraźnie owocowa, ale nie przesadnie słodka.",
 
   "salesTip": [
     "Dobry wybór dla osób, które lubią wyraźniejszą kwasowość."
