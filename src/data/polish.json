@@ -1167,7 +1167,7 @@
 {
   "slug": "heritage-cold-brew-coffee",
   "name": "Heritage Gin Cold Brew Coffee Liqueur",
-  "subtitle": "Likier kawowy na bazie ginu · Polska",
+  "subtitle": "Likier kawowy · Polska",
   "category": "likier",
   "country": "Poland",
   "abv": "24%",
@@ -1179,7 +1179,7 @@
     "Klient chce coś nietypowego"
   ],
 
-  "howToPresent": "Likier na bazie ginu z dodatkiem cold brew coffee. Intensywnie kawowy z nutami kakao, orzechów i lekką cytrusową świeżością."
+  "howToPresent": "Likier kawowy na bazie ginu z dodatkiem cold brew, bardziej złożony i mniej słodki niż klasyczne likiery kawowe z lekką świeżością."
 
 }, 
 
@@ -1189,21 +1189,21 @@
   "subtitle": "Gin rzemieślniczy · Sopot · Polska",
   "category": "gin",
   "country": "Poland",
-  "abv": "40%",
+  "abv": "43%",
   "rawMaterial": "100% pszeniczny destylat",
   "image": "bottle_img/3city.png",
 
   "whenToOffer": [
-    "Klient szuka lokalnego produktu z Trójmiasta",
-    "Osoba chce coś związanego z Gdańskiem/Sopotem",
+    "Klient szuka lokalnego ginu",
+    "Osoba chce coś związanego z Gdańskiem/Trójmiastem",
     "Klient szuka lekkiego, delikatnego ginu"
   ],
 
-  "howToPresent": "Gin produkowany w Sopocie – najbliższa destylarnia względem lotniska w Trójmieście. Tworzony w 100% z pszenicznego destylatu, dzięki czemu jest wyjątkowo lekki i gładki.",
+  "howToPresent": "Gin produkowany w Sopocie – najbliższa destylarnia względem lotniska w Trójmieście. Bazą tego ginu jest 100% z pszeniczny destylat, dzięki czemu jest wyjątkowo lekki i gładki.",
 
   "salesTip": [
-    "Mocny argument lokalności – idealny jako prezent z regionu.",
-    "Warto podkreślić jego lekkość w porównaniu do bardziej wytrawnych ginów."
+    "Jego pochodzenie z Trójmiasta staje się bardzo ważnym argumentem dla klientów chcących coś konkretnie z Gdańska.",
+    "Warto podkreślić jego lekkość w porównaniu do bardziej jałowcowych, intensywnych ginów."
   ]
 },
 
@@ -1222,7 +1222,7 @@
     "Klient chce prezent z ciekawym designem"
   ],
 
-  "howToPresent": "Gin inspirowany polskim lasem. Charakter leśno-ziołowy. Butelka z grawerem lasu oraz brelokiem w kształcie szyszki – mocny element prezentowy.",
+  "howToPresent": "Gin inspirowany polskim lasem. Charakter leśno-ziołowy. Butelka z grawerem lasu oraz zawieszką w kształcie szyszki nadaje się idealnie na prezent.",
 
   "salesTip": [
     "Warto podkreślić stosunek jakości do ceny w porównaniu z droższymi craft ginami."
@@ -1244,7 +1244,7 @@
     "Fan stylu navy strength"
   ],
 
-  "howToPresent": "Mocniejsza wersja ginu (57%). Intensywniejszy aromat i dłuższy finisz. Na etykiecie mapa Bałtyku oraz brelok w kształcie kotwicy – wyrazisty, marynistyczny charakter."
+  "howToPresent": "Mocniejsza wersja ginu (57%) o bardziej intensywnym aromacie i smaku. Dzięki wyższej mocy lepiej sprawdza się w koktajlach i daje wyraźniejszy profil niż standardowe giny. Butelka z motywem marynistycznym i brelokiem w kształcie kotwicy podkreśla jego charakter."
 },
 
 {
@@ -1280,7 +1280,7 @@
     "Osoba interesuje się destylatami owocowymi"
   ],
 
-  "howToPresent": "Destylat produkowany bezpośrednio z jabłek, nie aromatyzowana wódka. Bardziej owocowy i świeży charakter."
+  "howToPresent": "Destylat produkowany bezpośrednio z jabłek, nie aromatyzowana wódka. Bardziej owocowy i świeży charakter. Gładka i miękka, swoją teksturą przypomina wódki pszeniczne"
 },
 
 {
@@ -1293,11 +1293,12 @@
   "image": "bottle_img/ima_wisnia.png",
 
   "whenToOffer": [
-    "Klient szuka czegoś deserowego",
-    "Osoba lubi wiśnię w czekoladzie"
-  ],
+  "Klient szuka nie słodkiej wiśniówki",
+  "Klient potrzebuje dobry stosunek jakości do ceny",
+  "Klient szuka alkoholu na prezent dla kogoś, kto nie pije mocnych alkoholi"
+]
 
-  "howToPresent": "Legalna nalewka o smaku wiśni w czekoladzie. Wyraźnie owocowa z deserowym charakterem."
+  "howToPresent": "Nalewka wiśniowa o świeższym, lekko kwaśnym charakterze — mniej słodka i lżejsza niż klasyczna wiśniówka. Nuty czekolady są delikatne i tylko uzupełniają smak."
 },
 
 {
@@ -1310,11 +1311,15 @@
   "image": "bottle_img/mirabelka_deren.png",
 
   "whenToOffer": [
-    "Klient szuka czegoś mniej oczywistego",
-    "Osoba lubi kwaśno-owocowe profile"
+    "Klient szuka czegoś ",
+    "Osoba lubi kwaśno-słodkie profile"
   ],
 
-  "howToPresent": "Połączenie mirabelki i derenia. Bardziej wytrawna i świeża niż klasyczne słodkie nalewki."
+  "howToPresent": "Połączenie mirabelki i derenia. Słodko-kwaśna i świeżsa niż klasyczne słodkie likiery.",
+
+  "salesTip": [
+    "Będzie dobrym wyborem dla osób lubiących produkty typu Soplica cytryna-pigwa, cytryna-malina"."
+  ]
 },
 
 {
