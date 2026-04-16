@@ -972,7 +972,7 @@
     "Szukających czegoś delikatnego i owocowego"
   ],
 
-  "howToPresent": "Nalewka malinowa o naturalnym, owocowym charakterze, wyraźnie oddaje smak malin, nie jest przesłodzona i jest najłatwiejsza w odbiorze z całej serii."
+  "howToPresent": "Nalewka malinowa o naturalnym, owocowym charakterze, wyraźnie oddaje smak malin, nie jest przesłodzona i jest najłatwiejsza w odbiorze z całej serii.",
 
   "salesTip": [
     "Dobry wybór dla osób szukających delikatnej nalewki"
@@ -1296,7 +1296,7 @@
   "Klient szuka nie słodkiej wiśniówki",
   "Klient potrzebuje dobry stosunek jakości do ceny",
   "Klient szuka alkoholu na prezent dla kogoś, kto nie pije mocnych alkoholi"
-]
+],
 
   "howToPresent": "Nalewka wiśniowa o świeższym, lekko kwaśnym charakterze — mniej słodka i lżejsza niż klasyczna wiśniówka. Nuty czekolady są delikatne i tylko uzupełniają smak."
 },
@@ -1318,7 +1318,7 @@
   "howToPresent": "Połączenie mirabelki i derenia. Słodko-kwaśna i świeżsa niż klasyczne słodkie likiery.",
 
   "salesTip": [
-    "Będzie dobrym wyborem dla osób lubiących produkty typu Soplica cytryna-pigwa, cytryna-malina"."
+    "Będzie dobrym wyborem dla osób lubiących produkty typu Soplica cytryna-pigwa, cytryna-malina"
   ]
 },
 
@@ -1334,10 +1334,11 @@
 
   "whenToOffer": [
     "Klient szuka jakościowej wódki żytniej",
-    "Osoba interesuje się lokalnymi producentami"
+    "Klient interesuje się lokalnymi, rzemieślniczymi produktami",
+    "Osoba chce spróbować czegoś bardziej wyrazistego niż klasyczna wódka"
   ],
 
-  "howToPresent": "Wódka żytnia z rodzinnego gospodarstwa w okolicach Trójmiasta. Produkowana z własnego surowca."
+  "howToPresent": "Wódka żytnia o wyraźnym, lekko chlebowym charakterze, bardziej intensywna i mniej neutralna niż standardowe wódki, dzięki czemu oferuje więcej smaku przy zachowaniu klasycznej formy wódki."
 },
 
 {
@@ -1355,7 +1356,7 @@
     "Osoba chce coś bardziej pełnego w smaku"
   ],
 
-  "howToPresent": "Wódka ziemniaczana z własnych upraw. Bardziej kremowa i wyrazista niż klasyczne wódki zbożowe."
+  "howToPresent": "Wódka ziemniaczana z własnych upraw o bardziej kremowej, pełniejszej strukturze, wyraźniejsza w smaku niż klasyczne wódki zbożowe, ale nadal gładka i łatwa w odbiorze."
 },
 
 {
@@ -1369,11 +1370,12 @@
   "image": "bottle_img/podole_okowita_pszenica.webp",
 
   "whenToOffer": [
-    "Klient chce spróbować prawdziwej okowity",
-    "Osoba interesuje się surowcowym charakterem alkoholu"
+    "Klient chce okowitę",
+    "Klient szukający bimbru lub destylatu zbożowego",
+    "Klient interesuje się rzemieślniczym alkoholem"
   ],
 
-  "howToPresent": "Okowita z jednego surowca – pszenicy. Czysty, wyraźny charakter z zachowaniem cech zboża."
+  "howToPresent": "Rocznikowy destylat pszeniczny (2022) o wyraźnym, chlebowym charakterze, pokazujący charakter surowca."
 },
 
 {
@@ -1387,11 +1389,12 @@
   "image": "bottle_img/podole_okowita_zyto.webp",
 
   "whenToOffer": [
-    "Klient zna pojęcie okowita",
-    "Osoba lubi bardziej wyrazisty charakter"
+    "Klient chce okowitę",
+    "Klient szukający bimbru lub destylatu zbożowego",
+    "Klient interesuje się rzemieślniczym alkoholem"
   ],
 
-  "howToPresent": "Jednosurowcowa okowita żytnia z rodzinnego gospodarstwa. Wyraźniejsza i bardziej strukturalna niż klasyczna wódka."
+  "howToPresent": "Rocznikowy destylat żytni (2022) o wyraźnym, chlebowym charakterze, bardziej intensywny i wyrażisty niż klasyczna wódka. Pokazuje czysty charakter surowca."
 },
 
 {
@@ -1405,11 +1408,12 @@
   "image": "bottle_img/podole_okowita_ziemniak.webp",
 
   "whenToOffer": [
-    "Klient szuka czegoś bardziej surowego niż wódka ziemniaczana",
-    "Osoba interesuje się terroir"
+    "Klient chce okowitę",
+    "Klient szukający bimbru lub destylatu ziemnuiaczanego",
+    "Klient interesuje się rzemieślniczym alkoholem"
   ],
 
-  "howToPresent": "Okowita ziemniaczana pokazująca czysty charakter surowca bez wygładzania profilu."
+  "howToPresent": "Rocznikowy destylat ziemniaczany (2022) o pełnym, lekko ziemistym charakterze, bardziej kremowa i cięższa w odbiorze niż żytnia. Wyraźnie pokazuje smak surowca."
 },
 
 {
@@ -1424,10 +1428,11 @@
 
   "whenToOffer": [
     "Klient szuka wersji prezentowej",
-    "Osoba chce bardziej eleganckie opakowanie"
+    "Osoba chce bardziej eleganckie opakowanie",
+    "Klient szukający bimbru lub destylatu ziemnuiaczanego"
   ],
 
-  "howToPresent": "Ta sama okowita ziemniaczana w wersji Alter Ego, zapakowana w karton prezentowy."
+  "howToPresent": "Okowita ziemniaczana Alter Ego (2022) pokazuje, jak proces produkcji wpływa na smak, ten sam surowiec, to samo pole i zbiór, ale zupełnie inny profil niż w standardowej wersji."
 },
 
 {
@@ -1441,8 +1446,9 @@
   "image": "bottle_img/podole_okowita_jeczmien.webp",
 
   "whenToOffer": [
-    "Klient interesuje się whisky",
-    "Osoba chce spróbować czegoś surowcowego"
+    "Klient chce okowitę",
+    "Klient szukający bimbru lub destylatu ziemnuiaczanego",
+    "Klient interesuje się rzemieślniczym alkoholem"
   ],
 
   "howToPresent": "Okowita jęczmienna pokazująca charakter zboża. Ciekawa alternatywa dla osób znających whisky."
