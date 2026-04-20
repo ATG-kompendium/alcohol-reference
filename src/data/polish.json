@@ -1451,26 +1451,35 @@
     "Klient interesuje się rzemieślniczym alkoholem"
   ],
 
-  "howToPresent": "Okowita jęczmienna pokazująca charakter zboża. Ciekawa alternatywa dla osób znających whisky."
+  "howToPresent": "Okowita jęczmienna o zbalansowanym, wyraźnym charakterze zboża. Ma kremową, gładką strukturę i pełniejszy profil smakowy.",
+
+"salesTip": [
+  "Jedna z najbardziej przystępnych okowit w serii, dobry wybór jeżeli ktoś chce pierwszy raz spróbować tą kategorię."
+]
+
 },
 
 {
   "slug": "wodki-torunskie-sliwka-w-czekoladzie",
-  "name": "Wódki Toruńskie Śliwka w Czekoladzie",
+  "name": "Wódki Toruńskie Śliwka z nutą czekolady",
   "subtitle": "Likier · Polska · 0.5L",
   "category": "likier",
   "country": "Poland",
-  "abv": "30%",
+  "abv": "32%",
   "image": "bottle_img/torunska_sliwka.png",
 
   "whenToOffer": [
     "Klient szuka czegoś deserowego",
-    "Osoba lubi klasyczne połączenie śliwki i czekolady"
+    "Osoba lubi połączenie śliwki i czekolady",
+    "Osoby szukające łatwego w odbiorze alkoholu"
   ],
 
-  "howToPresent": "Budżetowa propozycja o wyraźnie deserowym charakterze. Dobry stosunek jakości do ceny."
-},
+  "howToPresent": "Likier o wyraźnie deserowym charakterze, połączenie śliwki z nutą czekolady. Słodki, przyjemny i łatwy w odbiorze, dobrze zbalansowany.",
 
+  "salesTip": [
+  "Ma bardzo dobry stosunek jakości do ceny",
+  "Warto zaproponować jako alternatywę do podstawowych marek"
+]
 {
   "slug": "wodki-torunskie-wisnia",
   "name": "Wódki Toruńskie Wiśnia",
@@ -1482,10 +1491,17 @@
 
   "whenToOffer": [
     "Klient szuka klasycznej wiśniówki",
-    "Osoba chce coś w rozsądnej cenie"
+    "Osoba chce coś w rozsądnej cenie",
+    "Osoby szukającej łatwego w odbiorze alkoholu"
   ],
 
-  "howToPresent": "Klasyczna wiśniówka w bardzo dobrym przedziale cenowym."
+  "howToPresent": "Klasyczna wiśniówka w bardzo dobrym przedziale cenowym.",
+
+"salesTip": [
+  "Ma bardzo dobry stosunek jakości do ceny",
+  "Warto zaproponować jako alternatywę do podstawowych marek"
+]
+
 },
 
 {
@@ -1499,10 +1515,16 @@
 
   "whenToOffer": [
     "Klient szuka czegoś cytrusowo-owocowego",
-    "Osoba nie chce bardzo słodkiej nalewki"
+    "Osoba nie chce bardzo słodkiego likieru",
+    "Dla osób lubiących pigwę"
   ],
 
-  "howToPresent": "Owocowa, lekko kwaskowa propozycja w budżetowej cenie."
+  "howToPresent": "Likier z pigwy o świeżym, lekko cytrusowym charakterze. Lżejszy i mniej słodki niż większość klasycznych likierów owocowych."
+
+"salesTip": [
+  "Ma bardzo dobry stosunek jakości do ceny",
+  "Warto zaproponować jako alternatywę do podstawowych marek"
+]
 },
 
 {
@@ -1511,15 +1533,20 @@
   "subtitle": "Wódka karmelizowana · Polska · 0.5L",
   "category": "vodka-flavoured",
   "country": "Poland",
-  "abv": "37.5%",
+  "abv": "40%",
   "image": "bottle_img/torunska_przepalanka.png",
 
   "whenToOffer": [
     "Klient szuka czegoś tradycyjnego",
-    "Osoba lubi karmelowe nuty"
+    "Osoba szukająca karmelowej wódki"
   ],
 
-  "howToPresent": "Klasyczna przepalanka o karmelowym charakterze. Tradycyjny styl w przystępnej cenie."
+  "howToPresent": "Tradycyjna przepalanka o karmelowo-wailliowym charakterze w przystępnej cenie.",
+
+"salesTip": [
+  "Ma bardzo dobry stosunek jakości do ceny",
+  "Jeżeli klienci szukają karmelowych wódek, ta jest jedną z takich"
+]
 },
 
 {
@@ -1536,7 +1563,12 @@
     "Osoba szuka czegoś w stylu leśnym"
   ],
 
-  "howToPresent": "Leśny, ziołowy profil. Mocniejsza, klasyczna wersja."
+  "howToPresent": "Leśny, ziołowy profil. Mocniejsza, klasyczna wersja.",
+
+"salesTip": [
+  "Ma bardzo dobry stosunek jakości do ceny",
+  "Warto zaproponować jako alternatywę do podstawowych marek"
+]
 },
 
 {
@@ -1553,7 +1585,12 @@
     "Osoba nie chce wysokiego alkoholu"
   ],
 
-  "howToPresent": "Łagodniejsza i mniej intensywna wersja klasycznej Hubertówki."
+  "howToPresent": "Łagodniejsza i mniej intensywna wersja klasycznej Hubertówki.",
+
+"salesTip": [
+  "Ma bardzo dobry stosunek jakości do ceny",
+  "Warto zaproponować jako alternatywę do podstawowych marek"
+]
 },
 
 {
@@ -1570,7 +1607,12 @@
     "Klient szuka budżetowej wódki ziemniaczanej"
   ],
 
-  "howToPresent": "Prosta, ziemniaczana wódka w bardzo atrakcyjnej cenie."
+  "howToPresent": "Prosta, ziemniaczana wódka w bardzo atrakcyjnej cenie.",
+
+"salesTip": [
+  "Ma bardzo dobry stosunek jakości do ceny",
+  "Warto zaproponować jako alternatywę do podstawowych marek"
+]
 },
 
 {
@@ -1586,7 +1628,12 @@
     "Klient szuka taniej, klasycznej wódki"
   ],
 
-  "howToPresent": "Neutralna wódka w przystępnej cenie."
+  "howToPresent": "Neutralna wódka w przystępnej cenie.",
+
+"salesTip": [
+  "Ma bardzo dobry stosunek jakości do ceny",
+  "Warto zaproponować jako alternatywę do podstawowych marek"
+]
 },
 
 {
@@ -1652,7 +1699,12 @@
     "Osoba chce alternatywę dla Kahlua"
   ],
 
-  "howToPresent": "Likier kawowy o intensywnym aromacie. Dobra opcja w atrakcyjnej cenie."
+  "howToPresent": "Likier kawowy o intensywnym aromacie. Dobra opcja w atrakcyjnej cenie.",
+
+"salesTip": [
+  "Ma bardzo dobry stosunek jakości do ceny",
+  "Warto zaproponować jako alternatywę do podstawowych marek"
+]
 },
 
 {
