@@ -1560,10 +1560,10 @@
 
   "whenToOffer": [
     "Klient lubi ziołowe alkohole",
-    "Osoba szuka czegoś w stylu leśnym"
+    "Osoba szuka czegoś w stylu myśliwskim, leśnym"
   ],
 
-  "howToPresent": "Leśny, ziołowy profil. Mocniejsza, klasyczna wersja.",
+  "howToPresent": "Owocowo-ziołowy likier z nutami jagód i akcentem ziołowym. Lżejszy i bardziej przystępny niż klasyczne likiery ziołowe."
 
 "salesTip": [
   "Ma bardzo dobry stosunek jakości do ceny",
@@ -1585,7 +1585,7 @@
     "Osoba nie chce wysokiego alkoholu"
   ],
 
-  "howToPresent": "Łagodniejsza i mniej intensywna wersja klasycznej Hubertówki.",
+  "howToPresent": "Likier o ziołowo-korzennym charakterze, z wyraźnie niższą słodyczą niż wersja Original, lżejszy, lekko wytrawny."
 
 "salesTip": [
   "Ma bardzo dobry stosunek jakości do ceny",
@@ -1604,14 +1604,16 @@
   "image": "bottle_img/torunska_ziemniaczana.png",
 
   "whenToOffer": [
-    "Klient szuka budżetowej wódki ziemniaczanej"
-  ],
+  "Klient szuka czegoś taniego, ale lepszego jakościowo",
+  "Osoba rozważa najtańsze wódki",
+  "Klient chce coś prostego, ale bardziej przyjemnego w smaku"
+]
 
-  "howToPresent": "Prosta, ziemniaczana wódka w bardzo atrakcyjnej cenie.",
+  "howToPresent": "Wódka ziemniaczana o pełniejszym, lekko kremowym charakterze. Bardziej wyrazista i miękka niż typowe wódki zbożowe, a przy tym w przystępnej cenie."
 
 "salesTip": [
   "Ma bardzo dobry stosunek jakości do ceny",
-  "Warto zaproponować jako alternatywę do podstawowych marek"
+  "Świetna alternatywa dla najtańszych wódek – bardziej pełna i przyjemna w smaku"
 ]
 },
 
