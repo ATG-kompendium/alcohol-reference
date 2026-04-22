@@ -1581,9 +1581,10 @@
   "image": "bottle_img/hubertowka_bitter.webp",
 
   "whenToOffer": [
-    "Klient szuka lżejszej wersji ziołowej",
-    "Osoba nie chce wysokiego alkoholu"
-  ],
+"Klient szuka czegoś mniej słodkiego",
+"Osoba lubi ziołowe, bardziej wytrawne smaki",
+"Osoba szuka bardziej klasycznego, ziołowego stylu"
+]
 
   "howToPresent": "Likier o ziołowo-korzennym charakterze, z wyraźnie niższą słodyczą niż wersja Original, lżejszy, lekko wytrawny."
 
@@ -1627,10 +1628,12 @@
   "image": "bottle_img/torunska_czysta.png",
 
   "whenToOffer": [
-    "Klient szuka taniej, klasycznej wódki"
+    "Klient szuka prostej, klasycznej wódki",
+  "Osoba chce coś neutralnego bez wyraźnego smaku",
+  "Klient nie chce eksperymentować i szuka bezpiecznego wyboru"
   ],
 
-  "howToPresent": "Neutralna wódka w przystępnej cenie.",
+  "howToPresent": "Klasyczna, neutralna wódka o czystym i łagodnym profilu. Gładka, łatwa w odbiorze, bezpieczny wybór w dobrej cenie."
 
 "salesTip": [
   "Ma bardzo dobry stosunek jakości do ceny",
