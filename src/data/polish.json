@@ -1708,14 +1708,14 @@
 
   "whenToOffer": [
     "Klient szuka likieru kawowego",
-    "Osoba chce alternatywę dla Kahlua"
+    "Klient szuka mocniejszy likier kawowy",
+    "Osoba szuka likier do drinków"
   ],
 
-  "howToPresent": "Likier kawowy o intensywnym aromacie. Dobra opcja w atrakcyjnej cenie.",
+  "howToPresent": "Prosty likier kawowy o słodkim, wyraźnym charakterze. Dobra, przystępna opcja jako baza do drinków.",
 
 "salesTip": [
-  "Ma bardzo dobry stosunek jakości do ceny",
-  "Warto zaproponować jako alternatywę do podstawowych marek"
+  "Warto proponować klientom, którzy szukają prostego likieru do drinków"
 ]
 },
 
@@ -1734,7 +1734,7 @@
     "Na prezent premium z Polski"
   ],
 
-  "howToPresent": "Najbardziej skoncentrowany typ miodu pitnego. Bardzo gęsty, bogaty i słodki. Produkowany w tradycyjnej proporcji 1:0,5 (miód:woda)."
+  "howToPresent": "Najbardziej skoncentrowany typ miodu pitnego. Bardzo gęsty, bogaty i słodki. Produkowany w tradycyjnej proporcji 1:1/2 (miód:woda)."
 },
 {
   "slug": "apis-poltorak-lubelski",
