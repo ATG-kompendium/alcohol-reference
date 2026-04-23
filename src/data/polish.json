@@ -1652,42 +1652,49 @@
 
   "whenToOffer": [
     "Klient szuka najmocniejszej wódki",
-    "Osoba chce coś ekstremalnego"
+    "Klient szuka spirytusu"
   ],
 
-  "howToPresent": "Najmocniejsza wódka dostępna w ofercie – 69% alkoholu."
+  "howToPresent": "Wódka wysokoprocentowa (69%). Prosta opcja do rozcieńczania lub robienia nalewek.",
+
+"salesTip": [
+  "W krajach skandynawskich obowiązuje limit ok. 60% ABV – w takich przypadkach lepszym wyborem może być Chopin Bartender’s Choice 59,8%, jest bardziej neutralny i lepiej sprawdza się jako baza do koktajli lub nalewek"
+]
 },
 
 {
   "slug": "wodki-torunskie-sliwowica-zlota-cz",
   "name": "Śliwowica Złota 55%",
   "subtitle": "Destylat śliwkowy · Czechy · 0.5L",
-  "category": "okowita",
+  "category": "sliwowica",
   "country": "Czechy",
   "abv": "55%",
   "image": "bottle_img/sliwowica_czeska.png",
 
   "whenToOffer": [
-    "Klient szuka klasycznej śliwowicy"
+    "Klient szuka klasycznej śliwowicy",
+    "Osoby lubiące mocne, wytrawne alkohole"
   ],
 
-  "howToPresent": "Śliwowica produkcji czeskiej, w przystępnej cenie."
+  "howToPresent": "Klasyczna śliwowica w czeskim stylu, wytrawna, intensywnie śliwkowa i mocna."
 },
 
 {
   "slug": "wodki-torunskie-sliwowica-63",
   "name": "Śliwowica 63%",
   "subtitle": "Destylat śliwkowy · Polska · 0.7L",
-  "category": "okowita",
+  "category": "sliwowica",
   "country": "Poland",
   "abv": "63%",
   "image": "bottle_img/sliwowica_polska.png",
 
   "whenToOffer": [
-    "Klient szuka mocnej, polskiej śliwowicy"
+    "Klient szuka mocnej, polskiej śliwowicy", 
+     "Klient szuka śliwowicy na prezent",
+     "
   ],
 
-  "howToPresent": "Polska śliwowica o wyższym alkoholu i bardziej intensywnym charakterze."
+  "howToPresent": "Polska śliwowica o wyższej mocy 63% i bardziej skoncentrowanym, wytrawnym charakterze. Intensywnie śliwkowa, wyraźna i rozgrzewająca. Elegancka butelka i format 0.7L sprawiają, że świetnie nadaje się na prezent."
 },
 
 {
