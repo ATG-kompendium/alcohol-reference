@@ -1729,13 +1729,19 @@
   "image": "bottle_img/jadwiga_oplot.png",
 
   "whenToOffer": [
-    "Klient szuka najbardziej prestiżowego miodu pitnego",
+    "Klient szuka miód pitny premium",
     "Klient chce coś tradycyjnego i historycznego",
-    "Na prezent premium z Polski"
+    "Na prezent z Polski"
   ],
 
-  "howToPresent": "Najbardziej skoncentrowany typ miodu pitnego. Bardzo gęsty, bogaty i słodki. Produkowany w tradycyjnej proporcji 1:1/2 (miód:woda)."
+  "howToPresent": "Najbardziej skoncentrowany typ miodu pitnego. Bardzo gęsty, bogaty i słodki. Produkowany w tradycyjnej proporcji 1:1/2 (miód:woda) z dodatkiem owoców maliny i płatków dzikiej róży.",
+
+"salesTip": [
+  "Dobrze sprawdza się jako alternatywa dla słodkich likierów"
+]
+
 },
+
 {
   "slug": "apis-poltorak-lubelski",
   "name": "Półtorak Lubelski",
@@ -1746,12 +1752,14 @@
   "image": "bottle_img/poltorak_lubelski.png",
 
   "whenToOffer": [
-    "Klient chce półtoraka w bardziej klasycznym wydaniu",
-    "Na prezent regionalny"
-  ],
+  "Klient pyta o miód pitny",
+  "Klient szuka czegoś bardzo słodkiego, ale nie za ciężkiego",
+  "Klient chce spróbować klasyczny półtorak"
+],
 
-  "howToPresent": "Tradycyjny półtorak produkowany według dawnych receptur. Bardzo słodki, intensywny i długo dojrzewający."
+  "howToPresent": "Klasyczny półtorak, słodki i skoncentrowany. Produkowany w tradycyjnej proporcji 1:1/2 (miód:woda) z dodatkiem soku z owoców leśnych."
 },
+
 {
   "slug": "apis-poltorak-zaklety-ksiaze",
   "name": "Półtorak Zaklęty Książę z trawą żubrową",
