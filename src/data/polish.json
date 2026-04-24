@@ -1480,6 +1480,7 @@
   "Ma bardzo dobry stosunek jakości do ceny",
   "Warto zaproponować jako alternatywę do podstawowych marek"
 ]
+},
 {
   "slug": "wodki-torunskie-wisnia",
   "name": "Wódki Toruńskie Wiśnia",
@@ -1519,7 +1520,7 @@
     "Dla osób lubiących pigwę"
   ],
 
-  "howToPresent": "Likier z pigwy o świeżym, lekko cytrusowym charakterze. Lżejszy i mniej słodki niż większość klasycznych likierów owocowych."
+  "howToPresent": "Likier z pigwy o świeżym, lekko cytrusowym charakterze. Lżejszy i mniej słodki niż większość klasycznych likierów owocowych.",
 
 "salesTip": [
   "Ma bardzo dobry stosunek jakości do ceny",
@@ -1563,7 +1564,7 @@
     "Osoba szuka czegoś w stylu myśliwskim, leśnym"
   ],
 
-  "howToPresent": "Owocowo-ziołowy likier z nutami jagód i akcentem ziołowym. Lżejszy i bardziej przystępny niż klasyczne likiery ziołowe."
+  "howToPresent": "Owocowo-ziołowy likier z nutami jagód i akcentem ziołowym. Lżejszy i bardziej przystępny niż klasyczne likiery ziołowe.",
 
 "salesTip": [
   "Ma bardzo dobry stosunek jakości do ceny",
@@ -1584,9 +1585,9 @@
 "Klient szuka czegoś mniej słodkiego",
 "Osoba lubi ziołowe, bardziej wytrawne smaki",
 "Osoba szuka bardziej klasycznego, ziołowego stylu"
-]
+],
 
-  "howToPresent": "Likier o ziołowo-korzennym charakterze, z wyraźnie niższą słodyczą niż wersja Original, lżejszy, lekko wytrawny."
+  "howToPresent": "Likier o ziołowo-korzennym charakterze, z wyraźnie niższą słodyczą niż wersja Original, lżejszy, lekko wytrawny.",
 
 "salesTip": [
   "Ma bardzo dobry stosunek jakości do ceny",
@@ -1608,9 +1609,9 @@
   "Klient szuka czegoś taniego, ale lepszego jakościowo",
   "Osoba rozważa najtańsze wódki",
   "Klient chce coś prostego, ale bardziej przyjemnego w smaku"
-]
+],
 
-  "howToPresent": "Wódka ziemniaczana o pełniejszym, lekko kremowym charakterze. Bardziej wyrazista i miękka niż typowe wódki zbożowe, a przy tym w przystępnej cenie."
+  "howToPresent": "Wódka ziemniaczana o pełniejszym, lekko kremowym charakterze. Bardziej wyrazista i miękka niż typowe wódki zbożowe, a przy tym w przystępnej cenie.",
 
 "salesTip": [
   "Ma bardzo dobry stosunek jakości do ceny",
@@ -1633,7 +1634,7 @@
   "Klient nie chce eksperymentować i szuka bezpiecznego wyboru"
   ],
 
-  "howToPresent": "Klasyczna, neutralna wódka o czystym i łagodnym profilu. Gładka, łatwa w odbiorze, bezpieczny wybór w dobrej cenie."
+  "howToPresent": "Klasyczna, neutralna wódka o czystym i łagodnym profilu. Gładka, łatwa w odbiorze, bezpieczny wybór w dobrej cenie.",
 
 "salesTip": [
   "Ma bardzo dobry stosunek jakości do ceny",
@@ -1690,8 +1691,7 @@
 
   "whenToOffer": [
     "Klient szuka mocnej, polskiej śliwowicy", 
-     "Klient szuka śliwowicy na prezent",
-     "
+     "Klient szuka śliwowicy na prezent"
   ],
 
   "howToPresent": "Polska śliwowica o wyższej mocy 63% i bardziej skoncentrowanym, wytrawnym charakterze. Intensywnie śliwkowa, wyraźna i rozgrzewająca. Elegancka butelka i format 0.7L sprawiają, że świetnie nadaje się na prezent."
@@ -1780,6 +1780,7 @@
   "salesTip": [
   "Pierwotnie wypuszczony jako limitowana edycja na 90-lecie Apis, ze względu na duże zainteresowanie został włączony do stałej oferty"
 ]
+},
 
 {
   "slug": "apis-dwojniak-staropolski",
@@ -1795,7 +1796,7 @@
     "Dla osób zaczynających przygodę z miodami pitnymi"
   ],
 
-  "howToPresent": " Dwójniak jest bardziej zbalansowany niż półtorak. Nadal słodki, ale lżejszy i łatwiejszy w odbiorze. Produkowany w proporcji 1:1 (miód:woda) z dodatkiem soku z malin.",
+  "howToPresent": " Dwójniak jest bardziej zbalansowany niż półtorak. Nadal słodki, ale lżejszy i łatwiejszy w odbiorze. Produkowany w proporcji 1:1 (miód:woda) z dodatkiem soku z malin."
 },
 
 {
@@ -1834,7 +1835,7 @@
   "howToPresent": "Najlżejszy styl spośród klasycznych miodów pitnych. Delikatniejszy, mniej słodki, bardziej przystępny. Produkowany w proporcji 1:2 (miód:woda).",
 
   "salesTip": [
-  "Posiada oznaczenie Gwarantowana Tradycyjna Specjalność – potwierdzenie tradycyjnej receptury",
+  "Posiada oznaczenie Gwarantowana Tradycyjna Specjalność – potwierdzenie tradycyjnej receptury"
 ]
 
 },
