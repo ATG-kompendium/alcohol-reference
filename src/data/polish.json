@@ -1734,7 +1734,7 @@
     "Na prezent z Polski"
   ],
 
-  "howToPresent": "Najbardziej skoncentrowany typ miodu pitnego. Bardzo gęsty, bogaty i słodki. Produkowany w tradycyjnej proporcji 1:1/2 (miód:woda) z dodatkiem owoców maliny i płatków dzikiej róży.",
+  "howToPresent": "Najbardziej skoncentrowany typ miodu pitnego. Bardzo gęsty, bogaty i słodki. Produkowany w proporcji 1:1/2 (miód:woda) z dodatkiem owoców maliny i płatków dzikiej róży.",
 
 "salesTip": [
   "Dobrze sprawdza się jako alternatywa dla słodkich likierów"
@@ -1757,7 +1757,7 @@
   "Klient chce spróbować klasyczny półtorak"
 ],
 
-  "howToPresent": "Klasyczny półtorak, słodki i skoncentrowany. Produkowany w tradycyjnej proporcji 1:1/2 (miód:woda) z dodatkiem soku z owoców leśnych."
+  "howToPresent": "Klasyczny półtorak, słodki i skoncentrowany. Produkowany w proporcji 1:1/2 (miód:woda) z dodatkiem soku z owoców leśnych."
 },
 
 {
@@ -1770,12 +1770,17 @@
   "image": "bottle_img/poltorak_bisongrass.png",
 
   "whenToOffer": [
-    "Klient chce coś klasycznego, ale z twistem",
-    "Miłośnicy Żubrówki"
-  ],
+  "Klient pyta o miód pitny, ale chce czegoś mniej klasycznego",
+  "Klient lubi Żubrówkę lub aromaty ziołowe",
+  "Osoba szuka czegoś nietypowego na prezent"
+],
 
-  "howToPresent": "Półtorak wzbogacony naturalnym aromatem trawy żubrowej. Łączy miodową słodycz z delikatną ziołową nutą."
-},
+  "howToPresent": "Półtorak z dodatkiem trawy żubrowej, bardzo słodki i intensywny, ale z ciekawym, lekko ziołowym akcentem, który przełamuje słodycz. Produkowany w proporcji 1:1/2 (miód:woda).",
+
+  "salesTip": [
+  "Pierwotnie wypuszczony jako limitowana edycja na 90-lecie Apis, ze względu na duże zainteresowanie został włączony do stałej oferty"
+]
+
 {
   "slug": "apis-dwojniak-staropolski",
   "name": "Dwójniak Staropolski",
@@ -1790,8 +1795,9 @@
     "Dla osób zaczynających przygodę z miodami pitnymi"
   ],
 
-  "howToPresent": "Bardziej zbalansowany niż półtorak. Nadal słodki, ale lżejszy i łatwiejszy w odbiorze."
+  "howToPresent": " Dwójniak jest bardziej zbalansowany niż półtorak. Nadal słodki, ale lżejszy i łatwiejszy w odbiorze. Produkowany w proporcji 1:1 (miód:woda) z dodatkiem soku z malin.",
 },
+
 {
   "slug": "apis-dwojniak-kurpiowski",
   "name": "Dwójniak Kurpiowski",
@@ -1803,27 +1809,36 @@
 
   "whenToOffer": [
     "Klient chce regionalny miód pitny",
-    "Osób szukających tradycyjnych smaków"
+    "Klient lubi korzenne trunki i smaki",
+    "Osób szukających tradycyjny dwójniak"
   ],
 
-  "howToPresent": "Dwójniak inspirowany tradycją regionu Kurpiowskiego. Zbalansowana słodycz i klasyczny charakter."
+  "howToPresent": "Dwójniak zbalansowany i harmonijny. Produkowany w proporcji 1:1 (miód:woda) z dodatkiem soku z czarnej porzeczki a także przypraw korzennych."
 },
+
 {
   "slug": "apis-trojniak-staropolski",
   "name": "Trójniak Staropolski",
   "subtitle": "Miód pitny trójniak · Polska",
   "category": "miod-pitny",
   "country": "Poland",
-  "abv": "13%",
+  "abv": "14%",
   "image": "bottle_img/trojniak_staropolski.png",
 
-  "whenToOffer": [
-    "Klient szuka lżejszego miodu pitnego",
-    "Na pierwsze spróbowanie miodu"
-  ],
+ "whenToOffer": [
+  "Klient nie chce bardzo słodkich alkoholi",
+  "Klient szuka czegoś lżejszego",
+  "Klient obawia się intensywnych smaków"
+],
 
-  "howToPresent": "Najlżejszy styl spośród klasycznych miodów pitnych. Delikatniejszy, mniej słodki, bardziej przystępny."
+  "howToPresent": "Najlżejszy styl spośród klasycznych miodów pitnych. Delikatniejszy, mniej słodki, bardziej przystępny. Produkowany w proporcji 1:2 (miód:woda).",
+
+  "salesTip": [
+  "Posiada oznaczenie Gwarantowana Tradycyjna Specjalność – potwierdzenie tradycyjnej receptury",
+]
+
 },
+
 {
   "slug": "apis-poltorak-malinowy",
   "name": "Półtorak Malinowy",
@@ -1835,11 +1850,17 @@
 
   "whenToOffer": [
     "Klient chce coś bardziej owocowego",
-    "Dla osób lubiących maliny"
+    "Dla osób lubiących maliny",
+    "Klient lubi słodkie alkohole"
   ],
 
-  "howToPresent": "Klasyczny półtorak wzbogacony naturalnym sokiem malinowym. Intensywnie owocowy, bardzo aromatyczny."
+  "howToPresent": "Półtorak, który dzięki użyciu soku malinowego zamiast wody jest wyraźnie bardziej słodki, owocowy i aromatyczny niż klasyczny. Produkowany w tradycyjnej proporcji 1:1/2 (miód:sok malinowy).",
+
+"salesTip": [
+  "Można proponować jako alternatywę dla malinowych likierów – bardziej naturalny i bogatszy w smaku"
+]
 },
+
 {
   "slug": "apis-dwojniak-porzeczkowy",
   "name": "Dwójniak Porzeczkowy",
@@ -1850,12 +1871,18 @@
   "image": "bottle_img/porzeczkowy_krol.png",
 
   "whenToOffer": [
-    "Klient szuka miodu z wyraźną kwasowością",
-    "Miłośnicy czarnej porzeczki"
+    "Klient chce coś bardziej owocowego",
+    "Dla osób lubiących porzeczkę",
+    "Klient lubi słodkie alkohole"
   ],
 
-  "howToPresent": "Dwójniak z dodatkiem czarnej porzeczki. Słodycz miodu przełamana owocową świeżością."
+  "howToPresent": "Dwójniak z dodatkiem czarnej porzeczki. Słodycz miodu przełamana wyraźną kwasowością i owocową świeżością. Produkowany w proporcji 1:1 (miód:sok porzeczkowy).",
+
+"salesTip": [
+  "Można proponować jako alternatywę dla porzeczkowych likierów – bardziej naturalny i bogatszy w smaku"
+]
 },
+
 {
   "slug": "apis-trojniak-sliwkowy",
   "name": "Trójniak Śliwkowy",
@@ -1866,12 +1893,14 @@
   "image": "bottle_img/sliwkowa_dama.png",
 
   "whenToOffer": [
-    "Klient szuka czegoś owocowego, ale lżejszego",
-    "Osób lubiących nuty śliwki"
+    "Klient chce coś bardziej owocowego",
+    "Dla osób lubiących śliwkę",
+    "Klient lubi słodkie alkohole"
   ],
 
-  "howToPresent": "Lżejszy trójniak z dodatkiem śliwki. Słodycz miodu połączona z delikatną owocową nutą."
+  "howToPresent": "Trójniak z dodatkiem soku z śliwki. Słodycz miodu połączona z delikatną, lekko suszoną nutą owocową. Dzięki temu jest łagodniejszy i bardziej przystępny niż mocniejsze miody pitne. Produkowany w proporcji 1:2 (miód:sok śliwkowy)."
 },
+
 {
   "slug": "apis-grzaniec-miodowy",
   "name": "Grzaniec Miodowy APIS",
