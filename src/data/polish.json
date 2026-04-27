@@ -1932,8 +1932,8 @@
 
   "whenToOffer": [
     "Klient szuka polskiej whisky",
-    "Osób interesujących się lokalnym rzemiosłem",
-    "Alternatywa dla szkockich single malt"
+    "Klient szuka whisky w 0.7 pojemności",
+    "Alternatywa dla szkockich blended"
   ],
 
   "howToPresent": "Polska whisky single malt z 100% jęczmienia. Dojrzewa 6 lat w beczkach po miodach pitnych oraz winach francuskich, co nadaje jej delikatnie miodowy i winny charakter."
@@ -1955,7 +1955,7 @@
     "Alternatywa dla klasycznych okowit zbożowych"
   ],
 
-  "howToPresent": "Okowita destylowana w 100% z miodu rzepakowego i lipowego. Naturalna, niebarwiona, z wyraźnym charakterem miodu i delikatną nutą dębu."
+  "howToPresent": "Okowita destylowana z miodu rzepakowego i lipowego. Produkt o prostym profilu, z wyczuwalnymi nutami miodowymi i lekkim wpływem drewna. Bardziej odpowiedni dla osób szukających podstawowego wprowadzenia do okowit niż złożonego doświadczenia degustacyjnego.",
 },
 
 {
@@ -1969,12 +1969,12 @@
   "image": "bottle_img/sliwowica_mm.webp",
 
   "whenToOffer": [
-    "Klient szuka śliwowicy premium",
-    "Osób ceniących destylaty owocowe",
-    "Alternatywa dla śliwowicy łąckiej"
-  ],
+  "Klient szuka łagodniejszej wersji śliwowicy",
+  "Osób chcących spróbować destylatów śliwkowych bez wysokiej mocy alkoholu",
+  "Alternatywa dla klasycznych, mocniejszych śliwowic"
+],
 
-  "howToPresent": "Destylat w 100% z polskich śliwek, uszlachetniony miodem wielokwiatowym. Łączy owocową soczystość z aksamitnym, lekko miodowym wykończeniem."
+  "howToPresent": "Destylat ze śliwek o łagodniejszym, bardziej lekkim charakterze. Lżejszy niż klasyczne, wysokoprocentowe śliwowice, z wyraźnymi nutami owocowymi i delikatnym, lekko miodowym akcentem. Dobra opcja dla osób, które lubią smak śliwowicy, ale szukają mniej intensywnej wersji lub dla osób które chcą spróbować śliwowicy, ale bez wysokiego abv"
 },
 
 {
@@ -1987,12 +1987,12 @@
   "image": "bottle_img/piasecki_mm.webp",
 
   "whenToOffer": [
-    "Klient szuka bardzo intensywnego miodu pitnego",
-    "Na prezent regionalny",
-    "Osób znających klasyfikację półtorak/dwójniak"
-  ],
+  "Klient szuka bardzo intensywnego, gęstego miodu pitnego",
+  "Klient próbował już klasycznych miodów i chce czegoś bardziej wyrazistego",
+  "Alternatywa dla klasycznych półtoraków Apis, bardziej wyrazisty profil"
+],
 
-  "howToPresent": "Kompozycja tradycyjnego miodu pitnego i naturalnego soku śliwkowego. Długi proces dojrzewania nadaje mu głęboki, złożony charakter z wyraźną słodyczą miodu."
+  "howToPresent": "Półtorak niesycony z dodatkiem naturalnego soku śliwkowego, oparty w dużej mierze na miodzie gryczanym. Bardzo gęsty, intensywny i słodki, z głębszym, bardziej wyrazistym profilem niż klasyczne miody pitne. Wyraźne nuty śliwki połączone z charakterystyczną, z nutą miodu gryczanego. Produkowany w tradycyjnej proporcji 1:0,5 (miód:sok śliwkowy)."
 },
 
 {
@@ -2005,13 +2005,12 @@
   "image": "bottle_img/mazurskie_dwojniak_grunwaldzki.png",
 
   "whenToOffer": [
-    "Klient chce mniej słodki miód niż półtorak",
-    "Osób szukających czegoś tradycyjnego, ale lżejszego",
-    "Na pierwszy kontakt z miodem pitnym"
-  ],
+  "Klient chce mniej słodki miód niż półtorak",
+  "Klient szuka bardziej zbalansowanego, mniej gęstego stylu",
+  "Na pierwszy kontakt z miodem pitnym, ale w bardziej charakternej wersji"
+]
 
-  "howToPresent": "Dwójniak o zbalansowanej słodyczy. Zachowuje głębię miodu, ale jest bardziej przystępny i mniej gęsty niż półtorak."
-},
+  "howToPresent": "Dwójniak o zbalansowanej słodyczy, wzbogacony ekstraktem z kory dębu i przyprawami. Zachowuje głębię miodu, ale jest mniej gęsty i bardziej przystępny niż półtorak. Delikatne nuty dębowe i korzenne dodają mu większej złożoności i charakteru."
 
 {
   "slug": "specjal-podlaski-slodkie",
