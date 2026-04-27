@@ -2037,13 +2037,16 @@
   ],
 
   "whenToOffer": [
-    "Klient szuka tradycyjnej polskiej wódki smakowej",
-    "Osób lubiących półsłodkie profile owocowe",
+    "Klient szuka wódek smakowych 40%",
+    "Klientów szukających ładnej butelki",
     "Dobry budżetowy prezent regionalny"
   ],
 
-  "howToPresent": "Linia tradycyjnych wódek smakowych inspirowanych recepturami Podlasia. Intensywny smak owoców, delikatna słodycz i klasyczna moc 40%."
-},
+  "howToPresent": "Wódka smakowa o owocowo-słodkim smaku i łagodniejszym charakterze, dzięki czemu jest bardzo przystępna. Elegancka karafka sprawia, że to dobry wybór na prezent.",
+
+"salesTip": [
+  "Lepsza alternatywa dla Bocian smakowy 40% (kordiał) oraz smakowych wódek Dębowa (Lis, Ryś, Dzik, Sowa)"
+]
 
 {
   "slug": "old-polish-jarzebinowa",
@@ -2060,7 +2063,11 @@
     "Alternatywa dla wiśni i śliwowicy"
   ],
 
-  "howToPresent": "Wódka smakowa tworzona na bazie maceratu z jarzębiny. Łączy owocową goryczkę z delikatną słodyczą, inspirowana dawną tradycją polskich nalewek."
+  "howToPresent": "Wódka smakowa oparta na maceracie z dziko rosnącej jarzębiny i dosładzana miodem lipowym. Łączy charakterystyczną, lekko gorzką nutę z naturalną słodyczą oraz subtelnym akcentem miodu lipowego. Mniej oczywisty profil smakowy, stanowiący ciekawą alternatywę dla klasycznych wiśni czy śliwki.",
+
+"salesTip": [
+  "Lepsza alternatywa dla Bocian smakowy 40% (kordiał) oraz smakowych wódek Dębowa (Lis, Ryś, Dzik, Sowa)"
+]
 },
 
 {
@@ -2097,7 +2104,11 @@
     "Alternatywa dla likierów wiśniowych"
   ],
 
-  "howToPresent": "Manufakturowa wódka wiśniowa tworzona na bazie naturalnego maceratu z owoców. Łagodna, owocowa i dobrze zbalansowana."
+  "howToPresent": "Wódka smakowa oparta na naturalnym maceracie z wiśni i dosładzana miodem lipowym. Dojrzała wisnia z dobrze zbalansowaną słodyczą i lekką kwasowością, uzupełnioną subtelnym akcentem miodu lipowego. Klasyczny i łatwy w odbiorze smak, który sprawdzi się jako bezpieczny wybór.",
+
+"salesTip": [
+  "Lepsza alternatywa dla Bocian smakowy 40% (kordiał) oraz smakowych wódek Dębowa (Lis, Ryś, Dzik, Sowa)"
+]
 },
 
 {
