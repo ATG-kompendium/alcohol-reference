@@ -2121,10 +2121,10 @@
   "image": "bottle_img/specjal_ziemniak.png",
 
   "whenToOffer": [
-    "Klient szuka mocnej wódki",
-    "",
-    ""
-  ],
+  "Klient szuka bardzo mocnego alkoholu (60%+)",
+   "Alternatywa dla osób, które lubią śliwowicę, rakiję lub inne mocne destylaty o wyraźnym charakterze",
+  "Dobra opcja na prezent – elegancka butelka w tubie oraz rzemieślniczy charakter produktu sprawiają, że od razu robi wrażenie"
+],
 
 "variants": [
     {
@@ -2141,7 +2141,12 @@
     }
   ],
 
-  "howToPresent": "Wódka o mocy 63% produkowana na bazie polskich ziemniaków. Wyrazista, strukturalna i intensywna."
+  "howToPresent": "Seria bardzo mocnych wódek smakowych (63%) opartych na polskim spirytusie, o intensywnym i wyrazistym charakterze.
+
+Są 3 warianty
+– Ziemniaczany: Oparta na spirytusie ziemniaczanym, bardziej miękka, zaokrąglona i lekko oleista w strukturze, wysoka moc 63% nadaje mu wyraźny, pełniejszy charakter, 
+– Leśny: na bazie żyta, o profilu ziołowo-korzennym z dodatkiem miodu lipowego,
+– Śliwkowy: na bazie żyta, z wyraźną nutą śliwki, łączący owocowy akcent z wysoką mocą alkoholu."
 },
 
 {
