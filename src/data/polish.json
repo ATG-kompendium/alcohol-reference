@@ -2081,13 +2081,12 @@
   "image": "bottle_img/wodka_rocznikowa.jpg",
 
   "whenToOffer": [
-    "Klient szuka mocniejszej, charakternej wódki",
-    "Osób zainteresowanych limitowanymi partiami",
-    "Alternatywa dla klasycznej czystej premium"
+    "Klient szuka eleganckiego prezentu i opakowania",
+    "Klient szuka produktu, który od razu robi wrażenie przy wręczeniu"",
+    "Alternatywa dla tych którzy szukają belvedera czy Chopina Rye z kieliszkami"
   ],
 
-  "howToPresent": "Wódka rocznikowana produkowana w małych partiach na bazie polskiego żyta bio. Wyższa moc 46,2% podkreśla jej strukturę i charakter."
-},
+  "howToPresent": "Rocznikowana wódka z certyfikowanego żyta bio (46,2%), produkowana w małych partiach. Długie dojrzewanie nadaje jej bardziej złożony charakter z  wyraźnymi nutami surowca. Mniej neutralna niż standardowe wódki premium. Opakowanie z kieliszkami stanowią gotowe rozwiązanie na prezent"
 
 {
   "slug": "old-polish-wisniowa-manufakturowa",
@@ -2112,59 +2111,37 @@
 },
 
 {
-  "slug": "specjal-bialowieski-ziemniak-63",
-  "name": "Specjał Białowieski Mocny Ziemniak",
+  "slug": "specjal-bialowieski-63",
+  "name": "Specjał Białowieski Mocny",
   "subtitle": "Wódka 63% · Podlasie",
   "category": "vodka",
   "country": "Poland",
   "abv": "63%",
-  "rawMaterial": "Ziemniaki",
+  "rawMaterial": "Ziemniaki, żyto",
   "image": "bottle_img/specjal_ziemniak.png",
 
   "whenToOffer": [
-    "Klient szuka mocnej wódki ziemniaczanej",
-    "Osób zainteresowanych różnicą między ziemniakiem a żytem",
-    "Prezent dla konesera mocnych alkoholi"
+    "Klient szuka mocnej wódki",
+    "",
+    ""
+  ],
+
+"variants": [
+    {
+      "type": "Specjał myśliwski mocny",
+      "image": "bottle_img/specjal_lesny.png"
+    },
+    {
+      "type": "Specjał śliwowy mocny",
+      "image": "bottle_img/specjal_sliwowy.png"
+    },
+    {
+      "type": "Specjał ziemniak mocny",
+      "image": "bottle_img/specjal_ziemniak.png"
+    }
   ],
 
   "howToPresent": "Wódka o mocy 63% produkowana na bazie polskich ziemniaków. Wyrazista, strukturalna i intensywna."
-},
-
-{
-  "slug": "specjal-bialowieski-lesny-63",
-  "name": "Specjał Białowieski Mocny Zbożowy",
-  "subtitle": "Wódka 63% · Podlasie",
-  "category": "vodka",
-  "country": "Poland",
-  "abv": "63%",
-  "rawMaterial": "Żyto",
-  "image": "bottle_img/specjal_lesny.png",
-
-  "whenToOffer": [
-    "Klient szuka bardzo mocnej wódki żytniej",
-    "Osób preferujących klasyczny zbożowy charakter",
-    "Alternatywa dla standardowej czystej"
-  ],
-
-  "howToPresent": "Mocna wódka żytnia o zawartości 63%. Bardziej wytrawna i klasyczna w charakterze niż wersja ziemniaczana."
-},
-
-{
-  "slug": "specjal-bialowieski-sliwowy-63",
-  "name": "Specjał Białowieski Mocny Śliwowy",
-  "subtitle": "Wódka 63% · Podlasie",
-  "category": "vodka",
-  "country": "Poland",
-  "abv": "63%",
-  "image": "bottle_img/specjal_sliwowy.png",
-
-  "whenToOffer": [
-    "Klient szuka mocnej wódki z nutą owocową",
-    "Osób zainteresowanych mocnymi wariacjami smakowymi",
-    "Coś nietypowego na prezent"
-  ],
-
-  "howToPresent": "Wersja o mocy 63% z akcentem śliwkowym. Łączy wysoką moc z delikatnym owocowym charakterem."
 },
 
 {
