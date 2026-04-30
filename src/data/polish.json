@@ -2159,12 +2159,17 @@ Są 3 warianty
   "image": "bottle_img/tessellis_orange.webp",
 
   "whenToOffer": [
-    "Klient szuka czegoś deserowego",
-    "Alternatywa dla likierów czekoladowych",
-    "Do koktajli lub jako digestif"
-  ],
+"Klient szuka czegoś nietypowego, wykraczającego poza klasyczne wódki smakowe",
+"Alternatywa dla wódek smakowych (np. Absolut), bardziej złożony i naturalny profil",
+"Pomysł na prezent dla osoby, która lubi wódki smakowe",
+"Dobra baza do koktajli i long drinków"
+]
 
-  "howToPresent": "Połączenie nut gorzkiej czekolady i organicznej pomarańczy zamknięte w bazie wysokiej jakości wódki. Intensywny, deserowy charakter."
+  "howToPresent": "Wódka smakowa na bazie żyta o wyjątkowo miękkim charakterze. Nuty czekolady i pomarańczy powstają dzięki osobnej destylacji składników w próżni, co pozwala zachować ich naturalny aromat i precyzję. Produkt wyróżnia się także unikalną, designerską butelką.",
+
+  "salesTip": 
+  "Dla klientów z Polski można dodać, że używana jest prawdziwa czekolada (np. Wedel), dzięki czemu smak jest bardziej autentyczny i znajomy",
+  "Smak przypomina Jaffa Cakes (UK) lub Delicje (PL) – czekolada + pomarańcza, pomaga szybko wyobrazić smak tego produktu"
 },
 
 {
@@ -2175,6 +2180,96 @@ Są 3 warianty
   "country": "Poland",
   "abv": "40%",
   "image": "bottle_img/tessellis_jasmine.webp",
+
+  "whenToOffer": [
+"Klient szuka czegoś nietypowego, wykraczającego poza klasyczne wódki smakowe",
+"Alternatywa dla wódek smakowych, a także niektórych ginów",
+"Pomysł na prezent dla osoby, która lubi wódki smakowe/giny",
+"Dobra baza do koktajli i long drinków"
+]
+
+  "howToPresent": "Wódka smakowa oparta na żytniej bazie o wyjątkowo łagodnym charakterze. Aromaty pomarańczy i jaśminu uzyskiwane są poprzez osobną destylację składników w próżni, co pozwala zachować ich naturalną intensywność i czystość. Dzięki temu profil jest świeży, lekki i nieprzytłaczający. Całość uzupełnia charakterystyczna, designerska butelka, która wyróżnia produkt na półce."
+
+{
+  "slug": "tessellis-white-chocolate-pineapple",
+  "name": "Tessellis White chocolate & Pineapple Vodka",
+  "subtitle": "Wódka botaniczna · Polska",
+  "category": "vodka-flavoured",
+  "country": "Poland",
+  "abv": "40%",
+  "image": "bottle_img/tessellis_pineapple.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś cytrusowego",
+    "Do long drinków i koktajli",
+    "Osób lubiących delikatne aromaty kwiatowe"
+  ],
+
+  "howToPresent": "Botaniczna wódka z ekologiczną pomarańczą i aromatycznym jaśminem. Lżejszy, świeży profil, idealny do miksologii."
+},
+
+{
+  "slug": "tessellis-exquisitus",
+  "name": "Tessellis Exquisitus Vodka",
+  "subtitle": "Wódka botaniczna · Polska",
+  "category": "vodka-flavoured",
+  "country": "Poland",
+  "abv": "40%",
+  "image": "bottle_img/tessellis_exquisitus.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś cytrusowego",
+    "Do long drinków i koktajli",
+    "Osób lubiących delikatne aromaty kwiatowe"
+  ],
+
+  "howToPresent": "Botaniczna wódka z ekologiczną pomarańczą i aromatycznym jaśminem. Lżejszy, świeży profil, idealny do miksologii."
+},
+
+{
+  "slug": "tessellis-london-dry-gin",
+  "name": "Tessellis London dry Gin",
+  "subtitle": "Gin · Polska",
+  "category": "gin",
+  "country": "Poland",
+  "abv": "40%",
+  "image": "bottle_img/tessellis_gin.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś cytrusowego",
+    "Do long drinków i koktajli",
+    "Osób lubiących delikatne aromaty kwiatowe"
+  ],
+
+  "howToPresent": "Botaniczna wódka z ekologiczną pomarańczą i aromatycznym jaśminem. Lżejszy, świeży profil, idealny do miksologii."
+},
+
+{
+  "slug": "tessellis-pink-gin",
+  "name": "Tessellis Pink Gin",
+  "subtitle": "Gin · Polska",
+  "category": "gin",
+  "country": "Poland",
+  "abv": "40%",
+  "image": "bottle_img/tessellis_gin_pink.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś cytrusowego",
+    "Do long drinków i koktajli",
+    "Osób lubiących delikatne aromaty kwiatowe"
+  ],
+
+  "howToPresent": "Botaniczna wódka z ekologiczną pomarańczą i aromatycznym jaśminem. Lżejszy, świeży profil, idealny do miksologii."
+},
+
+{
+  "slug": "tessellis-gin-porto",
+  "name": "Tessellis Porto Cask Gin",
+  "subtitle": "Gin · Polska",
+  "category": "gin",
+  "country": "Poland",
+  "abv": "40%",
+  "image": "bottle_img/tessellis_gin_porto.webp",
 
   "whenToOffer": [
     "Klient szuka czegoś cytrusowego",
@@ -2338,11 +2433,7 @@ Są 3 warianty
 
     "howToPresent": "To klasyczna nalewka wiśniowa – bez cukrowego efektu likieru. Bardziej owocowa i naturalna.",
 
-    "salesTip": ["Najlepszy wybór dla klienta szukajucego wiśniewskiego, którego nie mamy na sklepie."],
-
-    "aroma": "Świeża wiśnia, lekki migdał.",
-    "taste": "Owocowy, mniej slodki niż likieru.",
-    "finish": "Średni, lekko kwaskowy."
+    "salesTip": ["Najlepszy wybór dla klienta szukajucego wiśniewskiego, którego nie mamy na sklepie."]
   },
 
     {
@@ -2372,11 +2463,7 @@ Są 3 warianty
       "Klient szukający wódek smakowych"
     ],
 
-    "howToPresent": "Etiuda Wiśniowa z Gorzelni Chopin to doskonały wybór o każdej porze roku. Niespiesznie sączona w długie jesienne wieczory delikatnie rozgrzeje a podana w wersji letniej na lodzie lub lekko schłodzona oprócz niezrównanych doznań smakowych, przyniesie soczyste orzeźwienie.",
-
-    "aroma": "Wiśniowy, delikatnie zbożowy.",
-    "taste": "słodka, z wyraźnym charakterem, ostra.",
-    "finish": "Krótki, słodki wisniowy."
+    "howToPresent": "Etiuda Wiśniowa z Gorzelni Chopin to doskonały wybór o każdej porze roku. Niespiesznie sączona w długie jesienne wieczory delikatnie rozgrzeje a podana w wersji letniej na lodzie lub lekko schłodzona oprócz niezrównanych doznań smakowych, przyniesie soczyste orzeźwienie."
   },
 
    {
