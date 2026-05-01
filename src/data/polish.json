@@ -2200,12 +2200,16 @@ Są 3 warianty
   "image": "bottle_img/tessellis_pineapple.webp",
 
   "whenToOffer": [
-    "Klient szuka czegoś cytrusowego",
-    "Do long drinków i koktajli",
-    "Osób lubiących delikatne aromaty kwiatowe"
-  ],
+"Klient szuka czegoś słodszego, ale nadal w formie wódki",
+"Dla osób lubiących deserowe i egzotyczne smaki"
+"Dla osób, które nie lubią mocnego alkoholu  i szukają czegoś łagodnego, przyjemnego i łatwego do picia"
+]
 
-  "howToPresent": "Botaniczna wódka z ekologiczną pomarańczą i aromatycznym jaśminem. Lżejszy, świeży profil, idealny do miksologii."
+  "howToPresent": "Wódka smakowa oparta na żytniej bazie o wyjątkowo łagodnym charakterze. Aromaty białej czekolady i ananasa uzyskiwane są poprzez osobną destylację składników w próżni, co pozwala zachować ich naturalną intensywność i czystość. Dzięki temu profil jest wyraźnie bardziej deserowy, z delikatną słodyczą i egzotycznym akcentem, ale pozostaje dobrze zbalansowany. Całość uzupełnia charakterystyczna, designerska butelka, która wyróżnia produkt na półce.",
+
+"salesTip": [
+  "Alternatywa dla produktów typu Ballantine’s Brasil i podobnych, podobny kierunek smakowy (cytrusowo-deserowy), ale w czystszej, bardziej wyrazistej formie"
+]
 },
 
 {
@@ -2218,12 +2222,12 @@ Są 3 warianty
   "image": "bottle_img/tessellis_exquisitus.webp",
 
   "whenToOffer": [
-    "Klient szuka czegoś cytrusowego",
-    "Do long drinków i koktajli",
-    "Osób lubiących delikatne aromaty kwiatowe"
-  ],
+"Klient szuka klasycznej wódki premium, ale chce spróbować czegoś bardziej złożonego",
+"Dla osób, które cenią wódki ziemniaczane lub bardziej kremowe, pełniejsze profile",
+"Klient jest otwarty na nowe doświadczenia, ale nie chce wódki smakowej"
+],
 
-  "howToPresent": "Botaniczna wódka z ekologiczną pomarańczą i aromatycznym jaśminem. Lżejszy, świeży profil, idealny do miksologii."
+  "howToPresent": "Wódka oparta na blendzie spirytusów z dominacją ziemniaka oraz dodatkiem orkiszu i żyta. Wyraźnie kremowa, gładka i bardziej strukturalna niż klasyczne wódki. Profil budują przede wszystkim nuty surowca, a subtelne akcenty pistacji i mango pełnią rolę delikatnego tła, nadając całości unikalnego charakteru."
 },
 
 {
