@@ -2236,16 +2236,16 @@ Są 3 warianty
   "subtitle": "Gin · Polska",
   "category": "gin",
   "country": "Poland",
-  "abv": "40%",
+  "abv": "43%",
   "image": "bottle_img/tessellis_gin.webp",
 
-  "whenToOffer": [
-    "Klient szuka czegoś cytrusowego",
-    "Do long drinków i koktajli",
-    "Osób lubiących delikatne aromaty kwiatowe"
-  ],
+ "whenToOffer": [
+"Klient szuka klasycznego ginu do Gin&tonik",
+"Dla osób, które preferują delikatniejsze i bardzo świeże profile ginów",
+"Dobra opcja na prezent dzięki unikalnej butelce"
+]
 
-  "howToPresent": "Botaniczna wódka z ekologiczną pomarańczą i aromatycznym jaśminem. Lżejszy, świeży profil, idealny do miksologii."
+  "howToPresent": "Rzemieślniczy London Dry Gin oparty na polskim spirytusie żytnim, co nadaje mu bardziej miękką i pełniejszą strukturę. Klasyczna baza jałowcowa została uzupełniona o cytrusy oraz nuty jaśminu, hibiskusa. Świeży, elegancki i dobrze zbalansowany. Całość podkreśla charakterystyczna, designerska butelka, która wyróżnia produkt na półce."
 },
 
 {
@@ -2257,13 +2257,14 @@ Są 3 warianty
   "abv": "40%",
   "image": "bottle_img/tessellis_gin_pink.webp",
 
-  "whenToOffer": [
-    "Klient szuka czegoś cytrusowego",
-    "Do long drinków i koktajli",
-    "Osób lubiących delikatne aromaty kwiatowe"
-  ],
+  ""whenToOffer": [
+"Klient szuka czegoś świeżego, owocowego i łatwego w odbiorze",
+"Dla osób, które lubią pink giny",
+"Idealny do lekkich drinków i Gin&toniku, szczególnie na cieplejsze dni",
+"Dobra opcja na prezent dzięki atrakcyjnemu wyglądowi i stylowi"
+]
 
-  "howToPresent": "Botaniczna wódka z ekologiczną pomarańczą i aromatycznym jaśminem. Lżejszy, świeży profil, idealny do miksologii."
+  "howToPresent": "Rzemieślniczy pink gin na bazie polskiego spirytusu żytniego, łączący klasyczne nuty jałowca z wyraźnym, świeżym profilem owocowym. Wykorzystanie sezonowych owoców i botaników (m.in. jagody, truskawki, hibiskusa, rabarbaru) nadaje mu naturaly i bardzo aromatyczny charakter. Świeży, owocowy, ale nadal zachowujący styl ginu."
 },
 
 {
@@ -2272,16 +2273,19 @@ Są 3 warianty
   "subtitle": "Gin · Polska",
   "category": "gin",
   "country": "Poland",
-  "abv": "40%",
+  "abv": "49,6%",
   "image": "bottle_img/tessellis_gin_porto.webp",
 
   "whenToOffer": [
-    "Klient szuka czegoś cytrusowego",
-    "Do long drinków i koktajli",
-    "Osób lubiących delikatne aromaty kwiatowe"
-  ],
+"Dla osób, które lubią eksperymentalne lub dojrzewające alkohole",
+"Alternatywa dla whisky lub innych alkoholi leżakowanych w beczce",
+"Klient szuka nietypowego ginu, który wyróżnia się na tle standardowych propozycji"
+]
 
-  "howToPresent": "Botaniczna wódka z ekologiczną pomarańczą i aromatycznym jaśminem. Lżejszy, świeży profil, idealny do miksologii."
+  "howToPresent": "Wyjątkowy gin finiszowany w beczce po porto, co nadaje mu bardziej złożony i elegancki charakter. Łączy klasyczne nuty jałowca z wyraźnym profilem owocowym (tarnina, dereń, malina) oraz subtelnymi akcentami dębu i wanilii. Wyższa moc (49,6%) podkreśla strukturę i intensywność aromatów.",
+
+"salesTip": "Warto podkreślić finisz w beczce po porto, to nadaje ginowi nuty znane z whisky i rumu, co może zainteresować klientów spoza kategorii ginu."
+
 },
 
 {
@@ -2295,31 +2299,30 @@ Są 3 warianty
   "image": "bottle_img/miodowka_manufaktura.png",
 
   "whenToOffer": [
-    "Klient szuka klasycznej miodówki",
-    "Osób lubiących delikatne, miodowe profile",
-    "Alternatywa dla miodów pitnych"
+    "Klient szuka miodowego alkoholu. ale mocniejszego",
+    "Klient szuka prezentu, który będzie się wyróżniał czymś innym niż standardowe alkohole"
   ],
 
-  "howToPresent": "Rzemieślnicza miodówka leżakowana w beczkach po miodzie. Wyraźne nuty miodowe i ziołowe z lekkim akcentem cynamonu oraz delikatną słodyczą w finiszu."
+  "howToPresent": "Rzemieślnicza miodówka tworzona na bazie polskich miodów, destylowana w miedzianym alembiku i poddawana procesowi leżakowania, który nadaje jej większą głębię i złożoność. Wyraźne nuty miodowe i ziołowe, z lekkim akcentem cynamonu oraz zbalansowaną, nieprzesadzoną słodyczą."
 },
 
 {
-  "slug": "manufaktura-sliwowica-500",
+  "slug": "manufaktura-sliwowica",
   "name": "Śliwowica z Manufaktury",
-  "subtitle": "Śliwowica · Polska · 500 ml",
-  "category": "okowita",
+  "subtitle": "Śliwowica · Polska",
+  "category": "śliwowica",
   "country": "Poland",
   "abv": "50%",
   "maturation": "Leżakowana w beczkach po miodzie pitnym",
   "image": "bottle_img/sliwowica_manufaktura.png",
 
   "whenToOffer": [
-    "Klient szuka śliwowicy premium",
-    "Osób preferujących mocniejsze alkohole",
-    "Prezent dla miłośnika destylatów owocowych"
-  ],
+"Klient szuka śliwowicy lub destylatu śliwkowego",
+"Alternatywa dla osób, które lubią rakiję, palinkę lub inne mocne destylaty owocowe",
+"Dobra jako pierwsza śliwowica, bardziej delikatna i łagodniejsza, a także lekko słodka""
+]
 
-  "howToPresent": "Rzemieślnicza śliwowica o mocy 50%, dojrzewająca w dębowych beczkach po miodzie pitnym. Intensywny owocowy charakter z nutą miodu i przypraw korzennych."
+  "howToPresent": "Rzemieślnicza śliwowica o mocy 50%, dojrzewająca w dębowych beczkach po miodzie pitnym. Intensywny owocowy charakter z nutą miodu i śliwki"
 },
 
   {
@@ -2430,14 +2433,16 @@ Są 3 warianty
     "image": "bottle_img/nalewka-wisniowa-longinus.png",
 
     "whenToOffer": [
-      "Klient szuka prawdziwej nalewki, nie likieru",
-      "Klient chce coś wiśniowego bez przesłodzenia",
-      "Klient szukający Wiśniewskiego"
-    ],
+       "Klient szuka prawdziwej nalewki, a nie słodkiego likieru",
+       "Klient chce coś wiśniowego, ale bardziej naturalnego i mniej słodkiego",
+       "Alternatywa dla osób szukających Wiśniewskiego w bardziej rzemieślniczej wersji"
+]
 
-    "howToPresent": "To klasyczna nalewka wiśniowa – bez cukrowego efektu likieru. Bardziej owocowa i naturalna.",
+    "howToPresent":Prawdziwa nalewka wiśniowa – bardziej naturalna i mniej słodka niż likiery. Wyraźny, soczysty smak wiśni z delikatną, naturalną słodyczą",
 
-    "salesTip": ["Najlepszy wybór dla klienta szukajucego wiśniewskiego, którego nie mamy na sklepie."]
+    "salesTip": [
+"Producent odpowiada również za produkcje Wiśniewskiego. Longinus jest bardziej rzemieślniczy i mniej słodki"
+]
   },
 
     {
