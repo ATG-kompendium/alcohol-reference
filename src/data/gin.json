@@ -51,9 +51,10 @@
 "Klient lubi bardziej wytrawne i ziołowe style ginu",
 "Dla osób szukających bardziej premium wersji Bombay Sapphire",
 "Klient preferuje wyraźniejszy jałowiec i bardziej aromatyczny profil"
-]
+],
 
   "howToPresent": "Bardziej intensywna i premium interpretacja Bombay Sapphire, oparta na dzikim toskańskim jałowcu oraz nasionach kopru włoskiego. Profil bardziej wytrawny, ziołowy i wyraźnie jałowcowy niż klasyczna wersja, z delikatną świeżością przypominającą śródziemnomorskie style ginu. Botaniki poddawane są procesowi vapour infusion, dzięki czemu gin zachowuje czysty i elegancki charakter."
+},
 
 {
   "slug": "bombay-sunset",
@@ -68,9 +69,10 @@
 "Klient szuka bardziej przyprawowego i cieplejszego stylu ginu",
 "Świetny wybór na sezon jesienno-zimowy",
 "Alternatywa dla klasycznych, świeżych London Dry"
-]
+],
 
  "howToPresent": "Bardziej przyprawowa i aromatyczna interpretacja Bombay Sapphire, inspirowana ciepłymi smakami zachodu słońca. Obok klasycznych botaników pojawiają się biały kardamon, kurkuma oraz suszona skórka mandarynki, nadające ginowi cieplejszy, lekko korzenny i cytrusowy charakter. Botaniki poddawane są procesowi vapour infusion, dzięki czemu profil pozostaje czysty i elegancki."
+},
 
 {
   "slug": "tanqueray-london-dry",
@@ -85,7 +87,7 @@
 "Klient szuka klasycznego London Dry",
 "Świetny wybór do klasycznego Gin & Tonik",
 "Rozpoznawalna marka – łatwa decyzja zakupowa"
-]
+],
 
   "howToPresent": "Intensywny London Dry o wyraźnym jałowcu i cytrusach. Bardziej wytrawny niż wiele konkurencyjnych marek."
 },
@@ -102,10 +104,11 @@
   "whenToOffer": [
 "Klient szuka bardziej premium i eleganckiego London Dry",
 "Dla osób lubiących świeże, wyraźnie cytrusowe profile",
-"Świetny wybór do Gin & Tonik",
-]
+"Świetny wybór do Gin & Tonik"
+],
 
   "howToPresent": "Premium London Dry o bardzo świeżym i eleganckim charakterze. W przeciwieństwie do klasycznych ginów wykorzystuje destylację całych świeżych cytrusów, a nie tylko skórek, co nadaje mu wyjątkowo naturalny i intensywnie cytrusowy profil. Bardzo dobrze zbalansowany, czysty i idealny do Martini oraz premium Gin & Tonic."
+},
 
 {
   "slug": "tanqueray-sevilla",
@@ -120,9 +123,10 @@
 "Klient szuka bardziej cytrusowego i delikatniejszego ginu",
 "Dla osób, które normalnie nie piją klasycznych ginów",
 "Świetny wybór do lekkiego Gin & Tonic lub spritzów"
-]
+],
 
   "howToPresent": "Gin inspirowany smakiem sewilskich pomarańczy. Wyraźnie bardziej cytrusowy, delikatniejszy i lekko słodszy niż klasyczny Tanqueray, z bardzo świeżym i łatwym profilem. Świetnie sprawdza się w lekkim Gin & Tonic oraz letnich koktajlach."
+},
 
 {
   "slug": "malfy-gin",
@@ -162,13 +166,13 @@
   "abv": "41.4%",
   "image": "bottle_img/hendricks.webp",
 
-  "whenToOffer": [
-    "Klient szuka nietypowego ginu",
-    "Lubi ogórkowe nuty",
-    "Prezent premium"
-  ],
+"whenToOffer": [
+  "Klient szuka nietypowego i bardziej nowoczesnego stylu ginu",
+  "Dla osób lubiących świeże, ogórkowe i kwiatowe nuty",
+  "Świetny wybór do bardzo świeżego Gin & Tonic"
+],
 
-  "howToPresent": "Gin z dodatkiem ogórka i róży. Charakterystyczny i bardzo rozpoznawalny."
+  "howToPresent": "Szkocki gin, delikatnie kwiatowy, świeży i bardziej nowoczesny niż klasyczne London Dry. Charakterystyczne dla Hendricksa ogórek i płatki róży destylowane są w próżni i dodawane po redestylacji, co pozwala zachować ich bardzo świeży i naturalny aromat."
 },
 
 {
@@ -180,13 +184,14 @@
   "abv": "43.4%",
   "image": "bottle_img/hendricks_amazonia.webp",
 
-  "whenToOffer": [
-    "Klient szuka limitowanej wersji",
-    "Fan marki Hendrick’s",
-    "Coś nietypowego"
-  ],
+ "whenToOffer": [
+  "Klient szuka bardziej egzotycznego i nietypowego stylu ginu",
+  "Dla fanów marki Hendrick’s",
+  "Osób lubiących tropikalne, kwiatowe i świeże profile",
+  "Limitowana edycja o bardziej owocowym charakterze"
+],
 
-  "howToPresent": "Edycja inspirowana Amazonką. Bardziej egzotyczny i złożony profil."
+  "howToPresent": "Limitowana edycja Hendrick’s, bardziej tropikalny i owocowy niż klasyczny Hendrick’s, z nutami ananasa, kwiatów, świeżych ziół oraz charakterystycznym akcentem ogórka i róży. Nadal świeży i delikatny, ale z bardziej egzotycznym profilem."
 },
 
 {
@@ -198,13 +203,14 @@
   "abv": "43.4%",
   "image": "bottle_img/hendricks_sunspell.webp",
 
-  "whenToOffer": [
-    "Klient szuka lżejszego stylu Hendrick’s",
-    "Letnia edycja",
-    "Alternatywa dla klasycznej wersji"
-  ],
+"whenToOffer": [
+  "Klient szuka lekkiego i letniego stylu ginu",
+  "Dla osób lubiących cytrusy i świeże ziołowe profile",
+  "Świetny wybór do letnich Gin & Tonic oraz koktajli",
+  "Fan marki Hendrick’s szukający czegoś bardziej owocowego"
+],
 
-  "howToPresent": "Jaśniejsza, bardziej cytrusowa interpretacja Hendrick’s."
+  "howToPresent": "Limitowana edycja Hendrick’s o bardziej letnim i cytrusowym charakterze. Łączy świeże cytrusy, soczystą pomarańczę oraz aromatyczne zioła z charakterystyczną dla marki delikatnością i świeżością. Lżejszy, bardziej słoneczny i bardzo orzeźwiający profil."
 },
 
 {
