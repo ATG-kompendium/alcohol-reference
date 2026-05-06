@@ -9,16 +9,13 @@
   "image": "bottle_img/roku.webp",
 
   "whenToOffer": [
-    "Klient szuka japońskiego ginu",
-    "Lubi subtelne i eleganckie profile",
-    "Na prezent premium"
-  ],
+"Klient szuka świeżego i lekkiego ginu do Gin & tonik",
+"Dla osób, które nie lubią ciężkich, mocno jałowcowych ginów",
+"Klient szuka czegoś innego niż klasyczne europejskie style"
+],
 
-  "howToPresent": "Japoński gin z 6 lokalnymi botanikami (m.in. sakura, yuzu, zielona herbata). Bardzo zbalansowany i elegancki.",
+  "howToPresent": "Japoński gin inspirowany koncepcją równowagi i sezonowości. Oparty na sześciu lokalnych botanicals, które nadają mu wyjątkowo świeży i elegancki charakter. Bardzo czysty i precyzyjny profil z nutami cytrusów, zielonej herbaty i delikatnych kwiatów. Charakterystyczna sześciokątna butelka nawiązuje do idei „roku” – sześciu składników."
 
-  "salesTip": [
-    "Świetny do klasycznego Gin & Tonic z delikatnym tonikiem."
-  ]
 },
 
 {
@@ -31,16 +28,14 @@
   "image": "bottle_img/bombay.webp",
 
   "whenToOffer": [
-    "Klient szuka klasycznego London Dry",
-    "Bezpieczny wybór do Gin & Tonic",
-    "Rozpoznawalna marka"
-  ],
+"Klient szuka klasycznego London Dry",
+"Bezpieczny wybór do Gin & Tonik",
+"Dla osób, które wolą lżejsze i bardziej cytrusowe giny",
+"Rozpoznawalna marka – łatwa decyzja zakupowa"
+],
 
-  "howToPresent": "Klasyczny London Dry o wyraźnym jałowcu i cytrusach. Uniwersalny i bardzo popularny w barach.",
+  "howToPresent": "Klasyczny London Dry o świeżym, cytrusowym charakterze i umiarkowanym jałowcu. Botaniki nie są macerowane bezpośrednio w alkoholu, kontakt z nimi ma jedynie para alkoholowa (tzw. vapour infusion), dzięki czemu gin pozostaje lekki, czysty i bardzo uniwersalny."
 
-  "salesTip": [
-    "Dobry wybór do klasycznego G&T."
-  ]
 },
 
 {
@@ -53,13 +48,12 @@
   "image": "bottle_img/bombay_cru.webp",
 
   "whenToOffer": [
-    "Klient szuka bardziej cytrusowego i świeżego ginu",
-    "Alternatywa dla Tanqueray Ten",
-    "Gin premium do martini"
-  ],
+"Klient lubi bardziej wytrawne i ziołowe style ginu",
+"Dla osób szukających bardziej premium wersji Bombay Sapphire",
+"Klient preferuje wyraźniejszy jałowiec i bardziej aromatyczny profil"
+]
 
-  "howToPresent": "Premium wersja Bombay destylowana z wykorzystaniem świeżych cytrusów z Hiszpanii. Bardziej elegancki i wyrazisty niż klasyczna wersja."
-},
+  "howToPresent": "Bardziej intensywna i premium interpretacja Bombay Sapphire, oparta na dzikim toskańskim jałowcu oraz nasionach kopru włoskiego. Profil bardziej wytrawny, ziołowy i wyraźnie jałowcowy niż klasyczna wersja, z delikatną świeżością przypominającą śródziemnomorskie style ginu. Botaniki poddawane są procesowi vapour infusion, dzięki czemu gin zachowuje czysty i elegancki charakter."
 
 {
   "slug": "bombay-sunset",
@@ -71,13 +65,12 @@
   "image": "bottle_img/bombay_sunset.webp",
 
   "whenToOffer": [
-    "Klient szuka czegoś łagodniejszego",
-    "Do letnich drinków",
-    "Mniej klasyczny profil jałowcowy"
-  ],
+"Klient szuka bardziej przyprawowego i cieplejszego stylu ginu",
+"Świetny wybór na sezon jesienno-zimowy",
+"Alternatywa dla klasycznych, świeżych London Dry"
+]
 
-  "howToPresent": "Aromatyczna wersja Bombay z nutami przypraw i cytrusów. Lżejsza i bardziej przystępna."
-},
+ "howToPresent": "Bardziej przyprawowa i aromatyczna interpretacja Bombay Sapphire, inspirowana ciepłymi smakami zachodu słońca. Obok klasycznych botaników pojawiają się biały kardamon, kurkuma oraz suszona skórka mandarynki, nadające ginowi cieplejszy, lekko korzenny i cytrusowy charakter. Botaniki poddawane są procesowi vapour infusion, dzięki czemu profil pozostaje czysty i elegancki."
 
 {
   "slug": "tanqueray-london-dry",
@@ -89,10 +82,10 @@
   "image": "bottle_img/tanqueray.webp",
 
   "whenToOffer": [
-    "Klient szuka wyraźnie jałowcowego ginu",
-    "Do martini",
-    "Klasyka barowa"
-  ],
+"Klient szuka klasycznego London Dry",
+"Świetny wybór do klasycznego Gin & Tonik",
+"Rozpoznawalna marka – łatwa decyzja zakupowa"
+]
 
   "howToPresent": "Intensywny London Dry o wyraźnym jałowcu i cytrusach. Bardziej wytrawny niż wiele konkurencyjnych marek."
 },
