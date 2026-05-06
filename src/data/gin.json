@@ -14,7 +14,7 @@
 "Klient szuka czegoś innego niż klasyczne europejskie style"
 ],
 
-  "howToPresent": "Japoński gin inspirowany koncepcją równowagi i sezonowości. Oparty na sześciu lokalnych botanicals, które nadają mu wyjątkowo świeży i elegancki charakter. Bardzo czysty i precyzyjny profil z nutami cytrusów, zielonej herbaty i delikatnych kwiatów. Charakterystyczna sześciokątna butelka nawiązuje do idei „roku” – sześciu składników."
+  "howToPresent": "Japoński gin inspirowany koncepcją równowagi i sezonowości. Oparty na sześciu lokalnych botanikach, które nadają mu wyjątkowo świeży i elegancki charakter. Bardzo czysty i precyzyjny profil z nutami cytrusów, zielonej herbaty i delikatnych kwiatów. Charakterystyczna sześciokątna butelka nawiązuje do idei „roku” – sześciu składników."
 
 },
 
@@ -122,7 +122,7 @@
 "Świetny wybór do lekkiego Gin & Tonic lub spritzów"
 ]
 
-  "howToPresent": "Gin inspirowany smakiem sewilskich pomarańczy i angielskiej marmolady pomarańczowej. Wyraźnie bardziej cytrusowy, delikatniejszy i lekko słodszy niż klasyczny Tanqueray, z bardzo świeżym i łatwym profilem. Świetnie sprawdza się w lekkim Gin & Tonic oraz letnich koktajlach."
+  "howToPresent": "Gin inspirowany smakiem sewilskich pomarańczy. Wyraźnie bardziej cytrusowy, delikatniejszy i lekko słodszy niż klasyczny Tanqueray, z bardzo świeżym i łatwym profilem. Świetnie sprawdza się w lekkim Gin & Tonic oraz letnich koktajlach."
 
 {
   "slug": "malfy-gin",
@@ -136,10 +136,10 @@
   "whenToOffer": [
     "Klient szuka włoskiego ginu",
     "Lubi cytrusowe profile",
-    "Na letnie drinki"
+    "Na letnie Gin & tonik"
   ],
 
-  "howToPresent": "Włoski gin inspirowany cytrusami i stylem aperitivo.",
+  "howToPresent": "Malfy Originale bazuje się na spirytusie pszenicznym, który czyni go gładszym niż większość ginów, a także idealnym do drinków. Nie jest to London Dry gin. ale na pierwszym planie w smaku jest jałowiec, który pomimo swej intensywności nie tłumi buty ziłowe i cytrusowe. Wersja Rosa różni się tym, że zamiast ogólnie cytrusów, znajduję się w nim intensywna nuta grejpfruta.",
 
   "variants": [
     {
