@@ -1955,7 +1955,7 @@
     "Alternatywa dla klasycznych okowit zbożowych"
   ],
 
-  "howToPresent": "Okowita destylowana z miodu rzepakowego i lipowego. Produkt o prostym profilu, z wyczuwalnymi nutami miodowymi i lekkim wpływem drewna. Bardziej odpowiedni dla osób szukających podstawowego wprowadzenia do okowit niż złożonego doświadczenia degustacyjnego.",
+  "howToPresent": "Okowita destylowana z miodu rzepakowego i lipowego. Produkt o prostym profilu, z wyczuwalnymi nutami miodowymi i lekkim wpływem drewna. Bardziej odpowiedni dla osób szukających podstawowego wprowadzenia do okowit niż złożonego doświadczenia degustacyjnego."
 },
 
 {
@@ -2008,10 +2008,10 @@
   "Klient chce mniej słodki miód niż półtorak",
   "Klient szuka bardziej zbalansowanego, mniej gęstego stylu",
   "Na pierwszy kontakt z miodem pitnym, ale w bardziej charakternej wersji"
-]
+],
 
   "howToPresent": "Dwójniak o zbalansowanej słodyczy, wzbogacony ekstraktem z kory dębu i przyprawami. Zachowuje głębię miodu, ale jest mniej gęsty i bardziej przystępny niż półtorak. Delikatne nuty dębowe i korzenne dodają mu większej złożoności i charakteru."
-
+},
 {
   "slug": "specjal-podlaski-slodkie",
   "name": "Specjał Podlaski Słodki",
@@ -2047,6 +2047,7 @@
 "salesTip": [
   "Lepsza alternatywa dla Bocian smakowy 40% (kordiał) oraz smakowych wódek Dębowa (Lis, Ryś, Dzik, Sowa)"
 ]
+},
 
 {
   "slug": "old-polish-jarzebinowa",
@@ -2082,11 +2083,12 @@
 
   "whenToOffer": [
     "Klient szuka eleganckiego prezentu i opakowania",
-    "Klient szuka produktu, który od razu robi wrażenie przy wręczeniu"",
+    "Klient szuka produktu, który od razu robi wrażenie przy wręczeniu",
     "Alternatywa dla tych którzy szukają belvedera czy Chopina Rye z kieliszkami"
   ],
 
   "howToPresent": "Rocznikowana wódka z certyfikowanego żyta bio (46,2%), produkowana w małych partiach. Długie dojrzewanie nadaje jej bardziej złożony charakter z  wyraźnymi nutami surowca. Mniej neutralna niż standardowe wódki premium. Opakowanie z kieliszkami stanowią gotowe rozwiązanie na prezent"
+},
 
 {
   "slug": "old-polish-wisniowa-manufakturowa",
@@ -2141,12 +2143,7 @@
     }
   ],
 
-  "howToPresent": "Seria bardzo mocnych wódek smakowych (63%) opartych na polskim spirytusie, o intensywnym i wyrazistym charakterze.
-
-Są 3 warianty
-– Ziemniaczany: Oparta na spirytusie ziemniaczanym, bardziej miękka, zaokrąglona i lekko oleista w strukturze, wysoka moc 63% nadaje mu wyraźny, pełniejszy charakter, 
-– Leśny: na bazie żyta, o profilu ziołowo-korzennym z dodatkiem miodu lipowego,
-– Śliwkowy: na bazie żyta, z wyraźną nutą śliwki, łączący owocowy akcent z wysoką mocą alkoholu."
+"howToPresent": "Seria bardzo mocnych wódek smakowych (63%) opartych na polskim spirytusie, o intensywnym i wyrazistym charakterze.\n\nSą 3 warianty:\n- Ziemniaczany oparty na spirytusie ziemniaczanym, bardziej miękka, zaokrąglona i lekko oleista w strukturze, wysoka moc 63% nadaje mu wyraźny, pełniejszy charakter.\n- Leśny na bazie żyta, o profilu ziołowo-korzennym z dodatkiem miodu lipowego.\n- Śliwkowy na bazie żyta, z wyraźną nutą śliwki, łączący owocowy akcent z wysoką mocą alkoholu."
 },
 
 {
@@ -2163,13 +2160,14 @@ Są 3 warianty
 "Alternatywa dla wódek smakowych (np. Absolut), bardziej złożony i naturalny profil",
 "Pomysł na prezent dla osoby, która lubi wódki smakowe",
 "Dobra baza do koktajli i long drinków"
-]
+],
 
   "howToPresent": "Wódka smakowa na bazie żyta o wyjątkowo miękkim charakterze. Nuty czekolady i pomarańczy powstają dzięki osobnej destylacji składników w próżni, co pozwala zachować ich naturalny aromat i precyzję. Produkt wyróżnia się także unikalną, designerską butelką.",
 
-  "salesTip": 
+  "salesTip": [
   "Dla klientów z Polski można dodać, że używana jest prawdziwa czekolada (np. Wedel), dzięki czemu smak jest bardziej autentyczny i znajomy",
   "Smak przypomina Jaffa Cakes (UK) lub Delicje (PL) – czekolada + pomarańcza, pomaga szybko wyobrazić smak tego produktu"
+  ]
 },
 
 {
@@ -2186,9 +2184,10 @@ Są 3 warianty
 "Alternatywa dla wódek smakowych, a także niektórych ginów",
 "Pomysł na prezent dla osoby, która lubi wódki smakowe/giny",
 "Dobra baza do koktajli i long drinków"
-]
+],
 
   "howToPresent": "Wódka smakowa oparta na żytniej bazie o wyjątkowo łagodnym charakterze. Aromaty pomarańczy i jaśminu uzyskiwane są poprzez osobną destylację składników w próżni, co pozwala zachować ich naturalną intensywność i czystość. Dzięki temu profil jest świeży, lekki i nieprzytłaczający. Całość uzupełnia charakterystyczna, designerska butelka, która wyróżnia produkt na półce."
+},
 
 {
   "slug": "tessellis-white-chocolate-pineapple",
@@ -2201,9 +2200,9 @@ Są 3 warianty
 
   "whenToOffer": [
 "Klient szuka czegoś słodszego, ale nadal w formie wódki",
-"Dla osób lubiących deserowe i egzotyczne smaki"
+"Dla osób lubiących deserowe i egzotyczne smaki",
 "Dla osób, które nie lubią mocnego alkoholu  i szukają czegoś łagodnego, przyjemnego i łatwego do picia"
-]
+],
 
   "howToPresent": "Wódka smakowa oparta na żytniej bazie o wyjątkowo łagodnym charakterze. Aromaty białej czekolady i ananasa uzyskiwane są poprzez osobną destylację składników w próżni, co pozwala zachować ich naturalną intensywność i czystość. Dzięki temu profil jest wyraźnie bardziej deserowy, z delikatną słodyczą i egzotycznym akcentem, ale pozostaje dobrze zbalansowany. Całość uzupełnia charakterystyczna, designerska butelka, która wyróżnia produkt na półce.",
 
@@ -2243,7 +2242,7 @@ Są 3 warianty
 "Klient szuka klasycznego ginu do Gin&tonik",
 "Dla osób, które preferują delikatniejsze i bardzo świeże profile ginów",
 "Dobra opcja na prezent dzięki unikalnej butelce"
-]
+],
 
   "howToPresent": "Rzemieślniczy London Dry Gin oparty na polskim spirytusie żytnim, co nadaje mu bardziej miękką i pełniejszą strukturę. Klasyczna baza jałowcowa została uzupełniona o cytrusy oraz nuty jaśminu, hibiskusa. Świeży, elegancki i dobrze zbalansowany. Całość podkreśla charakterystyczna, designerska butelka, która wyróżnia produkt na półce."
 },
@@ -2257,12 +2256,12 @@ Są 3 warianty
   "abv": "40%",
   "image": "bottle_img/tessellis_gin_pink.webp",
 
-  ""whenToOffer": [
+  "whenToOffer": [
 "Klient szuka czegoś świeżego, owocowego i łatwego w odbiorze",
 "Dla osób, które lubią pink giny",
 "Idealny do lekkich drinków i Gin&toniku, szczególnie na cieplejsze dni",
 "Dobra opcja na prezent dzięki atrakcyjnemu wyglądowi i stylowi"
-]
+],
 
   "howToPresent": "Rzemieślniczy pink gin na bazie polskiego spirytusu żytniego, łączący klasyczne nuty jałowca z wyraźnym, świeżym profilem owocowym. Wykorzystanie sezonowych owoców i botaników (m.in. jagody, truskawki, hibiskusa, rabarbaru) nadaje mu naturaly i bardzo aromatyczny charakter. Świeży, owocowy, ale nadal zachowujący styl ginu."
 },
@@ -2280,7 +2279,7 @@ Są 3 warianty
 "Dla osób, które lubią eksperymentalne lub dojrzewające alkohole",
 "Alternatywa dla whisky lub innych alkoholi leżakowanych w beczce",
 "Klient szuka nietypowego ginu, który wyróżnia się na tle standardowych propozycji"
-]
+],
 
   "howToPresent": "Wyjątkowy gin finiszowany w beczce po porto, co nadaje mu bardziej złożony i elegancki charakter. Łączy klasyczne nuty jałowca z wyraźnym profilem owocowym (tarnina, dereń, malina) oraz subtelnymi akcentami dębu i wanilii. Wyższa moc (49,6%) podkreśla strukturę i intensywność aromatów.",
 
@@ -2319,8 +2318,8 @@ Są 3 warianty
   "whenToOffer": [
 "Klient szuka śliwowicy lub destylatu śliwkowego",
 "Alternatywa dla osób, które lubią rakiję, palinkę lub inne mocne destylaty owocowe",
-"Dobra jako pierwsza śliwowica, bardziej delikatna i łagodniejsza, a także lekko słodka""
-]
+"Dobra jako pierwsza śliwowica, bardziej delikatna i łagodniejsza, a także lekko słodka"
+],
 
   "howToPresent": "Rzemieślnicza śliwowica o mocy 50%, dojrzewająca w dębowych beczkach po miodzie pitnym. Intensywny owocowy charakter z nutą miodu i śliwki"
 },
@@ -2436,9 +2435,9 @@ Są 3 warianty
        "Klient szuka prawdziwej nalewki, a nie słodkiego likieru",
        "Klient chce coś wiśniowego, ale bardziej naturalnego i mniej słodkiego",
        "Alternatywa dla osób szukających Wiśniewskiego w bardziej rzemieślniczej wersji"
-]
+],
 
-    "howToPresent":Prawdziwa nalewka wiśniowa – bardziej naturalna i mniej słodka niż likiery. Wyraźny, soczysty smak wiśni z delikatną, naturalną słodyczą",
+    "howToPresent":"Prawdziwa nalewka wiśniowa – bardziej naturalna i mniej słodka niż likiery. Wyraźny, soczysty smak wiśni z delikatną, naturalną słodyczą",
 
     "salesTip": [
 "Producent odpowiada również za produkcje Wiśniewskiego. Longinus jest bardziej rzemieślniczy i mniej słodki"
