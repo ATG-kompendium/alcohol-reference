@@ -100,13 +100,12 @@
   "image": "bottle_img/tanqueray10.webp",
 
   "whenToOffer": [
-    "Klient szuka premium ginu do martini",
-    "Lubi świeże cytrusowe nuty",
-    "Alternatywa dla Monkey 47"
-  ],
+"Klient szuka bardziej premium i eleganckiego London Dry",
+"Dla osób lubiących świeże, wyraźnie cytrusowe profile",
+"Świetny wybór do Gin & Tonik",
+]
 
-  "howToPresent": "Premium wersja Tanqueray destylowana ze świeżymi cytrusami. Bardziej elegancka i zbalansowana niż klasyczna wersja."
-},
+  "howToPresent": "Premium London Dry o bardzo świeżym i eleganckim charakterze. W przeciwieństwie do klasycznych ginów wykorzystuje destylację całych świeżych cytrusów, a nie tylko skórek, co nadaje mu wyjątkowo naturalny i intensywnie cytrusowy profil. Bardzo dobrze zbalansowany, czysty i idealny do Martini oraz premium Gin & Tonic."
 
 {
   "slug": "tanqueray-sevilla",
@@ -118,13 +117,12 @@
   "image": "bottle_img/tanqueray_sevilla.webp",
 
   "whenToOffer": [
-    "Klient szuka bardziej owocowego ginu",
-    "Do lekkiego Gin & Tonic",
-    "Letni styl"
-  ],
+"Klient szuka bardziej cytrusowego i delikatniejszego ginu",
+"Dla osób, które normalnie nie piją klasycznych ginów",
+"Świetny wybór do lekkiego Gin & Tonic lub spritzów"
+]
 
-  "howToPresent": "Pomarańczowa wersja Tanqueray inspirowana sewilskimi pomarańczami. Łagodniejsza i bardziej owocowa."
-},
+  "howToPresent": "Gin inspirowany smakiem sewilskich pomarańczy i angielskiej marmolady pomarańczowej. Wyraźnie bardziej cytrusowy, delikatniejszy i lekko słodszy niż klasyczny Tanqueray, z bardzo świeżym i łatwym profilem. Świetnie sprawdza się w lekkim Gin & Tonic oraz letnich koktajlach."
 
 {
   "slug": "malfy-gin",
