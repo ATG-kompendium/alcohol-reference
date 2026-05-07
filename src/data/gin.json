@@ -176,6 +176,25 @@
 },
 
 {
+  "slug": "hendricks-gin",
+  "name": "Hendrick’s Gin",
+  "subtitle": "Scottish Gin · Szkocja",
+  "category": "gin",
+  "country": "United Kingdom",
+  "abv": "41.4%",
+  "image": "bottle_img/hendricks.webp",
+
+"whenToOffer": [
+  "Klient szuka bardziej nowoczesnego i nietypowego stylu ginu",
+  "Dla fanów marki Hendrick’s",
+  "Osób lubiących delikatniejsze, kwiatowe       profile",
+  "Alternatywa dla klasycznego Hendrick’s"
+],
+
+"howToPresent": "Nietypowa interpretacja klasycznego Hendrick’s, stworzona wokół nut kakao i kwiatu pomarańczy. Bardziej jasny, delikatny i kremowy w odbiorze niż klasyczny Hendrick’s, ale nadal zachowujący charakterystyczną świeżość marki. Nie jest to gin smakowy, a raczej alternatywna odsłona klasycznego stylu Hendrick’s."
+},
+
+{
   "slug": "hendricks-amazonia",
   "name": "Hendrick’s Amazonia",
   "subtitle": "Limited Edition · Szkocja",
@@ -223,12 +242,13 @@
   "image": "bottle_img/monkey47.webp",
 
   "whenToOffer": [
-    "Klient szuka bardzo złożonego ginu",
-    "Gin premium",
-    "Alternatywa dla Tanqueray Ten"
-  ],
+  "Klient szuka bardzo złożonego i intensywnego ginu",
+  "Dla osób lubiących wyraźne botaniczne profile",
+  "Fan klasycznych i bardziej wytrawnych ginów premium",
+  "Świetny wybór do degustacji sauté oraz premium koktajli"
+]
 
-  "howToPresent": "Destylowany z 47 botaników. Bardzo złożony, intensywny, wyraźnie premium."
+  "howToPresent": "Niemiecki premium gin z Schwarzwaldu tworzony z aż 47 składników botanicznych. Bardzo złożony, intensywny i wielowarstwowy profil z wyraźnym jałowcem, cytrusami, ziołami oraz leśnymi nutami. Jeden z najbardziej charakterystycznych i cenionych ginów premium na rynku."
 },
 
 {
