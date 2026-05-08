@@ -246,7 +246,7 @@
   "Dla osób lubiących wyraźne botaniczne profile",
   "Fan klasycznych i bardziej wytrawnych ginów premium",
   "Świetny wybór do degustacji sauté oraz premium koktajli"
-]
+],
 
   "howToPresent": "Niemiecki premium gin z Schwarzwaldu tworzony z aż 47 składników botanicznych. Bardzo złożony, intensywny i wielowarstwowy profil z wyraźnym jałowcem, cytrusami, ziołami oraz leśnymi nutami. Jeden z najbardziej charakterystycznych i cenionych ginów premium na rynku."
 },
@@ -260,13 +260,14 @@
   "abv": "42%",
   "image": "bottle_img/engine.webp",
 
-  "whenToOffer": [
-    "Klient ceni design",
-    "Szukający czegoś nowoczesnego",
-    "Prezent"
-  ],
+"whenToOffer": [
+"Klient szuka czegoś bardzo nietypowego wizualnie",
+"Świetny wybór na prezent",
+"Dla osób lubiących świeże, ziołowe i cytrusowe profile",
+"Fan włoskiego stylu aperitivo i nowoczesnych ginów"
+],
 
-  "howToPresent": "Organiczny gin inspirowany motoryzacją. Świeży, ziołowo-cytrusowy."
+  "howToPresent": "Włoski gin organiczny o bardzo świeżym i nowoczesnym charakterze. Wyraźnie ziołowy i cytrusowy, z nutami szałwii, cytryny oraz delikatnego jałowca. Charakterystyczna puszka inspirowana olejem silnikowym nadaje mu bardzo unikalny i rozpoznawalny styl."
 },
 
 {
