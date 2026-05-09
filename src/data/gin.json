@@ -262,12 +262,11 @@
 
 "whenToOffer": [
 "Klient szuka czegoś bardzo nietypowego wizualnie",
-"Świetny wybór na prezent",
-"Dla osób lubiących świeże, ziołowe i cytrusowe profile",
-"Fan włoskiego stylu aperitivo i nowoczesnych ginów"
+"Dla osób lubiących intensywne, świeże, ziołowe i cytrusowe profile",
+"Do intensywniejszej wersji Gin & tonik"
 ],
 
-  "howToPresent": "Włoski gin organiczny o bardzo świeżym i nowoczesnym charakterze. Wyraźnie ziołowy i cytrusowy, z nutami szałwii, cytryny oraz delikatnego jałowca. Charakterystyczna puszka inspirowana olejem silnikowym nadaje mu bardzo unikalny i rozpoznawalny styl."
+  "howToPresent": "Włoski gin organiczny o bardzo świeżym i nowoczesnym charakterze. Intensywny, wyraźnie ziołowy i cytrusowy. Charakterystyczna butelka inspirowana olejem silnikowym nadaje mu bardzo unikalny i rozpoznawalny styl."
 },
 
 {
@@ -279,13 +278,13 @@
   "abv": "43%",
   "image": "bottle_img/gunpowder.webp",
 
-  "whenToOffer": [
-    "Klient szuka nietypowego ginu",
-    "Z nutą herbaty",
-    "Coś bardziej aromatycznego"
-  ],
+   "whenToOffer": [
+  "Klient szuka czegoś bardziej orientalnego i nietypowego",
+  "Dla osób lubiących świeże herbaciane i cytrusowe profile",
+  "Świetny wybór do nowoczesnego Gin & Tonic"
+],
 
-  "howToPresent": "Irlandzki gin z dodatkiem zielonej herbaty Gunpowder. Ziołowy i cytrusowy."
+  "howToPresent": "Irlandzki gin o bardzo świeżym i charakterystycznym profilu z dodatkiem chińskiej herbaty Gunpowder. Łączy klasyczny jałowiec z nutami cytrusów, herbaty oraz orientalnych przypraw, tworząc bardzo aromatyczny i nowoczesny styl ginu."
 },
 
 {
@@ -303,7 +302,7 @@
     "Premium London Dry alternatywa"
   ],
 
-  "howToPresent": "Destylowany z 22 lokalnych botaników z Islay. Bardzo ziołowy i wytrawny."
+  "howToPresent": "Szkocki gin z wyspy Islay tworzony z 22 lokalnych dzikich botaników zbieranych ręcznie. Bardzo świeży,intensywnie ziołowy i jałowcowy profil z wyraźną roślinnością, delikatnymi kwiatami."
 },
 
 {
@@ -315,13 +314,13 @@
   "abv": "43%",
   "image": "bottle_img/silent_pool.jpg",
 
-  "whenToOffer": [
-    "Klient ceni estetyczne butelki",
-    "Prezent premium",
-    "Elegancki gin"
-  ],
+   "whenToOffer": [
+  "Klient szuka eleganckiego i premium ginu",
+  "Dla osób lubiących świeże, delikatnie kwiatowe profile",
+  "Świetny wybór na prezent dzięki charakterystycznej butelce",
+],
 
-  "howToPresent": "Bogaty, cytrusowo-kwiatowy gin w charakterystycznej turkusowej butelce."
+  "howToPresent": "Angielski premium gin o bardzo świeżym, eleganckim i harmonijnym charakterze. Łączy klasyczny jałowiec z nutami cytrusów, kwiatów i delikatnych przypraw, tworząc wyjątkowo gładki i dobrze zbalansowany profil. Charakterystyczna turkusowa butelka mocno wyróżnia produkt na półce."
 },
 
 {
@@ -333,13 +332,14 @@
   "abv": "40%",
   "image": "bottle_img/beefeater.webp",
 
-  "whenToOffer": [
-    "Klient szuka klasycznego London Dry",
-    "Do klasycznego G&T",
-    "Budżetowy gin znanej marki"
-  ],
+    "whenToOffer": [
+  "Klient szuka klasycznego London Dry",
+  "Dla osób lubiących bardziej wytrawne i jałowcowe profile",
+  "Świetny wybór do klasycznych koktajli ginowych",
+  "Rozpoznawalna marka – łatwa decyzja zakupowa"
+],
 
-  "howToPresent": "Klasyczny londyński styl, wyraźny jałowiec i cytrusy."
+ "howToPresent": "Klasyczny London Dry o wyraźnym jałowcu, cytrusach i bardziej wytrawnym charakterze. Bardzo tradycyjny i barowy styl ginu, dobrze sprawdzający się zarówno w Gin & Tonic, jak i klasycznych koktajlach."
 },
 
 {
@@ -352,11 +352,12 @@
   "image": "bottle_img/gordons.webp",
 
   "whenToOffer": [
-    "Klient szuka budżetowego ginu",
-    "Bezpieczny wybór do drinków"
-  ],
+"Klient szuka prostego i budżetowego ginu",
+"Bezpieczny wybór do Gin & Tonic",
+"Klasyczny, łatwy w odbiorze London Dry"
+],
 
-  "howToPresent": "Popularny i przystępny London Dry.",
+ "howToPresent": "Klasyczny London Dry o prostym o intensywnym charakterze. Wyraźny jałowiec, cytrusy i tradycyjny styl sprawiają, że bardzo dobrze sprawdza się w prostym Gin & Tonic.",
 
   "variants": [
     {
@@ -379,13 +380,13 @@
   "abv": "44%",
   "image": "bottle_img/citadelle.webp",
 
-  "whenToOffer": [
-    "Klient szuka francuskiego ginu",
-    "Gin bardziej aromatyczny",
-    "Alternatywa dla Hendrick’s"
-  ],
+    "whenToOffer": [
+  "Klient szuka bardziej eleganckiego i zbalansowanego stylu ginu",
+  "Dla osób lubiących świeże, cytrusowo-kwiatowe profile",
+  "Świetny wybór do Gin & Tonic oraz koktajli"
+],
 
-  "howToPresent": "Francuski gin destylowany tradycyjnie, z wyraźną nutą cytrusów i przypraw."
+  "howToPresent": "Francuski gin premium o bardzo eleganckim i dobrze zbalansowanym charakterze. Łączy klasyczny jałowiec z wyraźnymi nutami cytrusów, kwiatów i delikatnych przypraw, tworząc świeży i harmonijny profil. Delikatniejszy niż wiele klasycznych London Dry."
 },
 
 {
@@ -398,12 +399,12 @@
   "image": "bottle_img/ginmare.webp",
 
   "whenToOffer": [
-    "Klient szuka śródziemnomorskiego stylu",
-    "Do wytrawnego G&T",
-    "Alternatywa dla klasycznego London Dry"
-  ],
+  "Klient szuka bardziej ziołowego, wytrawnego, oleistego ginu",
+  "Świetny wybór do gastronomii, tapas i wytrawnych koktajli",
+  "Alternatywa dla klasycznych London Dry"
+],
 
-  "howToPresent": "Śródziemnomorski gin z nutami oliwek, rozmarynu i bazylii."
+  "howToPresent": "Hiszpański gin inspirowany kuchnią śródziemnomorską, z wyraźnymi nutami rozmarynu, bazylii, tymianku i oliwek. Bardziej ziołowy, wytrawny i gastronomiczny niż klasyczne London Dry, z bardziej kremową i lekko oleistą strukturą. Bardzo charakterystyczny, aromatyczny i idealnie pasuje do wytrawnych koktajlach oraz klasycznego Gin & Tonic."
 },
 
 {
@@ -415,31 +416,13 @@
   "abv": "40%",
   "image": "bottle_img/bulldog.webp",
 
-  "whenToOffer": [
-    "Nowoczesny design",
-    "Gin do klubowych drinków",
-    "Mniej intensywny jałowiec"
-  ],
+    "whenToOffer": [
+  "Klient szuka nowoczesnego i łatwego w odbiorze London Dry",
+  "Dla osób, które nie lubią bardzo agresywnego jałowca",
+  "Alternatywa dla bardziej klasycznych i ostrzejszych ginów"
+],
 
-  "howToPresent": "Nowoczesny, łagodniejszy London Dry z egzotycznymi botanikami."
-},
-
-{
-  "slug": "roku-gin",
-  "name": "Roku Gin",
-  "subtitle": "Japanese Craft Gin · Japonia",
-  "category": "gin",
-  "country": "Japan",
-  "abv": "43%",
-  "image": "bottle_img/roku.webp",
-
-  "whenToOffer": [
-    "Klient szuka japońskiego alkoholu",
-    "Fan whisky japońskiej",
-    "Gin delikatny i elegancki"
-  ],
-
-  "howToPresent": "Japoński gin z 6 lokalnymi botanikami: sakura, yuzu, zielona herbata. Bardzo czysty i elegancki."
+  "howToPresent": "Nowoczesny London Dry o łagodniejszym i bardziej gładkim charakterze niż klasyczne style. Łączy jałowiec z wyraźnymi nutami cytrusów, przypraw i delikatnych kwiatów, tworząc bardzo uniwersalny i łatwy w odbiorze profil."
 },
 
 {
@@ -451,13 +434,14 @@
   "abv": "40%",
   "image": "bottle_img/gvine.webp",
 
-  "whenToOffer": [
-    "Klient szuka czegoś delikatniejszego",
-    "Gin mniej jałowcowy",
-    "Alternatywa dla Ciroc"
-  ],
+    "whenToOffer": [
+  "Klient szuka bardziej delikatnego i eleganckiego stylu ginu",
+  "Dla osób, które nie lubią bardzo wytrawnych London Dry",
+  "Alternatywa dla klasycznych ginów zbożowych",
+  "Świetny wybór do bardziej lekkich i aromatycznych koktajli"
+],
 
-  "howToPresent": "Gin destylowany z winogron zamiast zboża. Bardziej miękki i kwiatowy."
+  "howToPresent": "Francuski gin tworzony na bazie spirytusu winogronowego zamiast klasycznego alkoholu zbożowego. Dzięki temu profil jest bardziej miękki, zaokrąglony i elegancki niż w większości London Dry. Delikatne nuty kwiatowe i świeże botaniczne aromaty nadają mu bardzo lekki i nowoczesny charakter."
 },
 
 {
