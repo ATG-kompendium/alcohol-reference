@@ -437,7 +437,6 @@
     "whenToOffer": [
   "Klient szuka bardziej delikatnego i eleganckiego stylu ginu",
   "Dla osób, które nie lubią bardzo wytrawnych London Dry",
-  "Alternatywa dla klasycznych ginów zbożowych",
   "Świetny wybór do bardziej lekkich i aromatycznych koktajli"
 ],
 
@@ -453,13 +452,13 @@
   "abv": "44%",
   "image": "bottle_img/generous.webp",
 
-  "whenToOffer": [
-    "Klient szuka ginu organicznego",
-    "Nowoczesny design",
-    "Prezent"
-  ],
+   "whenToOffer": [
+  "Klient szuka eleganckiego i nowoczesnego stylu ginu",
+  "Dla osób lubiących świeże, cytrusowe i delikatnie kwiatowe profile", 
+  "Świetna opcja na prezent dzięki charakterystycznej, wyróżniającej się butelce"
+], 
 
-  "howToPresent": "Francuski gin organiczny, lekko kwiatowy i cytrusowy. Bardzo estetyczna butelka."
+  "howToPresent": "Francuski gin premium o bardzo świeżym i eleganckim charakterze. Łączy klasyczny jałowiec z wyraźnymi nutami cytrusów, kwiatów i delikatnych przypraw, tworząc lekki, nowoczesny i bardzo dobrze zbalansowany profil. Charakterystyczna biała butelka mocno wyróżnia produkt na półce i podkreśla jego nowoczesny, francuski styl."
 },
 
 {
@@ -471,13 +470,13 @@
   "abv": "43%",
   "image": "bottle_img/edinburgh.webp",
 
-  "whenToOffer": [
-    "Klient szuka szkockiego ginu",
-    "Gin wytrawny",
-    "Alternatywa dla London Dry"
-  ],
+    "whenToOffer": [
+  "Klient szuka lekkiego i łatwego w odbiorze klasycznego ginu",
+  "Dla osób lubiących świeże, cytrusowe profile",
+  "Alternatywa dla cięższych i bardziej jałowcowych London Dry"
+],
 
-  "howToPresent": "Szkocki gin o klasycznym profilu, z wyraźnym jałowcem i cytrusami."
+  "howToPresent": "Szkocki gin o świeżym, lekkim i dobrze zbalansowanym charakterze. Łączy klasyczny jałowiec z wyraźnymi nutami cytrusów i delikatnych przypraw, tworząc bardzo uniwersalny i łatwy w odbiorze profil."
 },
 
 {
@@ -489,30 +488,30 @@
   "abv": "40%",
   "image": "bottle_img/edinburgh_rhubarb.webp",
 
-  "whenToOffer": [
-    "Klient szuka owocowego ginu",
-    "Gin mniej wytrawny",
-    "Letnie drinki"
-  ],
+    "whenToOffer": [
+  "Klient szuka bardziej owocowego i delikatniejszego stylu ginu",
+  "Dla osób lubiących rabarbar, lekką słodycz i świeżość",
+  "Świetny wybór do letnich Gin & Tonic oraz lekkich koktajli"
+],
 
-  "howToPresent": "Gin z dodatkiem rabarbaru i imbiru. Bardziej owocowy i łagodniejszy."
+  "howToPresent": "Szkocki gin o świeżym i owocowym charakterze z wyraźnymi nutami rabarbaru i delikatnego imbiru. Bardziej lekki, łagodny i przystępny niż klasyczne London Dry, z dobrze zbalansowaną świeżością i subtelną słodyczą."
 },
 
 {
   "slug": "gin-xii",
   "name": "Gin XII",
-  "subtitle": "Mediterranean Gin · Włochy",
   "category": "gin",
-  "country": "Italy",
+  "country": "France",
   "abv": "40%",
   "image": "bottle_img/gin_xii.webp",
 
   "whenToOffer": [
-    "Klient szuka włoskiego stylu",
-    "Gin z nutami ziołowymi",
-    "Alternatywa dla Malfy"
-  ],
+"Klient szuka świeżego i śródziemnomorskiego stylu ginu",
+"Dla osób lubiących ziołowe i cytrusowe profile",
+"Alternatywa dla bardziej klasycznych London Dry",
+"Świetny wybór do lekkiego premium Gin & Tonic"
+],
 
-  "howToPresent": "Śródziemnomorski gin z ziołami i cytrusami. Lekki i aromatyczny."
+  "howToPresent": "Francuski gin inspirowany stylem Riwiery Francuskiej i ziołami Prowansji. Świeży, lekki i elegancki profil z wyraźnymi nutami cytrusów, tymianku, bazylii i rozmarynu. Bardziej śródziemnomorski i aromatyczny niż klasyczne London Dry."
 }
 ]
