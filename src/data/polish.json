@@ -2283,7 +2283,9 @@
 
   "howToPresent": "Wyjątkowy gin finiszowany w beczce po porto, co nadaje mu bardziej złożony i elegancki charakter. Łączy klasyczne nuty jałowca z wyraźnym profilem owocowym (tarnina, dereń, malina) oraz subtelnymi akcentami dębu i wanilii. Wyższa moc (49,6%) podkreśla strukturę i intensywność aromatów.",
 
-"salesTip": "Warto podkreślić finisz w beczce po porto, to nadaje ginowi nuty znane z whisky i rumu, co może zainteresować klientów spoza kategorii ginu."
+"salesTip": [
+  "Warto podkreślić finisz w beczce po porto, to nadaje ginowi nuty znane z whisky i rumu, co może zainteresować klientów spoza kategorii ginu."
+]
 
 },
 
@@ -2367,7 +2369,9 @@
 
     "howToPresent": "Sublimat to rekonstrukcja historycznego trunku z czasów Mikołaja Kopernika – destylat winny o bogatym, korzennym charakterze.",
 
-    "salesTip": ["Klient który potrzebuje czegoś podobnego, ale innego niz miod pitny, czegoś unikalnego, uzupełnić koszyk pojemnością 0,35l."],
+    "salesTip": [
+      "Klient który potrzebuje czegoś podobnego, ale innego niz miod pitny, czegoś unikalnego, uzupełnić koszyk pojemnością 0,35l."
+    ],
 
     "aroma": "Cynamon, goździki, miód, szafran, figi, pierniki.",
     "taste": "Słodko-korzenny, rozgrzewający, piernikowy.",
@@ -2391,7 +2395,9 @@
 
     "howToPresent": "Trunek inspirowany toruńskim piernikiem – korzenny, ciepły, idealny na zimę.",
 
-    "salesTip": ["Często mamy na sklepie taką sytuację że nie ma Malibu, aby nie stracić sprzedaż mozemy zaproponować Bacardi Carta Blanca + syrop kokosowy albo gotową Pina Coladę."],
+    "salesTip": [
+      "Często mamy na sklepie taką sytuację że nie ma Malibu, aby nie stracić sprzedaż mozemy zaproponować Bacardi Carta Blanca + syrop kokosowy albo gotową Pina Coladę."
+    ],
 
     "aroma": "Cynamon, goździki, imbir.",
     "taste": "Słodko-korzenny, rozgrzewający.",
@@ -2415,7 +2421,9 @@
 
     "howToPresent": "Polska brandy z jarzębiny – owocowa, wytrawna, z charakterystyczną cierpkością. Idealna dla miłośników mocnych trunków.",
 
-    "salesTip": ["Gdy klient szuka polskiej brandy – jarzębiak jaworzański jest naturalną alternatywą."],
+    "salesTip": [
+      "Gdy klient szuka polskiej brandy – jarzębiak jaworzański jest naturalną alternatywą."
+    ],
 
     "aroma": "Nuty dębowe, owoce jarzebiny.",
     "taste": "słodki, wyczuwalna nuta cierpkości.",
@@ -2493,7 +2501,9 @@
 
     "howToPresent": "Chopin Vintage Young Potato to jednokrotnie destylowany alkohol z młodych ziemniaków, leżakowany w dębowych beczkach.",
 
-    "salesTip": ["Często klienci szukają polską whisky, jedną z opcji wląśnie może być Vintage."],
+    "salesTip": [
+      "Często klienci szukają polską whisky, jedną z opcji wląśnie może być Vintage."
+    ],
 
     "aroma": "Delikatny, owocowy z nutami suszonej śliwki i gruszki, nuty suchego dębowego drewna",
     "taste": "Miękka, lekko słodka, z waniliowym akcentem.",
@@ -2519,7 +2529,9 @@
 
     "howToPresent": "Chopin Vintage to rzadkość – wódka ziemniaczana leżakowana w dębowych beczkach. Łączy czystość wódki z nutami znanymi z whisky.",
 
-    "salesTip": ["Często klienci szukają polską whisky, jedną z opcji wląśnie może być Vintage."],
+    "salesTip": [
+      "Często klienci szukają polską whisky, jedną z opcji wląśnie może być Vintage."
+    ],
 
     "aroma": "Intensywny i mocny suszone owoce, korzenie chrzanu.",
     "taste": "Wanilia, nuty dębu, gorzkiej czekolady, ziemistości.",
