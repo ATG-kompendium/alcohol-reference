@@ -10,11 +10,11 @@
 
   "whenToOffer": [
     "Klient szuka premium tequili",
-    "Do koktajli jak Margarita",
-    "Czysta tequila bez leżakowania"
+    "Klient szuka delikatnej i gładkiej tequili",
+    "Idealna do drinków jak margarita, ale również do picia solo"
   ],
 
-  "howToPresent": "Nieleżakowana tequila z 100% agawy Blue Weber. Świeża, cytrusowa, z nutą pieprzu i agawy."
+  "howToPresent": "Premium tequila blanco produkowana wyłącznie z agawy Weber 100% Blue Agave pochodzącej z regionu Highlands w Jalisco. Dzięki temu profil jest bardziej świeży, delikatny i lekko owocowy niż w wielu bardziej ziemistych stylach tequili. Wyraźna agawa połączona z nutami cytrusów i delikatnego pieprzu tworzy bardzo czysty, gładki i elegancki charakter."
 },
 
 {
@@ -26,13 +26,13 @@
   "abv": "40%",
   "image": "bottle_img/patron_reposado.webp",
 
-  "whenToOffer": [
-    "Klient chce łagodniejszą tequilę",
-    "Alternatywa dla Silver",
-    "Do picia solo"
-  ],
+"whenToOffer": [
+  "Klient szuka bardziej miękkiej i gładszej tequili niż blanco",
+  "Dla osób lubiących delikatny wpływ beczki bez dominacji drewna",
+  "Świetny wybór do picia solo lub na lodzie"
+],
 
-  "howToPresent": "Leżakowana w dębowych beczkach. Łączy świeżość agawy z nutami wanilii i lekkiego dębu."
+  "howToPresent": "Premium tequila reposado produkowana w 100% z agawy Weber Blue Agave z regionu Highlands w Jalisco. Dojrzewa w dębowych beczkach minimum 2 miesiące, dzięki czemu zachowuje świeżość agawy, ale zyskuje delikatniejsze nuty wanilii, drewna i przypraw. Bardziej miękka, zaokrąglona i elegancka niż klasyczne blanco."
 },
 
 {
@@ -44,12 +44,13 @@
   "abv": "40%",
   "image": "bottle_img/patron_anejo.webp",
 
-  "whenToOffer": [
-    "Klient szuka tequili premium do degustacji",
-    "Alternatywa dla whisky"
-  ],
+"whenToOffer": [
+  "Klient szuka bardziej złożonej, bogatszej, ale przy tym delikatnej w smaku tequili",
+  "Świetny wybór do picia solo lub na lodzie",
+  "Alternatywa dla whisky lub rumu premium"
+],
 
-  "howToPresent": "Dojrzewająca ponad rok w dębie. Głębsza, bardziej waniliowa i karmelowa niż Reposado."
+  "howToPresent": "Premium tequila añejo produkowana w 100% z agawy Weber Blue Agave z regionu Highlands w Jalisco. Dojrzewa minimum 12 miesięcy w beczkach z dębu amerykańskiego, dzięki czemu zyskuje bardziej zaokrąglony i elegancki charakter. Wyraźna agawa połączona z nutami wanilii, miodu, karmelu, drewna i delikatnych przypraw tworzy bardzo gładki profil"
 },
 
 {
@@ -61,13 +62,14 @@
   "abv": "40%",
   "image": "bottle_img/donjulio_blanco.webp",
 
-  "whenToOffer": [
-    "Klient szuka premium tequili do drinków",
-    "Do Margarity",
-    "Czysta agawa bez beczki"
+"whenToOffer": [
+  "Klient szuka bardziej wyrazistej tequili premium",
+  "Dla osób lubiących dominację agawy i pieprzne nuty",
+  "Świetny wybór do premium Margarita oraz picia solo",
+  "Alternatywa dla bardzo delikatnych stylów tequila blanco"
   ],
 
-  "howToPresent": "Tequila z 100% agawy Blue Weber. Świeża, cytrusowa, z wyraźnym charakterem agawy."
+  "howToPresent": "Premium tequila blanco produkowana w 100% z agawy Weber Blue Agave z Highlands Jalisco. Bardziej wyrazista i intensywniejsza w charakterze niż wiele delikatniejszych stylów tequila blanco, z mocniej zaznaczoną agawą, cytrusami i pieprznymi nutami. Nadal elegancka i dobrze zbalansowana, ale z bardziej wyrazistym profilem."
 },
 
 {
@@ -79,13 +81,14 @@
   "abv": "40%",
   "image": "bottle_img/donjulio_reposado.webp",
 
-  "whenToOffer": [
-    "Klient chce łagodniejszą tequilę",
-    "Do picia solo",
-    "Alternatywa dla Patrón Reposado"
-  ],
+"whenToOffer": [
+  "Klient szuka bardziej eleganckiej i wyrazistej tequili reposado",
+  "Dla osób lubiących wyraźną agawę z delikatnym wpływem beczki",
+  "Świetny wybór do picia solo lub premium koktajli",
+  "Alternatywa dla bardzo lekkich i delikatnych reposado"
+],
 
-  "howToPresent": "Leżakowana około 8 miesięcy w beczkach z amerykańskiego dębu. Wanilia, karmel i delikatne przyprawy."
+  "howToPresent": "Premium tequila reposado produkowana w 100% z agawy Weber Blue Agave z Highlands Jalisco. Dojrzewa minimum 2 miesiące w beczkach z amerykańskiego dębu, dzięki czemu zachowuje wyraźny charakter agawy, jednocześnie zyskując bardziej kremową strukturę oraz nuty wanilii, karmelu i delikatnych przypraw. Bardziej dojrzały i wyrazisty styl reposado niż bardzo delikatny Patrón."
 },
 
 {
