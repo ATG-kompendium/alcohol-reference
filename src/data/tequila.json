@@ -25,6 +25,7 @@
   "country": "Mexico",
   "abv": "40%",
   "image": "bottle_img/patron_reposado.webp",
+  "maturation": "Dojrzewa minimum 2 miesiące, według producenta około 4 miesięcy, w nowych beczkach z amerykańskiego dębu",
 
 "whenToOffer": [
   "Klient szuka bardziej miękkiej i gładszej tequili niż blanco",
@@ -43,6 +44,7 @@
   "country": "Mexico",
   "abv": "40%",
   "image": "bottle_img/patron_anejo.webp",
+  "maturation": "Dojrzewa minimum 12 miesięcy, według producenta około 12-15 miesięcy, w nowych beczkach z amerykańskiego dębu",
 
 "whenToOffer": [
   "Klient szuka bardziej złożonej, bogatszej, ale przy tym delikatnej w smaku tequili",
@@ -79,6 +81,7 @@
   "country": "Mexico",
   "abv": "40%",
   "image": "bottle_img/donjulio_reposado.webp",
+  "maturation": "Dojrzewa minimum 2 miesiące, według producenta około 8 miesięcy, w nowych beczkach z amerykańskiego dębu",
 
 "whenToOffer": [
   "Klient szuka bardziej eleganckiej i wyrazistej tequili reposado",
@@ -98,6 +101,7 @@
   "country": "Mexico",
   "abv": "40%",
   "image": "bottle_img/donjulio_anejo.webp",
+  "maturation": "Dojrzewa minimum 12 miesięcy, według producenta około 18 miesięcy, w nowych beczkach z amerykańskiego dębu",
 
   "whenToOffer": [
      "Klient szuka bardziej złożonej, bogatszej, eleganckiej tequili",
@@ -116,6 +120,7 @@
   "country": "Mexico",
   "abv": "40%",
   "image": "bottle_img/donjulio_cristalino.webp",
+  "maturation": "Dojrzewa około 18 miesięcy według producenta, w nowych beczkach z amerykańskiego dębu",
 
 "whenToOffer": [
   "Klient szuka bardzo gładkiej i owocowej tequili",
@@ -134,6 +139,7 @@
   "country": "Mexico",
   "abv": "40%",
   "image": "bottle_img/1800_reposado.webp",
+  "maturation": "minimum 2 miesiące w beczkach z amerykańskiego i francuskiego dębu",
 
 "whenToOffer": [
   "Klient szuka klasycznej i wyrazistej tequili reposado",
@@ -153,6 +159,7 @@
   "country": "Mexico",
   "abv": "40%",
   "image": "bottle_img/1800_anejo.webp",
+  "maturation": "minimum 12 miesięcy w beczkach z amerykańskiego i francuskiego dębu",
 
 "whenToOffer": [
   "Klient szuka bardziej beczkowej i intensywnej tequili",
@@ -164,6 +171,78 @@
 },
 
 {
+  "slug": "Teramana-blanco",
+  "name": "Teramana Blanco",
+  "subtitle": "Tequila Blanco · Meksyk",
+  "category": "tequila",
+  "country": "Mexico",
+  "abv": "40%",
+  "image": "bottle_img/teramana_blanco.webp",
+
+"whenToOffer": [
+  "Klient szuka bardziej nowoczesnej i jakościowej tequila blanco",
+  "Dla osób chcących poczuć wyraźniejszy charakter agawy",
+  "Klient szuka bardziej złożonego blanco niż lekkie imprezowe style"
+],
+
+  "howToPresent": "Premium tequila blanco produkowana w 100% z agawy Weber Blue Agave z regionu Highlands , dzięki czemu balansuje świeże cytrusowe i kwiatowe nuty z bardziej ziołowym oraz pieprznym charakterem. Produkowana bez dodatków (additive-free), z dużym naciskiem na terroir i naturalny profil agawy."
+},
+
+{
+  "slug": "Teramana-reposado",
+  "name": "Teramana Reposado",
+  "subtitle": "Tequila Reposado · Meksyk",
+  "category": "tequila",
+  "country": "Mexico",
+  "abv": "40%",
+  "image": "bottle_img/teramana_reposado.webp",
+  "maturation": "minimum 2 miesiące w beczkach z dębu amerykańskiego",
+
+"whenToOffer": [
+  "Klient szuka eleganckiej tequila reposado z dobrze zbalansowaną beczką",
+  "Dla osób lubiących połączenie świeżej agawy i delikatnego dojrzewania",
+  "Świetny wybór dla fanów nowoczesnych tequila premium"
+  ],
+
+ "howToPresent": "Tequila reposado produkowana w 100% z agawy Weber Blue Agave z regionu Highlands w Jalisco. Dojrzewa minimum 2 miesiące w nowych beczkach z amerykańskiego dębu, dzięki czemu zachowuje wyraźny charakter agawy, jednocześnie zyskując bardziej kremową strukturę oraz delikatne nuty wanilii, drewna i przypraw. Produkowana bez dodatków (additive-free)."
+},
+
+{
+  "slug": "Casamigos-blanco",
+  "name": "Casamigos Blanco",
+  "subtitle": "Tequila Blanco · Meksyk",
+  "category": "tequila",
+  "country": "Mexico",
+  "abv": "40%",
+  "image": "bottle_img/casamigos_blanco.webp",
+
+"whenToOffer": [
+"Klient szuka bardzo gładkiej i łatwej w odbiorze tequila blanco",
+"Świetny wybór do premium Margarita i nowoczesnych koktajli",
+"Tequila dla osób początkujących w tej kategorii"
+],
+
+ "howToPresent": "Premium tequila blanco produkowana w 100% z agawy Weber Blue Agave z regionu Highlands w Jalisco. Charakteryzuje się wyjątkowo gładkim i delikatnym profilem z nutami słodkiej agawy, wanilii, cytrusów oraz lekkich owocowych akcentów. Tworzona w bardziej nowoczesnym i przystępnym stylu niż klasyczne, mocno pieprzne tequila blanco."
+},
+
+{
+  "slug": "montelobos-joven",
+  "name": "Montelobos Joven",
+  "subtitle": "Mezcal Artesanal · Meksyk",
+  "category": "mezcal",
+  "country": "Mexico",
+  "abv": "43.2%",
+
+  "whenToOffer": [
+    "Klient chce spróbować klasycznego mezcalu po raz pierwszy",
+    "Dla osób szukających bardziej dymnego i wytrawnego alkoholu niż tequila",
+    "Świetny wybór dla fanów whisky torfowej lub bardziej intensywnych smaków"
+  ],
+
+  "howToPresent": "Rzemieślniczy mezcal joven kategorii artesanal produkowany w 100% z agawy Espadín w Oaxaca. Agawa pieczona jest w podziemnych piecach, a destylacja odbywa się w miedzianych alembikach, co nadaje alkoholowi charakterystyczne dymne, ziemiste i bardziej dzikie nuty. Obok dymu pojawiają się świeże cytrusy, zioła, pieprz oraz wyraźny charakter agawy. Bardziej wytrawny i intensywny styl niż klasyczna tequila."
+},
+
+{
   "slug": "san-jose-silver",
   "name": "San José Silver",
   "subtitle": "Tequila Silver · Meksyk",
@@ -172,12 +251,12 @@
   "abv": "38%",
   "image": "bottle_img/san_jose.webp",
 
-  "whenToOffer": [
-    "Klient szuka budżetowej tequili",
-    "Na imprezę",
-    "Do shotów z solą i cytryną"
-  ],
+"whenToOffer": [
+  "Klient szuka budżetowej tequili do imprez i shotów",
+  "Do prostych drinków i koktajli tequila",
+  "Dla osób szukających tańszej tequili na większe spotkania"
+],
 
-  "howToPresent": "Klasyczna tequila typu silver w przystępnej cenie. Lżejsza, mniej złożona, idealna do shotów i prostych drinków."
+"howToPresent": "Budżetowa tequila typu mixto produkowana w Meksyku. W przeciwieństwie do tequila 100% agave, część fermentowanych cukrów może pochodzić z innych źródeł niż sama agawa, najczęściej z trzciny cukrowej. Profil jest lżejszy, prostszy i mniej skoncentrowany na świeżej agawie niż w tequilach premium. Najlepiej sprawdza się w shotach oraz prostych drinkach i koktajlach."
 }
 ]
