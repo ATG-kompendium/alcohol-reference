@@ -5,7 +5,7 @@
   "subtitle": "Brandy · Polska",
   "category": "brandy",
   "country": "Poland",
-  "abv": "36%",
+  "abv": "38%",
   "image": "bottle_img/stock84.webp",
 
   "whenToOffer": [
@@ -23,15 +23,17 @@
   "subtitle": "French Brandy · Francja",
   "category": "brandy",
   "country": "France",
-  "abv": "40%",
+  "abv": "38%",
   "image": "bottle_img/three_barrels.webp",
+  "maturation": "Dojrzewanie w beczkach dębowych"
 
-  "whenToOffer": [
-    "Klient szuka taniej francuskiej brandy",
-    "Alternatywa dla VS"
-  ],
+"whenToOffer": [
+  "Klient szuka klasycznego francuskiego brandy w przystępnej cenie",
+  "Dla osób lubiących łagodniejsze i bardziej owocowe style brandy",
+  "Alternatywa dla cięższych i bardziej wytrawnych koniaków"
+],
 
-  "howToPresent": "Francuska brandy o klasycznym, karmelowo-waniliowym charakterze."
+  "howToPresent": "Francuskie brandy VSOP o łagodnym charakterze. Dojrzewanie w dębowych beczkach nadaje mu nuty wanilii, karmelu, suszonych owoców oraz delikatnych przypraw. Bardziej miękki, owocowy i przystępny styl niż bardziej intensywne i wytrawne koniaki."
 },
 
 {
@@ -42,13 +44,15 @@
   "country": "France",
   "abv": "40%",
   "image": "bottle_img/st_remy_xo.webp",
+  "maturation": "Dojrzewanie w beczkach z francuskiego dębu"
 
-  "whenToOffer": [
-    "Klient szuka tańszego XO",
-    "Alternatywa dla koniaku XO"
-  ],
+"whenToOffer": [
+  "Klient szuka bardziej bogatszego stylu brandy",
+  "Alternatywa dla koniaków VS",
+  "Świetny wybór do picia solo i robienia koktajli"
+],
 
-  "howToPresent": "Francuska brandy XO, bardziej złożona i dojrzalsza niż standardowe VSOP."
+  "howToPresent": "Francuskie brandy XO o bogatszym i bardziej złożonym charakterze. Dojrzewa w małych beczkach z francuskiego dębu, dzięki czemu zyskuje bardziej kremową strukturę oraz nuty wanilii, karmelu, tropikalnych owoców, drewna i delikatnych przypraw. Styl zbliżony do cognac VS."
 },
 
 {
@@ -59,14 +63,15 @@
   "country": "Greece",
   "abv": "38%",
   "image": "bottle_img/metaxa5.webp",
+  "maturation": "Około 5 lat w beczkach z francuskiego dębu Limousin"
 
-  "whenToOffer": [
-    "Klient szuka łagodnej brandy",
-    "Budżetowa opcja"
-  ],
+"whenToOffer": [
+  "Klient szuka łagodniejszego i bardziej przystępnego stylu brandy",
+  "Dla osób lubiących delikatnie słodsze i bardziej aromatyczne alkohole",
+  "Świetny wybór do picia solo, na lodzie lub w prostych drinkach",
+],
 
-  "howToPresent": "Grecki styl – łagodniejszy i słodszy niż koniak."
-},
+  "howToPresent": "Grecki alkohol tworzony z destylatów winnych, później dosładzany winami Muscat oraz doprawiany śródziemnomorskimi ziółami. Bardziej miękki, aromatyczny i lekko słodszy niż klasyczne francuskie brandy, z nutami miodu, suszonych owoców, wanilii oraz delikatnych przypraw. Bardzo łatwy i ciepły w odbiorze styl."
 
 {
   "slug": "metaxa-7",
@@ -76,30 +81,15 @@
   "country": "Greece",
   "abv": "40%",
   "image": "bottle_img/metaxa7.webp",
+  "maturation": "Około 7 lat w beczkach z francuskiego dębu Limousin",
 
-  "whenToOffer": [
-    "Klient zna Metaxę",
-    "Lepsza wersja niż 5"
-  ],
+"whenToOffer": [
+  "Klient szuka bogatszego i bardziej gładszego alkoholu niż Metaxa 5",
+  "Dla osób lubiących miękkie, lekko słodsze alkohole",
+  "Świetny wybór do picia solo lub na lodzie"
+],
 
-  "howToPresent": "Bardziej złożona i głębsza niż Metaxa 5."
-},
-
-{
-  "slug": "metaxa-12",
-  "name": "Metaxa 12",
-  "subtitle": "Greek Brandy · 12 gwiazdek",
-  "category": "brandy",
-  "country": "Greece",
-  "abv": "40%",
-  "image": "bottle_img/metaxa12.png",
-
-  "whenToOffer": [
-    "Klient szuka czegoś bardziej premium",
-    "Alternatywa dla VSOP"
-  ],
-
-  "howToPresent": "Najbardziej elegancka i dojrzała wersja Metaxy."
+  "howToPresent": "Grecki alkohol tworzony z destylatów winnych, później dosładzany winami Muscat oraz doprawiany śródziemnomorskimi ziółami. Bardziej bogaty, głębszy i gładszy niż Metaxa 5, z wyraźniejszymi nutami miodu, suszonych owoców, karmelu, wanilii i delikatnych przypraw. Nadal zachowuje bardzo miękki, ciepły i łatwy w odbiorze charakter."
 },
 
 {
@@ -111,10 +101,12 @@
   "abv": "40%",
   "image": "bottle_img/hennessy_vs.webp",
 
-  "whenToOffer": [
-    "Klient szuka znanego koniaku",
-    "Wejście w markę Hennessy"
-  ],
+"whenToOffer": [
+  "Klient szuka klasycznego i rozpoznawalnego koniaku",
+  "Dobry wybór do koktajli i mieszania",
+  "Dla osób zaczynających z kategorią koniaków",
+  "Klient szuka mocniejszego i bardziej wyrazistego stylu niż łagodniejsze brandy"
+],
 
   "howToPresent": "Najbardziej rozpoznawalny koniak świata. Intensywny i młodszy styl."
 },
