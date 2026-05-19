@@ -25,7 +25,7 @@
   "country": "France",
   "abv": "38%",
   "image": "bottle_img/three_barrels.webp",
-  "maturation": "Dojrzewanie w beczkach dębowych"
+  "maturation": "Dojrzewanie w beczkach dębowych",
 
 "whenToOffer": [
   "Klient szuka klasycznego francuskiego brandy w przystępnej cenie",
@@ -44,7 +44,7 @@
   "country": "France",
   "abv": "40%",
   "image": "bottle_img/st_remy_xo.webp",
-  "maturation": "Dojrzewanie w beczkach z francuskiego dębu"
+  "maturation": "Dojrzewanie w beczkach z francuskiego dębu",
 
 "whenToOffer": [
   "Klient szuka bardziej bogatszego stylu brandy",
@@ -63,15 +63,16 @@
   "country": "Greece",
   "abv": "38%",
   "image": "bottle_img/metaxa5.webp",
-  "maturation": "Około 5 lat w beczkach z francuskiego dębu Limousin"
+  "maturation": "Około 5 lat w beczkach z francuskiego dębu Limousin",
 
 "whenToOffer": [
   "Klient szuka łagodniejszego i bardziej przystępnego stylu brandy",
   "Dla osób lubiących delikatnie słodsze i bardziej aromatyczne alkohole",
-  "Świetny wybór do picia solo, na lodzie lub w prostych drinkach",
+  "Świetny wybór do picia solo, na lodzie lub w prostych drinkach"
 ],
 
   "howToPresent": "Grecki alkohol tworzony z destylatów winnych, później dosładzany winami Muscat oraz doprawiany śródziemnomorskimi ziółami. Bardziej miękki, aromatyczny i lekko słodszy niż klasyczne francuskie brandy, z nutami miodu, suszonych owoców, wanilii oraz delikatnych przypraw. Bardzo łatwy i ciepły w odbiorze styl."
+},
 
 {
   "slug": "metaxa-7",
@@ -100,6 +101,8 @@
   "country": "France",
   "abv": "40%",
   "image": "bottle_img/hennessy_vs.webp",
+  "maturation": "Od 2 do około 8 lat w nowych beczkach z francuskiego dębu",
+
 
 "whenToOffer": [
   "Klient szuka klasycznego i rozpoznawalnego koniaku",
@@ -108,7 +111,7 @@
   "Klient szuka mocniejszego i bardziej wyrazistego stylu niż łagodniejsze brandy"
 ],
 
-  "howToPresent": "Najbardziej rozpoznawalny koniak świata. Intensywny i młodszy styl."
+  "howToPresent": "Klasyczny francuski koniak VS tworzony z destylatów winnych pochodzących z regionu Cognac. Dojrzewa od 2 do około 8 lat w świeżo opalanych beczkach z francuskiego dębu, dzięki czemu zyskuje intensywniejszy charakter, jest lekko słodki, z nutami wanilii, przypraw, drewna i suszonych owoców. Bardziej strukturalny i wyrazisty niż prostsze style brandy."
 },
 
 {
@@ -119,14 +122,39 @@
   "country": "France",
   "abv": "40%",
   "image": "bottle_img/hennessy_vsop.webp",
+  "maturation": "Od 4 do 15 latw używanych beczkach z francuskiego dębu",
 
-  "whenToOffer": [
-    "Klient chce lepszą wersję niż VS",
-    "Prezent"
-  ],
+"whenToOffer": [
+  "Klient szuka bardziej eleganckiego i starszego koniaku niż VS",
+  "Dla osób lubiących bardziej gładki i zaokrąglony styl",
+  "Uniwersalny wybór i bezpieczny wybór, gdy klient nie wie jaki koniak wybrać"
+],
 
-  "howToPresent": "Bardziej elegancki i dojrzalszy niż VS."
+  "howToPresent": "Hennessy VSOP bardziej elegancki i zaokrąglony niż Hennessy VS. Jest blendem około 60 destylatów winnych. Dojrzewa od 4 do 15 lat w używanych beczkach z francuskiego dębu, dzięki czemu zyskuje gładszą strukturę oraz bardziej zintegrowane nuty wanilii, czekolady, przypraw, drewna, karmelu, suszonych owoców. Nadal zachowuje charakterystyczny dla Hennessy bardziej wyrazisty i intensywny styl."
 },
+
+  {
+    "slug": "james-hennessy",
+    "name": "James Hennessy",
+    "subtitle": "Koniak · Francja",
+    "category": "cognac",
+    "country": "France",
+    "abv": "40%",
+    "image": "bottle_img/james-hennessy.png",
+    "maturation": "Od 7 do 20 lat w używanych beczkach z francuskiego dębu",
+
+    "whenToOffer": [
+      "Klient szuka prestiżowego koniaku na prezent",
+      "Klient interesuje się historią marki Hennessy",
+      "Klient chce czegoś bardziej eleganckiego niż VSOP"
+    ],
+
+    "howToPresent": "James Hennessy to pozycja pomiędzy VSOP a XO. Bardziej głęboka niż VSOP, ale lżejsza i przystępniejsza niż klasyczne XO. Jest blendem około 80 destylatów winnych. Dojrzewa od 7 do 20 lat w używanych beczkach z francuskiego dębu. To bardziej limitowana i trudniej dostępna pozycja z segmentu Travel Retail Exclusive, zachowująca charakterystyczny styl Hennessy VSOP, ale w bardziej eleganckim i lepiej zintegrowanym wydaniu.",
+
+    "salesTip": [
+      "Butelkę zaprojektował Marc Newson - światowej sławy designer współpracujący m.in. z Apple, Louis Vuitton, co dodaje jej prestiżu i atrakcyjności jako prezentu."
+    ]
+  },
 
 {
   "slug": "hennessy-xo",
@@ -136,13 +164,20 @@
   "country": "France",
   "abv": "40%",
   "image": "bottle_img/hennessy_xo.webp",
+  "maturation": "Od 10 do 30 lat głównie w nowych, a póżniej w używanych beczkach z francuskiego dębu",
 
   "whenToOffer": [
-    "Klient szuka luksusowego koniaku",
-    "Prezent premium"
-  ],
+    "Klient szuka bardziej prestiżowego i luksusowego koniaku",
+    "Dla osób lubiących głęboki, intensywny i beczkowy styl",
+    "Świetny wybór na prezent premium lub specjalną okazję",
+    "Klient szuka bardziej kompleksowego stylu niż VSOP"
+],
 
-  "howToPresent": "Bardzo złożony i głęboki koniak klasy XO."
+  "howToPresent": "Ikoniczny francuski koniak XO stworzony z ponad 100 destylatów winnych pochodzących z regionu Cognac. Dojrzewa od 10 do nawet 30 lat w beczkach z francuskiego dębu, dzięki czemu zyskuje bardzo głęboki, intensywny i wielowarstwowy charakter. Wyraźne nuty przypraw, kakao, drewna, suszonych owoców, tytoniu i ciemnej czekolady tworzą bardziej potężny i skoncentrowany styl niż Hennessy VSOP.",
+
+      "salesTip": [
+      "Pierwszy koniak XO na rynku, wprowadzony przez Hennessy w 1870 roku. To ikona kategorii, która zdefiniowała standardy dla segmentu XO i nadal jest jednym z najbardziej rozpoznawalnych i cenionych koniaków na świecie."
+    ]
 },
 
 {
@@ -155,11 +190,17 @@
   "image": "bottle_img/hennessy_xxo.webp",
 
   "whenToOffer": [
-    "Klient szuka najwyższej półki",
-    "Ultra premium"
-  ],
+    "Klient szuka ultra premium i kolekcjonerskiego koniaku",
+    "Dla osób lubiących bardzo głęboki, wielowarstwowy i luksusowy styl",
+    "Wyjątkowy wybór na prestiżowy prezent lub specjalną okazję",
+   "Klient zna już XO i szuka jeszcze bardziej dojrzałego oraz ekskluzywnego doświadczenia"
+],
 
-  "howToPresent": "Najwyższa linia Hennessy – jeszcze bardziej złożony niż XO."
+  "howToPresent": "Hennessy XXO to ultra premium pozycja z segmentu Travel Retail Exclusive, stworzona z wyjątkowo dojrzałych destylatów winnych pochodzących z regionu Cognac. Dojrzewa minimum 14 lat w beczkach z francuskiego dębu, oferując jeszcze bardziej elegancką, głęboką i wielowarstwową interpretację stylu Hennessy XO. Nuty kakao, przypraw, drewna, tytoniu, suszonych owoców i ciemnej czekolady są bardziej zintegrowane, aksamitne i skoncentrowane niż w klasycznym XO.",
+
+    "salesTip": [
+"Hennessy był jednym z pierwszych domów koniaku, które przywróciły kategorię XXO w 2018 roku."
+]
 },
 
 {
@@ -170,13 +211,15 @@
   "country": "France",
   "abv": "40%",
   "image": "bottle_img/camus_vs.webp",
+  "maturation": "Od 3 do około 18 lat w delikatnie opalanych beczkach z francuskiego dębu",
 
   "whenToOffer": [
-    "Klient szuka mniej mainstreamowej marki",
-    "Alternatywa dla Hennessy VS"
-  ],
+    "Klient szuka bardziej aromatycznego i intesywniejszego stylu koniaku",
+    "Dla osób lubiących bardziej owocowy i elegancki profil",
+    "Klient szuka mniej agresywnego stylu niż Hennessy VS"
+  ],  
 
-  "howToPresent": "Francuski koniak o bardziej aromatycznym i kwiatowym profilu niż Hennessy."
+  "howToPresent": "Francuski koniak VS produkowany przez rodzinny dom Camus, znany z bardziej aromatycznego i eleganckiego stylu oraz dużego udziału destylatów z regionu Borderies — najmniejszego i najbardziej aromatycznego cru Cognac. Powstaje z destylatów winnych destylowanych na osadzie metodą Intensely, co pozwala zachować świeższy profil owoców i kwiatów. Dojrzewa od 3 do około 18 lat w delikatnie opalanych beczkach z wysoko porowatego francuskiego dębu, dzięki czemu zyskuje bardziej miękką strukturę oraz nuty owoców, wanilii, przypraw i delikatnego drewna."
 },
 
 {
@@ -187,13 +230,15 @@
   "country": "France",
   "abv": "40%",
   "image": "bottle_img/camus_vsop_set.webp",
+  "maturation": "Od 4 do około 28 lat w delikatnie opalanych beczkach z francuskiego dębu",
 
   "whenToOffer": [
-    "Klient chce coś innego niż Hennessy",
-    "VSOP o bardziej eleganckim stylu"
-  ],
+    "Klient szuka bardziej eleganckiego i aromatycznego koniaku niż klasyczne VSOP",
+    "Dla osób lubiących gładszy i bardziej owocowy styl",
+    "Świetny wybór na prezent dla osób ceniących bardziej subtelny charakter koniaku"
+  ],  
 
-  "howToPresent": "Bardziej złożony i delikatniejszy niż wersja VS. Styl kwiatowo-owocowy."
+  "howToPresent": "Francuski koniak VSOP produkowany przez rodzinny dom Camus, znany z bardziej aromatycznego i eleganckiego stylu oraz dużego udziału destylatów z regionu Borderies — najmniejszego i najbardziej aromatycznego cru Cognac. Powstaje z destylatów winnych destylowanych na osadzie metodą Intensely, co pozwala zachować bogatszy profil owoców i kwiatów. Dojrzewa od 4 do około 28 lat w delikatnie opalanych beczkach z wysoko porowatego francuskiego dębu, dzięki czemu zyskuje gładszą strukturę oraz bardziej zintegrowane nuty wanilii, owoców, przypraw i delikatnego drewna."
 },
 
 {
@@ -204,13 +249,16 @@
   "country": "France",
   "abv": "40%",
   "image": "bottle_img/martell_vs.webp",
+  "maturation": "Minimum 2 lata w beczkach z francuskiego dębu Tronçais",
 
   "whenToOffer": [
-    "Klient szuka klasycznej marki",
-    "Alternatywa dla Hennessy VS"
+    "Klient szuka łagodniejszego i bardziej owocowego stylu koniaku",
+    "Dla osób lubiących bardziej elegancki, miękki i gładki profil",
+    "Dobry wybór dla osób zaczynających z kategorią Cognac",
+    "Alternatywa dla bardziej intensywnego stylu Hennessy VS i bardzo aromatycznego Camus VS"
   ],
 
-  "howToPresent": "Koniak o delikatniejszym, bardziej owocowym stylu niż Hennessy."
+  "howToPresent": "Francuski koniak VS produkowany przez najstarszy dom Cognac. Destylowany bez osadu drożdżowego, dzięki czemu zachowuje bardziej czysty, owocowy, elegancki, miękki i zbalansowany charakter niż bardziej intensywne style koniaku. Dojrzewa minimum 2 lata w beczkach z francuskiego dębu Tronçais, co nadaje mu bardziej miękki profil z nutami owoców, wanilii, intensywnych przypraw i subtelnego drewna."
 },
 
 {
@@ -221,13 +269,17 @@
   "country": "France",
   "abv": "40%",
   "image": "bottle_img/martell_vsop.webp",
+  "maturation": "Minimum 4 lata w beczkach z francuskiego dębu Tronçais",
 
-  "whenToOffer": [
-    "Klient chce elegancki VSOP",
-    "Alternatywa dla Remy Martin VSOP"
+
+"whenToOffer": [
+    "Klient szuka bardziej eleganckiego i owocowego stylu koniaku",
+    "Dla osób lubiących bardziej elegancki, miękki i gładki profil",
+    "Świetny, uniwersalny i bezpieczny wybór na prezent",
+    "Alternatywa dla bardziej intensywnych i beczkowych domów Cognac"
   ],
 
-  "howToPresent": "Bardziej owocowy i miękki styl VSOP."
+  "howToPresent": "Francuski koniak VSOP produkowany przez najstarszy dom Cognac. Martell słynie z destylacji bez osadu oraz wykorzystania dębu Tronçais, co pomaga uzyskać bardziej miękki i owocowy styl koniaku. Dojrzewa minimum 4 lata w beczkach z francuskiego dębu Tronçais, co nadaje mu gładszą strukturę oraz bardziej subtelne nuty owoców, wanilii, przypraw i drewna."
 },
 
 {
@@ -238,13 +290,16 @@
   "country": "France",
   "abv": "40%",
   "image": "bottle_img/martell_xo.webp",
+  "maturation": "Od 10 do 35 lat w beczkach z francuskiego dębu Tronçais",
 
   "whenToOffer": [
-    "Klient szuka eleganckiego XO",
-    "Alternatywa dla Hennessy XO"
+    "Klient szuka bardziej eleganckiego i aksamitnego stylu XO",
+    "Dla osób lubiących owocowy i mniej agresywny charakter koniaku",
+    "Świetny wybór na luksusowy prezent lub spokojną degustację",
+    "Alternatywa dla bardziej intensywnego i przyprawowego stylu Hennessy XO"
   ],
 
-  "howToPresent": "Bardziej finezyjny i owocowy XO niż konkurencyjne marki."
+  "howToPresent": "Francuski koniak XO produkowany przez najstarszy z wielkich domów Cognac. Martell słynie z destylacji bez osadu oraz wykorzystania dębu Tronçais, co pomaga uzyskać bardziej miękki i owocowy styl koniaku. Dojrzewa od  10 do ponad 35 lat w beczkach z francuskiego dębu Tronçais, co pozwala uzyskać bardziej subtelny wpływ drewna oraz lepiej zintegrowane nuty suszonych owoców, wanilii, przypraw, cygar, skóry kakao i delikatnego drewna. Styl bardziej elegancki i owocowy niż bardziej intensywne XO innych domów Cognac."
 },
 
 {
@@ -255,13 +310,19 @@
   "country": "France",
   "abv": "40%",
   "image": "bottle_img/remy_vsop.webp",
+  "maturation": "Minimum 4 lata w beczkach z francuskiego dębu Limousin",
 
   "whenToOffer": [
-    "Klient szuka bardziej eleganckiego VSOP",
-    "Fine Champagne Cognac"
+    "Klient szuka bardziej eleganckiego, intensywnego i kremowego stylu koniaku",
+    "Dla osób lubiących bogatszy i bardziej zaokrąglony profil",
+    "Alternatywa dla miękkich i delikatnych VSOP"
   ],
 
-  "howToPresent": "Koniak typu Fine Champagne, bardziej kremowy i zbalansowany."
+  "howToPresent": "Francuski koniak VSOP Fine Champagne produkowany wyłącznie z destylatów winnych pochodzących z Grande i Petite Champagne, najbardziej prestiżowych cru regionu Cognac. Jest blendem około 200 destylatów winnych. Destylowany na osadzie drożdżowym, dzięki czemu zachowuje bogatszy, intensywniejszy i bardziej kremowy charakter. Dojrzewa minimum 4 lata w beczkach z francuskiego dębu Limousin, zyskując bardziej zaokrąglony profil z nutami wanilii, suszonych owoców, przypraw, karmelu i delikatnego drewna.",
+
+  "salesTip": [
+"W 1927 roku Rémy Martin jako pierwszy duży dom Cognac skoncentrował się wyłącznie na koniakach Fine Champagne — produkowanych tylko z destylatów Grande i Petite Champagne, uznawanych za najbardziej prestiżowe cru regionu Cognac."
+]
 },
 
 {
@@ -272,14 +333,22 @@
   "country": "France",
   "abv": "40%",
   "image": "bottle_img/remy_xo.webp",
+  "maturation": "Minimum 10 lat w beczkach z francuskiego dębu Limousin",
 
   "whenToOffer": [
-    "Klient szuka bardzo eleganckiego XO",
-    "Prezent premium"
+    "Klient szuka bardziej luksusowego i wielowarstwowego stylu koniaku",
+    "Dla osób lubiących bogaty, kremowy i bardziej elegancki charakter XO",
+    "Świetny wybór na prestiżowy prezent lub wyjątkową okazję"
   ],
 
-  "howToPresent": "Bogaty i aksamitny XO typu Fine Champagne."
+  "howToPresent": "Francuski koniak XO Fine Champagne produkowany wyłącznie z destylatów winnych pochodzących z Grande i Petite Champagne, najbardziej prestiżowych cru regionu Cognac. Jest blendem około 400 destylatów winnych. Destylowany na osadzie drożdżowym, dzięki czemu zachowuje wyjątkowo bogaty, kremowy i wielowarstwowy charakter. Dojrzewa minimum 10 lat w beczkach z francuskiego dębu Limousin, zyskując niezwykle zaokrąglony profil z nutami suszonych owoców, wanilii, przypraw, kakao, skóry, tytoniu, karmelu i delikatnego drewna. Styl bardziej aksamitny, elegancki i zintegrowany niż bardziej intensywne XO innych domów Cognac.",
+
+  "salesTip": [
+    "W 1927 roku Rémy Martin jako pierwszy duży dom Cognac skoncentrował się wyłącznie na koniakach Fine Champagne — produkowanych tylko z destylatów Grande i Petite Champagne, uznawanych za najbardziej prestiżowe cru regionu Cognac."
+]
 },
+
+
 
 {
   "slug": "courvoisier-vs",
@@ -289,13 +358,19 @@
   "country": "France",
   "abv": "40%",
   "image": "bottle_img/courvoisier_vs.webp",
+  "maturation": "Minimum 2 lata w beczkach z francuskiego dębu",
 
   "whenToOffer": [
-    "Alternatywa dla Hennessy VS",
-    "Klient szuka czegoś mniej mainstreamowego"
+    "Klient szuka bardziej słodkiego i łatwego w odbiorze koniaku",
+    "Dobry wybór do koktajli i mieszania",
+    "Dla osób lubiących bardziej owocowy i mniej agresywny profil"
   ],
 
-  "howToPresent": "Łagodniejszy styl VS, bardziej owocowy."
+  "howToPresent": "Francuski koniak VS o bardziej kwiatowym, miękkim i słodszym charakterze niż bardziej intensywne i wytrawne style Cognac. Dojrzewa minimum 2 lata w beczkach z francuskiego dębu, zyskując nuty owoców, kwiatów, wanilii, delikatnych przypraw i subtelnego drewna.",
+
+  "salesTip": [
+"Marka historycznie jest związana z Napoleonem Bonaparte i bywa określana jako koniak Napoleona."
+]
 },
 
 {
@@ -306,13 +381,19 @@
   "country": "France",
   "abv": "40%",
   "image": "bottle_img/courvoisier_vsop.webp",
+  "maturation": "Minimum 4 lata w beczkach z francuskiego dębu",
 
   "whenToOffer": [
-    "Klient szuka eleganckiego VSOP",
-    "Alternatywa dla Remy Martin"
+    "Klient szuka bardziej słodkiego, kwiatowego i łagodnego stylu koniaku",
+    "Alternatywa dla bardziej wytrawnych i intensywnych VSOP",
+    "Dla osób, które nie lubią bardzo agresywnych i mocno beczkowych stylów"
   ],
 
-  "howToPresent": "Zbalansowany i elegancki VSOP o owocowym profilu."
+  "howToPresent": "Francuski koniak VSOP o bardziej słodkim, miękkim i kwiatowym charakterze niż bardziej intensywne style Cognac. Harmonijny i przystępny profil. Dojrzewa minimum 4 lata w beczkach z francuskiego dębu, zyskując gładszą strukturę oraz nuty owoców, kwiatów, wanilii, karmelu, delikatnych przypraw i subtelnego drewna.",
+
+  "salesTip": [
+"Marka historycznie jest związana z Napoleonem Bonaparte i bywa określana jako koniak Napoleona."
+]
 },
 
 {
@@ -364,30 +445,7 @@
   ],
 
   "howToPresent": "Bardziej elegancki i subtelny XO o zbalansowanym charakterze."
-},
-
-  {
-    "slug": "james-hennessy",
-    "name": "James Hennessy",
-    "subtitle": "Koniak · Francja · XO style",
-    "category": "cognac",
-    "country": "France",
-    "abv": "40%",
-    "image": "bottle_img/james-hennessy.png",
-    "maturation": "7-20 lat w uzywanych beczkach z francuskiego dębu",
-
-    "whenToOffer": [
-      "Klient szuka prestiżowego koniaku na prezent",
-      "Klient interesuje się historią marki Hennessy",
-      "Klient chce czegoś bardziej eleganckiego niż VSOP"
-    ],
-
-    "howToPresent": "James Hennessy to pozycja pomiędzy VSOP a XO – bardziej dojrzała niż VSOP, ale lżejsza i przystępniejsza niż klasyczne XO.Butelkę zaprojektował Marc Newson, co czyni ten koniak bardzo dobrym wyborem na prezent.",
-
-    "salesTip": ["Często mamy na sklepie taką sytuację że nie ma Malibu, aby nie stracić sprzedaż mozemy zaproponować Bacardi Carta Blanca + syrop kokosowy albo gotową Pina Coladę."],
-
-    "aroma": "Suszone owoce, wanilia, delikatne przyprawy i nuty dębu.",
-    "taste": "Bogaty, aksamitny, z nutami karmelu i przypraw.",
-    "finish": "Długi, rozgrzewający, lekko korzenny."
-  }
+}
 ]
+
+
