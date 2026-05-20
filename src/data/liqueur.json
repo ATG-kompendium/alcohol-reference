@@ -9,17 +9,13 @@
   "image": "bottle_img/bumbu_cream.webp",
 
   "whenToOffer": [
-    "Klient lubi rum Bumbu",
-    "Szuka czegoś bardziej egzotycznego niż Baileys",
-    "Lubi kokosowe i tropikalne nuty"
+    "Klient lubi słodsze deserowe alkohole",
+    "Szuka bardziej tropikalnej alternatywy dla Baileys",
+    "Dobry wybór do deserów lub picia solo z lodem"
   ],
 
-  "howToPresent": "Kremowy likier na bazie rumu z Barbadosu. Bardziej tropikalny i kokosowy niż klasyczne irlandzkie cream liqueurs. Dobry solo z lodem lub do deserów.",
+  "howToPresent": "Kremowy likier na bazie rumu z Barbadosu o bardziej tropikalnym i deserowym charakterze niż klasyczne likiery kremowe. Wyraźne nuty kokosa, wanilii i śmietanki nadają mu słodszy, bardziej egzotyczny profil. Najlepiej sprawdza się solo z lodem, do deserów lub jako bardziej wakacyjna alternatywa dla Baileys."
 
-  "salesTip": [
-    "Dobry wybór dla fanów rumu, którzy chcą spróbować czegoś słodszego.",
-    "Można proponować jako alternatywę dla Baileys."
-  ]
 },
 
 {
@@ -32,17 +28,14 @@
   "image": "bottle_img/amarula.webp",
 
   "whenToOffer": [
-    "Klient szuka czegoś innego niż Baileys",
-    "Lubi egzotyczne produkty",
-    "Chce likier kremowy z owocowym charakterem"
+    "Klient lubi kremowe i deserowe likiery",
+    "Szuka bardziej karmelowo-owocowej alternatywy dla Baileys",
+    "Dla osób lubiących delikatniejsze i bardziej egzotyczne profile",
+    "Dobry wybór do deserów lub picia solo z lodem"
   ],
 
-  "howToPresent": "Kremowy likier produkowany z owocu marula rosnącego w Afryce. Bardziej owocowy i lekko karmelowy w charakterze niż klasyczne likiery irlandzkie.",
+  "howToPresent": "Południowoafrykański likier kremowy produkowany na bazie owoców marula oraz śmietanki. Bardziej owocowy i karmelowy niż klasyczne likiery kremowe, z delikatnymi nutami wanilii, toffi i egzotycznych owoców. Dzięki łagodnemu i kremowemu profilowi dobrze sprawdza się solo z lodem, do deserów lub kawy."
 
-  "salesTip": [
-    "Ciekawa alternatywa dla Baileys.",
-    "Dobry wybór prezentowy z egzotycznym akcentem."
-  ]
 },
 
 {
@@ -55,17 +48,14 @@
   "image": "bottle_img/sheridans.webp",
 
   "whenToOffer": [
-    "Klient szuka efektownego prezentu",
-    "Lubi likiery kawowe",
-    "Chce coś wizualnie wyjątkowego"
-  ],
+    "Klient szuka efektownego likieru na prezent",
+    "Dla osób lubiących kawowe i deserowe profile",
+    "Klient chce coś bardziej unikalnego niż klasyczne likiery kremowe",
+    "Dobry wybór do deserów lub picia solo"
+  ],  
 
-  "howToPresent": "Dwukomorowa butelka łącząca likier kawowy i waniliowo-kremowy. Przy nalewaniu tworzy warstwowy efekt. Bardziej deserowy i kawowy w charakterze.",
+  "howToPresent": "Irlandzki likier składający się z dwóch części — kawowo-czekoladowego likieru oraz waniliowo-śmietankowego likieru kremowego. Podczas nalewania obie warstwy łączą się w charakterystyczny deserowy profil z nutami kawy, wanilii, czekolady i śmietanki. Bardziej słodki i deserowy niż klasyczne likiery kremowe. Najlepiej sprawdza się solo, z lodem lub do deserów."
 
-  "salesTip": [
-    "Bardzo efektowny produkt wizualnie.",
-    "Często wybierany jako prezent."
-  ]
 },
 
 {
@@ -78,22 +68,17 @@
   "image": "bottle_img/baileys.webp",
 
   "whenToOffer": [
-    "Klient szuka likieru do kawy",
-    "Klient chce coś słodkiego na prezent",
-    "Osoba nie pije mocnych alkoholi",
-    "Klient szuka czegoś deserowego"
-  ],
+    "Klient szuka klasycznego likieru kremowego",
+    "Dla osób lubiących deserowe, kawowe i śmietankowe profile",
+    "Bezpieczny i uniwersalny wybór",
+    "Dobry wybór do kawy, deserów lub picia solo z lodem"
+  ],  
 
-  "howToPresent": "Klasyczny irlandzki likier na bazie śmietanki i whiskey. Słodki, kremowy i bardzo przystępny. Idealny do kawy, deserów, lodów lub solo z lodem.",
-
-  "salesTip": [
-    "Bezpieczny wybór prezentowy.",
-    "Często wybierany przez osoby, które nie piją klasycznej wódki czy whisky."
-  ],
+  "howToPresent": "Klasyczny irlandzki likier kremowy produkowany na bazie irlandzkiej whiskey i śmietanki. Dzięki swojej uniwersalności dobrze sprawdza się solo z lodem, w kawie, deserach oraz koktajlach.",
 
   "cocktails": [
     "Kawa z Baileys",
-    "Baileys on the rocks",
+    "Baby Guinness",
     "Desery i lody"
   ],
 
@@ -135,17 +120,13 @@
   "image": "bottle_img/cointreau.webp",
 
   "whenToOffer": [
-    "Klient robi Margaritę",
-    "Klient potrzebuje Triple Sec",
-    "Do Cosmopolitana lub drinków cytrusowych"
+    "Klient szuka klasycznego likieru pomarańczowego do koktajli",
+    "Niezbędny składnik do Margarita, Cosmopolitan i Sidecar",
+    "Dla osób lubiących bardziej wytrawny i cytrusowy styl likierów",
+    "Lepszy wybór do cocktaili premium niż tańsze triple sec"
   ],
 
-  "howToPresent": "Francuski likier pomarańczowy typu triple sec. Wytrawny, intensywnie cytrusowy, z wyraźnym aromatem skórek pomarańczy. Klasyczny składnik wielu koktajli.",
-
-  "salesTip": [
-    "Podstawowy składnik Margarity.",
-    "Lepsza jakość niż tańsze triple sec."
-  ]
+  "howToPresent": "Francuski likier pomarańczowy typu triple sec. Wytrawny, intensywnie cytrusowy, z wyraźnym aromatem skórek pomarańczy. Klasyczny składnik wielu koktajli."
 },
 
 {
@@ -158,17 +139,14 @@
   "image": "bottle_img/grandmarnier.webp",
 
   "whenToOffer": [
-    "Klient szuka czegoś bardziej eleganckiego niż Cointreau",
-    "Do deserów i kuchni",
-    "Do koktajli premium"
-  ],
+    "Klient szuka bardziej luksusowego likieru pomarańczowego",
+    "Dla osób lubiących głębszy i bardziej koniakowy charakter",
+    "Świetny wybór do klasycznych cocktaili takich jak Margarita czy Sidecar",
+    "Alternatywa dla bardziej cytrusowego i wytrawnego Cointreau"
+  ],  
 
-  "howToPresent": "Likier pomarańczowy na bazie francuskiego koniaku. Bogatszy i bardziej złożony niż klasyczne triple sec. Łączy cytrusy z nutą brandy.",
+  "howToPresent": "Francuski likier pomarańczowy produkowany na bazie koniaku oraz skórek gorzkich pomarańczy. W przeciwieństwie do bardziej czystego i cytrusowego stylu Cointreau oferuje bogatszy, głębszy i bardziej deserowy profil z nutami pomarańczy, wanilii, karmelu i delikatnego drewna."
 
-  "salesTip": [
-    "Dobry wybór do deserów i do picia solo.",
-    "Można proponować jako bardziej premium alternatywę dla Cointreau."
-  ]
 },
 
 {
@@ -181,16 +159,20 @@
   "image": "bottle_img/aperol.webp",
 
   "whenToOffer": [
-    "Klient robi Aperol Spritz",
-    "Szuka lekkiego aperitifu",
-    "Lubi delikatnie gorzkie profile"
+    "Klient szuka lekkiego i świeżego aperitifu",
+    "Niezbędny składnik do Aperol Spritz",
+    "Dla osób lubiących lekko gorzkie i cytrusowe profile",
+    "Dobry wybór na letnie drinki i aperitivo"
   ],
 
   "howToPresent": "Włoski aperitif o niskiej zawartości alkoholu. Słodko-gorzki, cytrusowo-ziołowy. Najczęściej używany do Aperol Spritz.",
 
   "salesTip": [
-    "Jeden z najpopularniejszych letnich drinków.",
-    "Sprzedaje się bardzo dobrze w sezonie wakacyjnym."
+    "Popularna opcja jako alkohol poniżej 22% ABV(jako wino)."
+  ],
+
+   "cocktails": [
+    "Aperol Spritz"
   ]
 },
 
@@ -204,16 +186,18 @@
   "image": "bottle_img/campari.webp",
 
   "whenToOffer": [
-    "Klient robi Negroni",
-    "Szuka mocniejszego bitteru",
-    "Lubi wyraźnie gorzkie alkohole"
+    "Klient szuka bardziej gorzkiego i intensywnego aperitifu",
+    "Niezbędny składnik do Negroni i Americano",
+    "Dla osób lubiących ziołowe, cytrusowe i bitterowe profile",
+    "Alternatywa dla lżejszego i słodszego Aperolu"
   ],
 
-  "howToPresent": "Intensywnie gorzki włoski bitter. Ziołowo-cytrusowy profil smakowy. Kluczowy składnik Negroni i wielu klasycznych koktajli.",
+  "howToPresent": "Klasyczny włoski aperitif o wyraźnie gorzkim i ziołowym charakterze. Łączy nuty gorzkiej pomarańczy, ziół, przypraw i delikatnej słodyczy, tworząc bardziej intensywny niż Aperol. Jeden z najbardziej charakterystycznych składników klasycznych włoskich cocktaili takich jak Negroni czy Americano.",
 
-  "salesTip": [
-    "Podstawa klasycznego Negroni.",
-    "Bardziej wyrazisty niż Aperol."
+  "cocktails": [
+    " Negroni",
+    "Americano"
+
   ]
 },
 
@@ -227,17 +211,13 @@
   "image": "bottle_img/pallini.webp",
 
   "whenToOffer": [
-    "Klient szuka klasycznego limoncello",
-    "Do podania schłodzone po kolacji",
-    "Klient lubi cytrusowe, słodko-kwaśne profile"
+    "Klient szuka bardziej klasycznego i świeżego stylu limoncello",
+    "Niezbędny składnik do klasycznych włoskich drinków z limoncello",
+    "Dla osób, które nie chcą zbyt słodkiego limoncello"
   ],
 
-  "howToPresent": "Klasyczne włoskie limoncello produkowane ze skórek cytryn. Intensywnie cytrusowe, słodko-kwaśne. Najlepiej podawać mocno schłodzone.",
+  "howToPresent": "Klasyczne włoskie limoncello o bardziej świeżym i cytrusowym charakterze niż Bottega. Wyraźniejsze nuty skórki cytrynowej i bardziej intensywna świeżość nadają mu bardziej tradycyjny oraz mniej deserowy profil. Najlepiej podawać mocno schłodzone."
 
-  "salesTip": [
-    "Dobry wybór jako digestif po kolacji.",
-    "Można proponować jako prezent z włoskim charakterem."
-  ]
 },
 
 {
@@ -250,17 +230,13 @@
   "image": "bottle_img/bottega_lemon.webp",
 
   "whenToOffer": [
-    "Klient szuka mocniejszego limoncello",
-    "Klient zwraca uwagę na design butelki",
-    "Do podania po kolacji"
+    "Klient szuka bardziej słodkiego i zbalansowanego limoncello",
+    "Świetny wybór dla osób, którym klasyczne limoncello wydaje się zbyt ostre lub wytrawne",
+    "Dla osób lubiących bardziej deserowe i łatwiejsze w odbiorze profile"
   ],
 
-  "howToPresent": "Włoskie limoncello o wyższej zawartości alkoholu. Bardziej intensywne i wyraźne w smaku. Charakterystyczna, elegancka butelka.",
+  "howToPresent": "Włoskie limoncello o bardziej słodkim, łagodnym i lepiej zbalansowanym charakterze niż Pallini. Zachowuje naturalny i intensywny profil cytrynowy, ale z bardziej miękką teksturą i bardziej deserowym stylem. Bardzo łatwe w odbiorze i dobrze sprawdza się mocno schłodzone."
 
-  "salesTip": [
-    "Mocniejsza alternatywa dla klasycznych limoncello.",
-    "Dobrze wygląda jako prezent."
-  ]
 },
 
 {
@@ -273,17 +249,13 @@
   "image": "bottle_img/ricard.webp",
 
   "whenToOffer": [
-    "Klient szuka pastis",
-    "Lubi anyżowe profile",
-    "Zna francuską kulturę picia"
+    "Klient szuka likieru anyżowego",
+    "Świetny wybór na aperitif podawany z wodą i lodem",
+    "Alternatywa dla bardziej gorzkich aperitifów takich jak Campari"
   ],
 
-  "howToPresent": "Francuski alkohol anyżowy typu pastis. Intensywnie ziołowy, wytrawny. Tradycyjnie podawany z wodą, która nadaje mu mleczny kolor.",
+  "howToPresent": "Klasyczny francuski pastis produkowany na bazie anyżu, lukrecji i ziół prowansalskich. Charakteryzuje się intensywnym anyżowym i świeżo ziołowym profilem z delikatną słodyczą oraz długim, wytrawnym finiszem. Tradycyjnie podawany z zimną wodą, która nadaje mu charakterystyczny mleczny kolor."
 
-  "salesTip": [
-    "Popularny we Francji jako aperitif.",
-    "Podawać z zimną wodą."
-  ]
 },
 
 {

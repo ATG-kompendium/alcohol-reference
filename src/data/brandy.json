@@ -404,13 +404,14 @@
   "country": "France",
   "abv": "40%",
   "image": "bottle_img/fussigny_vs.webp",
-  "maturation": "Minimum 2 lata w beczkach z francuskiego dębu"
+  "maturation": "Minimum 2 lata w beczkach z francuskiego dębu",
 
   "whenToOffer": [
     "Klient szuka łagodniejszego i owocowego stylu koniaku",
     "Dobry wybór jako pierwszy koniak",
-    "Alternatywa dla bardziej intensywnych dużych marek Cognac"
-]
+    "Alternatywa dla bardziej intensywnych dużych marek Cognac",
+    "Klient szuka koniaku w klasycznej butelce 0.7 l"
+],
 
   "howToPresent": "Francuski koniak produkowany przez mniejszy dom Cognac A. de Fussigny, znany z bardziej eleganckiego i nowoczesnego stylu. Dojrzewa minimum 2 lata w beczkach z francuskiego dębu, zyskując łagodniejszy i bardziej harmonijny charakter z nutami owoców, wanilii, przypraw i delikatnego drewna. Styl bardziej subtelny i przystępny niż bardziej intensywne domy Cognac."
 },
@@ -423,13 +424,14 @@
   "country": "France",
   "abv": "40%",
   "image": "bottle_img/fussigny_vsop.webp",
-  "maturation": "Minimum 4 lata w beczkach z francuskiego dębu"
+  "maturation": "Minimum 4 lata w beczkach z francuskiego dębu",
 
   "whenToOffer": [
     "Klient szuka bardziej eleganckiego i prestiżowego stylu koniaku",
     "Dla osób chcących spróbować koniaku pochodzącego wyłącznie z Grande Champagne",
-    "Świetny wybór dla klientów interesujących się terroir i Cognac"
-]
+    "Świetny wybór dla klientów interesujących się terroir i Cognac",
+    "Klient szuka koniaku w klasycznej butelce 0.7 l"
+],
 
   "howToPresent": "Francuski koniak VSOP Single Cru produkowany wyłącznie z destylatów winnych pochodzących z Grande Champagne — cru uznawanego za najbardziej prestiżowy i najlepszy region uprawy winogron w Cognac. Dzięki pochodzeniu tylko z jednego cru zachowuje bardziej czysty, elegancki charakter niż klasyczne blendy wielu regionów. Dojrzewa minimum 4 lata w beczkach z francuskiego dębu, zyskując harmonijny profil z nutami kandyzowanych owoców, wanilii, przypraw i delikatnego drewna."
 },
@@ -442,13 +444,15 @@
   "country": "France",
   "abv": "40%",
   "image": "bottle_img/fussigny_xo.webp",
+  "maturation": "Minimum 10 lat w beczkach z francuskiego dębu",  
 
   "whenToOffer": [
-    "Klient szuka XO spoza mainstreamu",
-    "Alternatywa dla Hennessy XO"
+    "Klient szuka koniaku klasy XO, w nowoczesnym stylu i designie",
+    "Świetny wybór dla klientów interesujących się bardziej butikowymi domami Cognac",
+    "Klient szuka koniaku w klasycznej butelce 0.7 l"
   ],
 
-  "howToPresent": "Bardziej elegancki i subtelny XO o zbalansowanym charakterze."
+  "howToPresent": "Francuski koniak XO Fine Champagne produkowany przez butikowy dom A. de Fussigny, znany z bardziej eleganckiego i nowoczesnego stylu Cognac. Powstaje z destylatów winnych pochodzących z Grande i Petite Champagne — najbardziej prestiżowych cru regionu Cognac. Dzięki temu zachowuje bardziej wyrafinowany, harmonijny i elegancki charakter niż klasyczne blendy wielu regionów. Dojrzewa przez wiele lat w beczkach z francuskiego dębu, zyskując aksamitny profil z nutami suszonych i kandyzowanych owoców, wanilii, przypraw, czekolady mlecznej i delikatnego drewna."
 }
 ]
 
