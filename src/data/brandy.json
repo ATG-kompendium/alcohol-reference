@@ -397,20 +397,22 @@
 },
 
 {
-  "slug": "a-de-fussigny-vs",
-  "name": "A. de Fussigny VS",
-  "subtitle": "Cognac · VS",
+  "slug": "a-de-fussigny-selection",
+  "name": "A. de Fussigny selection",
+  "subtitle": "Cognac",
   "category": "cognac",
   "country": "France",
   "abv": "40%",
   "image": "bottle_img/fussigny_vs.webp",
+  "maturation": "Minimum 2 lata w beczkach z francuskiego dębu"
 
   "whenToOffer": [
-    "Klient szuka mniej znanej marki",
-    "Alternatywa dla VS"
-  ],
+    "Klient szuka łagodniejszego i owocowego stylu koniaku",
+    "Dobry wybór jako pierwszy koniak",
+    "Alternatywa dla bardziej intensywnych dużych marek Cognac"
+]
 
-  "howToPresent": "Nowoczesna marka koniaku, lżejszy i bardziej świeży styl."
+  "howToPresent": "Francuski koniak produkowany przez mniejszy dom Cognac A. de Fussigny, znany z bardziej eleganckiego i nowoczesnego stylu. Dojrzewa minimum 2 lata w beczkach z francuskiego dębu, zyskując łagodniejszy i bardziej harmonijny charakter z nutami owoców, wanilii, przypraw i delikatnego drewna. Styl bardziej subtelny i przystępny niż bardziej intensywne domy Cognac."
 },
 
 {
@@ -421,13 +423,15 @@
   "country": "France",
   "abv": "40%",
   "image": "bottle_img/fussigny_vsop.webp",
+  "maturation": "Minimum 4 lata w beczkach z francuskiego dębu"
 
   "whenToOffer": [
-    "Klient szuka mniej mainstreamowego VSOP",
-    "Prezent"
-  ],
+    "Klient szuka bardziej eleganckiego i prestiżowego stylu koniaku",
+    "Dla osób chcących spróbować koniaku pochodzącego wyłącznie z Grande Champagne",
+    "Świetny wybór dla klientów interesujących się terroir i Cognac"
+]
 
-  "howToPresent": "Elegancki, bardziej kwiatowy styl VSOP."
+  "howToPresent": "Francuski koniak VSOP Single Cru produkowany wyłącznie z destylatów winnych pochodzących z Grande Champagne — cru uznawanego za najbardziej prestiżowy i najlepszy region uprawy winogron w Cognac. Dzięki pochodzeniu tylko z jednego cru zachowuje bardziej czysty, elegancki charakter niż klasyczne blendy wielu regionów. Dojrzewa minimum 4 lata w beczkach z francuskiego dębu, zyskując harmonijny profil z nutami kandyzowanych owoców, wanilii, przypraw i delikatnego drewna."
 },
 
 {
