@@ -195,7 +195,7 @@
   "howToPresent": "Klasyczny włoski aperitif o wyraźnie gorzkim i ziołowym charakterze. Łączy nuty gorzkiej pomarańczy, ziół, przypraw i delikatnej słodyczy, tworząc bardziej intensywny niż Aperol. Jeden z najbardziej charakterystycznych składników klasycznych włoskich cocktaili takich jak Negroni czy Americano.",
 
   "cocktails": [
-    " Negroni",
+    "Negroni",
     "Americano"
 
   ]
@@ -400,9 +400,9 @@
     "Dla osób lubiących nuty orzechów, karmelu i suszonych owoców",
     "Świetny wybór do deserów, serów lub picia solo",
     "Alternatywa dla prostszych i młodszych tawny porto"
-]
+],
 
-  "howToPresent": "Portugalskie porto typu Tawny produkowane przez historyczny dom Ramos Pinto. Dojrzewa 10 lat w beczkach, dzięki czemu zyskuje bardziej złożony, elegancki i utleniony charakter niż młodsze porto. Wyraźne nuty karmelu, suszonych owoców, orzechów, przypraw i delikatnego drewna tworzą bardziej harmonijny i deserowy profil."
+  "howToPresent": "Portugalskie porto typu Tawny produkowane przez historyczny dom Ramos Pinto. Dojrzewa 10 lat w beczkach, dzięki czemu zyskuje bardziej złożony, elegancki i utleniony charakter niż młodsze porto. Wyraźne nuty karmelu, suszonych owoców, orzechów, przypraw i delikatnego drewna tworzą bardziej harmonijny i deserowy profil.",
 
   "salesTip": [
     "Tylko porto są całkowicie słodkimi winami czerwonymi z naszego asortymentu."
@@ -417,18 +417,19 @@
   "country": "Germany",
   "abv": "35%",
   "image": "bottle_img/jager.webp",
+  "maturation": "około rok w dębowych beczkach"
 
   "whenToOffer": [
-    "Klient szuka ziołowego likieru",
-    "Do picia schłodzonego jako shot",
-    "Do drinków typu Jäger & Cola"
-  ],
+    "Klient szuka intensywnego likieru ziołowego",
+    "Dla osób lubiących gorzko-slodkie, korzenne i ziołowe smaki",
+    "Znana marka, łatwa decyzja"
+]
 
-  "howToPresent": "Klasyczny niemiecki likier ziołowy tworzony z 56 składników roślinnych. Intensywny, korzenny, najlepiej podawać mocno schłodzony.",
+  "howToPresent": "Niemiecki likier ziołowy produkowany z mieszanki 56 ziół, przypraw, korzeni i owoców. Po maceracji dojrzewa około roku w dębowych beczkach, dzięki czemu zachowuje bardziej zintegrowany i zaokrąglony charakter. Charakteryzuje się intensywnym, korzennym i gorzko-słodkim profilem z nutami lukrecji, cytrusów, ziół i przypraw."
 
-  "salesTip": [
-    "Najlepiej sprzedaje się schłodzony.",
-    "Popularny wśród młodszych klientów."
+  "cocktails": [
+    "Jager & Cola",
+    "Jagerbomb(jagermeister+red bull)"
   ]
 },
 
@@ -446,8 +447,7 @@
     "Do letnich drinków"
   ],
 
-  "howToPresent": "Wersja z dodatkiem naturalnych nut pomarańczy. Łagodniejsza i bardziej owocowa niż klasyczny Jägermeister."
-},
+  "howToPresent": "Likier ziołowy łączący charakter klasycznego Jägermeistera z wyraźnymi nutami sycylijskich pomarańczy. Bardziej świeży, cytrusowy i owocowy niż oryginalna wersja, ale nadal zachowuje charakterystyczne ziołowe i lekko gorzkie nuty."
 
 {
   "slug": "jagermeister-manifest",
