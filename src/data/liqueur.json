@@ -195,7 +195,7 @@
   "howToPresent": "Klasyczny włoski aperitif o wyraźnie gorzkim i ziołowym charakterze. Łączy nuty gorzkiej pomarańczy, ziół, przypraw i delikatnej słodyczy, tworząc bardziej intensywny niż Aperol. Jeden z najbardziej charakterystycznych składników klasycznych włoskich cocktaili takich jak Negroni czy Americano.",
 
   "cocktails": [
-    "Negroni",
+    " Negroni",
     "Americano"
 
   ]
@@ -270,10 +270,15 @@
   "whenToOffer": [
     "Klient szuka absyntu",
     "Lubi mocne, ziołowe alkohole",
-    "Klient szuka absynt do drinków "
+    "Interesuje się historią absyntu"
   ],
 
-  "howToPresent": "Klasyczny absynt o intensywnym ziołowo anyżowym charakterze, produkowany na bazie piołunu i anyżu. Bardziej wytrawny, mocny i złożony niż klasyczne likiery ziołowe, z wyraźnymi nutami lukrecji, ziół i delikatnej goryczki. Tradycyjnie podawany z wodą, która nadaje mu charakterystyczny mleczny kolor."
+  "howToPresent": "Ziołowy alkohol inspirowany tradycyjnym absyntem. Intensywny, anyżowo-piołunowy profil. Można podawać klasycznie z cukrem i wodą.",
+
+  "salesTip": [
+    "Produkt niszowy, wybierany przez świadomych klientów.",
+    "Warto wyjaśnić sposób podania."
+  ]
 },
 
 {
@@ -286,15 +291,15 @@
   "image": "bottle_img/martini_bianco.webp",
 
   "whenToOffer": [
-    "Klient szuka lekkiego i słodszego aperitifu",
-    "Dla osób lubiących waniliowe, ziołowe i delikatnie cytrusowe smaki",
-    "Świetny wybór do lekkich drinków lub picia z tonikiem",
-],
+    "Klient robi Martini z tonikiem",
+    "Szuka słodszego wermutu",
+    "Do lekkich, letnich drinków"
+  ],
 
-  "howToPresent": "Biały wermut o delikatnie słodkim charakterze. Łączy nuty wanilii, ziół, cytrusów i delikatnych przypraw, tworząc bardzo świeży i łatwy w odbiorze smak. Najczęściej podawany z tonikiem lub jako składnik koktajli.",
+  "howToPresent": "Biały wermut o delikatnie słodkim, waniliowo-ziołowym charakterze. Najczęściej podawany z tonikiem lub jako składnik koktajli.",
 
   "salesTip": [
-    "Zalicza się do alkoholu który można przewieźć jako wino (poniżej 22%) do niektórych krajów"
+    "Dobry wybór dla osób, które nie lubią mocno gorzkich smaków."
   ]
 },
 
@@ -304,19 +309,19 @@
   "subtitle": "Wermut czerwony · Włochy",
   "category": "wermut",
   "country": "Italy",
-  "abv": "14.5%",
+  "abv": "15%",
   "image": "bottle_img/martini_rosso.webp",
 
- "whenToOffer": [
-    "Klient szuka bardziej klasycznego i ziołowego vermutu",
-    "Świetny wybór do cocktaili takich jak Negroni czy Manhattan",
-    "Alternatywa dla lżejszego i słodszego Martini Bianco"
-],
+  "whenToOffer": [
+    "Klient robi Negroni",
+    "Do Manhattan",
+    "Szuka klasycznego czerwonego wermutu"
+  ],
 
-  "howToPresent": "Klasyczny włoski czerwony vermut o ziołowo korzennym i lekko gorzkim charakterze, ale nadal jest słodki. Łączy nuty karmelu, ziół, przypraw i pomarańczy. Najczęściej podawany z lodem lub jako baza do klasycznych koktajli.",
+  "howToPresent": "Klasyczny czerwony wermut o karmelowo-ziołowym profilu. Kluczowy składnik Negroni i Manhattan.",
 
   "salesTip": [
-    "Zalicza się do alkoholu który można przewieźć jako wino (poniżej 22%) do niektórych krajów"
+    "Podstawa klasycznych koktajli barowych."
   ]
 },
 
@@ -329,17 +334,16 @@
   "abv": "15%",
   "image": "bottle_img/martini_rosato.webp",
 
- "whenToOffer": [
-    "Dla osób lubiących bardziej kwiatowe i delikatnie owocowe alkohole",
-    "Świetny wybór do letnich drinków i aperitivo",
-    "Alternatywa pomiędzy bardziej waniliowym Bianco a bardziej ziołowym Rosso"
-],
+  "whenToOffer": [
+    "Klient szuka czegoś lżejszego i owocowego",
+    "Do letnich drinków"
+  ],
 
-  "howToPresent": "Włoski vermouth rosato o lekkim, świeżym i bardziej kwiatowo-owocowym charakterze. Łączy nuty czerwonych owoców, cytrusów, ziół i delikatnych przypraw, tworząc bardziej nowoczesny i łatwy w odbiorze profil smakowy. Najczęściej podawany z lodem, tonikiem lub w lekkich koktajlach.",
+  "howToPresent": "Różowy wermut o bardziej owocowym charakterze. Lżejszy i mniej gorzki niż Rosso.",
 
   "salesTip": [
-    "Zalicza się do alkoholu który można przewieźć jako wino (poniżej 22%) do niektórych krajów"
-]
+    "Dobry wybór dla osób zaczynających przygodę z wermutem."
+  ]
 },
 
 {
@@ -348,41 +352,41 @@
   "subtitle": "Porto Tawny · Portugalia",
   "category": "porto",
   "country": "Portugal",
-  "abv": "18%",
+  "abv": "19%",
   "image": "bottle_img/porto_cruz_tawny.webp",
 
   "whenToOffer": [
-    "Klient szuka słodkiego wina czerwonego",
-    "Świetny wybór do deserów, serów lub picia solo",
-    "Alternatywa dla klasycznych likierów deserowych"
-],
+    "Klient szuka słodkiego wina deserowego",
+    "Do serów pleśniowych",
+    "Do deserów czekoladowych"
+  ],
 
-  "howToPresent": "Portugalskie wino wzmacniane typu tawny o deserowym charakterze niż ruby porto. Dojrzewa w beczkach, dzięki czemu zyskuje bardziej zaokrąglony profil z nutami karmelu, suszonych owoców, orzechów i delikatnych przypraw. Łagodniejsze i bardziej utlenione w stylu niż świeższe porto ruby.",
+  "howToPresent": "Porto typu Tawny dojrzewające w beczce. Nuty karmelu, orzechów i suszonych owoców. Słodkie, deserowe.",
 
   "salesTip": [
-    "Tylko porto są całkowicie słodkimi winami czerwonymi z naszego asortymentu."
+    "Dobry wybór dla osób zaczynających przygodę z porto."
   ]
 },
 
 {
-  "slug": "taylors-vintage",
-  "name": "Taylor's Vintage",
+  "slug": "taylors-vintage-2019",
+  "name": "Taylor's Vintage 2019",
   "subtitle": "Porto Vintage · Portugalia",
   "category": "porto",
   "country": "Portugal",
-  "abv": "19%",
+  "abv": "20%",
   "image": "bottle_img/taylors.webp",
 
   "whenToOffer": [
-    "Dla osób lubiących intensywne, głębokie i złożone wina wina wzmacniane",
-    "Świetny wybór do kolekcjonowania lub specjalnych okazji",
-    "Klient szuka bardziej skoncentrowanego i kompleksowego stylu niż tawny"
-],
+    "Klient szuka czegoś kolekcjonerskiego",
+    "Na prezent premium",
+    "Miłośnik klasycznych porto"
+  ],
 
-  "howToPresent": "Portugalskie porto typu Vintage produkowane wyłącznie z win jednego wyjątkowego rocznika. Styl bardziej skoncentrowany, z ułożoną słodyczą, intensywny i świeży niż klasyczne tawny porto. Taylor’s należy do najbardziej prestiżowych domów porto i słynie z bardziej strukturalnego oraz głębokiego stylu Vintage Port. To wino oferuje bardzo bogaty profil z nutami ciemnych owoców, śliwek, przypraw, kakao i delikatnej czekolady.",
+  "howToPresent": "Porto typu Vintage z rocznika 2019. Bardziej skoncentrowane i strukturalne niż Tawny. Potencjał do długiego starzenia.",
 
   "salesTip": [
-    "Tylko porto są całkowicie słodkimi winami czerwonymi z naszego asortymentu."
+    "Dobry wybór prezentowy dla konesera."
   ]
 },
 
@@ -396,16 +400,15 @@
   "image": "bottle_img/ramos_pinto.jpg",
 
   "whenToOffer": [
-    "Klient szuka bardziej eleganckiego i prezentowego porto typu tawny",
-    "Dla osób lubiących nuty orzechów, karmelu i suszonych owoców",
-    "Świetny wybór do deserów, serów lub picia solo",
-    "Alternatywa dla prostszych i młodszych tawny porto"
-],
+    "Klient szuka bardziej dojrzałego porto",
+    "Na prezent",
+    "Do serów i deserów"
+  ],
 
-  "howToPresent": "Portugalskie porto typu Tawny produkowane przez historyczny dom Ramos Pinto. Dojrzewa 10 lat w beczkach, dzięki czemu zyskuje bardziej złożony, elegancki i utleniony charakter niż młodsze porto. Wyraźne nuty karmelu, suszonych owoców, orzechów, przypraw i delikatnego drewna tworzą bardziej harmonijny i deserowy profil.",
+  "howToPresent": "Porto Tawny starzone średnio 10 lat w beczkach. Bardziej złożone niż podstawowe Tawny. Nuty orzechowe, karmelowe, suszone owoce.",
 
   "salesTip": [
-    "Tylko porto są całkowicie słodkimi winami czerwonymi z naszego asortymentu."
+    "Wyższa półka niż standardowe Tawny."
   ]
 },
 
@@ -417,19 +420,20 @@
   "country": "Germany",
   "abv": "35%",
   "image": "bottle_img/jager.webp",
-  "maturation": "około rok w dębowych beczkach"
+
+  "maturation": "Około roku w dębowych beczkach",
 
   "whenToOffer": [
     "Klient szuka intensywnego likieru ziołowego",
-    "Dla osób lubiących gorzko-slodkie, korzenne i ziołowe smaki",
-    "Znana marka, łatwa decyzja"
-]
+    "Dla osób lubiących gorzko-słodkie, korzenne i ziołowe smaki",
+    "Znana marka, łatwa i bezpieczna decyzja"
+  ],
 
-  "howToPresent": "Niemiecki likier ziołowy produkowany z mieszanki 56 ziół, przypraw, korzeni i owoców. Po maceracji dojrzewa około roku w dębowych beczkach, dzięki czemu zachowuje bardziej zintegrowany i zaokrąglony charakter. Charakteryzuje się intensywnym, korzennym i gorzko-słodkim profilem z nutami lukrecji, cytrusów, ziół i przypraw."
+  "howToPresent": "Niemiecki likier ziołowy produkowany z mieszanki 56 ziół, przypraw, korzeni i owoców. Po maceracji dojrzewa około roku w dębowych beczkach, dzięki czemu zachowuje bardziej zintegrowany i zaokrąglony charakter. Charakteryzuje się intensywnym, korzennym i gorzko-słodkim profilem z nutami lukrecji, cytrusów, ziół i przypraw.",
 
   "cocktails": [
-    "Jager & Cola",
-    "Jagerbomb(jagermeister+red bull)"
+    "Jäger & Cola",
+    "Jägerbomb (Jägermeister + Red Bull)"
   ]
 },
 
@@ -443,11 +447,19 @@
   "image": "bottle_img/jager_orange.webp",
 
   "whenToOffer": [
-    "Klient lubi Jägermeister, ale szuka czegoś lżejszego",
-    "Do letnich drinków"
-  ],
+    "Klient szuka alkoholu o wyraźnym smaku pomarańczy i cytrusów",
+    "Dobry wybór do prostych drinków i miksowania",
+    "Dla klientów szukających czegoś bardziej świeżego i orzeźwiającego, szczególnie na wyjazdy do cieplejszych krajów"
+],
 
-  "howToPresent": "Likier ziołowy łączący charakter klasycznego Jägermeistera z wyraźnymi nutami sycylijskich pomarańczy. Bardziej świeży, cytrusowy i owocowy niż oryginalna wersja, ale nadal zachowuje charakterystyczne ziołowe i lekko gorzkie nuty."
+  "howToPresent": "Likier ziołowy będący bardziej świeżą i cytrusową interpretacją klasycznego Jägermeistera. Łączy charakterystyczną mieszankę ziół i przypraw z wyraźnymi nutami sycylijskich pomarańczy, tworząc bardziej owocowy, lekki i łatwiejszy w odbiorze smak. Zachowuje charakterystyczny lekko gorzki i ziołowy charakter, ale w bardziej wakacyjnym i orzeźwiającym stylu.",
+
+    "cocktails": [
+    "Jäger & Fanta",
+    "Jäger & Tomic",
+    "Jäger & Sok pomarańczowy"
+  ]
+},
 
 {
   "slug": "jagermeister-manifest",
