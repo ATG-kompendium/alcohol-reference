@@ -469,13 +469,15 @@
   "country": "Germany",
   "abv": "38%",
   "image": "bottle_img/jager_manifest.webp",
+  "maturation": "około 2 lat w dębowych beczkach"
 
   "whenToOffer": [
-    "Klient szuka czegoś bardziej premium",
-    "Fan klasycznego Jägermeister"
-  ],
+    "Dla fanów marki Jägermeistera",
+    "Klient lubi likiery ziołowe typu Underberg, Unicum lub amaro",
+    "Uniwersalny i bezpieczny wybór na prezent wybór na prezent, dla osób lubiących ziłowe likiery"
+]
 
-  "howToPresent": "Bardziej złożona, dojrzewająca w beczkach wersja Jägermeister. Głębszy, bardziej elegancki profil smakowy."
+  "howToPresent": "Produkowany na bazie destylatu pszenicznego oraz większej ilości składników niż 56 jak w oryginalnej wersji. Razem ze wszystkimi procesami dojrzewa około 2 lat w dębowych beczkach, dzięki czemu zachowuje bardziej złożony, korzenny i mniej słodki charakter. Wyraźne nuty wanilii, lukrecji, kakao, drewna, suszonych owoców, przypraw i ziół tworzą bogaty, mniej słodki i głęboki profil smakowy. "
 },
 
 {
@@ -488,12 +490,18 @@
   "image": "bottle_img/disaronno.webp",
 
   "whenToOffer": [
-    "Klient szuka amaretto",
-    "Do kawy lub deserów",
-    "Do drinków typu Amaretto Sour"
-  ],
+    "Klient lubi słodsze i deserowe alkohole",
+    "Dla osób lubiących migdałowe, waniliowe i marcepanowe profile",
+    "Świetny wybór do deserów, kawy lub prostych koktajli"
+]
 
   "howToPresent": "Klasyczny włoski likier o smaku migdałowym. Słodki, deserowy, idealny do kawy i koktajli."
+
+"cocktails": [
+    "Amaretto sour",
+    "Amaretto z mlekiem",
+    "Amaretto Spritz"
+  ]
 },
 
 {
