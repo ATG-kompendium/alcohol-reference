@@ -475,7 +475,7 @@
     "Dla fanów marki Jägermeistera",
     "Klient lubi likiery ziołowe typu Underberg, Unicum lub amaro",
     "Uniwersalny i bezpieczny wybór na prezent wybór na prezent, dla osób lubiących ziłowe likiery"
-]
+],
 
   "howToPresent": "Produkowany na bazie destylatu pszenicznego oraz większej ilości składników niż 56 jak w oryginalnej wersji. Razem ze wszystkimi procesami dojrzewa około 2 lat w dębowych beczkach, dzięki czemu zachowuje bardziej złożony, korzenny i mniej słodki charakter. Wyraźne nuty wanilii, lukrecji, kakao, drewna, suszonych owoców, przypraw i ziół tworzą bogaty, mniej słodki i głęboki profil smakowy. "
 },
@@ -493,9 +493,13 @@
     "Klient lubi słodsze i deserowe alkohole",
     "Dla osób lubiących migdałowe, waniliowe i marcepanowe profile",
     "Świetny wybór do deserów, kawy lub prostych koktajli"
-]
+],
 
-  "howToPresent": "Klasyczny włoski likier o smaku migdałowym. Słodki, deserowy, idealny do kawy i koktajli."
+  "howToPresent": "Włoski likier amaretto o charakterystycznym marcepanowym i migdałowym profilu. Charakterystyczny smak i aromat pochodzą głównie pestek moreli oraz mieszankę ziół i przypraw, dzięki czemu zachowuje bardziej marcepanowy niż typowo orzechowy charakter. Łączy nuty marcepanu, wanilii, karmelu i delikatnych przypraw, tworząc bardzo łagodny, deserowy i łatwy w odbiorze profil.",
+
+"salesTip": [
+    "Wbrew popularnej opinii charakterystyczny migdałowy i marcepanowy profil Disaronno tworzony jest głównie przez pestki moreli, a nie same migdały, których likier nie zawiera.",
+  ],
 
 "cocktails": [
     "Amaretto sour",
