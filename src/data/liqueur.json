@@ -518,11 +518,22 @@
   "image": "bottle_img/adriatico.webp",
 
   "whenToOffer": [
-    "Klient szuka bardziej rzemieślniczego amaretto",
-    "Do koktajli premium"
-  ],
+    "Klient szuka bardziej naturalnego stylu amaretto",
+    "Dla osób lubiących bardziej migdałowy i mniej cukierkowy smak",
+    "Alternatywa dla bardziej marcepanowego i deserowego Disaronno",
+    "Świetny wybór do picia solo lub koktajli premium"
+],
 
-  "howToPresent": "Nowoczesna interpretacja amaretto, bardziej naturalna i mniej cukrowa niż klasyczne wersje."
+  "howToPresent": "Nowoczesny włoski likier amaretto produkowany z prażonych migdałów odmiany Filippo Cea pochodzących z regionu Puglia. W przeciwieństwie do bardziej marcepanowego stylu Disaronno oferuje bardziej naturalny, migdałowy i prażony charakter. Łączy nuty prażonych migdałów, wanilii, kakao i delikatnej soli morskiej, tworząc bardziej premium, mniej cukierkowy i bardziej złożony profil.",
+
+"salesTip": [
+  "Adriatico wykorzystuje prawdziwe prażone migdały Filippo Cea z regionu Puglia, uznawane za jedne z najbardziej aromatycznych włoskich migdałów.",
+],
+
+"cocktails": [
+  "Amaretto Sour",
+  "Adriatico Espresso Martini"
+]
 },
 
 {
@@ -535,11 +546,19 @@
   "image": "bottle_img/pimms.webp",
 
   "whenToOffer": [
-    "Klient robi Pimm’s Cup",
-    "Letnie drinki z owocami"
-  ],
+    "Klient szuka lekkiego i orzeźwiającego alkoholu do letnich drinków",
+    "Świetny wybór do prostych koktajli i miksowania z lemoniadą",
+    "Dla osób lubiących owocowe, herbaciane i lekko ziołowe profile",
+    "Alternatywa dla klasycznych aperitifów typu Aperol"
+],
 
-  "howToPresent": "Brytyjski likier na bazie ginu z dodatkiem ziół i przypraw. Najczęściej podawany z lemoniadą i świeżymi owocami."
+ "howToPresent": "Klasyczny brytyjski likier na bazie ginu, ziół i przypraw, znany głównie jako baza do Pimm’s Cup. Charakteryzuje się lekkim, owocowym i orzeźwiającym profilem z nutami cytrusów, herbaty, przypraw i delikatnych ziół. W przeciwieństwie do bardziej gorzkich aperitifów oferuje bardziej świeży, letni i łatwy w odbiorze charakter.",
+
+"cocktails": [
+  "Pimm’s Cup",
+  "Pimm’s Lemonade",
+  "Pimm’s Spritz"
+]
 },
 
 {
@@ -552,11 +571,19 @@
   "image": "bottle_img/get27.webp",
 
   "whenToOffer": [
-    "Klient lubi miętowe alkohole",
-    "Do deserów lub drinków"
-  ],
+  "Klient szuka bardzo świeżego i miętowego likieru",
+  "Dla osób lubiących chłodzące i słodsze profile",
+  "Świetny wybór po posiłku lub do prostych drinków",
+  "Alternatywa dla bardziej ciężkich i deserowych likierów"
+]
 
-  "howToPresent": "Francuski likier miętowy o intensywnym, świeżym charakterze. Podawać schłodzony."
+  "howToPresent": "Francuski likier miętowy o intensywnie świeżym i chłodzącym charakterze. Charakteryzuje się wyraźnymi nutami mięty pieprzowej oraz lekką słodyczą, tworząc bardzo orzeźwiający i łatwy w odbiorze profil. Dzięki niższej zawartości alkoholu dobrze sprawdza się solo, mocno schłodzony lub w prostych cocktailach.",
+
+"cocktails": [
+  "GET & Tonic",
+  "Mint Spritz",
+  "GET Lemon"
+]
 },
 
 {
@@ -568,13 +595,20 @@
   "abv": "20%",
   "image": "bottle_img/st_germain.webp",
 
-  "whenToOffer": [
-    "Klient robi Hugo Spritz",
-    "Szuka kwiatowego likieru",
-    "Do eleganckich koktajli"
-  ],
+ "whenToOffer": [
+   "Klient szuka lekkiego i eleganckiego likieru do koktajli",
+   "Dla osób lubiących kwiatowe, świeże i delikatnie owocowe profile",
+   "Świetny wybór do spritzów i cocktaili na bazie prosecco lub ginu",
+   "Alternatywa dla bardziej słodkich i cięższych likierów"
+],
 
-  "howToPresent": "Francuski likier z kwiatów czarnego bzu. Lekki, kwiatowy, bardzo popularny w nowoczesnej miksologii."
+  "howToPresent": "Francuski likier produkowany ze świeżych kwiatów czarnego bzu zbieranych ręcznie we Francji raz w roku podczas krótkiego okresu kwitnienia. Charakteryzuje się bardzo eleganckim, lekkim i kwiatowym profilem z nutami białych kwiatów, gruszki, cytrusów i delikatnej słodyczy. Najbardziej znany jako składnik nowoczesnych koktajli i spritzów.",
+
+"cocktails": [
+  "St-Germain Spritz",
+  "Hugo Spritz",
+  "Elderflower Gin & Tonic"
+]
 },
 
 {
@@ -587,16 +621,19 @@
   "image": "bottle_img/lick.webp",
 
   "whenToOffer": [
-    "Klient szuka polskiego likieru kawowego",
-    "Do kawy lub deserów",
-    "Budżetowa alternatywa dla importowanych marek"
-  ],
+    "Klient szuka słodkiego i deserowego likieru kawowego",
+    "Dla osób lubiących smaki kawy, czekolady i karmelu",
+    "Dobry wybór do deserów, kawy lub prostych koktajli",
+    "Alternatywa dla bardziej klasycznych likierów kawowych typu Kahlúa"
+],
 
-  "howToPresent": "Polski likier kawowy o słodkim, deserowym charakterze. Dobry do kawy, lodów oraz prostych koktajli.",
+  "howToPresent": "Polski likier kawowy o deserowym i łatwym w odbiorze charakterze. Łączy wyraźne nuty kawy, kakao, karmelu i delikatnej słodyczy, tworząc bardziej kremowy i cukierkowy profil niż bardziej wytrawne likiery kawowe. Dobrze sprawdza się solo, do deserów lub jako składnik prostych koktajli.",
 
-  "salesTip": [
-    "Można proponować jako tańszą alternatywę dla zagranicznych likierów kawowych."
-  ]
+  "cocktails": [
+    "Espresso Martini",
+    "White Russian",
+    "Kawa z likierem kawowym"
+]
 },
 
 {
@@ -609,39 +646,42 @@
   "image": "bottle_img/patron_cafe.webp",
 
   "whenToOffer": [
-    "Klient szuka czegoś premium",
-    "Lubi tequilę Patrón",
-    "Do espresso martini"
-  ],
+    "Dla osób szukających bardziej premium i zbalansowanego likieru kawowego",
+    "Świetny wybór do Espresso Martini i koktajli premium",
+    "Klient lubi tequilę marki Patron i jest otwarty na nowe doznania"
+],
 
-  "howToPresent": "Likier kawowy oparty na tequili Patrón Silver. Mniej słodki niż klasyczne likiery kawowe, bardziej wytrawny i intensywny.",
+  "howToPresent": "Likier kawowy na bazie tequili Patrón Silver, łączący charakter świeżej agawy z wyraźnymi nutami kawy, kakao i miodowej słodyczy. W przeciwieństwie do bardziej ciężkich i syropowych likierów kawowych zachowuje bardzo dobrze zbalansowany, gładki i bardziej elegancki smak. Tequila pozostaje wyczuwalna, ale bardzo dobrze zintegrowana z kawowym charakterem, tworząc wyjątkowo harmonijny styl.",
 
-  "salesTip": [
-    "Premium alternatywa dla klasycznych likierów kawowych.",
-    "Świetny do Espresso Martini."
-  ]
+  "cocktails": [
+    "Espresso Martini",
+    "XO Cafe Martini",
+    "Baby Guiness"
+]
 },
 
 {
   "slug": "belvedere-cold-brew",
   "name": "Belvedere Cold Brew Coffee",
-  "subtitle": "Wódka aromatyzowana kawą · Polska",
   "category": "vodka-flavoured",
   "country": "Poland",
   "abv": "30%",
   "image": "bottle_img/belvedere_coffee.webp",
 
   "whenToOffer": [
-    "Klient szuka wódki smakowej premium",
-    "Do espresso martini",
-    "Fan marki Belvedere"
-  ],
+    "Klient szuka bardziej premium kawowego alkoholu",
+    "Dla osób lubiących mniej deserowe kawowe likiery",
+    "Świetny wybór do Espresso Martini i koktajli premium",
+    "Alternatywa dla słodszych likierów kawowych"
+],
 
-  "howToPresent": "Wódka Belvedere z dodatkiem naturalnego ekstraktu kawy. Bardziej wytrawna i mniej słodka niż klasyczne likiery kawowe.",
+  "howToPresent": "Polska wódka smakowa premium produkowana na bazie organicznej wódki Belvedere oraz ekstraktu z kawy cold brew. W przeciwieństwie do klasycznych likierów kawowych oferuje bardziej czysty, mniej słodki charakter, z wyraźnymi nutami świeżo parzonej kawy, kakao i delikatnej wanilii.",
 
-  "salesTip": [
-    "Dobry wybór do koktajli kawowych w wersji premium."
-  ]
+ "cocktails": [
+    "Espresso Martini",
+    "Cold Brew Martini",
+    "Coffee White Russian"
+]
 },
 
 {
@@ -654,12 +694,12 @@
   "image": "bottle_img/diageo_old_fashioned.png",
 
   "whenToOffer": [
-    "Klient chce gotowy koktajl premium",
-    "Na prezent dla osoby lubiącej klasyczne drinki",
-    "Nie chce mieszać samodzielnie koktajli"
-  ],
+    "Klient szuka gotowych cocktaili premium",
+    "Dla osób chcących spróbować klasycznych cocktaili bez własnego miksowania",
+    "Świetna opcja dla klientów lubiących wygodę i szybkie serwowanie"
+],
 
-  "howToPresent": "Seria gotowych koktajli stworzona na bazie kultowych marek Diageo. Wystarczy schłodzić i podać – smak klasycznego koktajlu bez potrzeby miksowania.",
+   "howToPresent": "Seria gotowych koktajli stworzona na bazie kultowych marek Diageo inspirowanych najbardziej klasycznymi drinkami świata, takimi jak Negroni, Old Fashioned czy Cosmopolitan. Zachowują dobrze zbalansowany charakter niż większość standardowych ready-to-drink drinków.",
 
   "variants": [
     {
@@ -677,7 +717,6 @@
   ],
 
   "salesTip": [
-    "Bardzo dobre rozwiązanie prezentowe.",
     "Wystarczy dodać lód – zero barmańskich umiejętności."
   ]
 },
@@ -692,16 +731,15 @@
   "image": "bottle_img/bacardi_mojito.webp",
 
   "whenToOffer": [
-    "Klient szuka czegoś lekkiego i imprezowego",
-    "Na wakacyjny wyjazd",
-    "Duża grupa osób"
-  ],
+    "Klient szuka gotowego i orzeźwiającego koktajlu",
+    "Dla osób lubiących świeże, orzeźwiające alkohole",
+    "Dobry wybór na imprezy, lato lub wakacyjne wyjazdy"
+],
 
-  "howToPresent": "Gotowy do podania klasyczny Mojito na bazie rumu Bacardi. Świeży, limonkowo-miętowy profil, wystarczy schłodzić i podać z lodem.",
+  "howToPresent": "Gotowy cocktail inspirowany klasycznym Mojito, produkowany na bazie rumu Bacardí. Łączy świeże nuty limonki, mięty i delikatnej słodyczy, tworząc lekki, cytrusowy i bardzo orzeźwiający profil.",
 
   "salesTip": [
     "Duża butelka 1L – dobra opcja na imprezy.",
-    "Wystarczy dodać świeżą miętę i limonkę dla lepszego efektu."
   ]
 },
 
