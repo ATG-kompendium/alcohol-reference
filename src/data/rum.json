@@ -7,19 +7,19 @@
     "category": "Rum",
     "country": "Philippines",
     "abv": "40%",
-    "rawMaterial": "sok z trzciny cukrowej",
+    "rawMaterial": "melasa",
     "image": "bottle_img/chopin-tribute.png",
+"maturation": "Około 7 lat w beczkach z amerykańskiego dębu"
+
     "whenToOffer": [
-      "Osób szukających lekkiego rumu.",
-      "Klientowi który nie lubi alkoholu mocnego."
+  "Klient szuka łagodnego i łatwego w odbiorze rumu",
+  "Dla osób lubiących tropikalne i owocowe profile",
+  "Dobry wybór dla osób rozpoczynających przygodę z rumem",
+  "Alternatywa dla cięższych i bardziej beczkowych rumów"
+],
 
-    ],
-
-    "howToPresent":"Filipiński rum rzemieślniczy, robiony w stylu hiszpańskim, idealny dla kobiet i osób którzy nie lubią mocnego alkoholu, ponieważ jest on bardzo lekki, tropikalny i przyjemny w smaku.",
-    
-    "aroma": "nuty czekolady mlecznej, karmelu i owoców tropikalnych",
-    "taste": "Bardzo gładki,ananas, wanilia",
-    "finish": "Średniej długości, lekko przyprawowy"
+    "howToPresent": "Filipiński rum premium produkowany ze świeżo tłoczonego soku z trzciny cukrowej. Dojrzewa około 7 lat w beczkach z amerykańskiego dębu, dzięki czemu zachowuje wyjątkowo gładki i harmonijny charakter. W profilu dominują nuty ananasa, wanilii, karmelu i delikatnych przypraw, uzupełnione subtelnym tropikalnym charakterem. Styl bardziej owocowy, łagodny i przystępny niż wiele klasycznych rumów degustacyjnych."
+   
   },
 
   {
