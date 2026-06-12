@@ -9,13 +9,13 @@
     "abv": "40%",
     "rawMaterial": "melasa",
     "image": "bottle_img/chopin-tribute.png",
-"maturation": "Około 7 lat w beczkach z amerykańskiego dębu"
+"maturation": "Około 7 lat w beczkach z amerykańskiego dębu",
 
-    "whenToOffer": [
-  "Klient szuka łagodnego i łatwego w odbiorze rumu",
-  "Dla osób lubiących tropikalne i owocowe profile",
-  "Dobry wybór dla osób rozpoczynających przygodę z rumem",
-  "Alternatywa dla cięższych i bardziej beczkowych rumów"
+  "whenToOffer": [
+    "Klient szuka łagodnego i łatwego w odbiorze rumu",
+    "Dla osób lubiących tropikalne i owocowe profile",
+    "Dobry wybór dla osób rozpoczynających przygodę z rumem",
+    "Alternatywa dla cięższych i bardziej beczkowych rumów"
 ],
 
     "howToPresent": "Filipiński rum premium produkowany ze świeżo tłoczonego soku z trzciny cukrowej. Dojrzewa około 7 lat w beczkach z amerykańskiego dębu, dzięki czemu zachowuje wyjątkowo gładki i harmonijny charakter. W profilu dominują nuty ananasa, wanilii, karmelu i delikatnych przypraw, uzupełnione subtelnym tropikalnym charakterem. Styl bardziej owocowy, łagodny i przystępny niż wiele klasycznych rumów degustacyjnych."
@@ -30,14 +30,16 @@
   "country": "Venezuela",
   "abv": "40%",
   "image": "bottle_img/diplomatico.webp",
+  "maturation": "Rumy dojrzewające do 12 lat w beczkach z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient szuka słodszego rumu premium",
-    "Alternatywa dla Zacapa 23",
-    "Rum do degustacji"
-  ],
+    "Klient szuka bardzo gładkiego, słodkawego rumu",
+    "Dla osób lubiących nuty karmelu, toffi, wanilii i suszonych owoców",
+    "Świetny wybór dla osób rozpoczynających przygodę z rumami premium",
+    "Alternatywa dla bardziej wytrawnych i beczkowych rumów"
+],
 
-  "howToPresent": "Bardzo gładki i lekko słodki rum z nutami karmelu, wanilii i suszonych owoców."
+  "howToPresent": "Wenezuelski rum premium będący blendem ciężkich rumów destylowanych głównie w alembikach oraz lżejszych rumów kolumnowych. Dojrzewa w beczkach z amerykańskiego dębu przez okres do 12 lat, dzięki czemu zachowuje wyjątkowo gładki i bogaty charakter. W profilu dominują nuty toffi, karmelu, wanilii, skórki pomarańczowej, kakao i suszonych owoców. Jeden z najbardziej rozpoznawalnych i najczęściej nagradzanych rumów na świecie."
 },
 
 {
@@ -48,14 +50,20 @@
   "country": "Guatemala",
   "abv": "40%",
   "image": "bottle_img/zacapa23.webp",
+  "maturation": "Blend rumów dojrzewających metodą Solera od 6 do 23 lat",
 
   "whenToOffer": [
-    "Klient szuka eleganckiego rumu",
-    "Prezent premium",
-    "Alternatywa dla XO"
-  ],
+    "Klient szuka bogatego i luksusowego rumu degustacyjnego",
+    "Dla osób lubiących nuty karmelu, wanilii, czekolady i suszonych owoców",
+    "Świetny wybór na prezent lub specjalną okazję"
+],
 
-  "howToPresent": "Rum starzony metodą solera na dużych wysokościach. Gładki, karmelowo-waniliowy."
+  "howToPresent": "Gwatemalski rum premium produkowany z dziewiczego miodu trzcinowego (virgin sugar cane honey), a nie melasy. Dojrzewa metodą Solera na wysokości ponad 2300 metrów n.p.m., przechodząc przez beczki po amerykańskiej whiskey, sherry oraz winie Pedro Ximénez. Dzięki temu zachowuje wyjątkowo bogaty i złożony charakter z nutami karmelu, wanilii, suszonych owoców, czekolady, przypraw i delikatnego drewna. Styl bardziej elegancki, głębszy i lepiej zintegrowany niż wiele klasycznych rumów.",
+
+"salesTip": [
+  "Zacapa produkowana jest z tzw. Virgin Sugar Cane Honey — zagęszczonego soku z trzciny cukrowej, stanowiącego etap pośredni pomiędzy świeżym sokiem a melasą.",
+  "Rum dojrzewa metodą Solera na wysokości ponad 2300 m n.p.m., gdzie chłodniejszy klimat spowalnia proces starzenia."
+]
 },
 
 {
@@ -66,14 +74,16 @@
   "country": "Guatemala",
   "abv": "40%",
   "image": "bottle_img/zacapa_xo.webp",
+  "maturation": "Blend rumów dojrzewających metodą Solera"
 
   "whenToOffer": [
-    "Klient szuka najwyższej półki",
-    "Prezent luksusowy",
-    "Alternatywa dla koniaku XO"
-  ],
+    "Klient szuka najbardziej luksusowego rumu w ofercie Zacapa",
+    "Dla osób lubiących bogate, eleganckie i wielowarstwowe alkohole",
+    "Świetny wybór na wyjątkowy prezent lub specjalną okazję",
+    "Alternatywa dla premium koniaków i whisky"
+],
 
-  "howToPresent": "Najbardziej złożona wersja Zacapa. Bardziej elegancka i wytrawniejsza niż 23."
+  "howToPresent": "Gwatemalski rum ultra premium produkowany z Virgin Sugar Cane Honey — zagęszczonego soku z trzciny cukrowej. Dojrzewa metodą Solera z wykorzystaniem beczek po amerykańskiej whiskey, sherry oraz winie Pedro Ximénez, a finalnie wykańczany jest w beczkach po francuskim koniaku. Dzięki temu zachowuje wyjątkowo elegancki i złożony charakter z nutami suszonych owoców, czekolady, karmelu, przypraw, wanilii i delikatnego drewna. Styl luksusowy, głębszy i lepiej zintegrowany niż Zacapa 23."
 },
 
 {
@@ -302,24 +312,6 @@
   ],
 
   "howToPresent": "Bardziej bezpośrednia i słodsza wersja Don Papa."
-},
-
-{
-  "slug": "santa-teresa-1796",
-  "name": "Santa Teresa 1796",
-  "subtitle": "Rum · Wenezuela · Solera",
-  "category": "rum",
-  "country": "Venezuela",
-  "abv": "40%",
-  "image": "bottle_img/santa_teresa.webp",
-
-  "whenToOffer": [
-    "Klient szuka alternatywy dla Zacapa",
-    "Rum bardziej wytrawny",
-    "Degustacyjny rum premium"
-  ],
-
-  "howToPresent": "Rum starzony metodą solera. Bardziej wytrawny i elegancki niż Diplomatico."
 },
 
 {
