@@ -94,22 +94,48 @@
   "country": "Guatemala",
   "abv": "40%",
   "image": "bottle_img/zacapa_lapassion.webp",
+  "maturation": "Blend rumów dojrzewających metodą Solera i finiszowany w beczkach po winie Pedro Ximénez",
 
   "whenToOffer": [
-    "Klient szuka edycji limitowanej",
-    "Fan marki Zacapa"
+    "whenToOffer": [
+  "Klient lubi bardziej deserowe rumy premium",
+  "Świetny wybór dla fanów Zacapa 23 szukających czegoś bardziej intensywnego",
+  "Alternatywa dla klasycznych rumów o bardziej owocowym charakterze"
   ],
 
-  "howToPresent": "Limitowana edycja z dodatkowym dojrzewaniem w beczkach po winie."
+ "howToPresent": "Gwatemalski rum premium z kolekcji Heavenly Cask Collection, produkowany z Virgin Sugar Cane Honey i dojrzewający metodą Solera. Ostatni etap dojrzewania odbywa się w beczkach po hiszpańskim winie Pedro Ximénez, dzięki czemu zachowuje wyjątkowo bogaty i deserowy charakter. W profilu dominują nuty rodzynek, fig, suszonych śliwek, miodu, karmelu i czekolady. Spośród rumów Zacapa wyróżnia się najbardziej owocowym i słodkim stylem."
 },
 
 {
-  "slug": "hampden-8yo",
-  "name": "Hampden 8 Y.O.",
-  "subtitle": "Jamaican Rum · 8 lat",
+  "slug": "hampden-1753",
+  "name": "Hampden 1753",
+  "subtitle": "Jamaican Rum",
   "category": "rum",
   "country": "Jamaica",
   "abv": "46%",
+  "image": "bottle_img/hampden8.jpg",
+  "maturation": "około 3 lat dojrzewania w beczkach po bourbonie",
+
+  "whenToOffer": [
+    "Klient chce poznać klasyczny styl jamajskiego rumu",
+    "Dla osób lubiących intensywne, owocowe i aromatyczne alkohole",
+    "Świetny wybór dla fanów whisky i Koniaków",
+    "Alternatywa dla łagodniejszych rumów hiszpańskiego stylu jak Zacapa czy Diplomático"
+],
+
+  "howToPresent": "Jamajski Rum produkowany wyłącznie walembikach (pot still). Powstaje przy użyciu dzikich drożdży oraz wyjątkowo długiej fermentacji, dzięki czemu zachowuje charakterystyczny dla Hampden wysoki poziom estrów i intensywnie aromatyczny profil. Dojrzewa przez około 3 lata w beczkach po bourbonie, oferując nuty ananasa, banana, cytrusów, przypraw. Mimo wyrazistego charakteru pozostaje bardziej przystępny i łatwiejszy w odbiorze niż inne wydania Hampden."
+
+  "salesTip": [
+    "Liczba 1753 odnosi się do roku rozpoczęcia działalności cukrowni Hampden Estate i symbolizuje ponad 270 lat tradycji produkcji rumu.",
+},
+
+{
+  "slug": "appleton-8",
+  "name": "Appleton Estate 8",
+  "subtitle": "Jamaican Rum",
+  "category": "rum",
+  "country": "Jamaica",
+  "abv": "43%",
   "image": "bottle_img/hampden8.jpg",
 
   "whenToOffer": [
