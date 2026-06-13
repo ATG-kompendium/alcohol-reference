@@ -123,7 +123,7 @@
     "Alternatywa dla łagodniejszych rumów hiszpańskiego stylu jak Zacapa czy Diplomático"
 ],
 
-  "howToPresent": "Jamajski Rum produkowany wyłącznie walembikach (pot still). Powstaje przy użyciu dzikich drożdży oraz wyjątkowo długiej fermentacji, dzięki czemu zachowuje charakterystyczny dla Hampden wysoki poziom estrów i intensywnie aromatyczny profil. Dojrzewa przez około 3 lata w beczkach po bourbonie, oferując nuty ananasa, banana, cytrusów, przypraw. Mimo wyrazistego charakteru pozostaje bardziej przystępny i łatwiejszy w odbiorze niż inne wydania Hampden."
+  "howToPresent": "Jamajski Rum produkowany wyłącznie w alembikach (pot still). Powstaje przy użyciu dzikich drożdży oraz wyjątkowo długiej fermentacji, dzięki czemu zachowuje charakterystyczny dla Hampden wysoki poziom estrów i intensywnie aromatyczny profil. Dojrzewa przez około 3 lata w beczkach po bourbonie, oferując nuty ananasa, banana, cytrusów, przypraw. Mimo wyrazistego charakteru pozostaje bardziej przystępny i łatwiejszy w odbiorze niż inne wydania Hampden."
 
   "salesTip": [
     "Liczba 1753 odnosi się do roku rozpoczęcia działalności cukrowni Hampden Estate i symbolizuje ponad 270 lat tradycji produkcji rumu.",
@@ -137,14 +137,16 @@
   "country": "Jamaica",
   "abv": "43%",
   "image": "bottle_img/hampden8.jpg",
+  "maturation": "Minimum 8 lat dojrzewania w beczkach po bourbonie",
 
   "whenToOffer": [
-    "Klient zna rumy jamajskie",
-    "Szukający wyrazistego stylu",
-    "Rum bardziej funkowy"
-  ],
+    "Klient chce poznać klasyczny styl jamajskiego rumu",
+    "Dla osób lubiących bardziej zbalansowane   i eleganckie rumy",
+    "Świetny wybór jako pierwszy premium rum z Jamajki",
+    "Alternatywa dla bardziej ekstremalnych rumów typu Hampden lub do whisky"
+],
 
-  "howToPresent": "Klasyczny jamajski styl – intensywny, owocowy, z wyraźnym charakterem estrowym."
+  "howToPresent": "Jamajski rum premium produkowany z połączenia destylatów z alembików (pot still) oraz kolumn destylacyjnych. Powstaje przy wykorzystaniu długiej fermentacji z użyciem dzikich drożdży, która odpowiada za charakterystyczne dla Jamajki owocowe i aromatyczne nuty. Jest blendem rumów dojrzewających minimum 8 lat w tropikalnym klimacie Jamajki, dzięki czemu zachowuje bogaty, ale bardzo dobrze zbalansowany charakter. W profilu dominują nuty wanilii, karmelu, pieczonych bananów, skórki pomarańczowej, przypraw i delikatnego dębu."
 },
 
 {
@@ -155,14 +157,19 @@
   "country": "Martinique",
   "abv": "45%",
   "image": "bottle_img/jm_xo.webp",
+  "maturation": "Minimum 6 lat w beczkach z amerykańskiego dębu"
 
   "whenToOffer": [
-    "Klient zna rhum agricole",
-    "Rum bardziej wytrawny",
-    "Alternatywa dla whisky"
-  ],
+    "Klient szuka premium starzony rhum agricole",
+    "Dla osób lubiących bardziej wytrawne i złożone profile niż klasyczne rumy z melasy",
+    "Alternatywa dla whisky i koniaków"
+],
 
-  "howToPresent": "Rhum agricole destylowany ze świeżego soku trzcinowego. Bardziej wytrawny i ziołowy."
+  "howToPresent": "Rhum Agricole AOC z Martyniki produkowany wyłącznie ze świeżego soku z trzciny cukrowej. Dojrzewa minimum 6 lat w beczkach z amerykańskiego dębu, dzięki czemu ma bardziej złożony charakter z nutami wanilii, przypraw, owoców tropikalnych i delikatnego dębu. W przeciwieństwie do większości rumów produkowanych z melasy oferuje bardziej wytrawny i świeży styl."
+
+  "salesTip": [
+    "Rhum Agricole produkowany jest ze świeżego soku z trzciny cukrowej, a nie z melasy, dzięki czemu zachowuje bardziej świeży i roślinny charakter.",
+]
 },
 
 {
@@ -171,32 +178,21 @@
   "subtitle": "Rhum Agricole · Martynika",
   "category": "rum",
   "country": "Martinique",
-  "abv": "42%",
-  "image": "bottle_img/clement_vsop.webp",
-
-  "whenToOffer": [
-    "Klient szuka rumu wytrawnego",
-    "Alternatywa dla koniaku"
-  ],
-
-  "howToPresent": "Elegancki rhum agricole o bardziej złożonym, dębowym profilu."
-},
-
-{
-  "slug": "flor-de-cana-eco",
-  "name": "Flor de Caña Eco",
-  "subtitle": "Rum · Nikaragua",
-  "category": "rum",
-  "country": "Nicaragua",
   "abv": "40%",
-  "image": "bottle_img/flordecana_eco.webp",
+  "image": "bottle_img/clement_vsop.webp",
+  "maturation": "Minimum 4 lata w nowych beczkach oraz beczkach po bourbonie z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient szuka rumu zrównoważonego",
-    "Alternatywa dla Zacapa 23"
-  ],
+    "Dla osób lubiących bardziej wytrawne i złożone alkohole",
+    "Alternatywa dla klasycznych rumów z melasy",
+    "Dobry wybór dla fanów whisky i koniaku"
+],
 
-  "howToPresent": "Rum produkowany w sposób neutralny klimatycznie. Lżejszy i bardziej wytrawny niż Diplomatico."
+  "howToPresent": "Rhum Agricole AOC z Martyniki produkowany wyłącznie ze świeżego soku z trzciny cukrowej. Dojrzewa minimum 4 lata w beczkach z francuskiego i amerykańskiego dębu, dzięki czemu zachowuje elegancki balans pomiędzy świeżym charakterem trzciny cukrowej a wpływem beczki. W profilu dominują nuty wanilii, karmelu, cynamonu, suszonych owoców, skórki pomarańczowej i delikatnych przypraw. W porównaniu do większości rumów z melasy oferuje bardziej wytrawny, świeży charakter.",
+
+"salesTip": [
+    "Rhum Agricole produkowany jest ze świeżego soku z trzciny cukrowej, a nie z melasy, dzięki czemu zachowuje bardziej świeży i roślinny charakter.",
+]
 },
 
 {
@@ -560,12 +556,17 @@
   "image": "bottle_img/bacardi_negra.webp",
 
   "whenToOffer": [
-    "Klient szuka ciemnego rumu do drinków",
-    "Alternatywa dla Captain Morgan Black",
-    "Rum do intensywniejszych koktajli"
-  ],
+    "Klient chce rozpocząć przygodę z rhum agricole",
+    "Dla osób lubiących bardziej wytrawne i świeże profile niż klasyczne rumy z melasy",
+    "Dobry wybór dla fanów whisky, koniaku i beczkowych alkoholi",
+    "Alternatywa dla słodszych rumów karaibskich"
+],
 
-  "howToPresent": "Ciemniejszy i bardziej intensywny niż Carta Oro. Wyraźniejsze nuty karmelu i przypraw."
+  "howToPresent": "Ciemniejszy i bardziej intensywny niż Carta Oro. Wyraźniejsze nuty karmelu i przypraw.",
+
+"salesTip": [
+  "Rhum Agricole produkowany jest ze świeżego soku z trzciny cukrowej, a nie z melasy, dzięki czemu zachowuje bardziej świeży, roślinny charakter."
+]
 },
 
 {
@@ -576,13 +577,19 @@
   "country": "Martinique",
   "abv": "40%",
   "image": "bottle_img/clement_vo.webp",
+  "maturation": "Minimum 3 lata w nowych beczkach oraz beczkach po bourbonie z amerykańskiego dębu"
 
-  "whenToOffer": [
-    "Klient szuka rumu wytrawnego",
-    "Alternatywa dla whisky",
-    "Fan rhum agricole"
-  ],
+    "whenToOffer": [
+    "Klient chce rozpocząć przygodę z rhum agricole",
+    "Dla osób lubiących bardziej wytrawne i świeże profile niż klasyczne rumy z melasy",
+    "Dobry wybór dla fanów whisky, koniaku i beczkowych alkoholi",
+    "Alternatywa dla słodszych rumów karaibskich"
+],
 
-  "howToPresent": "Rhum agricole starzony minimum rok w beczkach dębowych. Bardziej świeży i lżejszy niż wersja XO, z wyraźnym roślinnym i trzcinowym charakterem."
+  "howToPresent": "Rhum Agricole AOC z Martyniki produkowany wyłącznie ze świeżego soku z trzciny cukrowej. Dojrzewa minimum 3 lata w nowych beczkach oraz beczkach po bourbonie z amerykańskiego dębu, dzięki czemu łączy świeży charakter trzciny cukrowej z nutami wanilii, przypraw, karmelu i delikatnego dębu. W porównaniu do klasycznych rumów z melasy oferuje bardziej wytrawny, świeży charakter, typowy dla rhum agricole.",
+
+"salesTip": [
+  "Rhum Agricole produkowany jest ze świeżego soku z trzciny cukrowej, a nie z melasy, dzięki czemu zachowuje bardziej świeży, roślinny charakter."
+]
 }
   ]
