@@ -1,4 +1,3 @@
-
 [
     {
     "slug": "chopin-kasama",
@@ -203,14 +202,67 @@
   "country": "Cuba",
   "abv": "37.5%",
   "image": "bottle_img/bacardi_blanca.webp",
+  "maturation": "Dojrzewa w beczkach z amerykańskiego dębu, a następnie jest filtrowany przez węgiel drzewny"
 
   "whenToOffer": [
-    "Klient szuka rumu do mojito",
-    "Rum do drinków",
-    "Bezpieczny wybór"
+    "Klient szuka uniwersalnego rumu do cocktaili",
+    "Idealny do Mojito, Daiquiri i Cuba Libre",
+    "Dla osób lubiących lekki i czysty profil",
+    "Dobry wybór jako podstawowy biały rum do domowego barku"
+],
+
+  "howToPresent": "Lekki biały rum produkowany z melasy, będący wizytówką marki Bacardí. Po destylacji dojrzewa w beczkach z amerykańskiego dębu. Następnie przechodzi filtrację przez węgiel drzewny, dzięki czemu jest przejrzysty oraz ma wyjątkowo czysty i lekki charakter. W profilu dominują nuty wanilii, migdałów, cytrusów i delikatnej trzciny cukrowej.",
+
+"cocktails": [
+  "Mojito",
+  "Daiquiri",
+  "Cuba Libre"
+],
+
+"salesTip": [
+  "Mimo że jest bezbarwny, Bacardí Carta Blanca dojrzewa w dębowych beczkach przed filtracją."
+]
+},
+
+{
+  "slug": "bacardi-oro",
+  "name": "Bacardi Carta Oro",
+  "subtitle": "Gold Rum · Puerto Rico",
+  "category": "rum",
+  "country": "Puerto Rico",
+  "abv": "37.5%",
+  "image": "bottle_img/bacardi_oro.webp",
+
+  "whenToOffer": [
+    "Klient szuka złotego rumu do Cuba Libre",
+    "Alternatywa dla Havana Especial",
+    "Rum do mieszania"
   ],
 
-  "howToPresent": "Klasyczny biały rum do mojito i cuba libre."
+  "howToPresent": "Złota wersja Bacardi. Łagodniejsza i lekko karmelowa w porównaniu do wersji białej."
+},
+
+{
+  "slug": "bacardi-negra",
+  "name": "Bacardi Carta Negra",
+  "subtitle": "Dark Rum · Puerto Rico",
+  "category": "rum",
+  "country": "Puerto Rico",
+  "abv": "40%",
+  "image": "bottle_img/bacardi_negra.webp",
+
+  "whenToOffer": [
+    "Klient chce rozpocząć przygodę z rhum agricole",
+    "Dla osób lubiących bardziej wytrawne i świeże profile niż klasyczne rumy z melasy",
+    "Dobry wybór dla fanów whisky, koniaku i beczkowych alkoholi",
+    "Alternatywa dla słodszych rumów karaibskich"
+],
+
+  "howToPresent": "Ciemniejszy i bardziej intensywny niż Carta Oro. Wyraźniejsze nuty karmelu i przypraw.",
+
+"salesTip": [
+  "Rhum Agricole produkowany jest ze świeżego soku z trzciny cukrowej, a nie z melasy, dzięki czemu zachowuje bardziej świeży, roślinny charakter."
+]
 },
 
 {
@@ -344,14 +396,6 @@
   "country": "Trinidad and Tobago",
   "abv": "40%",
   "image": "bottle_img/angostura1919.webp",
-
-  "whenToOffer": [
-    "Klient szuka rumu mniej słodkiego",
-    "Alternatywa dla Diplomatico"
-  ],
-
-  "howToPresent": "Zbalansowany rum o nutach karmelu i wanilii, mniej słodki niż rumy z Ameryki Łacińskiej."
-},
 
 {
   "slug": "kraken-rum",
@@ -526,47 +570,6 @@
   ],
 
   "howToPresent": "Bardziej owocowa i cytrusowa interpretacja Don Papa. Lżejsza i bardziej deserowa niż klasyczna wersja."
-},
-
-{
-  "slug": "bacardi-oro",
-  "name": "Bacardi Carta Oro",
-  "subtitle": "Gold Rum · Puerto Rico",
-  "category": "rum",
-  "country": "Puerto Rico",
-  "abv": "37.5%",
-  "image": "bottle_img/bacardi_oro.webp",
-
-  "whenToOffer": [
-    "Klient szuka złotego rumu do Cuba Libre",
-    "Alternatywa dla Havana Especial",
-    "Rum do mieszania"
-  ],
-
-  "howToPresent": "Złota wersja Bacardi. Łagodniejsza i lekko karmelowa w porównaniu do wersji białej."
-},
-
-{
-  "slug": "bacardi-negra",
-  "name": "Bacardi Carta Negra",
-  "subtitle": "Dark Rum · Puerto Rico",
-  "category": "rum",
-  "country": "Puerto Rico",
-  "abv": "40%",
-  "image": "bottle_img/bacardi_negra.webp",
-
-  "whenToOffer": [
-    "Klient chce rozpocząć przygodę z rhum agricole",
-    "Dla osób lubiących bardziej wytrawne i świeże profile niż klasyczne rumy z melasy",
-    "Dobry wybór dla fanów whisky, koniaku i beczkowych alkoholi",
-    "Alternatywa dla słodszych rumów karaibskich"
-],
-
-  "howToPresent": "Ciemniejszy i bardziej intensywny niż Carta Oro. Wyraźniejsze nuty karmelu i przypraw.",
-
-"salesTip": [
-  "Rhum Agricole produkowany jest ze świeżego soku z trzciny cukrowej, a nie z melasy, dzięki czemu zachowuje bardziej świeży, roślinny charakter."
-]
 },
 
 {
