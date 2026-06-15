@@ -41,6 +41,31 @@
   "howToPresent": "Wenezuelski rum premium będący blendem ciężkich rumów destylowanych głównie w alembikach oraz lżejszych rumów kolumnowych. Dojrzewa w beczkach z amerykańskiego dębu przez okres do 12 lat, dzięki czemu zachowuje wyjątkowo gładki i bogaty charakter. W profilu dominują nuty toffi, karmelu, wanilii, skórki pomarańczowej, kakao i suszonych owoców. Jeden z najbardziej rozpoznawalnych i najczęściej nagradzanych rumów na świecie."
 },
 
+  {
+  "slug": "diplomatico-vintage-2008",
+  "name": "Diplomatico Vintage 2008",
+  "subtitle": "Rum · Wenezuela ",
+  "category": "rum",
+  "country": "Venezuela",
+  "abv": "43%",
+  "image": "bottle_img/diplomatico_vintage.jpg",
+  "maturation": "Destylowany w 2008 roku, dojrzewał w beczkach po bourbonie, a następnie finiszowany w beczkach po sherry Oloroso",
+
+  "whenToOffer": [
+  "Klient szuka limitowanego rumu premium do kolekcji lub na specjalną okazję",
+  "Dla osób lubiących wpływ beczek po sherry",
+  "Świetny wybór na prezent dla miłośnika rumu",
+  "Alternatywa dla Zacapa XO i innych luksusowych rumów"
+],
+
+  "howToPresent": "Limitowany rum vintage z Wenezueli, wyprodukowany z destylatów pochodzących wyłącznie z 2008 roku. Powstaje z wyselekcjonowanych destylatów pot still, które dojrzewają w beczkach po bourbonie, a następnie trafiają do beczek po sherry Oloroso. W profilu dominują nuty kawy, gorzkiej czekolady, suszonych owoców, wanilii, przypraw korzennych i opalanego dębu. W porównaniu do Reserva Exclusiva oferuje znacznie większą złożoność, wytrawniejszy charakter i wyraźniejszy wpływ dojrzewania.",
+
+  "salesTip": [
+  "Single Vintage oznacza, że wszystkie destylaty użyte do produkcji pochodzą z jednego roku destylacji – 2008.",
+  "W przeciwieństwie do Reserva Exclusiva główny nacisk położono tutaj na charakter dojrzewania i wpływ beczek po sherry, a nie na słodycz."
+]
+},
+
 {
   "slug": "zacapa-23",
   "name": "Zacapa 23",
@@ -73,7 +98,7 @@
   "country": "Guatemala",
   "abv": "40%",
   "image": "bottle_img/zacapa_xo.webp",
-  "maturation": "Blend rumów dojrzewających metodą Solera"
+  "maturation": "Blend rumów dojrzewających metodą Solera",
 
   "whenToOffer": [
     "Klient szuka najbardziej luksusowego rumu w ofercie Zacapa",
@@ -96,10 +121,9 @@
   "maturation": "Blend rumów dojrzewających metodą Solera i finiszowany w beczkach po winie Pedro Ximénez",
 
   "whenToOffer": [
-    "whenToOffer": [
-  "Klient lubi bardziej deserowe rumy premium",
-  "Świetny wybór dla fanów Zacapa 23 szukających czegoś bardziej intensywnego",
-  "Alternatywa dla klasycznych rumów o bardziej owocowym charakterze"
+    "Klient lubi bardziej deserowe rumy premium",
+    "Świetny wybór dla fanów Zacapa 23 szukających czegoś bardziej intensywnego",
+   "Alternatywa dla klasycznych rumów o bardziej owocowym charakterze"
   ],
 
  "howToPresent": "Gwatemalski rum premium z kolekcji Heavenly Cask Collection, produkowany z Virgin Sugar Cane Honey i dojrzewający metodą Solera. Ostatni etap dojrzewania odbywa się w beczkach po hiszpańskim winie Pedro Ximénez, dzięki czemu zachowuje wyjątkowo bogaty i deserowy charakter. W profilu dominują nuty rodzynek, fig, suszonych śliwek, miodu, karmelu i czekolady. Spośród rumów Zacapa wyróżnia się najbardziej owocowym i słodkim stylem."
@@ -122,10 +146,11 @@
     "Alternatywa dla łagodniejszych rumów hiszpańskiego stylu jak Zacapa czy Diplomático"
 ],
 
-  "howToPresent": "Jamajski Rum produkowany wyłącznie w alembikach (pot still). Powstaje przy użyciu dzikich drożdży oraz wyjątkowo długiej fermentacji, dzięki czemu zachowuje charakterystyczny dla Hampden wysoki poziom estrów i intensywnie aromatyczny profil. Dojrzewa przez około 3 lata w beczkach po bourbonie, oferując nuty ananasa, banana, cytrusów, przypraw. Mimo wyrazistego charakteru pozostaje bardziej przystępny i łatwiejszy w odbiorze niż inne wydania Hampden."
+  "howToPresent": "Jamajski Rum produkowany wyłącznie w alembikach (pot still). Powstaje przy użyciu dzikich drożdży oraz wyjątkowo długiej fermentacji, dzięki czemu zachowuje charakterystyczny dla Hampden wysoki poziom estrów i intensywnie aromatyczny profil. Dojrzewa przez około 3 lata w beczkach po bourbonie, oferując nuty ananasa, banana, cytrusów, przypraw. Mimo wyrazistego charakteru pozostaje bardziej przystępny i łatwiejszy w odbiorze niż inne wydania Hampden.",
 
   "salesTip": [
-    "Liczba 1753 odnosi się do roku rozpoczęcia działalności cukrowni Hampden Estate i symbolizuje ponad 270 lat tradycji produkcji rumu.",
+    "Liczba 1753 odnosi się do roku rozpoczęcia działalności cukrowni Hampden Estate i symbolizuje ponad 270 lat tradycji produkcji rumu."
+    ]
 },
 
 {
@@ -156,7 +181,7 @@
   "country": "Martinique",
   "abv": "45%",
   "image": "bottle_img/jm_xo.webp",
-  "maturation": "Minimum 6 lat w beczkach z amerykańskiego dębu"
+  "maturation": "Minimum 6 lat w beczkach z amerykańskiego dębu",
 
   "whenToOffer": [
     "Klient szuka premium starzony rhum agricole",
@@ -164,10 +189,34 @@
     "Alternatywa dla whisky i koniaków"
 ],
 
-  "howToPresent": "Rhum Agricole AOC z Martyniki produkowany wyłącznie ze świeżego soku z trzciny cukrowej. Dojrzewa minimum 6 lat w beczkach z amerykańskiego dębu, dzięki czemu ma bardziej złożony charakter z nutami wanilii, przypraw, owoców tropikalnych i delikatnego dębu. W przeciwieństwie do większości rumów produkowanych z melasy oferuje bardziej wytrawny i świeży styl."
+  "howToPresent": "Rhum Agricole AOC z Martyniki produkowany wyłącznie ze świeżego soku z trzciny cukrowej. Dojrzewa minimum 6 lat w beczkach z amerykańskiego dębu, dzięki czemu ma bardziej złożony charakter z nutami wanilii, przypraw, owoców tropikalnych i delikatnego dębu. W przeciwieństwie do większości rumów produkowanych z melasy oferuje bardziej wytrawny i świeży styl.",
 
   "salesTip": [
-    "Rhum Agricole produkowany jest ze świeżego soku z trzciny cukrowej, a nie z melasy, dzięki czemu zachowuje bardziej świeży i roślinny charakter.",
+    "Rhum Agricole produkowany jest ze świeżego soku z trzciny cukrowej, a nie z melasy, dzięki czemu zachowuje bardziej świeży i roślinny charakter."
+]
+},
+
+{
+  "slug": "clement-vo",
+  "name": "Clement V.O.",
+  "subtitle": "Rhum Agricole · Martynika",
+  "category": "rum",
+  "country": "Martinique",
+  "abv": "40%",
+  "image": "bottle_img/clement_vo.webp",
+  "maturation": "Minimum 3 lata w nowych beczkach oraz beczkach po bourbonie z amerykańskiego dębu",
+
+    "whenToOffer": [
+      "Klient chce rozpocząć przygodę z rhum agricole",
+      "Dla osób lubiących bardziej wytrawne i świeże profile niż klasyczne rumy z melasy",
+      "Dobry wybór dla fanów whisky, koniaku i beczkowych alkoholi",
+      "Alternatywa dla słodszych rumów karaibskich"
+],
+
+  "howToPresent": "Rhum Agricole AOC z Martyniki produkowany wyłącznie ze świeżego soku z trzciny cukrowej. Dojrzewa minimum 3 lata w nowych beczkach oraz beczkach po bourbonie z amerykańskiego dębu, dzięki czemu łączy świeży charakter trzciny cukrowej z nutami wanilii, przypraw, karmelu i delikatnego dębu. W porównaniu do klasycznych rumów z melasy oferuje bardziej wytrawny, świeży charakter, typowy dla rhum agricole.",
+
+"salesTip": [
+  "Rhum Agricole produkowany jest ze świeżego soku z trzciny cukrowej, a nie z melasy, dzięki czemu zachowuje bardziej świeży, roślinny charakter."
 ]
 },
 
@@ -190,7 +239,7 @@
   "howToPresent": "Rhum Agricole AOC z Martyniki produkowany wyłącznie ze świeżego soku z trzciny cukrowej. Dojrzewa minimum 4 lata w beczkach z francuskiego i amerykańskiego dębu, dzięki czemu zachowuje elegancki balans pomiędzy świeżym charakterem trzciny cukrowej a wpływem beczki. W profilu dominują nuty wanilii, karmelu, cynamonu, suszonych owoców, skórki pomarańczowej i delikatnych przypraw. W porównaniu do większości rumów z melasy oferuje bardziej wytrawny, świeży charakter.",
 
 "salesTip": [
-    "Rhum Agricole produkowany jest ze świeżego soku z trzciny cukrowej, a nie z melasy, dzięki czemu zachowuje bardziej świeży i roślinny charakter.",
+    "Rhum Agricole produkowany jest ze świeżego soku z trzciny cukrowej, a nie z melasy, dzięki czemu zachowuje bardziej świeży i roślinny charakter."
 ]
 },
 
@@ -202,10 +251,10 @@
   "country": "Cuba",
   "abv": "37.5%",
   "image": "bottle_img/bacardi_blanca.webp",
-  "maturation": "Dojrzewa w beczkach z amerykańskiego dębu, a następnie jest filtrowany przez węgiel drzewny"
+  "maturation": "Dojrzewa w beczkach z amerykańskiego dębu, a następnie jest filtrowany przez węgiel drzewny",
 
   "whenToOffer": [
-    "Klient szuka uniwersalnego rumu do cocktaili",
+    "Klient szuka uniwersalnego rumu do koktajli",
     "Idealny do Mojito, Daiquiri i Cuba Libre",
     "Dla osób lubiących lekki i czysty profil",
     "Dobry wybór jako podstawowy biały rum do domowego barku"
@@ -232,14 +281,16 @@
   "country": "Puerto Rico",
   "abv": "37.5%",
   "image": "bottle_img/bacardi_oro.webp",
+  "maturation": "Dojrzewa w opalanych beczkach z dębu amerykańskiego",
 
   "whenToOffer": [
-    "Klient szuka złotego rumu do Cuba Libre",
-    "Alternatywa dla Havana Especial",
-    "Rum do mieszania"
-  ],
+    "Klient szuka bardziej charakternego rumu do koktajli",
+    "Idealny do Cuba Libre i rumowych long drinków",
+    "Dla osób lubiących nuty karmelu, wanilii i lekkiego dębu",
+    "Alternatywa dla lekkiego Bacardí Carta Blanca"
+],
 
-  "howToPresent": "Złota wersja Bacardi. Łagodniejsza i lekko karmelowa w porównaniu do wersji białej."
+  "howToPresent": "Złoty rum produkowany na bazie melasy. Dojrzewa w opalanych beczkach z amerykańskiego dębu, dzięki czemu rozwija bardziej wyrazisty charakter niż Carta Blanca. W profilu dominują nuty wanilii, karmelu, prażonych migdałów, przypraw i delikatnego dębu. Zachowuje lekkość typową dla marki Bacardí."
 },
 
 {
@@ -250,18 +301,19 @@
   "country": "Puerto Rico",
   "abv": "40%",
   "image": "bottle_img/bacardi_negra.webp",
+  "maturation": "Dojrzewa w mocno opalanych beczkach z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient chce rozpocząć przygodę z rhum agricole",
-    "Dla osób lubiących bardziej wytrawne i świeże profile niż klasyczne rumy z melasy",
-    "Dobry wybór dla fanów whisky, koniaku i beczkowych alkoholi",
-    "Alternatywa dla słodszych rumów karaibskich"
+    "Klient szuka intensywniejszego rumu do koktajli",
+    "Dla osób lubiących nuty karmelu, melasy i przypraw",
+    "Świetny wybór do Rum & Cola oraz ciemniejszych koktajli",
+    "Alternatywa dla lżejszych rumów Bacardí Carta Blanca i Carta Oro"
 ],
 
-  "howToPresent": "Ciemniejszy i bardziej intensywny niż Carta Oro. Wyraźniejsze nuty karmelu i przypraw.",
+  "howToPresent": "Ciemny rum produkowany na bazie melasy. Dojrzewa w mocno opalanych beczkach z amerykańskiego dębu, dzięki czemu rozwija bardziej wyrazisty charakter z nutami karmelu, melasy, wanilii, przypraw korzennych i dębu. W porównaniu do Carta Oro oferuje więcej głębi, nut tostowych i ciemniejszy profil smakowy, zachowując jednocześnie gładki charakter typowy dla marki Bacardí.",
 
 "salesTip": [
-  "Rhum Agricole produkowany jest ze świeżego soku z trzciny cukrowej, a nie z melasy, dzięki czemu zachowuje bardziej świeży, roślinny charakter."
+  "Mimo ciemniejszego charakteru pozostaje rumem stworzonym przede wszystkim do koktajli i miksowania."
 ]
 },
 
@@ -271,16 +323,16 @@
   "subtitle": "Spiced Rum · Barbados",
   "category": "rum",
   "country": "Barbados",
-  "abv": "35%",
+  "abv": "40%",
   "image": "bottle_img/bumbu.webp",
 
   "whenToOffer": [
-    "Klient lubi słodsze rumy",
-    "Alternatywa dla Diplomatico",
-    "Prezent"
-  ],
+    "Klient szuka bardzo słodkiego i łatwego w odbiorze rumu",
+    "Dla osób lubiących waniliowe, karmelowe i owocowe profile",
+    "Świetny wybór dla osób rozpoczynających przygodę z rumem"
+],
 
-  "howToPresent": "Słodszy, przyprawowy rum o bardzo przystępnym charakterze."
+  "howToPresent": "Rum rodukowany na Barbadosie. Wyróżnia się wyjątkowo gładkim oraz bardzo słodkim charakterem. W profilu dominują nuty wanilii, karmelu, banana, cynamonu, toffi i delikatnych przypraw korzennych. To jeden z najbardziej deserowych i łatwych w odbiorze rumów dostępnych na rynku."
 },
 
 {
@@ -291,13 +343,19 @@
   "country": "Panama",
   "abv": "40%",
   "image": "bottle_img/bumbu_xo.webp",
+  "maturation": "Dojrzewa do 18 lat w beczkach po bourbonie, finiszowany w beczkach po sherry",
 
   "whenToOffer": [
-    "Klient szuka mniej słodkiej wersji Bumbu",
-    "Rum bardziej do degustacji"
-  ],
+  "Klient lubi Bumbu Original, ale szuka czegoś bardziej złożonego",
+  "Świetny wybór na prezent lub specjalną okazję",
+  "Alternatywa dla Eminente i Diplomático Reserva Exclusiva"
+],
 
-  "howToPresent": "Bardziej wytrawna i dojrzalsza wersja Bumbu."
+  "howToPresent": "Rum premium produkowany w Panamie na bazie melasy. Dojrzewa do 18 lat w beczkach po bourbonie, a następnie finiszowany jest w beczkach po sherry, dzięki czemu zyskuje bardziej złożony i elegancki charakter niż Bumbu Original. W profilu dominują nuty karmelu, wanilii, suszonych owoców, pomarańczy, kakao, przypraw korzennych i dębu. Styl pozostaje gładki i łatwy w odbiorze, ale oferuje wyraźnie więcej głębi oraz wpływu dojrzewania.",
+
+  "salesTip": [
+  "W przeciwieństwie do Bumbu Original, wersja XO nie zawiera dodatków smakowych i robi większy nacisk na dojrzewanie i destylaty."
+]
 },
 
 {
@@ -308,14 +366,26 @@
   "country": "Cuba",
   "abv": "40%",
   "image": "bottle_img/havana3.webp",
+  "maturation": "Minimum 3 lata dojrzewania w beczkach z białego dębu",
 
   "whenToOffer": [
-    "Klient szuka rumu do mojito",
-    "Autentyczny styl kubański",
-    "Rum do klasycznych koktajli"
+    "Klient szuka klasycznego rumu do Mojito i Daiquiri",
+    "Dla osób chcących spróbować autentycznego kubańskiego stylu rumu",
+    "Idealny do koktajli opartych na białym rumie",
+    "Alternatywa dla Bacardí Carta Blanca"
   ],
 
-  "howToPresent": "Klasyczny kubański rum idealny do mojito i daiquiri. Lekki, świeży, lekko waniliowy."
+  "howToPresent": "Kubański rum produkowany z melasy i dojrzewający minimum 3 lata w beczkach z białego dębu, co nadaje mu lekko słomkową barwę. Po dojrzewaniu jest filtrowany. W profilu dominują nuty wanilii, trzciny cukrowej, cytrusów, lekkiego dębu i tropikalnych owoców. Uznawany za jeden z klasycznych rumów do przygotowywania autentycznych kubańskich koktajli.",
+
+  "cocktails": [
+  "Mojito",
+  "Daiquiri",
+  "Cuba Libre"
+],
+
+  "salesTip": [
+  "Havana Club 3 Años jest tradycyjnie uznawany za podstawę klasycznego kubańskiego Mojito i Daiquiri."
+]
 },
 
 {
@@ -326,13 +396,16 @@
   "country": "Cuba",
   "abv": "40%",
   "image": "bottle_img/havana_especial.webp",
+  "maturation": "Blend rumów dojrzewających od 3 do 5 lat z dodatkowym etapem dojrzewania po kupażowaniu",
 
   "whenToOffer": [
-    "Klient szuka złotego rumu do Cuba Libre",
-    "Lżejsza alternatywa dla ciemnych rumów"
+    "Klient szuka bardziej aromatycznego rumu do koktajli",
+    "Dla osób lubiących nuty wanilii, karmelu i miodu",
+    "Dobry wybór do Cuba Libre i rumowych long drinków",
+    "Alternatywa dla Bacardí Carta Oro"
   ],
 
-  "howToPresent": "Lekko złocisty rum o łagodnym charakterze, dobry do mieszania."
+  "howToPresent": "Kubański rum będący blendem rumów destylowanych w kolumnach i dojrzewających od 3 do 5 lat w dębowych beczkach. Po kupażowaniu rum ponownie trafia do beczek na dodatkowy okres dojrzewania. Dzięki temu zachowuje bardziej złożony i harmonijny charakter niż Havana Club 3 Años. W profilu dominują nuty wanilii, karmelu, miodu, cynamonu, suszonych owoców i delikatnego dębu."
 },
 
 {
@@ -343,93 +416,122 @@
   "country": "Cuba",
   "abv": "40%",
   "image": "bottle_img/havana7.webp",
+  "maturation": "Minimum 7 lat dojrzewania w dębowych beczkach",
 
   "whenToOffer": [
-    "Klient szuka rumu do degustacji",
-    "Rum bardziej złożony",
-    "Alternatywa dla Diplomatico"
+    "Dobry wybór na prezent w kategorii budżetowego premium",
+    "Dla osób pijących alkohol głównie solo",
+    "Alternatywa dla whisky i koniaku"
   ],
 
-  "howToPresent": "Dojrzewany 7 lat, bardziej złożony i wyraźny niż wersja 3 lata."
+  "howToPresent": "Jeden z najbardziej rozpoznawalnych kubańskich rumów premium. Powstaje z destylatów kolumnowych dojrzewających minimum 7 lat w dębowych beczkach, dzięki czemu rozwija bogaty i dobrze zbalansowany charakter. W profilu dominują nuty wanilii, karmelu, suszonych owoców, przypraw korzennych i delikatnego dębu. W porównaniu do Havana Club Especial oferuje większą głębię i intensywność"
 },
 
 {
-  "slug": "don-papa-7yo",
-  "name": "Don Papa 7 Y.O.",
+  "slug": "don-papa-rum",
+  "name": "Don Papa Rum",
   "subtitle": "Rum · Filipiny",
   "category": "rum",
   "country": "Philippines",
   "abv": "40%",
   "image": "bottle_img/donpapa7.webp",
+  "maturation": "Dojrzewa w beczkach z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient lubi słodkie rumy",
-    "Alternatywa dla Zacapa",
-    "Prezent premium"
+    "Klient szuka bardzo łagodnego i słodkiego rumu premium",
+    "Dla osób lubiących waniliowe, cytrusowe i owocowe profile",
+    "Świetny wybór dla osób rozpoczynających przygodę z rumem",
+    "Alternatywa dla Zacapa 23 i Diplomático"
   ],
 
-  "howToPresent": "Filipiński rum o słodkim, waniliowo-karmelowym profilu."
+  "howToPresent": "Filipiński rum premium produkowany na wyspie Negros z melasy pochodzącej z lokalnej trzciny cukrowej. Dojrzewa w beczkach z amerykańskiego dębu w tropikalnym klimacie. Charakteryzuje się wyjątkowo łagodnym i deserowym profilem z nutami wanilii, miodu, kandyzowanych owoców, pomarańczy i delikatnych przypraw. Jeden z najbardziej rozpoznawalnych rumów z Filipin."
 },
 
 {
   "slug": "don-papa-baroko",
   "name": "Don Papa Baroko",
   "subtitle": "Rum · Filipiny",
-  "category": "rum",
+  "category": "spirit drink",
   "country": "Philippines",
   "abv": "40%",
   "image": "bottle_img/donpapa_baroko.webp",
+  "maturation": "Dojrzewa w beczkach z amerykańskiego dębu, następnie wzbogacany o filipińskie składniki botaniczne",
 
   "whenToOffer": [
-    "Klient szuka słodkiego rumu",
-    "Lżejsza wersja Don Papa"
-  ],
+  "Klient lubi bardzo słodkie alkohole",
+  "Dla osób szukających intensywnie waniliowego profilu",
+  "Alternatywa dla Bumbu Original",
+  "Dobry wybór dla osób rozpoczynających przygodę z kategorią rumów"
+],
 
-  "howToPresent": "Bardziej bezpośrednia i słodsza wersja Don Papa."
+  "howToPresent": "Filipiński spirit drink produkowany na bazie rumu dojrzewającego na wyspie Negros. Charakteryzuje się wyjątkowo intensywnym i deserowym profilem, w którym dominują nuty wanilii, karmelu, miodu, kandyzowanych owoców oraz słodkich przypraw. To jeden z najbardziej waniliowych i łatwych w odbiorze produktów w tej kategorii.",
+
+  "salesTip": [
+  "Don Papa Baroko słynie z wyjątkowo intensywnych nut wanilii i deserowego charakteru.",
+  "Na rynku europejskim klasyfikowany jest jako spirit drink, a nie klasyczny rum."
+]
 },
 
 {
-  "slug": "angostura-1919",
-  "name": "Angostura 1919",
-  "subtitle": "Rum · Trynidad i Tobago",
-  "category": "rum",
-  "country": "Trinidad and Tobago",
+  "slug": "don-papa-masskara",
+  "name": "Don Papa Masskara",
+  "subtitle": "Flavoured Rum · Filipiny",
+  "category": "spirit drink",
+  "country": "Philippines",
   "abv": "40%",
-  "image": "bottle_img/angostura1919.webp",
+  "image": "bottle_img/donpapa_masskara.webp",
+  "maturation": "Dojrzewa w beczkach z amerykańskiego dębu, następnie wzbogacany o filipińskie składniki botaniczne",
+
+  "whenToOffer": [
+    "Klient szuka czegoś bardzo nietypowego i egzotycznego",
+    "Dla osób lubiących cytrusowe, miodowe i lekko pikantne profile",
+    "Alternatywa dla klasycznych słodkich produktów typu Don Papa Baroko, Bumbu Original"
+  ],
+
+  "howToPresent": "Filipiński spirit drink na bazie rumu inspirowany słynnym festiwalem Masskara odbywającym się na wyspie Negros. Po dojrzewaniu w beczkach z amerykańskiego dębu rum wzbogacany jest o lokalne składniki, calamansi (filipiński cytrus), miód oraz papryczkę. W profilu dominują nuty miodu, kandyzowanych owoców, słodkich cytrusów i delikatnej pikantności. W porównaniu do Don Papa Baroko jest bardziej świeży, cytrusowy i egzotyczny.",
+
+  "salesTip": [
+  "Masskara zawiera trzy charakterystyczne filipińskie składniki: calamansi, lokalny miód oraz papryczkę siling labuyo.",
+  "Na rynku europejskim klasyfikowany jest jako spirit drink, a nie klasyczny rum."
+]
+},
 
 {
   "slug": "kraken-rum",
   "name": "Kraken Black Spiced",
   "subtitle": "Spiced Rum · Karaiby",
-  "category": "rum",
+  "category": "spirit drink",
   "country": "Caribbean",
   "abv": "40%",
   "image": "bottle_img/kraken.webp",
 
   "whenToOffer": [
-    "Klient szuka rumu przyprawowego",
-    "Do coli",
-    "Mocniejszy smak"
+    "Klient szuka intensywnego spiced rumu",
+    "Dla osób lubiących nuty wanilii, karmelu i przypraw korzennych",
+    "Świetny wybór do Rum & Cola oraz koktajli",
+    "Alternatywa dla Captain Morgan Spiced Gold"
   ],
 
-  "howToPresent": "Intensywnie przyprawowy rum z nutami wanilii i przypraw korzennych."
+  "howToPresent": "Karaibski Black Spiced Rum (spirit drink) produkowany na bazie melasy. Po dojrzewaniu wzbogacany jest mieszanką przypraw, obejmującą między innymi cynamon, imbir i goździki. W profilu dominują nuty wanilii, karmelu, melasy, cynamonu i korzennych przypraw. Dzięki mocy 40% zachowuje wyraźny charakter zarówno solo, jak i w koktajlach. To jeden z najbardziej rozpoznawalnych spiced rumów na świecie."
 },
 
 {
   "slug": "captain-morgan-spiced",
   "name": "Captain Morgan Spiced",
   "subtitle": "Spiced Rum · Karaiby",
-  "category": "rum",
+  "category": "spirit drink",
   "country": "Caribbean",
   "abv": "35%",
   "image": "bottle_img/morgan_spiced.webp",
 
   "whenToOffer": [
-    "Klient szuka rumu do coli",
-    "Budżetowa opcja"
-  ],
+    "Klient szuka łatwego i uniwersalnego spiced rumu",
+    "Dla osób lubiących waniliowe i korzenne profile",
+    "Świetny wybór do Rum & Cola oraz prostych koktajli",
+    "Alternatywa dla bardziej intensywnego Krakena"
+],
 
-  "howToPresent": "Słodszy rum przyprawowy, bardzo popularny do mieszania."
+  "howToPresent": "Jeden z najbardziej rozpoznawalnych spiced rumów na świecie. Powstaje na bazie karaibskiego rumu wzbogaconego mieszanką przypraw i aromatów, dzięki czemu zachowuje łagodny i bardzo przystępny charakter. W profilu dominują nuty wanilii, karmelu, cynamonu, goździków i delikatnych przypraw korzennych. Styl bardziej gładki i słodszy niż klasyczne rumy, stworzony przede wszystkim do miksowania."
 },
 
 {
@@ -440,13 +542,16 @@
   "country": "Caribbean",
   "abv": "40%",
   "image": "bottle_img/morgan_black.webp",
+  "maturation": "Blend karaibskich rumów dojrzewających w mocno opalanych beczkach dębowych",
 
   "whenToOffer": [
-    "Klient szuka ciemnego rumu",
-    "Alternatywa dla Havana 7"
+    "Klient szuka bardziej intensywnego rumu niż Captain Morgan Original Spiced",
+    "Dla osób lubiących nuty melasy, karmelu i przypraw korzennych",
+    "Świetny wybór do Rum & Cola oraz ciemniejszych cocktaili",
+    "Alternatywa dla Kraken Black Spiced Rum"
   ],
 
-  "howToPresent": "Ciemniejszy, intensywniejszy niż wersja Spiced."
+  "howToPresent": "Ciemniejsza i bardziej intensywna wersja Captain Morgan. Powstaje z blendu karaibskich rumów dojrzewających w mocno opalanych beczkach dębowych, dzięki czemu rozwija bogatszy charakter niż Original Spiced Gold. W profilu dominują nuty melasy, karmelu, wanilii, przypraw korzennych, suszonych owoców i delikatnego dymu. Zachowuje gładki charakter, ale oferuje więcej głębi i wyrazistości."
 },
 
 {
@@ -457,13 +562,16 @@
   "country": "Colombia",
   "abv": "40%",
   "image": "bottle_img/lahechicera.webp",
+  "maturation": "Blend rumów dojrzewających metodą Solera w beczkach po bourbonie z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient szuka rumu wytrawnego",
-    "Alternatywa dla Santa Teresa"
+    "Klient szuka wytrawnego i naturalnego rumu degustacyjnego",
+    "Dla osób, którym Don papa lub Bumbu wydają się zbyt słodkie",
+    "Świetna alternatywa dla whisky i koniaku",
+    "Dobry wybór dla klientów szukających mniej znanych marek premium"
   ],
 
-  "howToPresent": "Kolumbijski rum bez dodatku cukru, bardziej wytrawny i elegancki."
+  "howToPresent": "Kolumbijski rum premium. Jest blendem rumów dojrzewających metodą Solera w beczkach po bourbonie z amerykańskiego dębu. W przeciwieństwie do wielu nowoczesnych rumów zachowuje bardziej wytrawny i naturalny charakter bez dodatku cukru. W profilu dominują nuty toffi, skórki pomarańczowej, tytoniu, palonej kawy, kakao i delikatnego dębu, tworząc elegancki i bardzo dobrze zbalansowany styl."
 },
 
 {
@@ -474,14 +582,19 @@
   "country": "Cuba",
   "abv": "41.3%",
   "image": "bottle_img/eminente.webp",
+  "maturation": "Minimum 7 lat dojrzewania w beczkach z białego dębu",
 
   "whenToOffer": [
-    "Klient szuka bardziej wytrawnego rumu kubańskiego",
-    "Alternatywa dla Havana 7",
-    "Rum premium do degustacji"
+    "Klient szuka premium kubańskiego rumu do degustacji",
+    "Dla osób lubiących bardziej intensywne i złożone rumy niż Havana Club 7 Años",
+    "Alternatywa dla whisky i koniaku"
   ],
 
-  "howToPresent": "Nowoczesna interpretacja kubańskiego rumu. Bardziej złożony i elegancki niż klasyczny Havana Club."
+  "howToPresent": "Kubański rum premium. Dojrzewa minimum 7 lat w beczkach z białego dębu, dzięki czemu zachowuje bogaty i bardziej intensywny charakter niż większość współczesnych kubańskich rumów. W profilu dominują nuty kawy, kakao, wanilii, suszonych owoców, prażonych migdałów i delikatnych przypraw.",
+
+  "salesTip": [
+  "Eminente zawiera znacznie większy udział aguardiente – aromatycznych destylatów o niższej mocy destylacji – niż większość kubańskich rumów, dzięki czemu jest bardziej aromatyczny i intensywny."
+]
 },
 
 {
@@ -492,14 +605,21 @@
   "country": "Barbados",
   "abv": "40%",
   "image": "bottle_img/planteray_xo.webp",
+  "maturation": "Blend rumów dojrzewających w beczkach po bourbonie na Barbadosie, następnie finiszowanych 12–18 miesięcy we Francji w beczkach po koniaku Ferrand",
 
   "whenToOffer": [
-    "Klient szuka rumu premium",
-    "Alternatywa dla Zacapa 23",
-    "Rum prezentowy"
+    "Klient szuka eleganckiego rumu premium",
+    "Dobry wybór na prezent w kategorii rumu",
+    "Dla osób lubiących bogate, waniliowe i beczkowe profile",
+    "Alternatywa dla Zacapa 23 oraz Diplomatico Reserva Exclusiva"
   ],
 
-  "howToPresent": "Bogaty rum z Barbadosu, starzony w beczkach po bourbonie i koniaku. Gładki, z nutami karmelu i kokosa."
+  "howToPresent": "Luksusowy rum z Barbadosu stworzony z okazji 20-lecia. Powstaje z blendu destylatów z aparatów kolumnowych i alembików pot still, które dojrzewają w beczkach po bourbonie na Barbadosie. Następnie rum trafia do Francji, gdzie przez kolejne 12–18 miesięcy dojrzewa w beczkach po koniaku Ferrand. W profilu dominują nuty wanilii, kokosa, dojrzałych bananów, karmelu, miodu, kakao i delikatnego dębu. Styl jest wyjątkowo gładki, bogaty i deserowy, zachowując jednocześnie elegancję charakterystyczną dla rumów z Barbadosu.",
+
+  "salesTip": [
+  "Planteray XO 20th Anniversary jest jednym z najbardziej rozpoznawalnych rumów wykorzystujących metodę double ageing, najpierw na Karaibach, później w beczkach po koniaku we Francji.",
+  "To właśnie finisz w beczkach Ferrand odpowiada za jego wyjątkową gładkość i elegancki charakter."
+]
 },
 
 {
@@ -510,13 +630,16 @@
   "country": "Caribbean",
   "abv": "40%",
   "image": "bottle_img/sealander.webp",
+  "maturation": "Dojrzewa w klimacie tropikalnym na Barbadosie, Mauritiusie i Fidżi, a następnie finiszowany we Francji w beczkach po koniaku Ferrand",
 
   "whenToOffer": [
-    "Klient szuka ciekawego blendu",
-    "Rum o bardziej wytrawnym charakterze"
+    "Klient chce spróbować czegoś nietypowego i unikalnego",
+    "Dla osób szukających dobrze zbalansowanego rumu",
+    "Klient lubi owocowe i lekko przyprawowe profile",
+    "Alternatywa dla klasycznych rumów z jednego kraju pochodzenia"
   ],
 
-  "howToPresent": "Blend rumów z Barbadosu, Mauritiusa i Fidżi. Bardziej wytrawny i zbalansowany niż klasyczne słodkie rumy."
+  "howToPresent": "Wyjątkowy blend rumów z Barbadosu, Mauritiusu i Fidżi. Łączy elegancję Barbadosu, świeże i lekko roślinne nuty Mauritiusa oraz owocowy charakter Fidżi. Po dojrzewaniu w tropikalnym klimacie rum przechodzi dodatkowy etap starzenia we Francji w beczkach po koniaku Ferrand. W profilu dominują nuty wanilii, miodu, gruszki, owoców tropikalnych, przypraw korzennych i delikatnego dębu."
 },
 
 {
@@ -527,13 +650,41 @@
   "country": "Barbados",
   "abv": "40%",
   "image": "bottle_img/planteray_grande.webp",
+  "maturation": "1–3 lata dojrzewania w beczkach po bourbonie na Barbadosie, następnie dodatkowe dojrzewanie we Francji w beczkach po koniaku Ferrand",
 
   "whenToOffer": [
-    "Klient szuka przystępnego rumu",
-    "Alternatywa dla Bumbu"
+    "Klient szuka łagodnego i dobrze zbalansowanego rumu do degustacji oraz cocktaili",
+    "Dobry wybór dla osób rozpoczynających przygodę z rumami premium",
+    "Dla osób lubiących nuty wanilii, kokosa i owoców tropikalnych",
+    "Alternatywa dla Havana Club 7 Años w podobnym budżecie"
   ],
 
-  "howToPresent": "Łagodniejszy i bardziej przystępny rum z Barbadosu. Dobry balans słodyczy i dębu."
+  "howToPresent": "Rum z Barbadosu będący blendem destylatów z aparatów kolumnowych i alembików pot still. Dojrzewa metodą double ageing, najpierw 1–3 lata w beczkach po bourbonie w tropikalnym klimacie Barbadosu, a następnie około rok we Francji w beczkach po koniaku Ferrand. Dzięki temu zachowuje wyjątkowo gładki i elegancki charakter. W profilu dominują nuty wanilii, kokosa, karmelu, owoców tropikalnych, skórki pomarańczowej oraz delikatnych przypraw."
+},
+
+{
+  "slug": "planteray-cut-dry",
+  "name": "Planteray Cut&Dry Coconut",
+  "subtitle": "Rum · Barbados",
+  "category": "rum",
+  "country": "Barbados",
+  "abv": "40%",
+  "image": "bottle_img/planteray_grande.webp",
+  "maturation": "Rum z Barbadosu dojrzewający w beczkach po bourbonie, następnie infuzowany naturalnym kokosem",
+
+  "whenToOffer": [
+    "Klient lubi smak kokosa i tropikalne profile",
+    "Szuka czegoś pomiędzy klasycznym rumem a likierem kokosowym",
+    "Świetny wybór do letnich cocktaili i drinków",
+    "Alternatywa dla Malibu dla osób szukających bardziej rumowego charakteru"
+  ],
+
+  "howToPresent": "Rum z Barbadosu, który dojrzewa w beczkach po bourbonie, a następnie jest infuzowany naturalnym miąższem kokosa, dzięki czemu zachowuje autentyczny kokosowy charakter bez nadmiernej słodyczy typowej dla likierów kokosowych. W profilu dominują nuty świeżego kokosa, wanilii, trzciny cukrowej, karmelu i owoców tropikalnych.",
+
+  "salesTip": [
+  "Do produkcji wykorzystywany jest prawdziwy kokos, a nie wyłącznie aromaty kokosowe.",
+  "Cut & Dry oferuje znacznie bardziej naturalny i rumowy charakter niż klasyczne likiery kokosowe."
+]
 },
 
 {
@@ -544,55 +695,20 @@
   "country": "Philippines",
   "abv": "35%",
   "image": "bottle_img/arranges.webp",
+  "maturation": "Maceracja świeżych owoców i przypraw w rhum agricole z Martyniki",
 
   "whenToOffer": [
-    "Klient szuka rumu aromatyzowanego",
-    "Coś bardziej owocowego",
-    "Alternatywa dla likierów rumowych"
+    "Klient szuka czegoś egzotycznego i nietypowego",
+    "Dla osób lubiących naturalne smaki owoców",
+    "Alternatywa dla słodkich likierów owocowych",
+    "Dla klientów zainteresowanych kategorią rhum agricole"
   ],
 
-  "howToPresent": "Aromatyzowana wersja z nutami owocowymi i przyprawowymi. Bardziej deserowy charakter."
-},
+  "howToPresent": "Francuski rhum arrangé produkowany na bazie rhum agricole. Powstaje poprzez macerację świeżych owoców, przypraw i innych naturalnych składników bezpośrednio w rumie. W zależności od wersji zachowuje intensywny, naturalny charakter owoców przy jednoczesnym zachowaniu wyraźnego wpływu rumu agricole. Styl bardziej autentyczny i mniej cukrowy niż większość klasycznych likierów owocowych.",
 
-{
-  "slug": "don-papa-masskara",
-  "name": "Don Papa Masskara",
-  "subtitle": "Flavoured Rum · Filipiny",
-  "category": "rum",
-  "country": "Philippines",
-  "abv": "40%",
-  "image": "bottle_img/donpapa_masskara.webp",
-
-  "whenToOffer": [
-    "Klient szuka słodkiego rumu",
-    "Rum bardziej owocowy",
-    "Alternatywa dla likierów rumowych"
-  ],
-
-  "howToPresent": "Bardziej owocowa i cytrusowa interpretacja Don Papa. Lżejsza i bardziej deserowa niż klasyczna wersja."
-},
-
-{
-  "slug": "clement-vo",
-  "name": "Clement V.O.",
-  "subtitle": "Rhum Agricole · Martynika",
-  "category": "rum",
-  "country": "Martinique",
-  "abv": "40%",
-  "image": "bottle_img/clement_vo.webp",
-  "maturation": "Minimum 3 lata w nowych beczkach oraz beczkach po bourbonie z amerykańskiego dębu"
-
-    "whenToOffer": [
-    "Klient chce rozpocząć przygodę z rhum agricole",
-    "Dla osób lubiących bardziej wytrawne i świeże profile niż klasyczne rumy z melasy",
-    "Dobry wybór dla fanów whisky, koniaku i beczkowych alkoholi",
-    "Alternatywa dla słodszych rumów karaibskich"
-],
-
-  "howToPresent": "Rhum Agricole AOC z Martyniki produkowany wyłącznie ze świeżego soku z trzciny cukrowej. Dojrzewa minimum 3 lata w nowych beczkach oraz beczkach po bourbonie z amerykańskiego dębu, dzięki czemu łączy świeży charakter trzciny cukrowej z nutami wanilii, przypraw, karmelu i delikatnego dębu. W porównaniu do klasycznych rumów z melasy oferuje bardziej wytrawny, świeży charakter, typowy dla rhum agricole.",
-
-"salesTip": [
-  "Rhum Agricole produkowany jest ze świeżego soku z trzciny cukrowej, a nie z melasy, dzięki czemu zachowuje bardziej świeży, roślinny charakter."
+  "salesTip": [
+  "Rhum arrangé to tradycyjna specjalność wysp Oceanu Indyjskiego, polegająca na maceracji owoców i przypraw bezpośrednio w rumie.",
+  "Arrangé de Ced słynie z wykorzystywania prawdziwych owoców i naturalnych składników."
 ]
 }
   ]
