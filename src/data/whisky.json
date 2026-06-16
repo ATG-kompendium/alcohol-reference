@@ -5,21 +5,22 @@
   "subtitle": "Polska whisky · Single Malt",
   "category": "whisky",
   "country": "Poland",
-  "abv": "43%",
+  "abv": "46.5%",
   "image": "bottle_img/wildfields_singlemalt.png",
+"maturation": "Minimum 3 lata dojrzewania w nowych, średnio wypalanych beczkach z polskiego dębu",
 
   "whenToOffer": [
-    "Klient chce spróbować polskiej whisky",
-    "Osoba szuka czegoś innego niż szkocka klasyka",
-    "Klient interesuje się nowymi destylarniami"
-  ],
+    "Klient chce odkryć polską interpretację whisky single malt",
+    "Dla osób pijących whisky single malt",
+    "Klient szuka nietypowego prezentu dla miłośnika whisky"
+],
 
-  "howToPresent": "Polska interpretacja klasycznego single malt. Produkowana ze słodu jęczmiennego, dojrzewająca w dębie, z wyraźnym charakterem i lokalnym pochodzeniem.",
+  "howToPresent": "Polska whisky single malt produkowana wyłącznie z polskiego słodowanego jęczmienia. Dojrzewa minimum 3 lata w nowych, średnio wypalanych beczkach z polskiego dębu, dzięki czemu rozwija wyraźne nuty wanilii, przypraw, świeżego drewna oraz słodowych zbóż. Nie jest filtrowana na zimno ani barwiona karmelem. Powstała we współpracy z Johnem McDougallem, jednym z najbardziej doświadczonych szkockich Master Distillerów.",
 
   "salesTip": [
-    "Można proponować jako ciekawą alternatywę dla młodych szkockich single maltów.",
-    "Dobry wybór dla klientów otwartych na nowe kierunki whisky."
-  ]
+  "Whisky powstała we współpracy z Johnem McDougallem – legendarnym Master Distillerem związanym m.in. ze Springbank, Laphroaig i Balvenie.",
+  "W przeciwieństwie do większości szkockich whisky dojrzewa w nowych beczkach z polskiego dębu, a nie w beczkach po bourbonie, co nadaje jej unikalny charakter."
+]
 },
 
 {
