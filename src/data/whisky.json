@@ -7,7 +7,7 @@
   "country": "Poland",
   "abv": "46.5%",
   "image": "bottle_img/wildfields_singlemalt.png",
-"maturation": "Minimum 3 lata dojrzewania w nowych, średnio wypalanych beczkach z polskiego dębu",
+"maturation": "Dojrzewanie w nowych, średnio wypalanych beczkach z polskiego dębu",
 
   "whenToOffer": [
     "Klient chce odkryć polską interpretację whisky single malt",
@@ -29,20 +29,24 @@
   "subtitle": "Polska whisky · Single Grain · Sherry Cask",
   "category": "whisky",
   "country": "Poland",
-  "abv": "43%",
+  "abv": "44%",
   "image": "bottle_img/wildfields_singlegrain_sherrycask.png",
+  "maturation": "Dojrzewanie w beczkach z amerykańskiego dębu po winie Sherry",
 
   "whenToOffer": [
-    "Klient lubi whisky dojrzewające w beczkach po sherry",
-    "Osoba szuka czegoś bardziej intensywnego niż klasyczny grain",
-    "Klient chce whisky z wyraźnym profilem smakowym"
-  ],
+    "Klient lubi wpływ beczek po sherry",
+    "Dla osób pijących whisky żytnie i rye whiskey",
+    "Klient szuka limitowanej polskiej whisky",
+    "Alternatywa dla szkockich whisky dojrzewających w beczkach po sherry"
+],
 
-  "howToPresent": "Wersja single grain dojrzewająca w beczkach po sherry. Bardziej wyrazista, z nutami słodyczy i głębi charakterystycznej dla tego typu beczek.",
+  "howToPresent": "Limitowana edycja polskiej whisky single grain produkowanej z lokalnych zbóż, w której główną rolę odgrywa tradycyjne polskie żyto. Dojrzewa minimum 3 lata w beczkach po winie Sherry, dzięki czemu klasyczny charakter whisky zyskuje dodatkowe nuty suszonych owoców, wanilii, słodyczy beczki i delikatnego dębu. Nie jest filtrowana na zimno ani barwiona karmelem.",
 
   "salesTip": [
-    "Można proponować fanom sherry cask szkockich whisky jako ciekawą alternatywę z Polski."
-  ]
+  "Whisky dojrzewała wyłącznie w beczkach po Sherry, które wzbogaciły jej profil o nuty suszonych owoców i słodkich przypraw.",
+  "Głównym surowcem wykorzystywanym do produkcji jest polskie żyto, dzięki czemu może zainteresować fanów rye whiskey.",
+  "Powstała we współpracy z Johnem McDougallem związanym m.in. ze Springbank, Laphroaig i Balvenie."
+]
 },
 
 {
@@ -53,18 +57,21 @@
   "country": "Poland",
   "abv": "40%",
   "image": "bottle_img/wildfields_singlegrain.png",
+  "maturation": "Dojrzewanie w nowych, średnio wypalanych beczkach z polskiego dębu",
 
   "whenToOffer": [
-    "Klient szuka łagodniejszej whisky",
-    "Osoba dopiero zaczyna przygodę z whisky",
-    "Klient chce coś bardziej przystępnego cenowo"
-  ],
+    "Klient chce spróbować polskiej whisky z charakterem",
+    "Dla osób lubiących whisky żytnie i rye whiskey",
+    "Klient szuka alternatywy dla whisky single malt"
+],
 
-  "howToPresent": "Whisky typu single grain – lżejsza, bardziej przystępna i delikatniejsza niż single malt. Dobra opcja dla osób zaczynających przygodę z whisky.",
+  "howToPresent": "Polska whisky single grain produkowana w jednej destylarni z wykorzystaniem polskiego żyta jako głównego surowca. Dojrzewa w polskich beczkach dębowych i nie jest filtrowana na zimno. W profilu dominują nuty miodu, wanilii, zbóż, delikatnych przypraw oraz dębu. Styl jest łagodny, dobrze zbalansowany.",
 
   "salesTip": [
-    "Można proponować zamiast tanich blendów jako coś ciekawszego, ale nadal przystępnego."
-  ]
+  "Głównym surowcem wykorzystywanym do produkcji jest żyto.",
+  "Może zainteresować fanów amerykańskich rye whiskey.",
+  "Powstała we współpracy z Johnem McDougallem związanym m.in. ze Springbank, Laphroaig i Balvenie."
+]
 },
 
 {
