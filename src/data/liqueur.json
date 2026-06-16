@@ -469,7 +469,7 @@
   "country": "Germany",
   "abv": "38%",
   "image": "bottle_img/jager_manifest.webp",
-  "maturation": "około 2 lat w dębowych beczkach"
+  "maturation": "około 2 lat w dębowych beczkach",
 
   "whenToOffer": [
     "Dla fanów marki Jägermeistera",
@@ -663,7 +663,7 @@
 {
   "slug": "belvedere-cold-brew",
   "name": "Belvedere Cold Brew Coffee",
-  "category": "vodka-flavoured",
+  "category": "spirit drink",
   "country": "Poland",
   "abv": "30%",
   "image": "bottle_img/belvedere_coffee.webp",
