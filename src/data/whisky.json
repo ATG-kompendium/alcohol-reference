@@ -55,7 +55,7 @@
   "subtitle": "Polska whisky · Single Grain",
   "category": "whisky",
   "country": "Poland",
-  "abv": "40%",
+  "abv": "44%",
   "image": "bottle_img/wildfields_singlegrain.png",
   "maturation": "Dojrzewanie w nowych, średnio wypalanych beczkach z polskiego dębu",
 
@@ -82,14 +82,15 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/jw_red.webp",
+  "maturation": "Blend whisky dojrzewających minimum 3 lata w beczkach dębowych ",
 
   "whenToOffer": [
-    "Klient szuka whisky do mieszania",
-    "Budżetowa opcja",
-    "Whisky do coli"
-  ],
+    "Klient szuka whisky głównie do drinków i miksowania",
+    "Dobry wybór do Whisky & Cola",
+    "Klient szuka rozpoznawalnej szkockiej whisky w przystępnej cenie"
+],
 
-  "howToPresent": "Najbardziej dynamiczna i dymna z podstawowych wersji. Stworzona głównie do koktajli."
+  "howToPresent": "Klasyczny blended Scotch whisky łączący destylaty słodowe i zbożowe z różnych regionów Szkocji. W blendzie wykorzystywane są m.in. whisky z destylarni Cardhu i Caol Ila, dzięki czemu łączy owocowość Speyside z delikatnym dymnym akcentem Islay. Profil jest żywy, lekko pieprzny i stworzony przede wszystkim do drinków oraz miksowania."
 },
 
 {
@@ -100,13 +101,22 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/jw_black12.webp",
+  "maturation": "Blend whisky dojrzewających minimum 12 lat w beczkach dębowych",
 
   "whenToOffer": [
-    "Klient szuka klasycznej 12-letniej whisky",
-    "Bezpieczny wybór prezentowy"
-  ],
+    "Klient szuka klasycznej 12 letniej szkockiej whisky",
+    "Dla osób chcących rozpocząć przygodę z lekko dymnymi whisky",
+    "Klient lubi połączenie owocowych i dymnych nut",
+    "Alternatywa dla whisky single malt z wyspy Islay dla osób szukających łagodniejszego charakteru"
+],
 
-  "howToPresent": "Zbalansowana 12-letnia whisky z delikatną nutą dymu i wanilii."
+  "howToPresent": "Klasyczny blended Scotch whisky dojrzewających minimum 12 lat. Powstaje z połączenia whisky słodowych i zbożowych pochodzących z różnych regionów Szkocji. W blendzie wykorzystywane są między innymi destylaty z Cardhu i Caol Ila, dzięki czemu whisky łączy owocowość, nuty miodu i wanilii z delikatnym akcentem dymnym. Styl jest bardziej złożony, głębszy i lepiej zbalansowany niż w przypadku Red Label.",
+
+  "salesTip": [
+    "Cardhu jest często uznawana za serce stylu Johnnie Walker, odpowiadając za charakterystyczne nuty miodu i owoców.",
+    "Delikatny dymny charakter Black Label pochodzi głównie z whisky Caol Ila z wyspy Islay.",
+    "Black Label od wielu lat uznawany jest za najbardziej klasyczny 12 letni blend na świecie."
+]
 },
 
 {
@@ -117,13 +127,20 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/jw_doubleblack.webp",
+  "maturation": "Blend whisky dojrzewających w mocno wypalanych beczkach dębowych",
 
   "whenToOffer": [
-    "Klient lubi bardziej dymne whisky",
-    "Alternatywa dla Black Label"
-  ],
+    "Klient lubi whisky o wyraźnie dymnym charakterze",
+    "Dla osób, którym Black Label 12 wydaje się zbyt łagodny",
+    "Klient chce spróbować stylu Islay bez kupowania single malta",
+    "Alternatywa dla bardziej torfowych whisky szkockich"
+],
 
-  "howToPresent": "Bardziej dymna i intensywna interpretacja Black Label."
+  "howToPresent": "Bardziej intensywna i dymna interpretacja klasycznego Black Label. W blendzie wykorzystano większy udział whisky o charakterze torfowym i dymnym, przede wszystkim z destylarni Caol Ila na wyspie Islay. Dodatkowo część whisky dojrzewała w mocno wypalanych beczkach, co wzmacnia nuty dymu, przypraw, wanilii i opalanego drewna. W profilu dominują nuty dymu, torfu, pieprzu, suszonych owoców oraz ciemnej czekolady.",
+
+"salesTip": [
+  "Double Black pokazuje bardziej dymną stronę szkockiej whisky, zachowując jednocześnie przystępny charakter klasycznego blendu."
+]
 },
 
 {
@@ -134,13 +151,20 @@
   "country": "Scotland",
   "abv": "43%",
   "image": "bottle_img/jw_green.webp",
+  "maturation": "Blend whisky single malt dojrzewających w beczkach dębowych"
 
   "whenToOffer": [
-    "Klient szuka czegoś tylko z lotniska",
-    "Lubi delikatny torf"
-  ],
+  "Klient lubi lekko dymne i morskie whisky",
+  "Dla osób pijących whisky single malt",
+  "Klient szuka bardziej charakternej alternatywy dla Black Label",
+  "Dla fanów Talisker i Caol Ila"
+],
 
-  "howToPresent": "Blended malt z wyraźniejszym udziałem whisky z wysp. Bardziej torfowa niż Black Label."
+  "howToPresent": "Blended Malt Scotch Whisky stworzona specjalnie dla rynku travel retail. W przeciwieństwie do większości whisky z rodziny Johnnie Walker składa się wyłącznie z whisky single malt. Zwiększony udział whisky wyspowych, takich jak Talisker i Caol Ila, nadaje jej bardziej dymny, morski i pieprzny charakter. W profilu dominują nuty owoców, miodu, przypraw, dymu, soli morskiej i dębu.",
+
+"salesTip": [
+  "Island Green jest wersją stworzoną wyłącznie dla sklepów duty free."
+]
 },
 
 {
@@ -151,13 +175,15 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/jw_ruby.webp",
+  "maturation": "Blend whisky dojrzewających w beczkach po Pedro Ximénez, Oloroso Sherry, oraz beczkach po bourbonie",
 
   "whenToOffer": [
-    "Klient szuka limitowanej wersji",
-    "Prezent"
-  ],
+    "Klient lubi whisky z wpływem beczek po sherry",
+    "Dla osób preferujących owocowe profile smakowe",
+    "Klient szuka mniej dymnej alternatywy dla Black Label"
+],
 
-  "howToPresent": "Edycja travel retail z bardziej owocowym profilem."
+  "howToPresent": "Owocowa interpretacja stylu Johnnie Walker oparta na whisky dojrzewających między innymi w beczkach po Pedro Ximénez i Oloroso Sherry. Dzięki temu oferuje bogate nuty wiśni, jagód, suszonych owoców, miodu, wanilii i słodkich przypraw. W porównaniu do Black Label jest wyraźnie bardziej owocowa i mniej dymna."
 },
 
 {
@@ -168,13 +194,19 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/jw_triplecask.webp",
+  "maturation": "Blend whisky dojrzewających w beczkach po bourbonie, rumie, mocno wypalanych nowych beczkach z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient szuka łagodniejszej wersji",
-    "Whisky mniej dymna"
-  ],
+    "Klient szuka łagodnej i dobrze zbalansowanej szkockiej whisky",
+    "Dla osób preferujących mniej dymne profile smakowe",
+    "Alternatywa dla Black Label dla osób szukających czegoś innego"
+]
 
-  "howToPresent": "Dojrzewana w trzech typach beczek. Bardziej miękka i słodsza."
+  "howToPresent": "Blended Scotch Whisky stworzona specjalnie dla rynku travel retail. Jej charakter budowany jest przez whisky dojrzewające w trzech różnych rodzajach beczek: po bourbonie, karaibskim rumie oraz w mocno wypalanych beczkach z amerykańskiego dębu. Dzięki temu łączy nuty wanilii, karmelu, owoców tropikalnych, przypraw i delikatnego dymu. Styl jest łagodny, słodszy niż klasyczny Black Label.",
+
+"salesTip": [
+  "Whisky została specjalnie zaprojektowana dla rynku travel retail. "
+]
 },
 
 {
@@ -185,13 +217,20 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/jw_gold.webp",
+  "maturation": "Blend whisky dojrzewających w beczkach dębowych",
 
   "whenToOffer": [
-    "Klient szuka czegoś bardziej eleganckiego niż Black",
-    "Prezent"
-  ],
+  "Klient szuka łagodnej i eleganckiej szkockiej whisky",
+  "Dobry wybór na prezent lub specjalną okazję",
+  "Dla osób preferujących słodsze i mniej dymne profile",
+  "Alternatywa dla Black Label dla osób szukających większej gładkości"
+],
 
-  "howToPresent": "Bardziej kremowa i miodowa niż Black Label."
+  "howToPresent": "Elegancka blended Scotch whisky stworzona z myślą o celebracji. Posiada charakterystyczne miodowe i kremowe nuty. W profilu dominują aromaty miodu, wanilii, karmelu, owoców pestkowych oraz delikatnych przypraw. W porównaniu do Black Label oferuje mniej dymu, więcej słodyczy i wyjątkowo gładki charakter.",
+
+"salesTip": [
+  "Wśród whisky Johnnie Walker wyróżnia się wyjątkową łagodnością i słodszym profilem smakowym, także jest to najmniej dymna pozycja marki."
+]
 },
 
 {
@@ -202,13 +241,19 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/jw18.webp",
+  "maturation": "Blend whisky dojrzewających minimum 18 lat w beczkach dębowych", 
 
   "whenToOffer": [
-    "Klient szuka starszej whisky",
-    "Alternatywa dla Blue"
-  ],
+    "Dla osób ceniących złożoność i balans bardziej niż intensywny dym",
+    "Klient szuka prezentu lub whisky na specjalną okazję",
+    "Alternatywa dla 18-letnich whisky innych marek"
+],
 
-  "howToPresent": "Dojrzalsza i bardziej złożona niż Gold Label."
+  "howToPresent": "Blended Scotch Whisky składająca się wyłącznie z whisky dojrzewających minimum 18 lat. Dzięki długiemu dojrzewaniu whisky oferuje bogaty profil z nutami suszonych owoców, migdałów, miodu, wanilii, ciemnej czekolady i delikatnego dymu. Styl jest bardziej elegancki, złożony i harmonijny niż w przypadku Black Label.",
+
+"salesTip": [
+  "Jeżeli klient szuka Platinum Label 18 Years Old, śmiało można zaproponować Johnnie Walker 18 Years Old, który jest jego bezpośrednim następcą."
+]
 },
 
 {
