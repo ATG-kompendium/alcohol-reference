@@ -575,7 +575,7 @@
   "Dla osób lubiących chłodzące i słodsze profile",
   "Świetny wybór po posiłku lub do prostych drinków",
   "Alternatywa dla bardziej ciężkich i deserowych likierów"
-]
+],
 
   "howToPresent": "Francuski likier miętowy o intensywnie świeżym i chłodzącym charakterze. Charakteryzuje się wyraźnymi nutami mięty pieprzowej oraz lekką słodyczą, tworząc bardzo orzeźwiający i łatwy w odbiorze profil. Dzięki niższej zawartości alkoholu dobrze sprawdza się solo, mocno schłodzony lub w prostych cocktailach.",
 
@@ -739,7 +739,7 @@
   "howToPresent": "Gotowy cocktail inspirowany klasycznym Mojito, produkowany na bazie rumu Bacardí. Łączy świeże nuty limonki, mięty i delikatnej słodyczy, tworząc lekki, cytrusowy i bardzo orzeźwiający profil.",
 
   "salesTip": [
-    "Duża butelka 1L – dobra opcja na imprezy.",
+    "Duża butelka 1L – dobra opcja na imprezy."
   ]
 },
 
@@ -760,7 +760,9 @@
 
   "howToPresent": "Malibu to likier na bazie rumu z dodatkiem kokosa. Niski alkohol, bardzo przystępny, idealny do prostych drinków i koktajli.",
 
-  "salesTip": ["Często mamy na sklepie taką sytuację że nie ma Malibu, aby nie stracić sprzedaż mozemy zaproponować Bacardi Carta Blanca + syrop kokosowy albo gotową Pina Coladę."],
+  "salesTip": [
+  "Często mamy na sklepie taką sytuację że nie ma Malibu, aby nie stracić sprzedaż mozemy zaproponować Bacardi Carta Blanca + syrop kokosowy albo gotową Pina Coladę."
+],
 
   "cocktails": [
     "Pina Colada",
