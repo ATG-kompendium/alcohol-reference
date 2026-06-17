@@ -291,23 +291,6 @@
 },
 
 {
-  "slug": "johnnie-walker-blue-label-elusive-umami",
-  "name": "Johnnie Walker Blue Label Elusive Umami",
-  "subtitle": "Limited Edition",
-  "category": "whisky-blended",
-  "country": "Scotland",
-  "abv": "43%",
-  "image": "bottle_img/jw_umami.webp",
-
-  "whenToOffer": [
-    "Klient szuka unikalnej edycji",
-    "Kolekcjoner"
-  ],
-
-  "howToPresent": "Eksperymentalna edycja Blue Label o bardziej wytrawnym, złożonym charakterze."
-},
-
-{
   "slug": "ballantines-7-bourbon-finish",
   "name": "Ballantine’s 7 Bourbon Finish",
   "subtitle": "Blended Scotch · 7 lat",
