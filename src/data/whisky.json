@@ -264,30 +264,39 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/jw_blue.webp",
+  "maturation": "Blend whisky dojrzewających w beczkach dębowych"
 
   "whenToOffer": [
-    "Klient szuka luksusowej whisky",
-    "Prezent premium"
-  ],
+    "Klient szuka najbardziej prestiżowych whisky",
+    "Dobry wybór na wyjątkowy prezent",
+    "Dla osób ceniących elegancję i złożoność bardziej niż intensywny dym"
+],
 
-  "howToPresent": "Najbardziej luksusowa linia Johnnie Walker. Bardzo gładka i złożona."
+  "howToPresent": " Tworzona z wyselekcjonowanych beczek pochodzących z różnych regionów Szkocji. W blendzie wykorzystywane są między innymi destylaty z renomowanych destylarni takich jak Clynelish, Cardhu czy Caol Ila. Profil łączy nuty miodu, suszonych owoców, ciemnej czekolady, przypraw, dębu oraz subtelnego dymu. Charakter jest wyjątkowo gładki, harmonijny i wielowarstwowy."
 },
 
 {
   "slug": "johnnie-walker-blue-label-cognac-cask",
-  "name": "Johnnie Walker Blue Label Cognac Cask",
+  "name": "Johnnie Walker Blue Label Xordinare",
   "subtitle": "Limited Edition",
-  "category": "whisky-blended",
+  "category": "whisky",
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/jw_xordinaire.webp",
+  "maturation": "Blend wyselekcjonowanych szkockich whisky finiszowany w beczkach po francuskim koniaku XO"
 
   "whenToOffer": [
-    "Klient szuka limitowanej edycji",
-    "Fan koniaku"
-  ],
+    "Klient zna już klasyczny Blue Label",
+    "Dla osób lubiących whisky z wpływem beczek po koniaku",
+    "Klient szuka ekskluzywnej edycji Travel Retail",
+    "Dla fanów eleganckich i wyjątkowo gładkich whisky"
+],
 
-  "howToPresent": "Blue Label z finiszem w beczkach po koniaku. Bardziej owocowa i elegancka."
+  "howToPresent": "Limitowana edycja Blue Label dostępna wyłącznie w Travel Retail. Powstaje z wyselekcjonowanych beczek należących do najbardziej prestiżowych rezerw Johnnie Walker, a następnie jest finiszowana w beczkach po francuskim koniaku XO. Dzięki temu klasyczny charakter Blue Label wzbogacony został o dodatkowe nuty suszonych owoców, miodu, wanilii, przypraw oraz delikatnej słodyczy charakterystycznej dla koniaku."
+
+"salesTip": [
+  "To edycja stworzona wyłącznie dla rynku Travel Retail i niedostępna w regularnej dystrybucji."
+]
 },
 
 {
