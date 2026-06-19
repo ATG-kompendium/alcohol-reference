@@ -151,7 +151,7 @@
   "country": "Scotland",
   "abv": "43%",
   "image": "bottle_img/jw_green.webp",
-  "maturation": "Blend whisky single malt dojrzewających w beczkach dębowych"
+  "maturation": "Blend whisky single malt dojrzewających w beczkach dębowych",
 
   "whenToOffer": [
   "Klient lubi lekko dymne i morskie whisky",
@@ -200,7 +200,7 @@
     "Klient szuka łagodnej i dobrze zbalansowanej szkockiej whisky",
     "Dla osób preferujących mniej dymne profile smakowe",
     "Alternatywa dla Black Label dla osób szukających czegoś innego"
-]
+],
 
   "howToPresent": "Blended Scotch Whisky stworzona specjalnie dla rynku travel retail. Jej charakter budowany jest przez whisky dojrzewające w trzech różnych rodzajach beczek: po bourbonie, karaibskim rumie oraz w mocno wypalanych beczkach z amerykańskiego dębu. Dzięki temu łączy nuty wanilii, karmelu, owoców tropikalnych, przypraw i delikatnego dymu. Styl jest łagodny, słodszy niż klasyczny Black Label.",
 
@@ -264,7 +264,7 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/jw_blue.webp",
-  "maturation": "Blend whisky dojrzewających w beczkach dębowych"
+  "maturation": "Blend whisky dojrzewających w beczkach dębowych",
 
   "whenToOffer": [
     "Klient szuka najbardziej prestiżowych whisky",
@@ -283,7 +283,7 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/jw_xordinaire.webp",
-  "maturation": "Blend wyselekcjonowanych szkockich whisky finiszowany w beczkach po francuskim koniaku XO"
+  "maturation": "Blend wyselekcjonowanych szkockich whisky finiszowany w beczkach po francuskim koniaku XO",
 
   "whenToOffer": [
     "Klient zna już klasyczny Blue Label",
@@ -292,7 +292,7 @@
     "Dla fanów eleganckich i wyjątkowo gładkich whisky"
 ],
 
-  "howToPresent": "Limitowana edycja Blue Label dostępna wyłącznie w Travel Retail. Powstaje z wyselekcjonowanych beczek należących do najbardziej prestiżowych rezerw Johnnie Walker, a następnie jest finiszowana w beczkach po francuskim koniaku XO. Dzięki temu klasyczny charakter Blue Label wzbogacony został o dodatkowe nuty suszonych owoców, miodu, wanilii, przypraw oraz delikatnej słodyczy charakterystycznej dla koniaku."
+  "howToPresent": "Limitowana edycja Blue Label dostępna wyłącznie w Travel Retail. Powstaje z wyselekcjonowanych beczek należących do najbardziej prestiżowych rezerw Johnnie Walker, a następnie jest finiszowana w beczkach po francuskim koniaku XO. Dzięki temu klasyczny charakter Blue Label wzbogacony został o dodatkowe nuty suszonych owoców, miodu, wanilii, przypraw oraz delikatnej słodyczy charakterystycznej dla koniaku.",
 
 "salesTip": [
   "To edycja stworzona wyłącznie dla rynku Travel Retail i niedostępna w regularnej dystrybucji."
@@ -307,13 +307,16 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/ballantines7.webp",
+  "maturation": "Minimum 7 lat dojrzewania w beczkach dębowych, następnie finisz w beczkach po bourbonie",
 
   "whenToOffer": [
-    "Klient szuka czegoś łagodniejszego niż Finest",
-    "Whisky do mieszania"
-  ],
+    "Dla fanów bourbonu chcących spróbować szkockiej whisky",
+    "Klient lubi waniliowe i karmelowe profile smakowe",
+    "Alternatywa dla Ballantine's Finest",
+    "Dobry wybór do Old Fashioned i drinków na bazie whisky"
+],
 
-  "howToPresent": "Dojrzewana 7 lat z finiszem w beczkach po bourbonie. Bardziej waniliowa i słodsza niż klasyczna wersja."
+  "howToPresent": "7-letnia blended Scotch whisky. Po kupażu whisky trafia do beczek po bourbonie, co wzmacnia nuty wanilii, karmelu i miodu. W porównaniu do Ballantine's Finest oferuje większą głębię, więcej słodyczy beczki oraz bardziej kremowy charakter."
 },
 
 {
@@ -324,13 +327,16 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/ballantines10.webp",
+  "maturation": "Blend whisky dojrzewających minimum 10 lat w beczkach z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient szuka whisky z wiekiem",
-    "Alternatywa dla Black Label"
-  ],
+    "Klient szuka dojrzałej blended Scotch whisky",
+    "Dla osób lubiących waniliowe i miodowe profile smakowe",
+    "Alternatywa dla Ballantine's Finest",
+    "Klient chce spróbować whisky z deklarowanym wiekiem w przystępnej cenie"
+],
 
-  "howToPresent": "Łagodna i zbalansowana 10-letnia whisky o nutach wanilii i owoców."
+  "howToPresent": "10-letnia blended Scotch whisky stworzona z wyselekcjonowanych whisky słodowych i zbożowych dojrzewających minimum 10 lat. Dojrzewanie w beczkach z amerykańskiego dębu nadaje jej wyraźne nuty miodu, wanilii, kwiatów oraz kremowej słodyczy. W porównaniu do Ballantine's Finest oferuje większą dojrzałość, lepszą strukturę i bardziej elegancki charakter."
 },
 
 {
@@ -341,14 +347,15 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/ballantines.webp",
+  "maturation": "Blend whisky dojrzewających minimum 3 lata w beczkach dębowych",
 
   "whenToOffer": [
-    "Klient szuka klasycznej szkockiej whisky",
-    "Budżetowa opcja do picia solo lub z colą",
-    "Bezpieczny wybór bez eksperymentów"
-  ],
+    "Klient szuka klasycznej blended Scotch whisky",
+    "Dobry wybór do drinków i codziennego picia",
+    "Rozpoznawalna marka, łatwa decyzja zakupowa"
+],
 
-  "howToPresent": "Najbardziej klasyczna i rozpoznawalna wersja Ballantine’s. Łagodna, lekko słodowa, z delikatną nutą wanilii i miodu. Uniwersalna – sprawdzi się zarówno solo, jak i w drinkach."
+  "howToPresent": "Jedna z najlepiej sprzedających się blended Scotch whisky na świecie. Powstaje z połączenia kilkudziesięciu whisky słodowych i zbożowych pochodzących z różnych regionów Szkocji. Charakter blendu budują przede wszystkim destylaty z Glenburgie i Miltonduff, które odpowiadają za charakterystyczne nuty jabłek, gruszek, miodu oraz kwiatów. Styl jest lekki, łagodny i bardzo uniwersalny."
 },
 
 {
@@ -359,31 +366,20 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/ballantines30.webp",
+  "maturation": "Blend whisky dojrzewających minimum 30 lat w beczkach dębowych",
 
   "whenToOffer": [
-    "Klient szuka bardzo starej whisky",
-    "Ultra premium",
-    "Prezent luksusowy"
+    "Klient szuka jednej z najbardziej prestiżowych whisky w portfolio Ballantine's",
+    "Dla osób kolekcjonujących długo dojrzewające whisky",
+    "Klient szuka wyjątkowego prezentu lub whisky na szczególną okazję"
   ],
 
-  "howToPresent": "Bardzo rzadka i dojrzała 30-letnia whisky. Głęboka i złożona."
-},
+  "howToPresent": "30-letnia blended Scotch whisky należąca do najbardziej ekskluzywnych pozycji marki Ballantine's. Powstaje z wyjątkowo rzadkich whisky słodowych i zbożowych dojrzewających co najmniej 30 lat. Część wykorzystanych destylatów pochodzi z destylarni, które już nie istnieją. W profilu dominują nuty miodu, wanilii, dojrzałych gruszek, brzoskwiń, suszonych owoców, dębu oraz subtelnego dymu. Charakter jest niezwykle elegancki, złożony i harmonijny.",
 
-{
-  "slug": "ballantines-23",
-  "name": "Ballantine’s 23 Y.O.",
-  "subtitle": "Blended Scotch · 23 lata",
-  "category": "whisky-blended",
-  "country": "Scotland",
-  "abv": "40%",
-  "image": "bottle_img/ballantines23.webp",
-
-  "whenToOffer": [
-    "Klient szuka czegoś powyżej 21 lat",
-    "Alternatywa dla Blue Label"
-  ],
-
-  "howToPresent": "Rzadsza i bardziej dojrzała edycja o głębszym profilu smakowym."
+  "salesTip": [
+  "Niektóre whisky wykorzystane w blendzie pochodzą z destylarni, które już nie istnieją.",
+  "Najdłużej dojrzewające whisky w naszym sklepie."
+]
 },
 
 {
@@ -394,48 +390,58 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/ballantines21.webp",
+  "maturation": "Blend whisky dojrzewających minimum 21 lat w beczkach po bourbonie oraz po sherry",
 
   "whenToOffer": [
-    "Klient szuka whisky premium",
-    "Prezent elegancki"
+    "Idealna na prezent lub specjalną okazję",
+    "Dla osób lubiących wpływ beczek po sherry",
+    "Klient ceni przyprawowe i bardziej intensywne profile smakowe",
+    "Alternatywa dla innych luksusowych blended Scotch whisky"
   ],
 
-  "howToPresent": "Bardziej dojrzała i złożona niż 17. Nuty suszonych owoców i przypraw."
+  "howToPresent": "21-letnia blended Scotch whisky będąca jedną z najbardziej prestiżowych pozycji w portfolio Ballantine's. Jej charakter budują przede wszystkim destylaty z Glenburgie i Miltonduff, wzbogacone większym udziałem whisky dojrzewających w beczkach po sherry. W profilu dominują nuty miodu, suszonych owoców, lukrecji, przypraw korzennych, wanilii oraz delikatnego dymu. W porównaniu do Ballantine's 17 YO oferuje więcej intensywności, przypraw i wpływu beczki."
 },
 
 {
   "slug": "ballantines-17",
   "name": "Ballantine’s 17 Y.O.",
   "subtitle": "Blended Scotch · 17 lat",
-  "category": "whisky-blended",
+  "category": "whisky",
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/ballantines17.webp",
+  "maturation": "Blend whisky dojrzewających minimum 17 lat w beczkach dębowych",
 
   "whenToOffer": [
-    "Klient szuka starszej whisky",
-    "Alternatywa dla JW 18"
+    "Dla osób ceniących złożoność i balans",
+    "Klient chce poznać jedną z najbardziej cenionych blended Scotch whisky",
+    "Alternatywa dla 15- i 18-letnich whisky single malt"
   ],
 
-  "howToPresent": "Elegancka, dobrze zbalansowana 17-letnia whisky o nutach miodu i dębu."
+  "howToPresent": "17-letnia blended Scotch whisky uznawana za jedną z najważniejszych pozycji w portfolio Ballantine's. Jej charakter budują przede wszystkim destylaty z Glenburgie i Miltonduff, które odpowiadają za owocowość, miodową słodycz i elegancję blendu. W profilu dominują nuty miodu, wanilii, dojrzałych owoców, czekolady, przypraw oraz delikatnego dymu. Styl jest wyjątkowo harmonijny, kremowy i doskonale zbalansowany."
 },
 
 {
   "slug": "ballantines-brasil",
   "name": "Ballantine’s Brasil",
   "subtitle": "Whisky z nutą limonki",
-  "category": "whisky-flavoured",
+  "category": "spirit-drink",
   "country": "Scotland",
   "abv": "35%",
   "image": "bottle_img/ballantines_brasil.webp",
 
   "whenToOffer": [
-    "Klient szuka czegoś lżejszego",
-    "Do mieszania",
-    "Alternatywa dla likierów"
+    "Klient szuka lekkiego alkoholu do drinków",
+    "Klient lubi cytrusowe i orzeźwiające smaki",
+    "Alternatywa dla smakowych rumów i likierów"
   ],
 
-  "howToPresent": "Whisky z naturalnym aromatem limonki. Bardziej przystępna i koktajlowa."
+  "howToPresent": "Spirit drink stworzony na bazie szkockiej whisky Ballantine's z dodatkiem macerowanej skórki brazylijskiej limonki. Łączy klasyczny charakter whisky z wyraźnie cytrusowym i orzeźwiającym profilem. W aromacie dominują limonka, wanilia, miód i delikatne nuty dębowe. Najlepiej sprawdza się mocno schłodzony lub w prostych drinkach.",
+
+  "cocktails": [
+  "Brasil & Lemonade",
+  "Whisky Lime Soda"
+]
 },
 
 {
@@ -446,13 +452,15 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/ballantines_singlegrain.webp",
+  "maturation": "Whisky z destylarni Strathclyde finiszowana w beczkach po rumie oraz mocno wypalanych beczkach z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient szuka czegoś innego niż blend",
-    "Whisky łagodniejsza i słodsza"
-  ],
+    "Dla osób lubiących łagodne i owocowe profile smakowe",
+    "Klient szuka czegoś mniej oczywistego niż klasyczny blend",
+    "Alternatywa dla lekkich irlandzkich whiskey"
+],
 
-  "howToPresent": "Single grain z finiszem w beczkach po rumie. Bardziej słodka i deserowa."
+  "howToPresent": "Powstaje wyłącznie w destylarni Strathclyde z wykorzystaniem whisky zbożowej na bazie pszenicy. Po dojrzewaniu została finiszowana w beczkach po rumie oraz mocno wypalanych beczkach z amerykańskiego dębu. W profilu dominują nuty białej brzoskwini, banana, ananasa, czerwonych jabłek, wanilii i migdałów. Styl jest wyjątkowo gładki, kremowy i łatwy w odbiorze."
 },
 
 {
@@ -463,14 +471,15 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/chivas12.webp",
+  "maturation": "Blend whisky dojrzewających minimum 12 lat w beczkach dębowych",
 
   "whenToOffer": [
-    "Klient szuka klasycznej 12-letniej whisky",
-    "Alternatywa dla JW Black",
-    "Bezpieczny prezent"
+    "Klient szuka łagodnej szkockiej whisky",
+    "Dla osób, które nie lubią dymnych whisky",
+    "Alternatywa dla Ballantine's 12 YO i Johnnie Walker Black Label"
   ],
 
-  "howToPresent": "Klasyczna, gładka i lekko miodowa whisky z nutami wanilii i jabłka. Bardziej kremowa niż konkurencyjne blendy."
+  "howToPresent": "Klasyczna 12-letnia blended Scotch whisky oparta na stylu Speyside. Sercem blendu jest whisky ze Strathisla Distillery, najstarszej nieprzerwanie działającej destylarni w szkockim regionie Highlands. W profilu dominują nuty miodu, dojrzałych jabłek, gruszek, wanilii, karmelu oraz delikatnych przypraw. Charakter jest wyjątkowo gładki, owocowy i pozbawiony wyraźnej dymności."
 
 }, 
 
@@ -482,17 +491,15 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/chivas13_sherry.webp",
+  "maturation": "Blend whisky dojrzewających minimum 13 lat, dodatkowo finiszowanych w różnych typach beczek w zależności od wersji",
 
   "whenToOffer": [
-    "Klient chce coś innego niż klasyczna 12",
-    "Whisky z ciekawym finiszem",
-    "Travel Retail Exclusive"
+    "Klient chce coś innego niż klasyczna Chivas 12",
+    "Dla osób szukających bardziej charakternej wersji Chivas",
+    "Klient kolekcjonuje edycje Chivas"
   ],
 
-  "howToPresent": [
-    "Seria Chivas 13 to klasyczna baza Chivas 12 z dodatkowym wykończeniem w różnych typach beczek.",
-    "Różnice wynikają głównie z rodzaju beczki, która nadaje końcowy charakter."
-  ],
+  "howToPresent": "Seria Chivas 13 bazuje na klasycznej recepturze Chivas Regal i składa się z whisky dojrzewających minimum 13 lat. Każda wersja otrzymuje dodatkowy finisz w innym rodzaju beczki, który nadaje jej unikalny charakter. To właśnie rodzaj beczki odpowiada za różnice pomiędzy wariantami – od nut suszonych owoców i przypraw po akcenty rumowe czy bardziej kremowy profil.",
 
   "variants": [
     {
@@ -521,13 +528,16 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/chivas15.webp",
+  "maturation": "Blend whisky dojrzewających minimum 15 lat, dodatkowo finiszowany w beczkach po koniaku z regionu Grande Champagne",
 
   "whenToOffer": [
-    "Klient lubi koniak",
-    "Prezent premium"
+    "Dla osób preferujących łagodne i owocowe whisky",
+    "Klient lubi bardziej złożone whisky",
+    "Klient szuka eleganckiej whisky na prezent",
+    "Alternatywa dla klasycznego Johnnie Walker Gold Label"
   ],
 
-  "howToPresent": "Finisz w beczkach po koniaku. Bardziej elegancka i owocowa niż 12."
+  "howToPresent": "15-letnia blended Scotch whisky oparta na klasycznym stylu Chivas Regal. Po dojrzewaniu blend trafia do beczek po koniaku z regionu Grande Champagne, które wzbogacają profil o dodatkowe nuty miodu, rodzynek, dojrzałych owoców, karmelu i delikatnych przypraw. Charakter pozostaje gładki i owocowy, ale oferuje większą głębię oraz elegancję niż Chivas 12."
 },
 
 {
@@ -538,13 +548,15 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/chivas18.webp",
+  "maturation": "Blend whisky dojrzewających minimum 18 lat w beczkach dębowych",
 
   "whenToOffer": [
-    "Klient szuka starszej whisky",
-    "Alternatywa dla JW 18"
+    "Dla osób lubiących bogate i głębokie profile smakowe",
+    "Klient chce zrobić wyraźny krok wyżej względem Chivas 12 lub 15",
+    "Alternatywa dla 18-letnich whisky innych marek"
   ],
 
-  "howToPresent": "Bardziej złożona i czekoladowa niż 12. Nuty kakao, karmelu i przypraw."
+  "howToPresent": "18-letnia blended Scotch whisky uznawana za jedną z najważniejszych pozycji w portfolio Chivas Regal. Sercem blendu pozostaje Strathisla Distillery, a długi okres dojrzewania pozwala rozwinąć wyjątkowo bogaty profil smakowy. W aromacie i smaku dominują nuty ciemnej czekolady, karmelu, przypraw korzennych oraz delikatnego dębu. Charakter jest głęboki, elegancki i doskonale zbalansowany."
 },
 
 {
@@ -555,13 +567,21 @@
   "country": "Scotland",
   "abv": "48%",
   "image": "bottle_img/chivas18_trex.webp",
+  "maturation": "Blend whisky dojrzewających minimum 18 lat, finiszowany w beczkach first fill po winie z apelacji Pauillac w Bordeaux",
 
   "whenToOffer": [
-    "Klient szuka czegoś mocniejszego",
-    "Fan win Bordeaux"
+    "Klient juz zna klasycznego Chivas 18",
+    "Dla osób lubiących wpływ beczek po czerwonym winie",
+    "Klient szuka czegoś mniej oczywistego i ekskluzywnego",
+    "Idealna opcja na prezent dla konesera whisky lub specjalną okazję"
   ],
 
-  "howToPresent": "Finisz w beczkach po winie Pauillac. Niefiltrowana na zimno, bardziej intensywna."
+  "howToPresent": "Limitowana edycja Chivas Regal 18 YO z serii Ultimate Cask Collection. Po minimum 18 latach dojrzewania whisky została dodatkowo finiszowana w beczkach first fill po winie z apelacji Pauillac w Bordeaux. Finisz nadaje klasycznemu profilowi Chivas dodatkowe nuty czarnej porzeczki, ciemnych owoców, przypraw, dębu oraz tanin charakterystycznych dla czerwonego wina. Butelkowana z mocą 48%, co dodatkowo wzmacnia intensywność i głębię smaku. To wyjątkowa propozycja dla osób szukających bardziej charakternej i ekskluzywnej wersji Chivas.",
+
+  "salesTip": [
+  "Pauillac to jedna z najbardziej prestiżowych apelacji Bordeaux, w której powstają wina premium o wyjątkowej głębi i strukturze.",
+  "First fill wine casks zapewniają intensywniejszy wpływ beczki niż beczki używane wielokrotnie."
+]
 },
 
 {
@@ -572,13 +592,16 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/chivas25.webp",
+  "maturation": "Blend whisky dojrzewających minimum 25 lat w beczkach dębowych",
 
   "whenToOffer": [
-    "Klient szuka bardzo starej whisky",
-    "Luksusowy prezent"
+    "Klient szuka luksusowej whisky na wyjątkową okazję",
+    "Dla osób ceniących długo dojrzewające whisky",
+    "Klient szuka prestiżowego prezentu",
+    "Dla fanów historii i kolekcjonerów klasycznych marek whisky"
   ],
 
-  "howToPresent": "Bardzo dojrzała i elegancka 25-letnia whisky o nutach miodu i owoców."
+  "howToPresent": "25-letnia blended Scotch whisky, powstaje z wyjątkowo rzadkich whisky dojrzewających minimum 25 lat. W profilu dominują nuty miodu, pomarańczy, brzoskwiń, marcepanu, mlecznej czekolady, przypraw korzennych oraz subtelnego dębu. Charakter jest niezwykle gładki, elegancki i wielowarstwowy."
 },
 
 {
@@ -589,13 +612,22 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/royalsalute_vintage.webp",
+  "maturation": "Blend whisky dojrzewających minimum 21 lat, składający się wyłącznie z destylatów napełnionych do beczek w 2002 roku, dojrzewających głównie w beczkach z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient szuka czegoś wyjątkowego",
-    "Prezent kolekcjonerski"
+    "Klient szuka limitowanej edycji Travel Retail",
+    "Dla osób kolekcjonujących wyjątkowe wydania whisky",
+    "Klient już zna klasyczny Royal Salute 21",
+    "Dla fanów eleganckich, owocowych i bardzo gładkich blendów"
   ],
 
-  "howToPresent": "Ekskluzywna edycja Royal Salute z wyselekcjonowanych rocznikowych destylatów."
+  "howToPresent": "Pierwsza w historii marki Royal Salute whisky typu Vintage Blend. Powstała wyłącznie z 21-letnich whisky, które zostały napełnione do beczek w jednym roku – 2002. Edycja została stworzona dla uczczenia Złotego Jubileuszu królowej Elżbiety II. W profilu dominują nuty gruszek, pieczonych jabłek, waniliowego kremu, miodu, toffi i delikatnych przypraw. Charakter jest wyjątkowo gładki, słodki i elegancki.",
+
+  "salesTip": [
+    "Royal Salute należy do Chivas Brothers i jest luksusową linią marki Chivas.",
+    "Vintage Whisky to kategoria regulowana prawem tak jak single malt i blended, w której wszystkie destylaty muszą pochodzić z deklarowanego rocznika.",
+    "Whisky została stworzona dla uczczenia Złotego Jubileuszu królowej Elżbiety II."
+  ]
 },
 
 {
@@ -606,13 +638,20 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/royal_25.webp",
+  "maturation": "Blend rzadkich whisky słodowych i zbożowych dojrzewających minimum 25 lat w wysokiej jakości beczkach dębowych",
 
   "whenToOffer": [
-    "Klient szuka ultra premium",
-    "Prezent luksusowy"
+    "Klient szuka wyjątkowo prestiżowej whisky na prezent lub specjalną okazję",
+    "Dla osób kolekcjonujących długo dojrzewające whisky",
+    "Dla fanów bogatych, słodkich i wielowarstwowych whisky degustacyjnych"
   ],
 
-  "howToPresent": "Wyjątkowo rzadka i luksusowa wersja Royal Salute."
+  "howToPresent": "Royal Salute 25 Years Old to luksusowa blended Scotch whisky stworzona z wyjątkowo rzadkich whisky dojrzewających minimum 25 lat. W aromacie dominują nuty gotowanych owoców, konfitury z borówek, marcepanu, cynamonu i lukrecji. W smaku pojawiają się śliwki, toffi, ciemna czekolada i karmelizowane figi. Charakter jest bogaty, słodki, niezwykle gładki, z bardzo długim finiszem.",
+
+  "salesTip": [
+  "Royal Salute należy do Chivas Brothers i jest luksusową linią marki Chivas.",
+  "Nazwa The Treasured Blend nawiązuje do najcenniejszych beczek przechowywanych w Royal Salute Vault."
+]
 },
 
 {
@@ -623,14 +662,16 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/famous_grouse.webp",
+  "maturation": "Blend whisky dojrzewających minimum 3 lata w beczkach dębowych",
 
   "whenToOffer": [
-    "Klient szuka klasycznej szkockiej whisky",
-    "Alternatywa dla Ballantine’s",
-    "Budżetowa opcja"
+    "Klient szuka klasycznej szkockiej whisky w dobrej cenie",
+    "Dobry wybór do codziennego picia i drinków",
+    "Alternatywa dla Ballantine's Finest i Johnnie Walker Red Label lub innych podstawowych blended Scotch whisky",
+    "Dla osób lubiących owocowe i słodowe profile smakowe"
   ],
 
-  "howToPresent": "Klasyczny szkocki blend o łagodnym, słodowo-waniliowym charakterze."
+  "howToPresent": "Klasyczna blended Scotch whisky będąca przez wiele lat najlepiej sprzedającą się whisky w Szkocji. Charakter blendu budują między innymi destylaty z The Macallan i Highland Park, dzięki czemu łączy nuty słodu, miodu, suszonych owoców, wanilii oraz delikatnych przypraw. Styl jest łagodny, dobrze zbalansowany i bardzo przystępny."
 },
 
 {
@@ -641,30 +682,16 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/grants.webp",
+  "maturation": "Whisky dojrzewające w trzech rodzajach beczek: Virgin Oak, American Oak oraz Bourbon Refill",
 
   "whenToOffer": [
-    "Klient szuka łagodnej whisky",
-    "Whisky do mieszania"
-  ],
+  "Klient szuka intensywnej szkockiej whisky w dobrej cenie",
+  "Dla osób lubiących waniliowe i dębowe profile smakowe",
+  "Alternatywa dla innych blended Scotch whisky",
+  "Dobra do drinków i picia z colą"
+],
 
-  "howToPresent": "Dojrzewana w trzech typach beczek. Łagodna, waniliowa, uniwersalna."
-},
-
-{
-  "slug": "grants-distillers-reserve",
-  "name": "Grant’s Distiller’s Reserve",
-  "subtitle": "Blended Scotch · Sherry Cask",
-  "category": "whisky-blended",
-  "country": "Scotland",
-  "abv": "40%",
-  "image": "bottle_img/grants_distillery.webp",
-
-  "whenToOffer": [
-    "Klient chce coś bardziej owocowego",
-    "Alternatywa dla sherry finish"
-  ],
-
-  "howToPresent": "Wersja z większym wpływem beczek po sherry. Bardziej owocowa niż klasyczny Grant’s."
+  "howToPresent": "Klasyczna blended Scotch whisky, której charakter budowany jest przez dojrzewanie w trzech rodzajach beczek. Virgin Oak wnosi korzenne przyprawy, American Oak odpowiada za nuty wanilii i słodycz, a Bourbon Refill dodaje delikatne nuty owocowe. W profilu dominują wanilia, gruszki, słód, karmel oraz lekkie przyprawy."
 },
 
 {
@@ -675,14 +702,16 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/sir_edwards.webp",
+  "maturation": "Blend whisky dojrzewających minimum 3 lata w beczkach dębowych",
 
   "whenToOffer": [
-    "Klient szuka budżetowej szkockiej",
-    "Whisky do coli",
-    "Alternatywa dla William Peel lub Label 5"
+    "Klient szuka szkockich whisky",
+    "Opcja do drinków i miksowania",
+    "Alternatywa dla podstawowych blended Scotch whisky"
   ],
 
-  "howToPresent": "Prosty i lekki szkocki blend przeznaczony głównie do mieszania. Neutralny profil, bez wyraźnego dymu."
+"howToPresent": "Budżetowa blended Scotch whisky produkowana zgodnie z zasadami Scotch Whisky. Charakteryzuje się lekkim profilem z nutami zboża, wanilii, karmelu oraz dębu. Styl jest prosty, intensywny i najlepiej sprawdza z colą."
+
 },
 
 {
@@ -693,13 +722,20 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/label5.webp ",
+  "maturation": "Blend whisky dojrzewających minimum 3 lata w beczkach dębowych",
 
   "whenToOffer": [
-    "Budżetowa alternatywa",
-    "Whisky do drinków"
+    "Klient szuka łagodnej szkockiej whisky w dobrej cenie",
+    "Dobry wybór do drinków i miksowania",
+    "Alternatywa dla podstawowych blended Scotch whisky",
+    "Dla osób preferujących lekkie i owocowe profile smakowe"
   ],
 
-  "howToPresent": "Łagodna, lekko słodowa whisky do codziennego picia."
+  "howToPresent": "Klasyczna blended Scotch whisky. Powstaje z połączenia whisky słodowych i zbożowych dojrzewających w dębowych beczkach. W profilu dominują nuty wanilii, zbóż, jabłek, gruszek oraz delikatnych przypraw. Charakter jest lekki, łagodny i bardzo przystępny.",
+
+  "salesTip": [
+  "Label 5 należy do najlepiej sprzedających się szkockich whisky we Francji."
+]
 },
 
 {
@@ -710,13 +746,15 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/lauders.webp",
+  "maturation": "Blend whisky dojrzewających minimum 3 lata w beczkach dębowych",
 
   "whenToOffer": [
-    "Klient szuka tańszej szkockiej",
-    "Alternatywa dla Grant’s"
+    "Klient szuka klasycznej szkockiej whisky",
+    "Alternatywa dla podstawowych blended Scotch whisky",
+    "Dobry wybór do drinków i miksowania"
   ],
 
-  "howToPresent": "Klasyczny, lekki blend o prostym i przyjemnym charakterze."
+  "howToPresent": "Klasyczna blended Scotch whisky, której historia sięga 1834 roku i do dziś pozostaje jednym z najstarszych blendów na rynku. Łagodny profil z nutami wanilii, zbóż, owoców i delikatnych przypraw, a także dębu."
 },
 
 {
@@ -727,13 +765,17 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/campbell.webp",
+  "maturation": "Blend whisky dojrzewających minimum 3 lata w beczkach dębowych",
 
   "whenToOffer": [
-    "Budżetowa opcja",
-    "Whisky do mieszania"
+    "Klient szuka łagodnej szkockiej whisky w dobrej cenie",
+    "Dobry wybór do drinków i miksowania",
+    "Alternatywa dla podstawowych blended Scotch whisky",
+    "Dla osób preferujących lekkie i owocowe profile smakowe"
   ],
 
-  "howToPresent": "Prosty i delikatny blend do codziennego picia."
+  "howToPresent": "Klasyczna blended Scotch whisky, której historia sięga 1834 roku i do dziś pozostaje jednym z najstarszych blendów na rynku. Łagodny profil z nutami wanilii, zbóż, owoców i delikatnych przypraw, a także dębu."
+
 },
 
 {
@@ -744,30 +786,16 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/deacon.webp",
+  "maturation": "Blend whisky słodowych i zbożowych dojrzewających w beczkach dębowych",
 
   "whenToOffer": [
-    "Klient szuka czegoś nowoczesnego",
-    "Alternatywa dla bardziej dymnych whisky"
+    "Klient chce rozpocząć przygodę z dymnymi whisky",
+    "Dla fanów whisky z Islay szukających czegoś łagodniejszego",
+    "Klient szuka czegoś nowoczesnego i innego niż klasyczne blended Scotch whisky",
+    "Alternatywa dla Johnnie Walker Double Black"
   ],
 
-  "howToPresent": "Nowoczesny blend z delikatnym dymnym akcentem i charakterystycznym designem butelki."
-},
-
-{
-  "slug": "buchanans-12",
-  "name": "Buchanan’s 12 Y.O.",
-  "subtitle": "Blended Scotch · 12 lat",
-  "category": "whisky-blended",
-  "country": "Scotland",
-  "abv": "40%",
-  "image": "bottle_img/buchanan's12.webp",
-
-  "whenToOffer": [
-    "Klient zna markę z Ameryki Południowej",
-    "Alternatywa dla JW Black"
-  ],
-
-  "howToPresent": "12-letnia whisky o łagodnym, miodowym charakterze."
+  "howToPresent": "Nowoczesna blended Scotch whisky łącząca charakter whisky ze Speyside i Islay. W aromacie dominują nuty dymu, ogniska, pieczonych pomarańczy, przypraw korzennych oraz słodu i karmelu. Pomimo wyraźnej dymności whisky pozostaje gładka i łatwiejsza w odbiorze niż wiele klasycznych whisky z Islay."
 },
 
 {
@@ -778,13 +806,27 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/jb.webp",
+  "maturation": "Blend ponad 40 whisky słodowych i zbożowych dojrzewających minimum 3 lata w beczkach dębowych",
 
   "whenToOffer": [
-    "Klient szuka klasycznego blendu",
-    "Whisky do mieszania"
+    "Klient szuka lekkiej i owocowej szkockiej whisky",
+    "Dla osób rozpoczynających przygodę z whisky",
+    "Dobry wybór do drinków i miksowania",
+    "Alternatywa dla Jameson"
   ],
 
-  "howToPresent": "Lekka i świeża whisky o cytrusowym charakterze."
+  "howToPresent": "Klasyczna blended Scotch whisky oparta głównie na destylatach ze Speyside. W skład blendu wchodzi około 42 różnych whisky. Charakter jest lekki, świeży i owocowy, z nutami jabłek, gruszek, zbóż, migdałów oraz delikatnych przypraw. W przeciwieństwie do wielu szkockich blendów stawia na świeżość i elegancję zamiast intensywności i wyraźnej dymności.",
+
+  "salesTip": [
+  "J&B & Sprite to jeden z najbardziej klasycznych sposobów serwowania tej whisky w Hiszpanii i Europie Południowej.",
+  "Lekki i świeży profil sprawia, że jest dobrą alternatywą dla Jamesona w sytuacjach gdy nie mamy go na sklepie lub klient szuka coś podobnego w smaku."
+],
+
+  "cocktails": [
+  "J&B & Sprite",
+  "Highball",
+  "Whisky Sour"
+]
 },
 
 {
@@ -795,13 +837,17 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/william.webp",
+  "maturation": "Blend whisky dojrzewających minimum 3 lata w beczkach dębowych",
 
   "whenToOffer": [
-    "Klient szuka bardzo budżetowej whisky",
-    "Whisky do drinków"
+    "Klient szuka łagodnej szkockiej whisky w dobrej cenie",
+    "Dobry wybór do drinków i miksowania",
+    "Alternatywa dla podstawowych blended Scotch whisky",
+    "Dla osób preferujących lekkie i owocowe profile smakowe"
   ],
 
-  "howToPresent": "Prosty, neutralny blend przeznaczony głównie do mieszania."
+  "howToPresent": "Klasyczna blended Scotch whisky, której historia sięga 1834 roku i do dziś pozostaje jednym z najstarszych blendów na rynku. Łagodny profil z nutami wanilii, zbóż, owoców i delikatnych przypraw, a także dębu."
+
 },
 
 {
@@ -812,14 +858,21 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/dewars.webp",
+  "maturation": "Blend whisky dojrzewających minimum 3 lata w beczkach dębowych, następnie łączonych i dodatkowo starzonych metodą Double Ageing",
 
   "whenToOffer": [
-    "Klient szuka klasycznej szkockiej whisky",
-    "Alternatywa dla Ballantine’s Finest",
-    "Whisky do mieszania"
-  ],
+    "Klient szuka łagodnej i dobrze zbalansowanej szkockiej whisky",
+    "Dla osób rozpoczynających przygodę z whisky",
+    "Dobry wybór do drinków i miksowania",
+    "Alternatywa dla podstawowych blended Scotch whisky"
+],
 
-  "howToPresent": "Lekki i świeży blend o delikatnych nutach miodu i wanilii. Bardzo uniwersalny."
+  "howToPresent": "Klasyczna blended Scotch whisky będąca fundamentem całej marki Dewar's. Po stworzeniu blendu whisky przechodzi dodatkowy etap dojrzewania zwany Double Ageing, podczas którego składniki mają czas lepiej się zintegrować. W profilu dominują nuty miodu, wanilii, jabłek, gruszek, karmelu oraz delikatnych przypraw. Charakter jest wyjątkowo łagodny, kremowy i dobrze zbalansowany.",
+
+  "salesTip": [
+    "Dewar's spopularyzował metodę Double Ageing, polegającą na dodatkowym dojrzewaniu whisky po stworzeniu blendu.",
+    "Sercem stylu Dewar's są destylaty z Aberfeldy Distillery."
+]
 },
 
 {
@@ -830,14 +883,21 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/dewars12.webp",
+  "maturation": "Blend whisky dojrzewających minimum 12 lat w beczkach dębowych, następnie poddanych procesowi Double Ageing",
 
   "whenToOffer": [
-    "Klient szuka 12-letniej whisky",
-    "Alternatywa dla JW Black",
-    "Prezent"
+    "Klient szuka dojrzałej i łagodnej blended Scotch whisky",
+    "Dla osób ceniących gładki i kremowy charakter",
+    "Alternatywa dla Chivas Regal 12 oraz innych 12-letnich blended Scotch whisky"
   ],
 
-  "howToPresent": "Dojrzewana minimum 12 lat, podwójnie starzona dla większej gładkości. Nuty miodu, jabłka i karmelu."
+  "howToPresent": "12-letnia blended Scotch whisky oparta na destylatach z Aberfeldy Distillery. Po minimum 12 latach dojrzewania whisky przechodzi dodatkowy etap Double Ageing, podczas którego blend ponownie trafia do beczek, aby lepiej zintegrować wszystkie składniki. W profilu dominują nuty miodu, wanilii, jabłek, suszonych owoców, karmelu i delikatnego dębu. Charakter jest wyjątkowo gładki, kremowy i harmonijny.",
+
+  "salesTip": [
+  "Dewar's spopularyzował metodę Double Ageing, polegającą na dodatkowym dojrzewaniu whisky po stworzeniu blendu.",
+  "Sercem whisky pozostają destylaty z Aberfeldy Distillery.",
+  "Dewar's 12 jest często uznawany za jedną z najbardziej gładkich whisky w swojej kategorii cenowej."
+]
 },
 
 {
@@ -848,13 +908,21 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/dewars15.webp",
+  "maturation": "Blend whisky dojrzewających minimum 15 lat w beczkach dębowych, następnie poddanych procesowi Double Ageing",
 
   "whenToOffer": [
-    "Klient szuka czegoś pomiędzy 12 a 18 lat",
-    "Łagodna, elegancka whisky"
-  ],
+    "Klient szuka bogatszej alternatywy dla Dewar's 12",
+    "Dla osób lubiących kremowe, miodowe i owocowe whisky",
+    "Alternatywa dla Chivas 15 i Johnnie Walker Gold Label",
+    "Idealna opcja na prezent lub specjalną okazję"
+],
 
-  "howToPresent": "Bardziej kremowa i owocowa niż 12. Delikatne nuty wanilii i suszonych owoców."
+  "howToPresent": "Po minimum 15 latach dojrzewania blend przechodzi dodatkowy etap Double Ageing, który nadaje mu wyjątkową harmonię i gładkość. W profilu dominują nuty miodu, toffi, suszonych owoców, wanilii i delikatnych przypraw. Charakter jest bogatszy, bardziej kremowy i elegancki niż w Dewar's 12.",
+
+  "salesTip": [
+  "Dewar's spopularyzował metodę Double Ageing, polegającą na dodatkowym dojrzewaniu whisky po stworzeniu blendu.",
+  "Sercem whisky pozostają destylaty z Aberfeldy Distillery."
+  ]
 },
 
 {
@@ -865,13 +933,21 @@
   "country": "Scotland",
   "abv": "46%",
   "image": "bottle_img/dewars21_mizunara.webp",
+  "maturation": "Blend whisky dojrzewających minimum 21 lat, poddanych czteroetapowemu procesowi Double Double i finiszowanych w beczkach z japońskiego dębu Mizunara",
 
   "whenToOffer": [
-    "Klient szuka czegoś nietypowego",
-    "Fan japońskiego stylu beczek"
-  ],
+    "Klient interesuje się japońską whisky",
+    "Dla osób szukających limitowanych i nietypowych wydań blended Scotch",
+    "Dla koneserów kolekcjonujących wyjątkowe wydania whisky",
+    "Dla fanów eleganckich i bardzo gładkich whisky"
+],
 
-  "howToPresent": "Finisz w rzadkich beczkach z dębu Mizunara. Bardziej korzenna i egzotyczna."
+  "howToPresent": "Limitowana edycja Dewar's Double Double 21 YO wykorzystująca rzadki finisz w beczkach z japońskiego dębu Mizunara. Whisky przechodzi charakterystyczny dla serii Double Double, czteroetapowy proces dojrzewania, a następnie trafia do beczek Mizunara, które nadają jej nuty sandałowca, kokosa, wanilii, egzotycznych owoców i subtelnych przypraw. Butelkowana z mocą 46% ABV, oferuje wyjątkowo gładki i kremowy charakter.",
+
+  "salesTip": [
+  "Mizunara to jeden z najrzadszych i najbardziej poszukiwanych rodzajów dębu używanych do dojrzewania whisky, poniważ ",
+  "Whisky przechodzi czteroetapowy proces Double Double w którym, osobno dojrzewają whisky słodowe i zbożowe, następnie są one osobno łączone i ponownie dojrzewają, po czym powstaje finalny blend, który przechodzi dodatkowy okres harmonizacji. Na końcu whisky trafia do beczek z japońskiego dębu Mizunara."
+]
 },
 
 {
@@ -882,13 +958,21 @@
   "country": "Scotland",
   "abv": "46%",
   "image": "bottle_img/dewars20_oloroso.webp",
+  "maturation": "Blend whisky dojrzewających minimum 21 lat, poddanych czteroetapowemu procesowi Double Double i finiszowanych w beczkach po Oloroso Sherry",
 
   "whenToOffer": [
-    "Klient szuka czegoś premium",
-    "Fan sherry finish"
+    "Dla osób szukających limitowanych i nietypowych wydań blended Scotch",
+    "Dla koneserów kolekcjonujących wyjątkowe wydania whisky",
+    "Dla fanów eleganckich i bardzo gładkich whisky",
+    "Idealna opcja na prezent lub specjalną okazję"
   ],
 
-  "howToPresent": "Czterostopniowy proces starzenia z finiszem w beczkach po sherry Oloroso. Głębsza, bardziej owocowa."
+  "howToPresent": "21-letnia blended Scotch whisky z serii Double Double stworzonej. Whisky przechodzi czteroetapowy proces dojrzewania, a następnie trafia do beczek po Oloroso Sherry. Finisz nadaje jej bogate nuty suszonych owoców, fig, rodzynek, karmelu, kakao, cynamonu i prażonych orzechów. Charakter jest niezwykle gładki, kremowy i wielowarstwowy, z długim, korzennym finiszem.",
+
+  "salesTip": [
+  "To whisky, od której rozpoczęła się cała seria Double Double w 2019 roku.",
+  "Whisky przechodzi czteroetapowy proces Double Double w którym, osobno dojrzewają whisky słodowe i zbożowe, następnie są one osobno łączone i ponownie dojrzewają, po czym powstaje finalny blend, który przechodzi dodatkowy okres harmonizacji. Na końcu whisky trafia do beczek z Oloroso Sherry."
+]
 },
 
 {
@@ -899,35 +983,22 @@
   "country": "Scotland",
   "abv": "46%",
   "image": "bottle_img/dewars26_palocortado.webp",
+  "maturation": "Blend whisky dojrzewających minimum 26 lat, poddanych czteroetapowemu procesowi Double Double i finiszowanych w beczkach po Palo Cortado Sherry",
 
   "whenToOffer": [
-    "Klient szuka ultra premium",
-    "Ekskluzywny prezent",
-    "Alternatywa dla 25+ letnich whisky"
+    "Dla osób szukających limitowanych i nietypowych wydań blended Scotch",
+    "Dla koneserów kolekcjonujących wyjątkowe wydania whisky",
+    "Dla fanów eleganckich i bardzo gładkich whisky",
+    "Idealna opcja na prezent lub specjalną okazję"
   ],
 
-  "howToPresent": "26-letnia edycja z finiszem w beczkach po sherry Palo Cortado. Bardzo złożona i elegancka."
-},
+  "howToPresent": "26-letnia blended Scotch whisky z prestiżowej serii Double Double. Whisky przechodzi charakterystyczny czteroetapowy proces dojrzewania, a następnie trafia do beczek po Palo Cortado Sherry. Ten rzadki rodzaj sherry wnosi nuty miodu, suszonych owoców, cytrusów, kwiatów, migdałów i subtelnych przypraw. Charakter jest niezwykle elegancki, złożony i wyjątkowo gładki.",
 
-{
-  "slug": "glenfiddich-vat-02",
-  "name": "Glenfiddich VAT 02",
-  "subtitle": "Single Malt · Speyside · Travel Retail",
-  "category": "whisky-single-malt",
-  "country": "Scotland",
-  "region": "Speyside",
-  "abv": "43%",
-  "image": "bottle_img/glenfiddich_vat02.webp",
-
-  "whenToOffer": [
-    "Klient zna VAT 01",
-    "Szukają czegoś bardziej wyrazistego",
-    "Travel Retail Exclusive"
-  ],
-
-  "maturation": "American Oak, European Oak, and Red Wine Casks",
-
-  "howToPresent": "Druga odsłona serii VAT. Bardziej intensywna i owocowa niż VAT 01, z większą strukturą beczki."
+  "salesTip": [
+  "Whisky przechodzi czteroetapowy proces Double Double w którym, osobno dojrzewają whisky słodowe i zbożowe, następnie są one osobno łączone i ponownie dojrzewają, po czym powstaje finalny blend, który przechodzi dodatkowy okres harmonizacji. Na końcu whisky trafia do beczek po Palo Cortado Sherry.",
+  "Palo Cortado to najrzadszy styl sherry, łączący elegancję Amontillado z bogactwem Oloroso, co czyni tę whisky wyjątkową w swojej kategorii.",
+  "To edycja Travel Retail Exclusive dostępna głównie w sprzedaży lotniskowej."
+  ]
 },
 
 {
@@ -1097,60 +1168,6 @@
 },
 
 {
-  "slug": "big-peat",
-  "name": "Big Peat",
-  "subtitle": "Blended Malt · Islay",
-  "category": "whisky-blended-malt",
-  "country": "Scotland",
-  "abv": "46%",
-  "image": "bottle_img/big_peat.webp",
-
-  "whenToOffer": [
-    "Klient lubi torfowe whisky",
-    "Alternatywa dla Ardbeg / Laphroaig",
-    "Coś innego niż single malt"
-  ],
-
-  "howToPresent": "Blended malt z Islay łączący kilka destylarni wyspiarskich. Intensywnie torfowa, dymna i wytrawna."
-},
-
-{
-  "slug": "compass-box-peat-monster",
-  "name": "Compass Box Peat Monster",
-  "subtitle": "Blended Malt · Torfowa",
-  "category": "whisky-blended-malt",
-  "country": "Scotland",
-  "abv": "46%",
-  "image": "bottle_img/peat_monster.webp",
-
-  "whenToOffer": [
-    "Klient szuka torfu ale bardziej eleganckiego",
-    "Fan nowoczesnych marek",
-    "Alternatywa dla klasycznego Islay"
-  ],
-
-  "howToPresent": "Nowoczesna interpretacja torfowej whisky. Dymna, ale bardziej zbalansowana i elegancka niż klasyczne Islay."
-},
-
-{
-  "slug": "compass-box-orchard-house",
-  "name": "Compass Box Orchard House",
-  "subtitle": "Blended Malt · Owocowa",
-  "category": "whisky-blended-malt",
-  "country": "Scotland",
-  "abv": "46%",
-  "image": "bottle_img/orchard_house.webp",
-
-  "whenToOffer": [
-    "Klient nie lubi torfu",
-    "Szuka świeżej i owocowej whisky",
-    "Alternatywa dla Glenlivet"
-  ],
-
-  "howToPresent": "Bardziej owocowa i świeża kompozycja Compass Box. Nuty jabłka, gruszki i wanilii."
-},
-
-{
   "slug": "monkey-shoulder",
   "name": "Monkey Shoulder",
   "subtitle": "Blended Malt · Speyside",
@@ -1271,26 +1288,6 @@
   "maturation": "Sherry Casks",
 
   "howToPresent": "Islay w mniej torfowym stylu. Bardziej sherry, więcej suszonych owoców i przypraw."
-},
-
-{
-  "slug": "glenglassaugh-12",
-  "name": "Glenglassaugh 12 Y.O.",
-  "subtitle": "Single Malt · Highland",
-  "category": "whisky-single-malt",
-  "country": "Scotland",
-  "region": "Highland",
-  "abv": "45%",
-  "image": "bottle_img/glenglassaugh12.webp",
-
-  "whenToOffer": [
-    "Klient szuka mniej znanej destylarni",
-    "Alternatywa dla klasycznego Speyside"
-  ],
-
-  "maturation": "American Oak + Sherry",
-
-  "howToPresent": "Highland o świeżym, owocowym charakterze z nutą dębu i przypraw."
 },
 
 {
@@ -1541,27 +1538,6 @@
 },
 
 {
-  "slug": "bowmore-16-ruby-port",
-  "name": "Bowmore 16 Ruby Port Cask",
-  "subtitle": "Single Malt · Islay · Travel Retail",
-  "category": "whisky-single-malt",
-  "country": "Scotland",
-  "region": "Islay",
-  "abv": "43%",
-  "image": "bottle_img/bowmore16.webp",
-
-  "whenToOffer": [
-    "Klient szuka słodszej Islay",
-    "Fan porto finish",
-    "Alternatywa dla Lagavulin"
-  ],
-
-  "maturation": "American Oak + Ruby Port Cask",
-
-  "howToPresent": "Torf w bardziej owocowym wydaniu. Nuty suszonych śliwek i czerwonych owoców."
-},
-
-{
   "slug": "lagavulin-8",
   "name": "Lagavulin 8 Y.O.",
   "subtitle": "Single Malt · Islay",
@@ -1705,26 +1681,6 @@
   "maturation": "Intensywnie wypalane beczki z amerykańskiego dębu",
 
   "howToPresent": "Bardziej dymna i intensywna wersja Talisker. Więcej przypraw i głębi."
-},
-
-{
-  "slug": "talisker-surge",
-  "name": "Talisker Surge",
-  "subtitle": "Single Malt · Isle of Skye · Travel Retail",
-  "category": "whisky-single-malt",
-  "country": "Scotland",
-  "region": "Isle of Skye",
-  "abv": "45.8%",
-  "image": "bottle_img/talisker_surge.webp",
-
-  "whenToOffer": [
-    "Klient szuka świeższej wersji Talisker",
-    "Edycja lotniskowa"
-  ],
-
-  "maturation": "American Oak",
-
-  "howToPresent": "Bardziej cytrusowa i świeża odsłona Talisker, zachowująca morski charakter."
 },
 
 {
