@@ -1057,11 +1057,12 @@
   "whenToOffer": [
     "Klient lubi whisky finiszowane w beczkach po rumie",
     "Dla osób szukających łagodnego i owocowego single malta",
+    "Alternatywa dla innych single maltów dojrzewających w beczkach po rumie",
     "Klient już zna Balvenie 12 DoubleWood i chce spróbować czegoś innego",
     "Dobra opcja na prezent dla konesera lub osobę interesującą się whisky"
 ],
 
-  "howToPresent": "12-letni single malt ze Speyside finiszowany w beczkach po rumie, wzbogacając profil o dodatkowe nuty brązowego cukru, wanilii, karmelu, miodu i owoców tropikalnych. Charakter pozostaje gładki, miodowy i owocowy – ale z bardziej egzotycznym akcentem.",
+  "howToPresent": "Travel Retail Exclusive 12-letni single malt ze Speyside finiszowany w beczkach po rumie, wzbogacając profil o dodatkowe nuty brązowego cukru, wanilii, karmelu, miodu i owoców tropikalnych. Charakter pozostaje gładki, miodowy i owocowy – ale z bardziej egzotycznym akcentem.",
 
 "salesTip": [
   "Balvenie należy do nielicznych dużych destylarni, które nadal utrzymują własnych bednarzy i część tradycyjnego słodowania.",
@@ -1084,11 +1085,11 @@
   "whenToOffer": [
   "Klient lubi whisky finiszowane w beczkach po Maderze",
   "Dla fanów owocowych i przyprawowych  single maltów",
-  "Alternatywa dla Balvenie Caribbean Cask lub PortWood",
+  "Alternatywa dla innych single maltów dojrzewających w beczkach po maderze",
   "Klient szuka czegoś nietypowego zamiast klasycznego sherry"
 ],
 
-  "howToPresent": "15-letni single malt ze Speyside finiszowany w beczkach po portugalskim winie Madeira, co nadaje whisky nuty dojrzałych brzoskwiń, cytrusów, jagód, miodu, orzechów laskowych i delikatnych przypraw. Charakter pozostaje, gładki, miodowy i elegancki, ale z nutami dojrzałych owoców pochodzących z beczek po Maderze.",
+  "howToPresent": "Travel Retail Exclusive 15-letni single malt ze Speyside finiszowany w beczkach po portugalskim winie Madeira, co nadaje whisky nuty dojrzałych brzoskwiń, cytrusów, jagód, miodu, orzechów laskowych i delikatnych przypraw. Charakter pozostaje, gładki, miodowy i elegancki, ale z nutami dojrzałych owoców pochodzących z beczek po Maderze.",
 
 "salesTip": [
   "Madeira to wzmacniane wino z portugalskiej wyspy Madera, słynące z bogatego owocowego charakteru.",
@@ -1115,11 +1116,10 @@
     "Dobry wybór na prezent lub specjalną okazję"
  ],
 
-  "howToPresent": "18-letni single malt ze Speyside finiszowany w beczkach po Pedro Ximénez Sherry, dzięki czemu whisky zyskuje bogate nuty rodzynek, daktyli, fig, miodu, karmelu i ciemnej czekolady. Charakter pozostaje elegancki i zbalansowany, ale oferuje znacznie więcej głębi oraz słodyczy niż klasyczne whisky.",
+  "howToPresent": "Travel Retail Exclusive 18-letni single malt ze Speyside finiszowany w beczkach po Pedro Ximénez Sherry, dzięki czemu whisky zyskuje bogate nuty rodzynek, daktyli, fig, miodu, karmelu i ciemnej czekolady. Charakter pozostaje elegancki i zbalansowany, ale oferuje znacznie więcej głębi oraz słodyczy niż klasyczne whisky.",
 
 "salesTip": [
   "Pedro Ximénez to najsłodszy i najbardziej deserowy styl sherry używany do dojrzewania whisky. PX powstaje z winogron suszonych na słońcu, co pozwala skoncentrować cukry i aromaty.",
-  "Balvenie należy do destylarni, które spopularyzowały finiszowanie whisky w dodatkowych beczkach.",
   "Balvenie należy do destylarni, które spopularyzowały finiszowanie whisky w dodatkowych beczkach."
 ]
 },
@@ -1151,6 +1151,27 @@
 },
 
 {
+  "slug": "glenlivet-tcm1",
+  "name": "The Glenlivet Triple Cask Matured",
+  "subtitle": "Single Malt · Speyside · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Speyside",
+  "abv": "40%",
+  "image": "bottle_img/glenlivet_tcm1.webp",
+  "maturation": "Single Malt dojrzewający w beczkach z amerykańskiego dębu, tradycyjnych beczkach dębowych oraz beczkach po sherry",
+
+  "whenToOffer": [
+    "Klient szuka łagodnego i owocowego single malta",
+    "Dla osób rozpoczynających przygodę z whisky single malt",
+    "Alternatywa dla podstawowych single maltów",
+    "Klient preferuje whisky zbalansowane i gładkie"
+  ],
+
+  "howToPresent": "Trevel Retail exclusive single malt ze Speyside dojrzewający w trzech rodzajach beczek. Dzięki zrównoważonemu wpływowi amerykańskiego dębu, beczek po sherry oraz tradycyjnych beczek dębowych whisky oferuje nuty gruszek, miodu, wanilii, karmelu i delikatnych przypraw. Charakter pozostaje lekki, owocowy i bardzo przystępny."
+},
+
+{
   "slug": "glenlivet-14-european-american-oak",
   "name": "The Glenlivet 14 European & American Oak",
   "subtitle": "Single Malt · Speyside · Travel Retail",
@@ -1162,12 +1183,12 @@
   "maturation": "Single Malt dojrzewający 14 lat w beczkach z amerykańskiego i europejskiego dębu",
 
   "whenToOffer": [
-    "Klient szuka czegoś tylko z lotniska",
-    "Alternatywa dla 12 lub 15",
-    "Prezent z segmentu premium"
+    "Klient preferuje zbalansowane i gładkie whisky",
+    "Dla fanów whisky Glenliveta",
+    "Bezpieczna i uniwersalna whisky na prezent lub specjalna okazję"
   ],
 
-  "howToPresent": "Edycja travel retail dojrzewająca w kombinacji dębu europejskiego i amerykańskiego. Bardziej zbalansowana – łączy waniliową słodycz z nutą przypraw."
+  "howToPresent": "14-letnia edycja Glenliveta travel retail exclusive dojrzewająca w połączeniu beczek z amerykańskiego i europejskiego dębu. Amerykański dąb wnosi nuty wanilii, karmelu i słodyczy, natomiast europejski odpowiada za przyprawy, suszone owoce i większą głębię. Dzięki temu whisky zachowuje charakterystyczną dla Glenliveta owocowość, ale oferuje bardziej złożony i dojrzały profil."
 },
 
 {
@@ -1179,16 +1200,15 @@
   "region": "Speyside",
   "abv": "40%",
   "image": "bottle_img/glenlivet16_trex.avif",
+  "maturation": "Single Malt dojrzewający 16 lat wyłącznie w beczkach z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient szuka starszej wersji Glenlivet",
-    "Łagodny, waniliowy profil",
-    "Travel Retail Exclusive"
-  ],
+  "Klient lubi waniliowe i kremowe whisky",
+  "Dla fanów whisky Glenliveta",
+  "Bezpieczna i uniwersalna whisky na prezent lub specjalna okazję"
+],
 
-  "maturation": "American Oak",
-
-  "howToPresent": "Dojrzewana głównie w beczkach z amerykańskiego dębu. Bardziej kremowa i waniliowa niż klasyczne edycje."
+  "howToPresent": "16-letnia edycja Glenliveta travel retail exclusive dojrzewająca wyłącznie w beczkach z amerykańskiego dębu. Połączenie długiego dojrzewania i wpływu amerykańskiego drewna nadaje whisky wyjątkowo kremowy charakter z nutami wanilii, toffi oraz dojrzałych śliwek. To jedna z najbardziej gładkich i harmonijnych whisky w serii Cask Master's Collection."
 },
 
 {
@@ -1199,14 +1219,15 @@
   "country": "Scotland",
   "abv": "40%",
   "image": "bottle_img/monkey.webp",
+  "maturation": "Blended Malt Scotch Whisky stworzona wyłącznie z whisky słodowych dojrzewających w beczkach z amerykańskiego dębu minimum 3 lata",
 
   "whenToOffer": [
-    "Klient szuka whisky do koktajli",
-    "Barowy styl",
-    "Alternatywa dla blendów"
+    "Klient szuka whisky do koktajli, ale chce coś lepszego niż podstawowe blended Scotch whisky",
+    "Dla osób rozpoczynających przygodę z whisky słodową",
+    "Alternatywa dla Chivas 12 oraz innych blendów"
   ],
 
-  "howToPresent": "Blended malt z destylarni Speyside. Bardzo popularna w barach – gładka, słodowa i idealna do koktajli."
+  "howToPresent": "Monkey Shoulder to blended malt Scotch whisky, co oznacza, że powstaje wyłącznie z whisky słodowych pochodzących z różnych destylarni. Charakteryzuje się nutami wanilii, miodu, karmelu, cytrusów i przypraw. Dzięki łagodnemu i owocowemu profilowi jest jedną z najpopularniejszych whisky."
 },
 
 {
@@ -1218,6 +1239,35 @@
   "region": "Speyside",
   "abv": "40%",
   "image": "bottle_img/aberlour12.webp",
+  "maturation": "Single Malt dojrzewający minimum 12 lat w beczkach po bourbonie i po Oloroso Sherry",
+
+  "whenToOffer": [
+   "Klient lubi whisky dojrzewające w beczkach po sherry",
+    "Dla fanów bogatych i owocowych single maltów",
+    "Alternatywa dla GlenDronach 12 i Balvenie DoubleWood",
+    "Klient szuka klasycznego Speyside z wyraźnym wpływem sherry"
+],
+
+  "howToPresent": "12-letni single malt ze Speyside dojrzewający równolegle w beczkach po bourbonie oraz po Oloroso Sherry. Amerykański dąb wnosi nuty wanilii i karmelu, natomiast beczki po sherry dodają suszone owoce, przyprawy i czekoladę. Efektem jest bogata, owocowa i doskonale zbalansowana whisky o charakterystycznym stylu Aberlour.",
+
+  "salesTip": [
+  "Aberlour słynie z whisky dojrzewających w beczkach po sherry.",
+  "Double Cask Matured oznacza połączenie whisky z beczek po bourbonie i Oloroso Sherry.",
+  "Destylarnia położona jest w samym sercu regionu Speyside, niedaleko źródła St. Drostan's Well.",
+  "Aberlour jest jedną z najbardziej cenionych marek Speyside wśród miłośników whisky sherry cask.",
+  "To doskonałe wprowadzenie do stylu Aberlour przed przejściem do Aberlour A'bunadh."
+]
+},
+
+{
+  "slug": "aberlour-13",
+  "name": "Aberlour 13 Y.O.",
+  "subtitle": "Single Malt · Speyside",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Speyside",
+  "abv": "40%",
+  "image": "bottle_img/aberlour13.webp",
 
   "whenToOffer": [
     "Klient lubi whisky z nutą sherry",
@@ -1239,6 +1289,27 @@
   "region": "Speyside",
   "abv": "40%",
   "image": "bottle_img/aberlour14.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś bardziej dojrzałego niż 12",
+    "Fan sherry finish",
+    "Alternatywa dla Macallan"
+  ],
+
+  "maturation": "American Oak + European Oak (Sherry)",
+
+  "howToPresent": "Bardziej złożona i głębsza niż 12. Więcej nut karmelu, czekolady i suszonych owoców."
+},
+
+{
+  "slug": "aberlour-16",
+  "name": "Aberlour 16 Y.O.",
+  "subtitle": "Single Malt · Speyside",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Speyside",
+  "abv": "40%",
+  "image": "bottle_img/aberlour16.webp",
 
   "whenToOffer": [
     "Klient szuka czegoś bardziej dojrzałego niż 12",
