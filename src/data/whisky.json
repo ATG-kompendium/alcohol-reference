@@ -1044,24 +1044,28 @@
 },
 
 {
-  "slug": "balvenie-12-caribbean-cask",
-  "name": "The Balvenie 12 Caribbean Cask",
+  "slug": "balvenie-12-golden-cask",
+  "name": "The Balvenie 12 Golden Cask",
   "subtitle": "Single Malt · Speyside · Rum Finish",
   "category": "whisky-single-malt",
   "country": "Scotland",
   "region": "Speyside",
   "abv": "43%",
   "image": "bottle_img/balvenie12_rum.webp",
+  "maturation": "Single Malt dojrzewający minimum 12 lat, finiszowany w beczkach po rumie",
 
   "whenToOffer": [
-    "Klient lubi słodsze whisky",
-    "Fan rumu",
-    "Alternatywa dla Glenfiddich 15"
-  ],
+    "Klient lubi whisky finiszowane w beczkach po rumie",
+    "Dla osób szukających łagodnego i owocowego single malta",
+    "Klient zna Balvenie DoubleWood i chce spróbować czegoś innego"
+],
 
-  "maturation": "American Oak + finisz w beczkach po rumie",
+  "howToPresent": "12-letni single malt ze Speyside finiszowany w beczkach po rumie, wzbogacając profil o dodatkowe nuty brązowego cukru, wanilii, karmelu, miodu i owoców tropikalnych. Charakter pozostaje gładki, miodowy i owocowy – ale z bardziej egzotycznym akcentem.",
 
-  "howToPresent": "Klasyczna 12-letnia Balvenie z dodatkowym finiszem w beczkach po rumie. Bardziej kremowa, z nutami toffi i owoców tropikalnych."
+"salesTip": [
+  "Balvenie należy do nielicznych dużych destylarni, które nadal utrzymują własnych bednarzy i część tradycyjnego słodowania.",
+  "To rzadsza alternatywa dla klasycznego 12-letniego Balvenie DoubleWood.",
+]
 },
 
 {
