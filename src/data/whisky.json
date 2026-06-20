@@ -1093,7 +1093,7 @@
 "salesTip": [
   "Madeira to wzmacniane wino z portugalskiej wyspy Madera, słynące z bogatego owocowego charakteru.",
   "Balvenie należy do destylarni, które spopularyzowały finiszowanie whisky w dodatkowych beczkach.",
-  "Destylarnia nadal posiada własną bednarnię oraz tradycyjną słodownię podłogową."
+  "Balvenie należy do destylarni, które spopularyzowały finiszowanie whisky w dodatkowych beczkach."
 ]
 },
 
@@ -1111,17 +1111,16 @@
   "whenToOffer": [
     "Klient lubi whisky dojrzewające w beczkach po sherry",
     "Dla fanów bogatych i deserowych single maltów",
-    "Alternatywa dla whis"
+    "Alternatywa dla bardziej wytrawnych 18-20 letnich maltów",
+    "Dobry wybór na prezent lub specjalną okazję"
  ],
 
-  "howToPresent": "18-letni single malt ze Speyside finiszowany w beczkach po Pedro Ximénez Sherry. PX jest najbardziej znanym słodkim stylem hiszpańskiego sherry, dzięki czemu whisky zyskuje bogate nuty rodzynek, daktyli, fig, miodu, karmelu i ciemnej czekolady. Charakter pozostaje elegancki i zbalansowany, ale oferuje znacznie więcej głębi oraz deserowej słodyczy niż klasyczne whisky dojrzewające w beczkach po bourbonie.",
+  "howToPresent": "18-letni single malt ze Speyside finiszowany w beczkach po Pedro Ximénez Sherry, dzięki czemu whisky zyskuje bogate nuty rodzynek, daktyli, fig, miodu, karmelu i ciemnej czekolady. Charakter pozostaje elegancki i zbalansowany, ale oferuje znacznie więcej głębi oraz słodyczy niż klasyczne whisky.",
 
 "salesTip": [
-  "Pedro Ximénez to najsłodszy i najbardziej deserowy styl sherry używany do dojrzewania whisky.",
-  "PX powstaje z winogron suszonych na słońcu, co pozwala skoncentrować cukry i aromaty.",
-  "Balvenie należy do destylarni, które pomogły stworzyć współczesną kategorię whisky finiszowanych w dodatkowych beczkach.",
-  "Destylarnia nadal posiada własną bednarnię oraz tradycyjną słodownię podłogową.",
-  "Za rozwój stylu Balvenie przez ponad 60 lat odpowiadał legendarny Malt Master David Stewart."
+  "Pedro Ximénez to najsłodszy i najbardziej deserowy styl sherry używany do dojrzewania whisky. PX powstaje z winogron suszonych na słońcu, co pozwala skoncentrować cukry i aromaty.",
+  "Balvenie należy do destylarni, które spopularyzowały finiszowanie whisky w dodatkowych beczkach.",
+  "Balvenie należy do destylarni, które spopularyzowały finiszowanie whisky w dodatkowych beczkach."
 ]
 },
 
@@ -1134,16 +1133,21 @@
   "region": "Speyside",
   "abv": "48.3%",
   "image": "bottle_img/balvenie19.webp",
+  "maturation": "Single Malt dojrzewający 19 lat w beczkach dębowych",
 
   "whenToOffer": [
-    "Klient lubi torfowe whisky",
-    "Alternatywa dla Islay",
-    "Fan limitowanych edycji"
-  ],
+    "Klient lubi whisky torfowe, ale szuka bardziej eleganckiego stylu niż Islay",
+    "Dla fanów limitowanych i nietypowych edycji whisky",
+    "Klient zna klasyczne Balvenie i chce spróbować czegoś zupełnie innego",
+    "Alternatywa dla Highland Park, Talisker i łagodniejszych whisky torfowych"
+],
 
-  "maturation": "American Oak",
+  "howToPresent": "19-letni single malt ze Speyside produkowany w ramach projektu Week of Peat. Raz w roku destylarnia Balvenie na jeden tydzień przechodzi na produkcję whisky z torfowanego słodu, co jest nietypowe dla jej tradycyjnie miodowego i owocowego stylu. Efektem jest whisky łącząca nuty miodu, wanilii i owoców charakterystyczne dla Balvenie z delikatnym dymem, torfem oraz przyprawami.",
 
-  "howToPresent": "Limitowana edycja torfowa z destylarni Balvenie. Delikatny torf połączony z miodowym charakterem Speyside."
+"salesTip": [
+  "Week of Peat to coroczny projekt Balvenie, podczas którego przez jeden tydzień produkowana jest whisky z torfowanego słodu.",
+  "Balvenie należy do destylarni, które spopularyzowały finiszowanie whisky w dodatkowych beczkach."
+]
 },
 
 {
@@ -1155,14 +1159,13 @@
   "region": "Speyside",
   "abv": "40%",
   "image": "bottle_img/glenlivet14_trex.jpg",
+  "maturation": "Single Malt dojrzewający 14 lat w beczkach z amerykańskiego i europejskiego dębu",
 
   "whenToOffer": [
     "Klient szuka czegoś tylko z lotniska",
     "Alternatywa dla 12 lub 15",
     "Prezent z segmentu premium"
   ],
-
-  "maturation": "European Oak + American Oak",
 
   "howToPresent": "Edycja travel retail dojrzewająca w kombinacji dębu europejskiego i amerykańskiego. Bardziej zbalansowana – łączy waniliową słodycz z nutą przypraw."
 },
