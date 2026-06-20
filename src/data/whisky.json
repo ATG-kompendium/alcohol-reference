@@ -1057,7 +1057,8 @@
   "whenToOffer": [
     "Klient lubi whisky finiszowane w beczkach po rumie",
     "Dla osób szukających łagodnego i owocowego single malta",
-    "Klient zna Balvenie DoubleWood i chce spróbować czegoś innego"
+    "Klient już zna Balvenie 12 DoubleWood i chce spróbować czegoś innego",
+    "Dobra opcja na prezent dla konesera lub osobę interesującą się whisky"
 ],
 
   "howToPresent": "12-letni single malt ze Speyside finiszowany w beczkach po rumie, wzbogacając profil o dodatkowe nuty brązowego cukru, wanilii, karmelu, miodu i owoców tropikalnych. Charakter pozostaje gładki, miodowy i owocowy – ale z bardziej egzotycznym akcentem.",
@@ -1065,6 +1066,7 @@
 "salesTip": [
   "Balvenie należy do nielicznych dużych destylarni, które nadal utrzymują własnych bednarzy i część tradycyjnego słodowania.",
   "To rzadsza alternatywa dla klasycznego 12-letniego Balvenie DoubleWood.",
+  "Balvenie należy do destylarni, które spopularyzowały finiszowanie whisky w dodatkowych beczkach."
 ]
 },
 
@@ -1077,15 +1079,22 @@
   "region": "Speyside",
   "abv": "43%",
   "image": "bottle_img/balvenie15_madeira.webp",
+  "maturation": "Single Malt dojrzewający w beczkach z amerykańskiego dębu, następnie finiszowany w beczkach po winie Madeira",
 
   "whenToOffer": [
-    "Klient lubi słodsze, winne profile",
-    "Fan sherry / madeira finish"
-  ],
+  "Klient lubi whisky finiszowane w beczkach po Maderze",
+  "Dla fanów owocowych i przyprawowych  single maltów",
+  "Alternatywa dla Balvenie Caribbean Cask lub PortWood",
+  "Klient szuka czegoś nietypowego zamiast klasycznego sherry"
+],
 
-  "maturation": "American Oak + finisz w beczkach po winie Madeira",
+  "howToPresent": "15-letni single malt ze Speyside finiszowany w beczkach po portugalskim winie Madeira, co nadaje whisky nuty dojrzałych brzoskwiń, cytrusów, jagód, miodu, orzechów laskowych i delikatnych przypraw. Charakter pozostaje, gładki, miodowy i elegancki, ale z nutami dojrzałych owoców pochodzących z beczek po Maderze.",
 
-  "howToPresent": "Finisz w beczkach po winie Madeira nadaje nuty suszonych owoców i delikatnej przyprawowości."
+"salesTip": [
+  "Madeira to wzmacniane wino z portugalskiej wyspy Madera, słynące z bogatego owocowego charakteru.",
+  "Balvenie należy do destylarni, które spopularyzowały finiszowanie whisky w dodatkowych beczkach.",
+  "Destylarnia nadal posiada własną bednarnię oraz tradycyjną słodownię podłogową."
+]
 },
 
 {
@@ -1097,15 +1106,23 @@
   "region": "Speyside",
   "abv": "43%",
   "image": "bottle_img/balvenie18_px.webp",
+  "maturation": "Single Malt dojrzewający 18 lat, finiszowany w beczkach po Pedro Ximénez Sherry",
 
   "whenToOffer": [
-    "Klient szuka starszej whisky sherry",
-    "Alternatywa dla Macallan"
-  ],
+    "Klient lubi whisky dojrzewające w beczkach po sherry",
+    "Dla fanów bogatych i deserowych single maltów",
+    "Alternatywa dla whis"
+ ],
 
-  "maturation": "American Oak + finisz w beczkach po sherry Pedro Ximénez",
+  "howToPresent": "18-letni single malt ze Speyside finiszowany w beczkach po Pedro Ximénez Sherry. PX jest najbardziej znanym słodkim stylem hiszpańskiego sherry, dzięki czemu whisky zyskuje bogate nuty rodzynek, daktyli, fig, miodu, karmelu i ciemnej czekolady. Charakter pozostaje elegancki i zbalansowany, ale oferuje znacznie więcej głębi oraz deserowej słodyczy niż klasyczne whisky dojrzewające w beczkach po bourbonie.",
 
-  "howToPresent": "18-letnia Balvenie z intensywnym finiszem PX. Bogata, z nutami rodzynek, miodu i czekolady."
+"salesTip": [
+  "Pedro Ximénez to najsłodszy i najbardziej deserowy styl sherry używany do dojrzewania whisky.",
+  "PX powstaje z winogron suszonych na słońcu, co pozwala skoncentrować cukry i aromaty.",
+  "Balvenie należy do destylarni, które pomogły stworzyć współczesną kategorię whisky finiszowanych w dodatkowych beczkach.",
+  "Destylarnia nadal posiada własną bednarnię oraz tradycyjną słodownię podłogową.",
+  "Za rozwój stylu Balvenie przez ponad 60 lat odpowiadał legendarny Malt Master David Stewart."
+]
 },
 
 {
