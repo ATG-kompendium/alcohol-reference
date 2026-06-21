@@ -1046,7 +1046,7 @@
 {
   "slug": "balvenie-12-golden-cask",
   "name": "The Balvenie 12 Golden Cask",
-  "subtitle": "Single Malt · Speyside · Rum Finish",
+  "subtitle": "Single Malt · Speyside · Rum Finish · Travel Retail",
   "category": "whisky-single-malt",
   "country": "Scotland",
   "region": "Speyside",
@@ -1074,7 +1074,7 @@
 {
   "slug": "balvenie-15-madeira-cask",
   "name": "The Balvenie 15 Madeira Cask",
-  "subtitle": "Single Malt · Speyside · Madeira Finish",
+  "subtitle": "Single Malt · Speyside · Madeira Finish · Travel Retail",
   "category": "whisky-single-malt",
   "country": "Scotland",
   "region": "Speyside",
@@ -1101,7 +1101,7 @@
 {
   "slug": "balvenie-18-px",
   "name": "The Balvenie 18 Pedro Ximénez",
-  "subtitle": "Single Malt · Speyside · PX Finish",
+  "subtitle": "Single Malt · Speyside · PX Finish · Travel Retail",
   "category": "whisky-single-malt",
   "country": "Scotland",
   "region": "Speyside",
@@ -1239,7 +1239,7 @@
   "region": "Speyside",
   "abv": "40%",
   "image": "bottle_img/aberlour12.webp",
-  "maturation": "Single Malt dojrzewający minimum 12 lat w beczkach po bourbonie i po Sherry",
+  "maturation": "Single Malt dojrzewający minimum 12 lat w beczkach po bourbonie i po Oloroso Sherry",
 
   "whenToOffer": [
     "Klient lubi whisky dojrzewające w beczkach po sherry",
@@ -1248,7 +1248,7 @@
     "Alternatywa dla podstawowych single maltów"
 ],
 
-  "howToPresent": "12-letni single malt ze Speyside dojrzewający równolegle w beczkach po bourbonie oraz po Sherry. Amerykański dąb wnosi nuty wanilii i karmelu, natomiast beczki po sherry dodają suszone owoce, przyprawy i czekoladę. Efektem jest bogata, owocowa i doskonale zbalansowana whisky o charakterystycznym stylu Aberlour.",
+  "howToPresent": "12-letni single malt ze Speyside dojrzewający równolegle w beczkach po bourbonie oraz po Oloroso Sherry. Amerykański dąb wnosi nuty wanilii i karmelu, natomiast beczki po sherry dodają suszone owoce, przyprawy i czekoladę. Efektem jest bogata, owocowa i doskonale zbalansowana whisky o charakterystycznym stylu Aberlour.",
 
   "salesTip": [
   "Aberlour słynie z whisky dojrzewających w beczkach po sherry."
@@ -1258,7 +1258,7 @@
 {
   "slug": "aberlour-13",
   "name": "Aberlour 13 Y.O.",
-  "subtitle": "Single Malt · Speyside",
+  "subtitle": "Single Malt · Speyside · Travel Retail",
   "category": "whisky-single-malt",
   "country": "Scotland",
   "region": "Speyside",
@@ -1290,7 +1290,7 @@
   "region": "Speyside",
   "abv": "40%",
   "image": "bottle_img/aberlour14.webp",
-  "maturation": "Single Malt dojrzewający 14 lat w beczkach po bourbonie i po Sherry",
+  "maturation": "Single Malt dojrzewający 14 lat w beczkach po bourbonie i po Oloroso Sherry",
 
   "whenToOffer": [
     "Klient lubi whisky dojrzewające w beczkach po sherry",
@@ -1300,29 +1300,29 @@
     "Alternatywa dla innych whisky dojrzewających w beczkach po Oloroso sherry"
 ],
 
-  "howToPresent": "14-letni single malt, dojrzewający w beczkach po bourbonie oraz po Sherry. Beczki po bourbonie nadają nuty wanilii, karmelu i miodu, natomiast Oloroso wnosi suszone owoce, przyprawy korzenne oraz czekoladę. Dzięki dłuższemu dojrzewaniu whisky oferuje większą głębię, bogatszą strukturę i bardziej intensywny charakter niż klasyczny Aberlour 12.",
+  "howToPresent": "14-letni single malt, dojrzewający w beczkach po bourbonie oraz po Oloroso Sherry. Beczki po bourbonie nadają nuty wanilii, karmelu i miodu, natomiast Oloroso wnosi suszone owoce, przyprawy korzenne oraz czekoladę. Dzięki dłuższemu dojrzewaniu whisky oferuje większą głębię, bogatszą strukturę i bardziej intensywny charakter niż klasyczny Aberlour 12.",
 
 "salesTip": [
-  "Aberlour słynie z whisky dojrzewających w beczkach po sherry."
+  "Aberlour słynie z whisky dojrzewających w beczkach po Sherry."
 ]
 },
 
 {
   "slug": "aberlour-16",
   "name": "Aberlour 16 Y.O.",
-  "subtitle": "Single Malt · Speyside",
+  "subtitle": "Single Malt · Speyside · Travel Retail",
   "category": "whisky-single-malt",
   "country": "Scotland",
   "region": "Speyside",
   "abv": "40%",
   "image": "bottle_img/aberlour16.webp",
-  "maturation": "dojrzewaja w beczkach po Oloroso Sherry i beczkach z amerykańskiego dębu, następnie finiszowany w Extra Charred American Oak",
+  "maturation": "Single Malt dojrzewający 16 lat w beczkach po Oloroso Sherry i beczkach z amerykańskiego dębu, następnie finiszowany w Extra Charred American Oak",
 
   "whenToOffer": [
     "Klient lubi whisky dojrzewające w beczkach po sherry",
     "Dla fanów bogatych i intesywnych whisky",
     "Dla osób szukających limitowanych i nietypowych wydań Aberlour",
-   "Dla osób lubiących wyraźny wpływ beczki"
+    "Klientów lubiących wyraźny wpływ beczki"
 ],
 
   "howToPresent": "16-letni edycja travel retail exclusive Aberlour, dojrzewająca w beczkach po Oloroso Sherry oraz beczkach z amerykańskiego dębu, a następnie finiszowany w mocno wypalanych beczkach Extra Charred American Oak. Oloroso wnosi nuty rodzynek, suszonych owoców i przypraw korzennych, natomiast dodatkowo wypalany amerykański dąb wzbogaca whisky o karmel, wanilię, toffi oraz delikatne nuty węgla drzewnego. Efektem jest bogata, słodka i wielowarstwowa whisky o długim finiszu.",
@@ -1335,43 +1335,47 @@
 {
   "slug": "aberlour-suthain",
   "name": "Aberlour Suthain",
-  "subtitle": "Single Malt · Travel Retail Exclusive",
+  "subtitle": "Single Malt · Travel Retail",
   "category": "whisky-single-malt",
   "country": "Scotland",
   "region": "Speyside",
   "abv": "48%",
   "image": "bottle_img/suthain.webp",
+  "maturation": "dojrzewająca w beczkach z amerykańskiego i europejskiego dębu po sherry, następnie poddany dodatkowemu procesowi Solera w europejskich sherry hogsheads",
 
   "whenToOffer": [
-    "Klient szuka edycji lotniskowej",
-    "Fan intensywnego sherry",
-    "Coś bardziej wyrazistego niż standardowa seria"
+    "Klient lubi whisky dojrzewające w beczkach po sherry",
+    "Alternatywa dla Aberlour Abundah",
+    "Dla osób szukających limitowanych i nietypowych wydań Aberlour",
+    "Dla fanów bogatych i intesywnych whisky"
   ],
 
-  "maturation": "Wyłącznie w beczkach po sherry Oloroso",
+  "howToPresent": "Edycja travel retail Aberlour dojrzewająca w beczkach z amerykańskiego i europejskiego dębu po sherry, następnie whisky przechodzi dodatkowy etap Solera w europejskich sherry hogsheads. Proces ten pozwala lepiej zintegrować wpływ beczek i nadaje whisky wyjątkowo harmonijny charakter. W profilu dominują nuty rodzynek, suszonych owoców, przypraw korzennych, karmelu i ciemnej czekolady.",
 
-  "howToPresent": "Edycja travel retail dojrzewająca w 100% w beczkach po sherry Oloroso. Bardziej intensywna, z nutami rodzynek, przypraw i czekolady."
+  "salesTip": [
+  "Whisky przechodzi dodatkowy etap Solera po głównym dojrzewaniu.",
+  "Proces Solera polega na pozostawianiu części whisky w beczkach przed uzupełnieniem ich kolejną partią, co pomaga utrzymać stabilny styl."
+]
 },
 
 {
   "slug": "old-pulteney-10",
   "name": "Old Pulteney 10 Y.O.",
-  "subtitle": "Single Malt · Highland",
+  "subtitle": "Single Malt · Highland · Travel Retail",
   "category": "whisky-single-malt",
   "country": "Scotland",
   "region": "Highland",
   "abv": "40%",
   "image": "bottle_img/oldpulteney10.webp",
+  "maturation": "Single Malt dojrzewający 10 lat tylko w beczkach po bourbonie z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient szuka czegoś innego niż Speyside",
-    "Whisky lekko morska, ale niedymna",
-    "Alternatywa dla Glenmorangie"
+    "Klient lubi świeże whisky o morskim charakterze",
+    "Dla fanów whisky dojrzewających tylko w beczkach po bourbonie",
+    "Niedymna alternatywa dla Taliskiera, Jura czy Highland Park"
   ],
 
-  "maturation": "American Oak",
-
-  "howToPresent": "Highland o delikatnie morskim charakterze. Świeża, lekko słona, z nutą wanilii i cytrusów."
+  "howToPresent": "10-letnia edycja travel retail z nadmorskiej destylarni Old Pulteney. Whisky dojrzewa tylko w beczkach po bourbonie, oferując nuty wanilii, miodu, cytrusów, zielonych owoców oraz wyraźne akcenty słodowe przypominające owsiankę, przy czym charakter pozostaje świeży i morski"
 },
 
 {
@@ -1383,37 +1387,44 @@
   "region": "Islay",
   "abv": "50%",
   "image": "bottle_img/an_cladach.webp",
+  "maturation": "Single Malt dojrzewający w połączeniu beczek po bourbonie i sherry",
 
   "whenToOffer": [
-    "Klient chce Islay bez mocnego torfu",
-    "Edycja lotniskowa",
-    "Alternatywa dla Laphroaig"
+    "Klient lubi whisky dojrzewające w beczkach po sherry",
+    "Dla fanów suszonych owoców, rodzynek i przypraw",
+    "Klient chce spróbować whisky z Islay bez wyraźnego torfu",
+    "Alternatywa dla typowych sherry bomb jak Aberlour"
   ],
 
-  "maturation": "Sherry Casks",
+  "howToPresent": "Edycja trevel retail exclusive od Bunnahabhain z wyspy Islay dojrzewająca w beczkach po bourbonie i sherry. W przeciwieństwie do większości whisky z Islay nie skupia się na torfie i dymie. Profil zdominowany jest przez nuty suszonych owoców, karmelu, orzechów i przypraw, pojawiaę też charakterystyczna dla Bunnahabhain słodowość i delikatny morski akcent.",
 
-  "howToPresent": "Islay w mniej torfowym stylu. Bardziej sherry, więcej suszonych owoców i przypraw."
+  "salesTip": [
+  "W przeciwieństwie do wielu whisky z Islay, w Bunnahabhain torf nie odgrywa głównej roli."
+]
 },
 
 {
   "slug": "bruichladdich-classic-laddie",
   "name": "Bruichladdich The Classic Laddie",
-  "subtitle": "Single Malt · Islay · Unpeated",
+  "subtitle": "Single Malt · Islay ",
   "category": "whisky-single-malt",
   "country": "Scotland",
   "region": "Islay",
   "abv": "50%",
   "image": "bottle_img/classic_laddie.webp",
 
-  "whenToOffer": [
-    "Klient chce Islay bez torfu",
-    "Whisky bardziej nowoczesna",
-    "Alternatywa dla Speyside"
-  ],
+    "whenToOffer": [
+      "Klient szuka nietorfowej whisky ",
+      "Dla osób lubiących intesywne whisky",
+      "Klient ceni transparentność produkcji"
+],
 
-  "maturation": "American Oak",
+"howToPresent": "Nietorfowy single malt z wyspy Islay stworzony z 100% szkockiego jęczmienia. W przeciwieństwie do większości whisky z Islay nie skupia się na torfie, lecz na charakterze surowca i destylacji. Whisky oferuje nuty słodu, jęczmienia, wanilii, cytrusów, miodu oraz świeżych owoców. Charakter jest kremowy i elegancki",
 
-  "howToPresent": "Nietorfowa whisky z Islay. Świeża, mineralna, bardziej elegancka niż klasyczne torfowe wyspy."
+"salesTip": [
+  "Filozofia Bruichladdich polega, na terroir, pochodzeniu jęczmienia, transparentność produkcji podobnie, jak terroir w winie.",
+   "Ta sama destylarnia produkuje trzy różne marki whisky: nietorfową Bruichladdich, mocno torfowy Port Charlotte oraz ekstremalnie torfowy Octomore."
+]
 },
 
 {
@@ -1425,16 +1436,21 @@
   "region": "Islay",
   "abv": "50%",
   "image": "bottle_img/port_charlotte10.webp",
+  "maturation": "Single Malt dojrzewający 10 lat w 65% w beczkach first fill po amerykańskiej whiskey, 10% w beczkach second fill po amerykańskiej whiskey oraz 25% w beczkach po francuskim winie",
 
   "whenToOffer": [
-    "Klient lubi mocno torfowe whisky",
-    "Alternatywa dla Ardbeg",
-    "Fan Islay"
+    "Klient lubi whisky torfowe",
+    "Dla fanów klasycznego stylu Islay",
+    "Szuka mniej typowe whisky dymne",
+    "Alternatywa dla Ardbeg 10 i Laphroaig 10"
   ],
 
-  "maturation": "American Oak",
+  "howToPresent": "10-letni single malt z Islay, stworzony z 100% szkockiego jęczmienia o poziomie torfowości około 40 PPM. Łączy nuty dymu, ogniska i ziemistości z charakterystycznymi dla Bruichladdich nutami słodu, wanilii, przypraw i owoców.",
 
-  "howToPresent": "Intensywnie torfowa whisky z Islay. Dymna, morska i wytrawna."
+  "salesTip": [
+    "Filozofia Bruichladdich polega, na terroir, pochodzeniu jęczmienia, transparentność produkcji podobnie, jak terroir w winie.",
+    "Ta sama destylarnia produkuje trzy różne marki whisky: nietorfową Bruichladdich, mocno torfowy Port Charlotte oraz ekstremalnie torfowy Octomore."
+]
 },
 
 {
@@ -1446,16 +1462,22 @@
   "region": "Highland",
   "abv": "43%",
   "image": "bottle_img/aberfeldy12_trex.webp",
+  "maturation": "Single Malt dojrzewający 12 lat w beczkach dębowych, następnie finiszowany w beczkach po winie Madeira",
 
   "whenToOffer": [
-    "Klient lubi słodsze profile",
-    "Fan wine finish",
-    "Edycja lotniskowa"
+    "Klient lubi słodkie i owocowe whisky",
+    "Dla fanów finiszów w beczkach po Maderze",
+    "Klient szuka łagodnej i bardzo gładkiej whisky",
+    "Alternatywa dla innych podstawowych single maltów"
   ],
 
-  "maturation": "American Oak + Madeira Cask Finish",
+  "howToPresent": "12-letnia edycja trevel retail exclusive Aberfeldy finiszowana w beczkach po winie Madeira. Zachowuje charakterystyczne dla Aberfeldy nuty miodu, wanilii i słodu, wzbogacone o morele, rodzynki, pieczone jabłka, karmel oraz delikatne przyprawy. Madeira dodaje whisky owocowej słodyczy i głębi, nie dominując nad destylatem.",
 
-  "howToPresent": "Łagodna i miodowa whisky z finiszem w beczkach po winie Madeira. Więcej owoców i słodyczy."
+  "salesTip": [
+  "Madeira to wzmacniane wino pochodzące z portugalskiej wyspy o tej samej nazwie.",
+  "Aberfeldy jest destylarnią stanowiącą serce blendów Dewar's.",
+  "Seria Madeira Cask Finish została stworzona wyłącznie dla Travel Retail sklepów"
+]
 },
 
 {
@@ -1467,16 +1489,22 @@
   "region": "Highland",
   "abv": "43%",
   "image": "bottle_img/aberfeldy16_trex.webp",
+  "maturation": "Single Malt dojrzewający 16 lat w beczkach dębowych, następnie finiszowany w beczkach po winie Madeira",
 
   "whenToOffer": [
-    "Klient szuka starszej wersji",
-    "Alternatywa dla 12 Madeira",
-    "Prezent premium"
+    "Klient lubi słodkie i owocowe whisky",
+    "Dla fanów finiszów w beczkach po Maderze",
+    "Klient szuka bogatej i złożonej whisky",
+    "Alternatywa dla innych single maltów dojrzewających w beczkach po Maderze"
   ],
 
-  "maturation": "American Oak + Madeira Cask Finish",
+  "howToPresent": "16-letnia edycja trevel retail exclusive Aberfeldy finiszowana w beczkach po winie Madeira. Dłuższe dojrzewanie nadaje whisky większą głębię i bardziej kremową strukturę, a finisz po Maderze wzbogaca profil o nuty suszonych moreli, miodu, karmelu, pieczonych owoców oraz delikatnych przypraw. Charakter pozostaje elegancki i harmonijny, z zachowaniem typowej dla Aberfeldy miodowej słodyczy.",
 
-  "howToPresent": "Bardziej dojrzała i głębsza wersja 12. Więcej nut suszonych owoców i przypraw."
+  "salesTip": [
+  "Madeira to wzmacniane wino pochodzące z portugalskiej wyspy o tej samej nazwie.",
+  "Aberfeldy jest destylarnią stanowiącą serce blendów Dewar's.",
+  "Seria Madeira Cask Finish została stworzona wyłącznie dla Travel Retail sklepów"
+]
 },
 
 {
