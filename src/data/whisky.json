@@ -1239,23 +1239,19 @@
   "region": "Speyside",
   "abv": "40%",
   "image": "bottle_img/aberlour12.webp",
-  "maturation": "Single Malt dojrzewający minimum 12 lat w beczkach po bourbonie i po Oloroso Sherry",
+  "maturation": "Single Malt dojrzewający minimum 12 lat w beczkach po bourbonie i po Sherry",
 
   "whenToOffer": [
-   "Klient lubi whisky dojrzewające w beczkach po sherry",
+    "Klient lubi whisky dojrzewające w beczkach po sherry",
+    "Osób szukających whisky w 0.7l",
     "Dla fanów bogatych i owocowych single maltów",
-    "Alternatywa dla GlenDronach 12 i Balvenie DoubleWood",
-    "Klient szuka klasycznego Speyside z wyraźnym wpływem sherry"
+    "Alternatywa dla podstawowych single maltów"
 ],
 
-  "howToPresent": "12-letni single malt ze Speyside dojrzewający równolegle w beczkach po bourbonie oraz po Oloroso Sherry. Amerykański dąb wnosi nuty wanilii i karmelu, natomiast beczki po sherry dodają suszone owoce, przyprawy i czekoladę. Efektem jest bogata, owocowa i doskonale zbalansowana whisky o charakterystycznym stylu Aberlour.",
+  "howToPresent": "12-letni single malt ze Speyside dojrzewający równolegle w beczkach po bourbonie oraz po Sherry. Amerykański dąb wnosi nuty wanilii i karmelu, natomiast beczki po sherry dodają suszone owoce, przyprawy i czekoladę. Efektem jest bogata, owocowa i doskonale zbalansowana whisky o charakterystycznym stylu Aberlour.",
 
   "salesTip": [
-  "Aberlour słynie z whisky dojrzewających w beczkach po sherry.",
-  "Double Cask Matured oznacza połączenie whisky z beczek po bourbonie i Oloroso Sherry.",
-  "Destylarnia położona jest w samym sercu regionu Speyside, niedaleko źródła St. Drostan's Well.",
-  "Aberlour jest jedną z najbardziej cenionych marek Speyside wśród miłośników whisky sherry cask.",
-  "To doskonałe wprowadzenie do stylu Aberlour przed przejściem do Aberlour A'bunadh."
+  "Aberlour słynie z whisky dojrzewających w beczkach po sherry."
 ]
 },
 
@@ -1268,16 +1264,21 @@
   "region": "Speyside",
   "abv": "40%",
   "image": "bottle_img/aberlour13.webp",
+  "maturation": "Single Malt dojrzewający 13 lat w beczkach po Oloroso Sherry oraz beczkach z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient lubi whisky z nutą sherry",
-    "Alternatywa dla Glenlivet 12",
-    "Whisky bardziej owocowa niż dymna"
-  ],
+    "Klient lubi whisky dojrzewające w beczkach po sherry",
+    "Osób szukających whisky w 0.7l",
+    "Dla fanów bogatych i owocowych single maltów",
+    "Klient szuka czegoś innego niż znany Aberlour 12",
+    "Alternatywa dla innych whisky dojrzewających w beczkach po Oloroso sherry"
+],
 
-  "maturation": "American Oak + European Oak (Sherry)",
+ "howToPresent": "13-letnia edycja travel retail exclusive Aberlour, dojrzewająca w beczkach po Oloroso Sherry oraz w beczkach z amerykańskiego dębu. Oloroso wnosi nuty rodzynek, suszonych śliwek, czekolady i przypraw korzennych, natomiast amerykański dąb dodaje wanilię, karmel i łagodzi profil whisky. Efektem jest bogata, owocowa i elegancka whisky doskonale pokazująca charakter destylarni Aberlour.",
 
-  "howToPresent": "Klasyczny styl Speyside z wyraźnym wpływem beczek po sherry. Nuty suszonych owoców, wanilii i przypraw."
+"salesTip": [
+  "Aberlour słynie z whisky dojrzewających w beczkach po sherry."
+]
 },
 
 {
@@ -1289,16 +1290,21 @@
   "region": "Speyside",
   "abv": "40%",
   "image": "bottle_img/aberlour14.webp",
+  "maturation": "Single Malt dojrzewający 14 lat w beczkach po bourbonie i po Sherry",
 
   "whenToOffer": [
-    "Klient szuka czegoś bardziej dojrzałego niż 12",
-    "Fan sherry finish",
-    "Alternatywa dla Macallan"
-  ],
+    "Klient lubi whisky dojrzewające w beczkach po sherry",
+    "Osób szukających whisky w 0.7l",
+    "Dla fanów bogatych i owocowych single maltów",
+    "Klient szuka czegoś innego niż znany Aberlour 12",
+    "Alternatywa dla innych whisky dojrzewających w beczkach po Oloroso sherry"
+],
 
-  "maturation": "American Oak + European Oak (Sherry)",
+  "howToPresent": "14-letni single malt, dojrzewający w beczkach po bourbonie oraz po Sherry. Beczki po bourbonie nadają nuty wanilii, karmelu i miodu, natomiast Oloroso wnosi suszone owoce, przyprawy korzenne oraz czekoladę. Dzięki dłuższemu dojrzewaniu whisky oferuje większą głębię, bogatszą strukturę i bardziej intensywny charakter niż klasyczny Aberlour 12.",
 
-  "howToPresent": "Bardziej złożona i głębsza niż 12. Więcej nut karmelu, czekolady i suszonych owoców."
+"salesTip": [
+  "Aberlour słynie z whisky dojrzewających w beczkach po sherry."
+]
 },
 
 {
@@ -1310,16 +1316,20 @@
   "region": "Speyside",
   "abv": "40%",
   "image": "bottle_img/aberlour16.webp",
+  "maturation": "dojrzewaja w beczkach po Oloroso Sherry i beczkach z amerykańskiego dębu, następnie finiszowany w Extra Charred American Oak",
 
   "whenToOffer": [
-    "Klient szuka czegoś bardziej dojrzałego niż 12",
-    "Fan sherry finish",
-    "Alternatywa dla Macallan"
-  ],
+    "Klient lubi whisky dojrzewające w beczkach po sherry",
+    "Dla fanów bogatych i intesywnych whisky",
+    "Dla osób szukających limitowanych i nietypowych wydań Aberlour",
+   "Dla osób lubiących wyraźny wpływ beczki"
+],
 
-  "maturation": "American Oak + European Oak (Sherry)",
+  "howToPresent": "16-letni edycja travel retail exclusive Aberlour, dojrzewająca w beczkach po Oloroso Sherry oraz beczkach z amerykańskiego dębu, a następnie finiszowany w mocno wypalanych beczkach Extra Charred American Oak. Oloroso wnosi nuty rodzynek, suszonych owoców i przypraw korzennych, natomiast dodatkowo wypalany amerykański dąb wzbogaca whisky o karmel, wanilię, toffi oraz delikatne nuty węgla drzewnego. Efektem jest bogata, słodka i wielowarstwowa whisky o długim finiszu.",
 
-  "howToPresent": "Bardziej złożona i głębsza niż 12. Więcej nut karmelu, czekolady i suszonych owoców."
+"salesTip": [
+  "Aberlour słynie z whisky dojrzewających w beczkach po sherry."
+]
 },
 
 {
