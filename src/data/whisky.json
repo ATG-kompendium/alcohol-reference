@@ -1516,16 +1516,15 @@
   "region": "Highland",
   "abv": "40%",
   "image": "bottle_img/tomatin8.webp",
+  "maturation": "Single Malt dojrzewający 8 lat w beczkach po bourbonie i po sherry",
 
   "whenToOffer": [
-    "Klient szuka łagodnej whisky w dobrej cenie",
-    "Alternatywa dla Glenlivet 12",
-    "Whisky na prezent z lotniska"
-  ],
+    "Klient lubi whisky dojrzewające w beczkach po sherry",
+    "Klient szuka przystępnej whisky o bogatszym charakterze",
+    "Alternatywa dla podstawowych single maltów z wyraźnym wpływem sherry"
+],
 
-  "maturation": "American Oak",
-
-  "howToPresent": "Łagodna i przystępna Highland. Delikatna wanilia, miód i świeże owoce."
+  "howToPresent": "8-letnia travel retail exclusive Tomatin, dojrzewający w beczkach po bourbonie i po sherry. Pomimo młodego wieku whisky oferuje wyraźny wpływ beczek po sherry z nutami suszonych owoców, karmelu i przypraw. Beczki po bourbonie dodają wanilię i łagodność."
 },
 
 {
@@ -1536,17 +1535,20 @@
   "country": "Scotland",
   "region": "Speyside",
   "abv": "46%",
-  "image": "bottle_img/benriach_quarter.webp",
+  "image": "bottle_img/benriach_quarter.webp", 
+  "maturation": "Single Malt dojrzewający w tradycyjnych beczkach po bourbonie oraz w małych beczkach Quarter Casks",
 
   "whenToOffer": [
-    "Klient chce bardziej intensywną Speyside",
-    "Whisky o większej strukturze",
-    "Alternatywa dla Aberlour"
+    "Klient chce bardziej intensywną whisky",
+    "Dla osób lubiących wyraźne, przyprawowe i skoncentrowane whisky",
+    "Alyernatywa dla podstawowych single maltów dojrzewających w beczkach po bourbonie"
   ],
 
-  "maturation": "Beczki Quarter Cask",
+  "howToPresent": "Single malt ze Speyside łączący whisky dojrzewające w klasycznych beczkach po bourbonie oraz w małych beczkach Quarter Casks. Tradycyjne beczki zapewniają równowagę, natomiast Quarter Casks wzmacniają nuty wanilii, karmelu, przypraw i dębu dzięki większemu kontaktowi whisky z drewnem. Efektem jest bogaty i intensywny charakter.",
 
-  "howToPresent": "Dojrzewanie w mniejszych beczkach daje większą intensywność. Więcej przypraw, dębu i koncentracji smaku."
+"salesTip": [
+  "Quarter Cask ma około jedną czwartą pojemności standardowej beczki po bourbonie."
+]
 },
 
 {
@@ -1558,14 +1560,15 @@
   "region": "Speyside",
   "abv": "40%",
   "image": "bottle_img/singleton_autumn.webp",
+  "maturation": "Single Malt dojrzewający w beczkach z amerykańskiego i europejskiego dębu",
 
   "whenToOffer": [
-    "Klient szuka czegoś łagodnego",
-    "Whisky bardziej owocowa",
-    "Alternatywa dla Glenfiddich"
-  ],
+    "Klient lubi owocowe i pełne whisky",
+    "Klient szuka czegoś nietypowego i limitowanego",
+    "Dla osób preferujących łagodny i deserowy charakter"
+],
 
-  "howToPresent": "Owocowy, jesienny profil – jabłka, gruszka, delikatny miód i wanilia."
+  "howToPresent": "Single malt inspirowany jesiennym klimatem dojrzałych owoców. Whisky oferuje nuty pieczonych jabłek, gruszek, miodu, karmelu, suszonych owoców i delikatnych przypraw korzennych. Charakter jest bogaty, gładki i gęsty, z delikatnym akcentem owocowej słodyczy."
 },
 
 {
@@ -1577,13 +1580,15 @@
   "region": "Speyside",
   "abv": "40%",
   "image": "bottle_img/singleton_spring.jpg",
+  "maturation": "Single Malt dojrzewający wyłącznie w beczkach z amerykańskiego białego dębu",
 
   "whenToOffer": [
-    "Klient chce coś świeżego i lekkiego",
-    "Whisky dla początkujących"
-  ],
+  "Dla fanów waniliowych whisky dojrzewających w amerykańskim dębie",
+  "Klient szuka łagodnego single malta",
+  "Alternatywa dla podstawowych single maltów dojrzewających w beczkach po bourbonie"
+],
 
-  "howToPresent": "Lżejsza, świeża i kwiatowa wersja Singletona. Bardzo przystępna."
+  "howToPresent": "Single malt inspirowany wiosennym ogrodem pełnym kwitnących drzew owocowych. Dojrzewanie wyłącznie w beczkach z amerykańskiego białego dębu pozwala zachować jasny i owocowy charakter. W profilu dominują żółte jabłka, morele, cytrusy, miód, wanilia oraz delikatne nuty kremowe i śmietankowe."
 },
 
 {
