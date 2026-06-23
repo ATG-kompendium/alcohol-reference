@@ -1399,7 +1399,8 @@
   "howToPresent": "Edycja trevel retail exclusive od Bunnahabhain z wyspy Islay dojrzewająca w beczkach po bourbonie i sherry. W przeciwieństwie do większości whisky z Islay nie skupia się na torfie i dymie. Profil zdominowany jest przez nuty suszonych owoców, karmelu, orzechów i przypraw, pojawiaę też charakterystyczna dla Bunnahabhain słodowość i delikatny morski akcent.",
 
   "salesTip": [
-  "W przeciwieństwie do wielu whisky z Islay, w Bunnahabhain torf nie odgrywa głównej roli."
+  "W przeciwieństwie do wielu whisky z Islay, w Bunnahabhain torf nie odgrywa głównej roli.",
+  "Whisky jest butelkowana bez filtracji na zimno i bez dodatku karmelu."
 ]
 },
 
@@ -1423,7 +1424,8 @@
 
 "salesTip": [
   "Filozofia Bruichladdich polega, na terroir, pochodzeniu jęczmienia, transparentność produkcji podobnie, jak terroir w winie.",
-   "Ta sama destylarnia produkuje trzy różne marki whisky: nietorfową Bruichladdich, mocno torfowy Port Charlotte oraz ekstremalnie torfowy Octomore."
+   "Ta sama destylarnia produkuje trzy różne marki whisky: nietorfową Bruichladdich, mocno torfowy Port Charlotte oraz ekstremalnie torfowy Octomore.",
+   "Whisky jest butelkowana bez filtracji na zimno i bez dodatku karmelu."
 ]
 },
 
@@ -1441,15 +1443,15 @@
   "whenToOffer": [
     "Klient lubi whisky torfowe",
     "Dla fanów klasycznego stylu Islay",
-    "Szuka mniej typowe whisky dymne",
-    "Alternatywa dla Ardbeg 10 i Laphroaig 10"
+    "Szuka mniej typowe whisky dymne"
   ],
 
   "howToPresent": "10-letni single malt z Islay, stworzony z 100% szkockiego jęczmienia o poziomie torfowości około 40 PPM. Łączy nuty dymu, ogniska i ziemistości z charakterystycznymi dla Bruichladdich nutami słodu, wanilii, przypraw i owoców.",
 
   "salesTip": [
     "Filozofia Bruichladdich polega, na terroir, pochodzeniu jęczmienia, transparentność produkcji podobnie, jak terroir w winie.",
-    "Ta sama destylarnia produkuje trzy różne marki whisky: nietorfową Bruichladdich, mocno torfowy Port Charlotte oraz ekstremalnie torfowy Octomore."
+    "Ta sama destylarnia produkuje trzy różne marki whisky: nietorfową Bruichladdich, mocno torfowy Port Charlotte oraz ekstremalnie torfowy Octomore.",
+    "Whisky jest butelkowana bez filtracji na zimno i bez dodatku karmelu."
 ]
 },
 
@@ -1474,9 +1476,9 @@
   "howToPresent": "12-letnia edycja trevel retail exclusive Aberfeldy finiszowana w beczkach po winie Madeira. Zachowuje charakterystyczne dla Aberfeldy nuty miodu, wanilii i słodu, wzbogacone o morele, rodzynki, pieczone jabłka, karmel oraz delikatne przyprawy. Madeira dodaje whisky owocowej słodyczy i głębi, nie dominując nad destylatem.",
 
   "salesTip": [
-  "Madeira to wzmacniane wino pochodzące z portugalskiej wyspy o tej samej nazwie.",
-  "Aberfeldy jest destylarnią stanowiącą serce blendów Dewar's.",
-  "Seria Madeira Cask Finish została stworzona wyłącznie dla Travel Retail sklepów"
+    "Madeira to wzmacniane wino pochodzące z portugalskiej wyspy o tej samej nazwie.",
+    "Aberfeldy jest destylarnią stanowiącą serce blendów Dewar's.",
+    "Seria Madeira Cask Finish została stworzona wyłącznie dla Travel Retail sklepów"
 ]
 },
 
@@ -1583,9 +1585,9 @@
   "maturation": "Single Malt dojrzewający wyłącznie w beczkach z amerykańskiego białego dębu",
 
   "whenToOffer": [
-  "Dla fanów waniliowych whisky dojrzewających w amerykańskim dębie",
-  "Klient szuka łagodnego single malta",
-  "Alternatywa dla podstawowych single maltów dojrzewających w beczkach po bourbonie"
+    "Dla fanów waniliowych whisky dojrzewających w amerykańskim dębie",
+    "Klient szuka łagodnego single malta",
+    "Alternatywa dla podstawowych single maltów dojrzewających w beczkach po bourbonie"
 ],
 
   "howToPresent": "Single malt inspirowany wiosennym ogrodem pełnym kwitnących drzew owocowych. Dojrzewanie wyłącznie w beczkach z amerykańskiego białego dębu pozwala zachować jasny i owocowy charakter. W profilu dominują żółte jabłka, morele, cytrusy, miód, wanilia oraz delikatne nuty kremowe i śmietankowe."
@@ -1600,16 +1602,20 @@
   "region": "Islay",
   "abv": "46%",
   "image": "bottle_img/ardbeg10.webp",
+  "maturation": "Single Malt dojrzewający 10 lat wyłącznie w beczkach po bourbonie",
 
   "whenToOffer": [
-    "Klient lubi mocny torf",
-    "Alternatywa dla Laphroaig",
-    "Fan Islay"
+    "Klient lubi intensywnie torfowe whisky",
+    "Dla fanów klasycznego stylu Islay",
+    "Klient chce poznać jedną z najbardziej kultowych whisky torfowych"
   ],
 
-  "maturation": "American Oak",
+  "howToPresent": "10-letni single malt z Islay dojrzewający wyłącznie w beczkach po bourbonie. Łączy intensywny dym z nutami cytrusów, wanilii, pieprzu, słodu oraz morskości. Pomimo wysokiego poziomu torfu whisky zachowuje równowagę.",
 
-  "howToPresent": "Intensywnie torfowa whisky z Islay. Dym, jodyna, morska bryza i cytrusy."
+  "salesTip": [
+    "Poziom torfowości wynosi około 55 PPM.",
+    "Whisky jest butelkowana bez filtracji na zimno i bez dodatku karmelu."
+]
 },
 
 {
@@ -1621,16 +1627,47 @@
   "region": "Islay",
   "abv": "46%",
   "image": "bottle_img/ardbeg_smoketrails.webp",
+  "maturation": "Single Malt dojrzewający w beczkach po bourbonie oraz beczkach po winie Cabernet Sauvignon z kalifornijskiej doliny Napa" ,
 
   "whenToOffer": [
-    "Klient szuka czegoś unikalnego",
-    "Edycja lotniskowa",
-    "Fan torfu + wine finish"
+    "Klient lubi whisky torfowe z wpływem beczek po winie",
+    "Dla osób szukających limitowanych i nietypowych wydań Ardbega",
+    "Dla fanów poprzednich edycji smoketrails"
   ],
 
-  "maturation": "American Oak + Napa Valley Red Wine Cask",
+  "howToPresent": "Travel exclusive edycja Ardbega łącząca klasyczny torfowy charakter marki z wpływem beczek po Cabernet Sauvignon z Napa Valley. Oprócz dymu i morskich akcentów pojawiają się nuty czerwonych owoców, śliwek, pieczonego żyta, espresso oraz przypraw. Wino dodaje whisky owocowej głębi i delikatnych tanin.",
 
-  "howToPresent": "Połączenie klasycznego torfu Ardbeg z finiszem w beczkach po czerwonym winie z Napa Valley. Dym + czerwone owoce."
+  "salesTip": [
+    "To trzecia edycja serii Smoketrails stworzonej wyłącznie dla Travel Retail.",
+    "Napa Valley słynie z produkcji jednych z najbardziej cenionych win Cabernet Sauvignon na świecie.",
+    "Whisky jest butelkowana bez filtracji na zimno i bez dodatku karmelu."
+]
+},
+
+{
+  "slug": "ardbeg-uigeadail",
+  "name": "Ardbeg Uigeadail",
+  "subtitle": "Single Malt · Islay · Peated",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Islay",
+  "abv": "54.2%",
+  "image": "bottle_img/ardbeg_uigeadail.webp",
+  "maturation": "Single Malt dojrzewający w beczkach po bourbonie i po sherry, z wyraźnym wpływem beczek po Oloroso Sherry",
+
+  "whenToOffer": [
+    "Klient lubi whisky torfowe i dojrzewające w beczkach po sherry",
+    "Dla fanów bogatych i intensywnych whisky",
+    "Klient zna Ardbeg 10 i szuka bardziej złożonej wersji",
+    "Alternatywa dla Lagavulin Distillers Edition i Kilchoman Sanaig",
+    "Dla osób lubiących połączenie dymu, suszonych owoców i przypraw"
+  ],
+
+  "howToPresent": "Ardbeg łączący intensywny torfowy charakter marki z bogactwem Oloroso Sherry. Oprócz dymu i morskich akcentów pojawiają się nuty rodzynek, daktyli, ciemnej czekolady, espresso oraz przypraw. Whisky jest pełna, oleista i niezwykle złożona.",
+
+  "salesTip": [
+  "Whisky jest butelkowana bez filtracji na zimno i bez dodatku karmelu."
+]
 },
 
 {
@@ -1642,16 +1679,20 @@
   "region": "Islay",
   "abv": "40%",
   "image": "bottle_img/bowmore11.webp",
+  "maturation": "Single Malt dojrzewający 11 lat w beczkach po bourbonie i po sherry",
 
   "whenToOffer": [
-    "Klient chce łagodniejsze Islay",
-    "Alternatywa dla Ardbeg",
-    "Edycja lotniskowa"
+    "Dla osób rozpoczynających przygodę z whisky torfową",
+    "Klient lubi delikatnie dymne whyisky",
+    "Dla osób szukajacyhcych dymnej whisky 0.7l",
+    "Dla ludzi szukających limitowanych i nietypowych wydań Bowmore"
   ],
 
-  "maturation": "American Oak",
+  "howToPresent": "11-letnia edycja travel exclusive Bowmore łącząca subtelny torfowy dym z nutami suszonych owoców, miodu, cytrusów i wanilii. Dzięki dojrzewaniu w beczkach po bourbonie i sherry whisky pozostaje zbalansowana i przystępna, zachowując charakterystyczny dla Bowmore charakter.",
 
-  "howToPresent": "Islay w bardziej przystępnej wersji – delikatny torf, wanilia i morska świeżość."
+  "salesTip": [
+    "Marka słynie z wyjątkowo zbalansowanego połączenia torfu, owoców i morskiego charakteru."
+]
 },
 
 {
@@ -1663,16 +1704,19 @@
   "region": "Islay",
   "abv": "43%",
   "image": "bottle_img/bowmore14.webp",
+  "maturation": "Single Malt dojrzewający 12 lat w beczkach po bourbonie z amerykańskiego dębu, następnie finiszowany przez 2 lata w barriques po winie Bordeaux",
 
   "whenToOffer": [
-    "Klient lubi wine finish",
-    "Fan torfu, ale mniej agresywnego",
-    "Edycja lotniskowa"
+    "Klient lubi whisky torfowe z wyraźnym wpływem czerwonego wina",
+    "Dla osób szukajacyhcych dymnej whisky 0.7l",
+    "Dla ludzi szukających limitowanych i nietypowych wydań Bowmore"
   ],
 
-  "maturation": "American Oak + Bordeaux Wine Cask",
+  "howToPresent": "14-letnia edycja travel exclusive Bowmore dojrzewająca przez 12 lat w beczkach po bourbonie, a następnie finiszowany przez 2 lata w barriques po winie Bordeaux. Charakterystyczny dla Bowmore dym torfowy i morskość łączą się z nutami jagód, ciemnej czekolady i przypraw. Bordeaux wnosi owocową głębię i elegancką strukturę bez dominowania nad destylatem.",
 
-  "howToPresent": "Subtelny torf Bowmore połączony z czerwonym winem Bordeaux. Dym + czerwone owoce."
+  "salesTip": [
+    "Marka słynie z wyjątkowo zbalansowanego połączenia torfu, owoców i morskiego charakteru."
+]
 },
 
 {
@@ -1684,16 +1728,19 @@
   "region": "Islay",
   "abv": "48%",
   "image": "bottle_img/lagavulin8.webp",
+  "maturation": "Single Malt dojrzewający 8 lat głównie w beczkach po bourbonie z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient lubi intensywny torf",
-    "Fan Ardbeg",
-    "Mocniejsza, młodsza wersja Lagavulin"
-  ],
+  "Klient lubi Lagavulin 16, ale szuka czegoś troche innego i bardziej intensywnego",
+  "Dla osób szukających bardzo intensywnej i dymnejj whisky",
+  "Klient szuka prezentu dla osoby lubiącej intensywnie torfowe whisky z Islay"
+],
 
-  "maturation": "American Oak",
+  "howToPresent": "8-letni single malt Lagavulin pokazujący bardziej surową stronę Lagavulin. Nuty dymu torfowego, popiołu i morskiej bryzy łączą się z cytrusami, pieprzem, wanilią i słodem. Whisky jest wytrawna i wyraźnie intynsywniejsza niż klasyczny Lagavulin 16.",
 
-  "howToPresent": "Bardziej surowa i intensywna wersja stylu Lagavulin. Dym, sól morska i pieprz."
+  "salesTip": [
+  "Lagavulin jest jedną z najbardziej cenionych destylarni torfowych na Islay."
+]
 },
 
 {
