@@ -1731,15 +1731,16 @@
   "maturation": "Single Malt dojrzewający 8 lat głównie w beczkach po bourbonie z amerykańskiego dębu",
 
   "whenToOffer": [
-  "Klient lubi Lagavulin 16, ale szuka czegoś troche innego i bardziej intensywnego",
-  "Dla osób szukających bardzo intensywnej i dymnejj whisky",
-  "Klient szuka prezentu dla osoby lubiącej intensywnie torfowe whisky z Islay"
+    "Klient lubi Lagavulin 16, ale szuka czegoś troche innego i bardziej intensywnego",
+    "Dla osób szukajacyhcych dymnej whisky 0.7l",
+    "Dla osób szukających bardzo intensywnej i dymnejj whisky",
+    "Klient szuka prezentu dla osoby lubiącej intensywnie torfowe whisky z Islay"
 ],
 
-  "howToPresent": "8-letni single malt Lagavulin pokazujący bardziej surową stronę Lagavulin. Nuty dymu torfowego, popiołu i morskiej bryzy łączą się z cytrusami, pieprzem, wanilią i słodem. Whisky jest wytrawna i wyraźnie intynsywniejsza niż klasyczny Lagavulin 16.",
+  "howToPresent": "8-letni single malt Lagavulin pokazujący bardziej surową stronę Lagavulin. Nuty dymu torfowego, popiołu i morskości łączą się z cytrusami, pieprzem, wanilią i słodem. Whisky jest świeża i wyraźnie intynsywniejsza niż klasyczny Lagavulin 16.",
 
   "salesTip": [
-  "Lagavulin jest jedną z najbardziej cenionych destylarni torfowych na Islay."
+  "Lagavulin jest jednym z sześciu oryginalnych członków serii Classic Malts of Scotland reprezentujących różne regiony Szkocji."
 ]
 },
 
@@ -1752,15 +1753,20 @@
   "region": "Islay",
   "abv": "43%",
   "image": "bottle_img/lagavulin10.webp",
+  "maturation": "Single Malt dojrzewający 10 lat głównie w beczkach po bourbonie z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient chce edycję lotniskową",
-    "Fan klasycznego stylu Lagavulin"
-  ],
+    "Klient lubi torfowe whisky o intensywnym charakterze",
+    "Dla osób szukajacyhcych dymnej whisky 0.7l",
+    "Dla osób preferujących dym, pieprz i morski charakter zamiast wpływu sherry",
+    "Dla ludzi szukających limitowanych i nietypowych wydań Lagavulin"
+],
 
-  "maturation": "American Oak",
+  "howToPresent": "10-letnia edycja travel exclusive Lagavulin dojrzewająca głównie w beczkach po bourbonie. W profilu dominują intensywny dym, morskość, pieprz, cytrusy oraz słód. W porównaniu do Lagavulin 16 whisky jest bardziej bezpośrednia, wytrawna i skoncentrowana na charakterze destylatu.",
 
-  "howToPresent": "Klasyczny torfowy styl Lagavulin w wersji travel retail."
+"salesTip": [
+  "Lagavulin jest jednym z sześciu oryginalnych członków serii Classic Malts of Scotland reprezentujących różne regiony Szkocji."
+]
 },
 
 {
@@ -1772,16 +1778,20 @@
   "region": "Islay",
   "abv": "43%",
   "image": "bottle_img/lagavulin16.webp",
+  "maturation": "Single Malt dojrzewający minimum 16 lat w beczkach po bourbonie i sherry",
 
   "whenToOffer": [
-    "Klient zna i szuka Lagavulin",
-    "Fan klasycznego torfu",
-    "Prezent premium"
-  ],
+    "Dla osób ceniących balans, bogactwo smaku i złożoność",
+    "Klient szuka dymnej whisky na prezent lub specjalną okazję",
+    "Ikona wśród dymnych whisky, bezpieczny wybór i łatwa decyzja zakupowa",
+    "Dla osób szukajacyhcych dymnej whisky 0.7l"
+],
 
-  "maturation": "American Oak + Sherry",
+  "howToPresent": "16-letnia Lagavulin jest najbardziej znanym single maltem z Islay, łączy intensywny torfowy dym z nutami suszonych owoców, rodzynek, fig, ciemnej czekolady, soli morskiej oraz przypraw i kawy. Długie dojrzewanie w beczkach po bourbonie i sherry nadaje whisky wyjątkową głębię, oleistość i harmonię, dzięki którym Lagavulin 16 jest uznawany za jedną z ikon szkockiej whisky.",
 
-  "howToPresent": "Ikoniczna Islay. Głęboki torf, dym, suszone owoce i morska bryza."
+"salesTip": [
+  "Lagavulin jest jednym z sześciu oryginalnych członków serii Classic Malts of Scotland reprezentujących różne regiony Szkocji."
+]
 },
 
 {
@@ -1793,16 +1803,22 @@
   "region": "Islay",
   "abv": "40%",
   "image": "bottle_img/laphroaig_fouroak.webp",
+  "maturation": "Single Malt dojrzewający w czterech rodzajach beczek: ex-bourbon barrels, quarter casks, virgin oak oraz europejskich beczkach dębowych",
 
   "whenToOffer": [
-    "Fan Laphroaig",
-    "Klient szuka czegoś łagodniejszego niż 10",
-    "Edycja lotniskowa"
-  ],
+    "Dla osób rozpoczynających przygodę z whisky torfową",
+    "Klient lubi delikatnie dymne whisky z Islay",
+    "Dla ludzi szukających limitowanych i nietypowych wydań Laphroaig"
+],
 
-  "maturation": "Four types of oak casks",
+  "howToPresent": "Edycja travel retail exclusive Laphroaig, dojrzewająca w czterech różnych rodzajach beczek. W porównaniu do klasycznego Laphroaig 10 oferuje łagodniejszy charakter, z większą ilością wanilii, karmelu, przypraw i dębu. Nuty torfu, morskiej bryzy i delikatnej medyczności pozostają obecne, ale są lepiej zintegrowane z innymi nutami.",
 
-  "howToPresent": "Klasyczny medyczny torf Laphroaig w bardziej zbalansowanej, wielobeczkowej wersji."
+"salesTip": [
+  "Beczki po bourbonie odpowiadają za wanilię, karmel i kokos.",
+  "Quarter Casks zwiększają kontakt whisky z drewnem, wzmacniając intensywność smaku.",
+  "Virgin Oak wnosi dodatkowe nuty przypraw, karmelu i świeżego dębu.",
+  "Europejski dąb dodaje głębi, suszonych owoców i korzennych przypraw."
+]
 },
 
 {
@@ -1814,16 +1830,20 @@
   "region": "Islay",
   "abv": "48%",
   "image": "bottle_img/laphroaig_px.webp",
+  "maturation": "Single Malt dojrzewający w beczkach po bourbonie, quarter casks oraz beczkach po Pedro Ximénez Sherry",
 
   "whenToOffer": [
-    "Fan intensywnego torfu",
-    "Klient lubi sherry finish",
-    "Edycja lotniskowa premium"
-  ],
+    "Klient lubi whisky torfowe dojrzewające w beczkach po sherry",
+    "Dla fanów słodko-dymnych intensywnych whisky",
+    "Dla ludzi szukających limitowanych i nietypowych wydań Laphroaig"
+],
 
-  "maturation": "American Oak + Pedro Ximénez Cask Finish",
+  "howToPresent": "Edycja travel retail exclusive Laphroaig, dojrzewająca w beczkach po bourbonie, quarter casks oraz beczkach po Pedro Ximénez Sherry. Charakterystyczne dla Laphroaig nuty torfu, morskiej bryzy i delikatnej medyczności łączą się z rodzynkami, daktylami, toffi, ciemną czekoladą i przyprawami. PX nadaje whisky wyraźnie bogatszy i słodszy charakter.",
 
-  "howToPresent": "Połączenie torfowego, medycznego charakteru Laphroaig z słodyczą beczek po sherry PX."
+"salesTip": [
+  "Pedro Ximénez należy do najsłodszych stylów sherry produkowanych w Hiszpanii.",
+  "Quarter Casks zwiększają kontakt whisky z drewnem, wzmacniając intensywność smaku."
+]
 },
 
 {
@@ -1835,16 +1855,20 @@
   "region": "Isle of Skye",
   "abv": "45.8%",
   "image": "bottle_img/talisker10.webp",
+  "maturation": "Single Malt dojrzewający minimum 10 lat w beczkach po bourbonie z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient chce torf, ale nie Islay",
-    "Fan morskiego charakteru",
-    "Alternatywa dla Lagavulin 16"
-  ],
+    "Klient chce spróbować whisky morskiej bez dominującego torfu",
+    "Dla fanów wytrawnych i pieprznych whisky",
+    "Klient szuka klasycznej whisky reprezentującej wyspę Skye",
+    "Dla osób lubiących połączenie dymu, soli i przypraw"
+], 
 
-  "maturation": "American Oak",
+  "howToPresent": "10-letni single malt z wyspy Skye słynący z wyjątkowego połączenia morskiego charakteru, pieprznej ostrości i delikatnego torfu. Nuty soli morskiej, czarnego pieprzu, cytrusów, słodu i dymu tworzą wytrawny i bardzo charakterystyczny profil, który od lat stanowi znak rozpoznawczy destylarni Talisker.",
 
-  "howToPresent": "Dymna, pieprzna i morska whisky ze Skye. Słony finisz i charakterystyczna pikantność."
+"salesTip": [
+  "Talisker 10 jest jednym z sześciu oryginalnych członków serii Classic Malts of Scotland."
+]
 },
 
 {
