@@ -1858,13 +1858,12 @@
   "maturation": "Single Malt dojrzewający minimum 10 lat w beczkach po bourbonie z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient chce spróbować whisky morskiej bez dominującego torfu",
-    "Dla fanów wytrawnych i pieprznych whisky",
-    "Klient szuka klasycznej whisky reprezentującej wyspę Skye",
-    "Dla osób lubiących połączenie dymu, soli i przypraw"
-], 
+    "Klient szuka whisky dymną bez wpływu sherry",
+  "Alternatywa dla Laphroaig 10 I Artbeg 10",
+  "Dla fanów pieprznych i wytrawnych whisky"
+],
 
-  "howToPresent": "10-letni single malt z wyspy Skye słynący z wyjątkowego połączenia morskiego charakteru, pieprznej ostrości i delikatnego torfu. Nuty soli morskiej, czarnego pieprzu, cytrusów, słodu i dymu tworzą wytrawny i bardzo charakterystyczny profil, który od lat stanowi znak rozpoznawczy destylarni Talisker.",
+  "howToPresent": "10-letni single malt z wyspy Skye słynący z wyjątkowego połączenia morskiego charakteru, pieprznej ostrości i delikatnego torfu. Nuty soli morskiej, czarnego pieprzu, cytrusów, słodu i dymu tworzą wytrawny i bardzo charakterystyczny profil, z którego od lat jest znany Talisker.",
 
 "salesTip": [
   "Talisker 10 jest jednym z sześciu oryginalnych członków serii Classic Malts of Scotland."
@@ -1880,16 +1879,20 @@
   "region": "Isle of Skye",
   "abv": "45.8%",
   "image": "bottle_img/talisker_darkstorm.webp",
+  "maturation": "Single Malt dojrzewający w mocno opalanych beczkach po bourbonie (heavily charred American oak casks)"
 
-  "whenToOffer": [
-    "Klient chce mocniejszy styl Talisker",
-    "Fan intensywnego dymu",
-    "Edycja lotniskowa"
-  ],
+ "whenToOffer": [
+   "Klient lubi Talisker 10 i szuka bardziej intensywnej wersji",
+   "Dla fanów intensywnych, pieprznych i delikatnie torfowych",
+   "Dla ludzi szukających limitowanych i nietypowych wydań Talisker"
+]
 
-  "maturation": "Intensywnie wypalane beczki z amerykańskiego dębu",
+  "howToPresent": "Single malt ze Skye dojrzewający w intensywnie opalanych beczkach po bourbonie. W porównaniu do Talisker 10 oferuje więcej nut przypalonego drewna, dymu, pieprzu, karmelu i przypraw. Zachowuje charakterystyczny morski styl destylarni, ale prezentuje go w znacznie bardziej skoncentrowanej formie."
 
-  "howToPresent": "Bardziej dymna i intensywna wersja Talisker. Więcej przypraw i głębi."
+  "salesTip": [
+    "Dark Storm był pierwotnie edycją stworzoną wyłącznie dla Travel Retail.",
+    "Whisky dojrzewa w najmocniej opalanych beczkach wykorzystywanych przez Talisker."
+]
 },
 
 {
@@ -1901,11 +1904,14 @@
   "region": "Orkney",
   "abv": "44.2%",
   "image": "bottle_img/hp14_land.webp",
+  "maturation": "Single Malt dojrzewający głównie w beczkach first-fill sherry-seasoned American oak, z dodatkiem beczek refill dla zachowania równowagi"
 
   "whenToOffer": [
-    "Klient chce torf subtelniejszy niż Islay",
-    "Alternatywa dla Talisker"
-  ],
+    "Klient lubi whisky dojrzewające w beczkach po sherry",
+    "Alternatywa dla Talisker oraz Jura",
+    "Klient szuka delikatnie dymnej whisky w 0.7l",
+    "Dla ludzi szukających limitowanych i nietypowych wydań Highland park"
+]
 
   "maturation": "American Oak + Sherry",
 
