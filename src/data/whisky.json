@@ -1884,7 +1884,7 @@
  "whenToOffer": [
    "Klient lubi Talisker 10 i szuka bardziej intensywnej wersji",
    "Dla fanów intensywnych, pieprznych i delikatnie torfowych",
-   "Dla ludzi szukających limitowanych i nietypowych wydań Talisker"
+   "Dla ludzi szukających limitowanych i ekskluzywnych wydań Talisker"
 ],
 
   "howToPresent": "Single malt ze Skye dojrzewający w intensywnie opalanych beczkach po bourbonie. W porównaniu do Talisker 10 oferuje więcej nut przypalonego drewna, dymu, pieprzu, karmelu i przypraw. Zachowuje charakterystyczny morski styl destylarni, ale prezentuje go w znacznie bardziej skoncentrowanej formie.",
@@ -1935,7 +1935,7 @@
     "Klient lubi whisky dojrzewające w beczkach po sherry",
     "Alternatywa dla Talisker oraz Jura",
     "Klient szuka delikatnie dymnej whisky w 0.7l",
-    "Dla ludzi szukających limitowanych i nietypowych wydań Highland park"
+    "Dla ludzi szukających limitowanych i ekskluzywnych wydań Highland park"
   ],
 
   "howToPresent": "16-letnia edycja travel exclusive Highland park, dojrzewająca głównie w beczkach first-fill sherry-seasoned European oak. Oferuje bogatszy i bardziej przyprawowy profil niż 14-letnia edycja, z nutami suszonych owoców, gałki muszkatołowej, kakao, migdałów i miodu. Subtelny dym torfowy pozostaje w tle, tworząc elegancką i doskonale zbalansowaną whisky.",
@@ -1954,23 +1954,19 @@
   "region": "Orkney",
   "abv": "48%",
   "image": "bottle_img/hp17_trex.jpg",
-  "maturation": "Single Malt dojrzewający głównie w beczkach first-fill French oak sezonowanych czerwonym winem, z dodatkiem sherry-seasoned American oak oraz beczek refill",
+  "maturation": "Single Malt dojrzewający głównie w beczkach first-fill French oak sezonowanych czerwonym winem, z dodatkiem sherry-seasoned American oak",
 
   "whenToOffer": [
-    "Klient szuka nietypowego Highland Park o wyraźnie owocowym charakterze",
+    "Idealna opcja na prezent lub specjalną okazję",
     "Dla fanów whisky dojrzewających w beczkach po winie",
-    "Dla osób szukających limitowanych edycji Travel Retail",
+    "Dla ludzi szukających limitowanych i ekskluzywnych wydań Highland park"
     "Klient lubi bogate, owocowe whisky z delikatnym torfem"
   ],
 
-  "howToPresent": "17-letni Highland Park stworzony we współpracy z trzykrotnie nagrodzonym gwiazdkami Michelin szefem kuchni Björnem Frantzénem. Dominującą rolę odgrywają beczki first-fill French oak sezonowane czerwonym winem, które nadają whisky bogate nuty czerwonych owoców i dżemu. Sherry-seasoned American oak wnosi wanilię i słodycz, a beczki refill zapewniają harmonię i równowagę. Całość uzupełnia charakterystyczny dla Highland Park subtelny wrzosowy dym.",
+  "howToPresent": "17-letni Highland Park stworzony we współpracy z trzykrotnie nagrodzonym gwiazdkami Michelin szefem kuchni Björnem Frantzénem dla Travel retail sprzedaży. Dominującą rolę odgrywają beczki first-fill French oak sezonowane czerwonym winem, które nadają whisky bogate nuty czerwonych owoców i dżemu. Sherry-seasoned American oak wnosi wanilię i słodycz, a beczki refill zapewniają harmonię i równowagę. Całość uzupełnia charakterystyczny dla Highland Park subtelny wrzosowy dym.",
 
   "salesTip": [
-  "First-fill French oak seasoned with red wine odpowiada za bogate nuty czerwonych owoców i dżemu.",
-  "Sherry-seasoned American oak wnosi wanilię i słodycz.",
-  "Beczki refill równoważą profil i pozwalają zachować charakter destylatu.",
-  "Whisky została stworzona we współpracy z Björnem Frantzénem – jedynym szefem kuchni na świecie posiadającym jednocześnie trzy restauracje z trzema gwiazdkami Michelin.",
-  "To limitowana edycja Travel Retail inspirowana podróżami i gastronomią."
+  "Highland Park wykorzystuje torf z Orkadów bogaty w wrzos, nadający whisky delikatny i aromatyczny dym."
 ]
 },
 
@@ -1986,20 +1982,18 @@
   "maturation": "Single Malt finiszowany w beczkach po słodkiej Maderze Malvasia",
 
  "whenToOffer": [
-    "Klient lubi whisky finiszowane w beczkach po winach wzmacnianych",
-   "Alternatywa dla whisky dojrzewających w beczkach po sherry",
-    "Dla osób szukających limitowanych edycji Jura",
-   "Klient lubi bogate, owocowe i słodkie whisky"
+    "Klient lubi whisky finiszowane w beczkach po maderze",
+    "Dla fanów subtelnie dymnych whisky ,
+    "Dla osób szukających limitowanych i ekskluzywnych edycji Jura",
+    "Klient lubi bogate, owocowe i słodkie whisky"
 ],
 
   "howToPresent": "Limitowana edycja Travel Retail z serii Islanders' Expressions stworzona we współpracy z mieszkańcami wyspy Jura. Finisz w beczkach po słodkiej Maderze Malvasia wzbogaca whisky o nuty miodu, suszonych owoców, karmelu i owocowej słodyczy, zachowując charakterystyczną dla Jura delikatność i równowagę.",
 
   "salesTip": [
-  "Malvasia jest najsłodszym stylem Madery i wnosi do whisky nuty miodu, suszonych owoców oraz karmelu.",
-  "Islanders' Expressions to limitowana seria inspirowana mieszkańcami wyspy Jura.",
-  "No.4 powstała we współpracy z Neilem Cameronem – ogrodnikiem i pracownikiem destylarni Jura.",
-  "Każda edycja Islanders' Expressions opowiada historię innego mieszkańca wyspy.",
-  "To edycja dostępna wyłącznie w kanale Travel Retail."
+    "Malvasia jest najsłodszym stylem Madery i wnosi do whisky nuty miodu, suszonych owoców oraz karmelu.",
+    "No.4 powstała we współpracy z Neilem Cameronem – ogrodnikiem i pracownikiem destylarni Jura. Każda edycja Islanders' Expressions opowiada historię innego mieszkańca wyspy.",
+    "Jura słynie z jednego z najdelikatniejszych stylów spośród szkockich whisky wyspiarskich, większość pozycji tej marki oferuje jedynie subtelny lub niewyczuwalny dym."
 ]
 },
 
@@ -2017,18 +2011,15 @@
   "whenToOffer": [
     "Klient szuka lekkiej i łatwej w odbiorze whisky",
     "Dla fanów beczek z amerykańskiego dębu",
-    "Alternatywa dla bourbonowych single maltów ze Speyside",
-    "Klient lubi waniliowe, owocowe i delikatnie słodkie whisky"
+    "Alternatywa dla bourbonowych podstawowych single maltów",
+    "Klient lubi waniliowe, karmelowe i delikatnie słodkie whisky"
+    "Dla osób szukających limitowanych i ekskluzywnych edycji Jura",
 ],
 
-  "howToPresent": "Single malt dojrzewający wyłącznie w beczkach z amerykańskiego białego dębu. Profil whisky opiera się na nutach brzoskwini, wanilii, słonego toffi i delikatnego dębu. To jedna z najbardziej przystępnych i owocowych ekspresji w portfolio Jura.",
+  "howToPresent": "Single malt dojrzewający wyłącznie w beczkach z amerykańskiego białego dębu. Profil whisky opiera się na nutach brzoskwiń, wanilii, słonego toffi i delikatnego dębu. To jedna z najbardziej przystępnych i owocowych whisky w portfolio Jura.",
 
   "salesTip": [
-  "Amerykański biały dąb nadaje whisky nuty wanilii, kokosa, karmelu i słodkiego dębu.",
-  "White Oak Cask pokazuje bardziej owocowy i delikatny styl Jura bez wpływu beczek po sherry.",
-  "Whisky dojrzewa wyłącznie w beczkach z amerykańskiego białego dębu.",
-  "To jedna z najbardziej przystępnych ekspresji marki Jura.",
-  "Idealnie pokazuje wpływ beczek z amerykańskiego dębu na charakter whisky."
+  "Jura słynie z jednego z najdelikatniejszych stylów spośród szkockich whisky wyspiarskich, większość pozycji tej marki oferuje jedynie subtelny lub niewyczuwalny dym."
 ]
 },
 
@@ -2039,15 +2030,15 @@
   "category": "whisky-single-malt",
   "country": "Scotland",
   "region": "Isle of Jura",
-  "abv": "40%",
+  "abv": "43%",
   "image": "bottle_img/jura13.jpg",
   "maturation": "13-letni Single Malt dojrzewający wyłącznie w beczkach po bourbonie z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient szuka klasycznej whisky dojrzewającej wyłącznie w beczkach po bourbonie",
-    "Alternatywa dla White Oak Cask dla osób szukających bardziej dojrzałego charakteru",
+    "Dla fanów beczek z amerykańskiego dębu",
+    "Alternatywa dla White Oak Cask dla osób szukających bardziej dojrzałego charakteru lub innych podstawowych burbonowych single maltów",
     "Dla fanów owocowych i waniliowych whisky bez wpływu sherry",
-    "Klient lubi cytrusy, morele i orzechowe nuty w whisky"
+    "Dla osób szukających limitowanych i ekskluzywnych edycji Jura",
 ],
 
   "howToPresent": "13-letni single malt dojrzewający wyłącznie w beczkach po bourbonie z amerykańskiego dębu. Dłuższe dojrzewanie nadaje whisky bardziej złożony charakter z nutami dojrzałych cytrusów, moreli, orzecha laskowego i wanilii. To klasyczny styl Jura – harmonijny, owocowy i wyjątkowo łatwy w odbiorze.",
@@ -2068,25 +2059,21 @@
   "category": "whisky-single-malt",
   "country": "Scotland",
   "region": "Isle of Jura",
-  "abv": "40%",
+  "abv": "46%",
   "image": "bottle_img/jura19_trex.jpg",
-  "maturation": "19-letni Single Malt dojrzewający w beczkach po bourbonie z częściowym finiszem w beczkach po sherry Oloroso",
+  "maturation": "19-letni Single Malt dojrzewający w beczkach po bourbonie z finiszem w beczkach po sherry Oloroso",
 
   "whenToOffer": [
-    "Klient szuka dojrzałej whisky z wyraźnym, ale zbalansowanym wpływem sherry",
-    "Alternatywa dla klasycznych whisky dojrzewających w Oloroso dla osób preferujących bardziej owocowy styl",
-    "Dla fanów nut suszonych fig, gorzkiej czekolady i orzechów",
-    "Klient szuka eleganckiej whisky premium z długim dojrzewaniem"
+    "Idealna opcja na prezent lub specjalną okazję",
+    "Dla fanów whisky dojrzewających w beczkach po winie",
+    "Dla ludzi szukających limitowanych i ekskluzywnych wydań Jura"
+    "Klient lubi bogate, owocowe whisky z delikatnym torfem"
 ],
 
-  "howToPresent": "19-letni single malt dojrzewający w beczkach po bourbonie z częściowym finiszem w beczkach po sherry Oloroso. Długi okres dojrzewania oraz wpływ Oloroso tworzą bogaty profil z nutami suszonych fig, prażonych orzechów włoskich, gorzkiej czekolady i dojrzałych owoców. Charakterystyczna dla Jura owocowość pozostaje na pierwszym planie, a finisz po sherry dodaje whisky elegancji i głębi.",
+  "howToPresent": "19-letni single malt dojrzewający w beczkach po bourbonie z finiszem w beczkach po sherry Oloroso. Długi okres dojrzewania oraz wpływ Oloroso tworzą bogaty profil z nutami suszonych fig, prażonych orzechów włoskich, gorzkiej czekolady i dojrzałych owoców. Charakterystyczna dla Jura owocowość pozostaje na pierwszym planie, a finisz po sherry dodaje whisky elegancji i głębi.",
 
   "salesTip": [
-  "Beczki po bourbonie zachowują owocowy i delikatny charakter destylatu Jura.",
-  "Finisz w beczkach po sherry Oloroso wnosi nuty suszonych fig, orzechów włoskich i gorzkiej czekolady.",
-  "19 lat dojrzewania zapewnia wyjątkową równowagę między owocowością destylatu a wpływem beczek.",
-  "Jura słynie z eleganckiego i zbalansowanego stylu – nawet przy wykorzystaniu beczek po sherry whisky nie staje się ciężką sherry bomb.",
-  "To jedna z najbardziej złożonych ekspresji w podstawowej ofercie Jura."
+  "Jura słynie z jednego z najdelikatniejszych stylów spośród szkockich whisky wyspiarskich, większość pozycji tej marki oferuje jedynie subtelny lub niewyczuwalny dym."
 ]
 },
 
