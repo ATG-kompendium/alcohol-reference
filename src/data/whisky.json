@@ -2116,19 +2116,15 @@
   "maturation": "12-letni Single Malt dojrzewający w beczkach po bourbonie z amerykańskiego dębu z finiszem w beczkach po sherry Oloroso",
 
   "whenToOffer": [
-    "Klient lubi whisky z wyraźnym wpływem sherry, ale szuka bardziej eleganckiego stylu niż klasyczne sherry bomby",
-    "Dla fanów rodzynek, daktyli, toffi i mlecznej czekolady",
-    "Dla ludzi szukających limitowanych i ekskluzywnych wydań Jura"
+    "Klient lubi whisky z wyraźnym wpływem sherry",
+    "Dla osób lubiących nuty suszonych owoców, daktyli, toffi i mlecznej czekolady",
+    "Dla ludzi szukających limitowanych i ekskluzywnych wydań Glenmoragie"
 ],
 
-  "howToPresent": "12-letnia edycja travel retail exclusive Glenmoragie, dojrzewająca w beczkach po bourbonie z finiszem w beczkach po sherry Oloroso. Łączy charakterystyczną dla Glenmorangie lekkość i owocowość z bogatymi nutami rodzynek, daktyli, toffi, mlecznej czekolady i cappuccino. To harmonijna whisky, w której wpływ sherry wzbogaca destylat, nie dominując jego eleganckiego charakteru.",
+  "howToPresent": "12-letnia edycja travel retail exclusive Glenmoragie, dojrzewająca w beczkach po bourbonie z finiszem w beczkach po sherry Oloroso. Łączy charakterystyczną dla Glenmorangie lekkość i owocowość z bogatymi nutami suszonych owoców, daktyli, toffi, mlecznej czekolady i cappuccino. To harmonijna whisky, w której wpływ sherry wzbogaca destylat, nie dominując jego eleganckiego charakteru.",
 
 "salesTip": [
-  "Beczki po bourbonie odpowiadają za wanilię, owoce i kremową strukturę whisky.",
-  "Finisz w beczkach po sherry Oloroso wnosi nuty rodzynek, daktyli, toffi i mlecznej czekolady.",
   "Glenmorangie wykorzystuje najwyższe alembiki w Szkocji (5,14 m), dzięki czemu destylat jest wyjątkowo lekki i owocowy.",
-  "The Accord został stworzony wyłącznie dla kanału Travel Retail.",
-  "To najbardziej sherry'owa ekspresja w podróżniczej kolekcji Glenmorangie Legends Collection."
 ]
 },
 
@@ -2141,15 +2137,19 @@
   "region": "Highland",
   "abv": "43%",
   "image": "bottle_img/glenmorangie14_elementa.webp",
+  "maturation": "14-letni Single Malt dojrzewający w beczkach po bourbonie z finiszem w nowych, mocno opalanych beczkach z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient lubi bardziej złożone whisky",
-    "Alternatywa dla Macallan"
-  ],
+    "Dla fanów beczek z amerykańskiego dębu",
+    "Dla lubiących wyraziste i intensywne whisky",
+    "Dla ludzi szukających limitowanych i ekskluzywnych wydań Glenmoragie"
+],
 
-  "maturation": "American Oak + Sherry",
-
-  "howToPresent": "Bogatsza i bardziej złożona wersja Glenmorangie. Nuty przypraw, czekolady i suszonych owoców."
+  "howToPresent": "14-letnia edycja travel retail exclusive Glenmoragie, dojrzewająca w beczkach po bourbonie z finiszem w nowych, mocno opalanych beczkach z amerykańskiego dębu. Whisky zachowuje charakterystyczną dla Glenmorangie lekkość i elegancję, wzbogaconą o intensywne nuty wanilii, karmelu, przypraw, prażonego dębu i delikatnego kokosa.",
+ 
+"salesTip": [
+  "Glenmorangie wykorzystuje najwyższe alembiki w Szkocji (5,14 m), dzięki czemu destylat pozostaje lekki i owocowy nawet przy intensywnym wpływie beczki."
+]
 },
 
 {
@@ -2161,15 +2161,24 @@
   "region": "Highland",
   "abv": "43%",
   "image": "bottle_img/glenmorangie16_vidima.webp",
+  "maturation": "16-letni Single Malt  dojrzewający w beczkach po bourbonie oraz finiszowany w beczkach po Maderze Malmsey",
 
   "whenToOffer": [
-    "Klient szuka starszej edycji",
-    "Whisky prezentowa"
-  ],
+  "Klient lubi whisky finiszowane w beczkach po Maderze",
+  "Alternatywa dla Glenmorangie Accord dla osób preferujących nuty owocowe zamiast sherry",
+  "Dla fanów kandyzowanej skórki pomarańczy, miodu i mlecznej czekolady",
+  "Klient szuka limitowanej edycji Travel Retail"
+],
 
-  "maturation": "American Oak + Wine Cask Finish",
+  "howToPresent": "16-letni single malt inspirowany świętem winobrania na Maderze – Vindima. Powstał z połączenia whisky dojrzewającej w beczkach po bourbonie oraz whisky finiszowanej w beczkach po słodkiej Maderze Malmsey. Oferuje bogate nuty miodu, pieczonych brzoskwiń, kandyzowanej skórki pomarańczy, rodzynek, mlecznej czekolady i korzennych przypraw, zachowując charakterystyczną dla Glenmorangie elegancję.",
 
-  "howToPresent": "Dojrzała i elegancka. Więcej głębi, nut owocowych i przypraw."
+"salesTip": [
+  "Malmsey to najsłodszy styl Madery, nadający whisky nuty miodu, kandyzowanych owoców i czekolady.",
+  "Whisky łączy destylat dojrzewający w beczkach po bourbonie z whisky finiszowaną w beczkach po Maderze Malmsey.",
+  "Glenmorangie wykorzystuje najwyższe alembiki w Szkocji (5,14 m), dzięki czemu destylat pozostaje lekki i owocowy.",
+  "The Vindima została stworzona wyłącznie dla kanału Travel Retail.",
+  "Nazwa nawiązuje do tradycyjnego święta winobrania na wyspie Madera."
+]
 },
 
 {
