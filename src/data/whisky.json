@@ -2086,16 +2086,22 @@
   "region": "Highland",
   "abv": "40%",
   "image": "bottle_img/glenmorangie12.webp",
+  "maturation": "12-letni Single Malt dojrzewający wyłącznie w beczkach po bourbonie z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient szuka łagodnej whisky",
-    "Alternatywa dla Glenlivet 12",
-    "Whisky dla początkujących"
-  ],
+    "Klient szuka lekkiej i owocowej whisky bez dymu i wpływu sherry",
+    "Dla fanów beczek z amerykańskiego dębu",
+    "Jeden z najlepszych wyborów na pierwszego Single Malta",
+    "Dla fanów wanilii, cytrusów i brzoskwiniowych nut",
+    "Alternatywa dla innych podstawowych single maltów dojrzewających w beczkach po burbonie"
+],
 
-  "maturation": "American Oak",
+  "howToPresent": "12-letni single malt dojrzewający wyłącznie w beczkach po bourbonie z amerykańskiego dębu. Dzięki najwyższym alembikom w Szkocji Glenmorangie tworzy wyjątkowo lekki i owocowy destylat.",
 
-  "howToPresent": "Bardzo łagodna i elegancka Highland. Wanilia, miód i świeże owoce."
+"salesTip": [
+  "Glenmorangie wykorzystuje najwyższe alembiki w Szkocji (5,14 m), dzięki czemu destylat jest wyjątkowo lekki i owocowy.",
+  "The Original przez lata była 10-letnią whisky, obecnie dodatkowe dwa lata dojrzewania zapewniają jeszcze większą kremowość i złożoność."
+]
 },
 
 {
@@ -2107,15 +2113,23 @@
   "region": "Highland",
   "abv": "43%",
   "image": "bottle_img/glenmorangie12_accord.webp",
+  "maturation": "12-letni Single Malt dojrzewający w beczkach po bourbonie z amerykańskiego dębu z finiszem w beczkach po sherry Oloroso",
 
   "whenToOffer": [
-    "Klient chce edycję lotniskową",
-    "Fan sherry influence"
-  ],
+    "Klient lubi whisky z wyraźnym wpływem sherry, ale szuka bardziej eleganckiego stylu niż klasyczne sherry bomby",
+    "Dla fanów rodzynek, daktyli, toffi i mlecznej czekolady",
+    "Dla ludzi szukających limitowanych i ekskluzywnych wydań Jura"
+],
 
-  "maturation": "American Oak + Oloroso Sherry",
+  "howToPresent": "12-letnia edycja travel retail exclusive Glenmoragie, dojrzewająca w beczkach po bourbonie z finiszem w beczkach po sherry Oloroso. Łączy charakterystyczną dla Glenmorangie lekkość i owocowość z bogatymi nutami rodzynek, daktyli, toffi, mlecznej czekolady i cappuccino. To harmonijna whisky, w której wpływ sherry wzbogaca destylat, nie dominując jego eleganckiego charakteru.",
 
-  "howToPresent": "Bardziej sherry styl Glenmorangie. Więcej przypraw i suszonych owoców."
+"salesTip": [
+  "Beczki po bourbonie odpowiadają za wanilię, owoce i kremową strukturę whisky.",
+  "Finisz w beczkach po sherry Oloroso wnosi nuty rodzynek, daktyli, toffi i mlecznej czekolady.",
+  "Glenmorangie wykorzystuje najwyższe alembiki w Szkocji (5,14 m), dzięki czemu destylat jest wyjątkowo lekki i owocowy.",
+  "The Accord został stworzony wyłącznie dla kanału Travel Retail.",
+  "To najbardziej sherry'owa ekspresja w podróżniczej kolekcji Glenmorangie Legends Collection."
+]
 },
 
 {
