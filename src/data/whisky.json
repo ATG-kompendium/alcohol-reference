@@ -2382,7 +2382,7 @@
   "country": "Ireland",
   "abv": "40%",
   "image": "bottle_img/tullamore12.jpg",
-  "maturation": "12-letnia Irish Blended Whiskey powstała z połączenia grain, malt oraz single pot still whiskey, dojrzewających w beczkach po bourbonie i sherry"
+  "maturation": "12-letnia Irish Blended Whiskey powstała z połączenia grain, malt oraz single pot still whiskey, dojrzewających w beczkach po bourbonie i sherry",
 
  "whenToOffer": [
     "Klient lubi Tullamore D.E.W. Original i szuka bardziej dojrzałej wersji",
@@ -2402,15 +2402,15 @@
   "country": "Ireland",
   "abv": "40%",
   "image": "bottle_img/bushmills.webp",
-  "maturation": "Połączenie grain i malt whiskey, potrójnie destylowanych I dojrzewających w beczkach po bourbonie"
+  "maturation": "Połączenie grain i malt whiskey, potrójnie destylowanych I dojrzewających w beczkach po bourbonie",
 
   "whenToOffer": [
     "Klient szuka lekkiej i owocowej irlandzkiej whiskey",
-    "Dla fanów wanilii i cytrusów",
-    "Klient chce poznać klasyczny styl whiskey z najstarszej licencjonowanej destylarni w Irlandii"
-]
+    "Dla fanów wanilii, karmelu i cytrusów",
+    "Dla osób szukających bardzo łagodnych delikatnych whiskey"
+],
 
-  "howToPresent": "Łagodna i lekka irlandzka whisky. Idealna do picia solo lub w drinkach."
+  "howToPresent": "Klasyczna irlandzka blended whiskey łącząca potrójnie destylowaną single malt whiskey z lekką grain whiskey. Dojrzewanie głównie w beczkach po bourbonie nadaje jej świeży charakter z nutami wanilii, cytrusów i karmelu."
 },
 
 {
@@ -2421,16 +2421,21 @@
   "country": "Ireland",
   "abv": "40%",
   "image": "bottle_img/bushmills_blackbush_px.webp",
+  "maturation": "Irish Blended Whiskey dojrzewająca w beczkach po bourbonie i finiszowana w beczkach po sherry Pedro Ximénez",
 
   "whenToOffer": [
-    "Klient lubi sherry influence",
-    "Alternatywa dla szkockiej sherry",
-    "Edycja lotniskowa"
-  ],
+    "Klient preferuje słodkie i delikatne whisky",
+    "Alternatywa dla klasycznego Black Bush dla osób szukających większej słodyczy i owocowości",
+    "Dla fanów rodzynek, suszonych owoców i prażonych orzechów",
+    "Dla ludzi szukających limitowanych i ekskluzywnych wydań Bushmills"
+],
 
-  "maturation": "80% single malt + PX Sherry Casks",
+ "howToPresent": "Travel retail exclusive Bushmills oparty na proporcji 80% single malt whiskey i 20% Irish grain whiskey. Finiszowany w beczkach po sherry Pedro Ximénez, które nadają whiskey nuty rodzynek, dojrzałych brzoskwiń, prażonych orzechów i aksamitną słodycz. Zachowuje charakterystyczną dla Bushmills wyjątkową gładkość dzięki potrójnej destylacji.",
 
-  "howToPresent": "Bardziej słodka i owocowa wersja Black Bush dzięki beczkom po PX."
+"salesTip": [
+  "80 oznacza udział single malt whiskey, a 20 – small batch Irish grain whiskey.",
+  "Pedro Ximénez należy do najsłodszych stylów sherry i nadaje whisky nuty daktyli, miodu, czekolady oraz suszonych owoców.",
+  "Bushmills jest najstarszą licencjonowaną destylarnią whiskey na świecie – licencję otrzymała w 1608 roku."
 },
 
 {
@@ -2446,8 +2451,6 @@
     "Klient chce single malt z Irlandii",
     "Fan sherry"
   ],
-
-  "maturation": "Sherry Casks",
 
   "howToPresent": "Irlandzki single malt z wyraźnym wpływem sherry – łagodny i owocowy."
 },
