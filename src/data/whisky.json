@@ -2237,16 +2237,21 @@
   "region": "Highland",
   "abv": "40%",
   "image": "bottle_img/dalmore_trio.webp",
+  "maturation": "Single Malt początkowo dojrzewający w beczkach po bourbonie, a następnie finiszowany w beczkach po 30-letnim sherry Matusalem oraz 10-letnim Porto Tawny, a także first-fill beczkach po bourbonie",
 
   "whenToOffer": [
-    "Klient szuka eleganckiej whisky",
-    "Fan sherry influence",
-    "Prezent premium z lotniska"
-  ],
+    "Klient szuka whisky finiszowanych po Porto",
+    "Alternatywa dla podstawowych single maltów",
+    "Dla fanów śliwek, czerwonych owoców i mlecznej czekolady",
+    "Dla ludzi szukających limitowanych i ekskluzywnych wydań Dalmore"
+],
 
-  "maturation": "American Oak + Tawny Port + Matusalem Sherry",
+  "howToPresent": "Single malt dojrzewający początkowo w beczkach po bourbonie, a następnie finiszowany w beczkach po 30-letnim sherry Matusalem, 10-letnim Porto Tawny oraz first-fill beczkach po bourbonie. Połączenie tych trzech rodzajów beczek tworzy bogaty profil z nutami śliwek, czerwonych owoców, toffi, mlecznej czekolady i korzennych przypraw, zachowując elegancki styl charakterystyczny dla The Dalmore.",
 
-  "howToPresent": "Trzy rodzaje beczek nadają whisky nut suszonych owoców, czekolady i przypraw. Bardzo elegancka i gładka."
+"salesTip": [
+  "The Trio została zainspirowana kultową whisky King Alexander III, słynącą z wykorzystania sześciu rodzajów beczek.",
+  "The Dalmore słynie z mistrzowskiego doboru beczek, które stanowią znak rozpoznawczy destylarni."
+]
 },
 
 {
@@ -2258,16 +2263,21 @@
   "region": "Highland",
   "abv": "43%",
   "image": "bottle_img/dalmore13_px.jpg",
+  "maturation": "13-letni Single Malt dojrzewający w beczkach po bourbonie z amerykańskiego białego dębu, a następnie finiszowany przez okres do 2 lat w beczkach po sherry Pedro Ximénez",
 
   "whenToOffer": [
-    "Klient lubi słodszy profil",
-    "Fan Pedro Ximénez",
-    "Alternatywa dla Macallan"
-  ],
+    "Klient lubi whisky z wyraźnym wpływem beczek po Pedro Ximénez",
+    "Alternatywa dla Laphroaig PX dla osób preferujących whisky bez torfu",
+    "Dla fanów rodzynek, miodu, gorzkiej czekolady i suszonych owoców",
+    "Dla ludzi szukających limitowanych i ekskluzywnych wydań Dalmore"
+],
 
-  "maturation": "American Oak + Pedro Ximénez Cask Finish",
+  "howToPresent": "13-letnia edycja travel retail exclusive The Dalmore, dojrzewająca w beczkach po bourbonie, a następnie finiszowana przez okres do 2 lat w beczkach po sherry Pedro Ximénez. Łączy charakterystyczną dla The Dalmore elegancję z nutami rodzynek, wanilii, daktyli, miodu, gorzkiej czekolady i suszonych owoców. Finisz w beczkach PX nadaje whisky bogaty, słodki charakter, zachowując jednocześnie doskonałą równowagę.",
 
-  "howToPresent": "Wyraźny wpływ sherry PX – rodzynki, czekolada i przyprawy. Bardzo gładka i bogata."
+"salesTip": [
+  "Pedro Ximénez należy do najsłodszych stylów sherry i nadaje whisky nuty daktyli, miodu, czekolady oraz suszonych owoców.",
+  "Whisky spędza do 2 lat w beczkach po Pedro Ximénez, dzięki czemu wpływ sherry jest wyraźny, ale pozostaje dobrze zbalansowany."
+]
 },
 
 {
@@ -2279,16 +2289,20 @@
   "region": "Highland",
   "abv": "43%",
   "image": "bottle_img/dalmore16_px.jpg",
+  "maturation": "16-letni Single Malt dojrzewający w beczkach z amerykańskiego białego dębu po bourbonie, a następnie finiszowany przez okres do 2 lat w beczkach po sherry Pedro Ximénez",
 
   "whenToOffer": [
-    "Klient szuka starszej wersji PX",
-    "Whisky prezentowa",
-    "Fan intensywnego sherry"
-  ],
+    "Klient lubi whisky z wyraźnym wpływem beczek po Pedro Ximénez",
+    "Dla fanów rodzynek, miodu, gorzkiej czekolady i suszonych owoców",
+    "Dla ludzi szukających limitowanych i ekskluzywnych wydań Dalmore"
+],
 
-  "maturation": "American Oak + Pedro Ximénez",
+  "howToPresent": "16-letnia edycja travel retail exclusive The Dalmore, dojrzewająca w beczkach po bourbonie z finiszem trwającym do 2 lat w beczkach po sherry Pedro Ximénez. Oferuje eleganckie połączenie słodkich rodzynek, suszonych owoców, miodu, prażonych orzechów, delikatnych nut kwiatowych oraz subtelnych przypraw. To harmonijna whisky, w której bogactwo PX doskonale współgra z charakterystycznym stylem The Dalmore.",
 
-  "howToPresent": "Bardziej dojrzała i głębsza wersja PX. Nuty suszonych owoców, karmelu i przypraw."
+"salesTip": [
+  "Pedro Ximénez należy do najsłodszych stylów sherry i nadaje whisky nuty daktyli, miodu, czekolady oraz suszonych owoców.",
+  "Whisky spędza do 2 lat w beczkach po Pedro Ximénez, dzięki czemu wpływ sherry jest wyraźny, ale pozostaje dobrze zbalansowany."
+]
 },
 
 {
@@ -2300,16 +2314,22 @@
   "region": "Highland",
   "abv": "44%",
   "image": "bottle_img/dalmore_cigarmalt.jpg",
+  "maturation": "Single Malt dojrzewający w beczkach po bourbonie z amerykańskiego białego dębu, beczkach po czerwonym winie Cabernet Sauvignon oraz beczkach po 30-letnim sherry Matusalem Oloroso",
 
   "whenToOffer": [
-    "Klient szuka whisky do cygara",
-    "Whisky premium",
-    "Prezent dla konesera"
-  ],
+    "Klient szuka whisky o bogatym i intensywnym charakterze",
+    "Idealna do degustacji z cygarami",
+    "Dla fanów czekolady, przypraw i suszonych owoców",
+    "Alternatywa dla King Alexander III dla osób preferujących bardziej gładki profil"
+],
 
-  "maturation": "American Oak + Sherry + Cabernet Sauvignon",
+  "howToPresent": "Bogaty single malt stworzony specjalnie z myślą o łączeniu z cygarami. Połączenie beczek po bourbonie, Cabernet Sauvignon oraz 30-letnim sherry Matusalem nadaje whisky nuty cynamonu, czerwonych owoców, wanilii, banoffee, gorzkiej czekolady i korzennych przypraw. Mimo intensywnego charakteru pozostaje niezwykle harmonijna i elegancka.",
 
-  "howToPresent": "Bogata, pełna i wyrazista. Stworzona z myślą o łączeniu z cygarem – nuty czekolady, przypraw i suszonych owoców."
+"salesTip": [
+  "Cigar Malt został stworzony specjalnie jako whisky do łączenia z wysokiej klasy cygarami.",
+  "The Dalmore słynie z mistrzowskiego łączenia różnych rodzajów beczek, które stanowią znak rozpoznawczy destylarni.",
+  "Travel Edition wykorzystuje tę samą recepturę co klasyczny Cigar Malt Reserve, w opakowaniu przeznaczonym dla Travel Retail."
+]
 },
 
 {
@@ -2320,14 +2340,19 @@
   "country": "Ireland",
   "abv": "40%",
   "image": "bottle_img/tullamore.webp",
+  "maturation": "Irish Blended Whiskey powstała z połączenia whiskey zbożowej, słodowej i single pot still, dojrzewających w beczkach po bourbonie oraz sherry",
 
   "whenToOffer": [
-    "Klient szuka łagodnej whisky",
-    "Alternatywa dla Jameson",
-    "Whisky do drinków"
-  ],
+    "Klient szuka łagodnej i łatwej w odbiorze irlandzkiej whiskey",
+    "Jeden z najlepszych wyborów na pierwszą irlandzką whiskey",
+    "Dla osób lubiących wanilię, karmel i delikatne przyprawy"
+],
 
-  "howToPresent": "Klasyczna irlandzka whisky – potrójnie destylowana, bardzo gładka i delikatna."
+  "howToPresent": "Klasyczna irlandzka blended whiskey łącząca trzy style: grain, malt oraz single pot still. Potrójna destylacja zapewnia wyjątkową łagodność, a dojrzewanie w beczkach po bourbonie i sherry nadaje nuty wanilii, zielonych jabłek, cytrusów, delikatnych przypraw i lekkiej słodyczy.",
+
+"salesTip": [
+  "Tullamore D.E.W. jest jedną z niewielu irlandzkich whiskey łączących trzy style: grain, malt oraz single pot still."
+]
 },
 
 {
@@ -2340,11 +2365,15 @@
   "image": "bottle_img/tullamore_honey.webp",
 
   "whenToOffer": [
-    "Klient szuka czegoś łagodniejszego",
-    "Alternatywa dla likierów miodowych"
-  ],
+    "Klient potrzebuje słodki likier na bazie whiskey i szuka bardzo łagodnego smaku",
+    "Alternatywa dla Jack Daniel's Tennessee Honey",
+    "Dla fanów miodu, wanilii i karmelu",
+    "Klient szuka whiskey do prostych drinków"
+],
 
-  "howToPresent": "Irlandzka whiskey z dodatkiem naturalnego miodu. Słodsza i bardziej przystępna."
+  "howToPresent": "Likier na bazie Tullamore D.E.W. Original, łączący potrójnie destylowaną irlandzką whiskey z naturalnym miodem z Czech. Oferuje wyjątkowo gładki i słodki profil z nutami miodu, wanilii, karmelu oraz delikatnych przypraw. Doskonale smakuje solo z lodem, w kawie lub jako baza do prostych koktajli.",
+
+
 },
 
 {
