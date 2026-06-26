@@ -2371,9 +2371,7 @@
     "Klient szuka whiskey do prostych drinków"
 ],
 
-  "howToPresent": "Likier na bazie Tullamore D.E.W. Original, łączący potrójnie destylowaną irlandzką whiskey z naturalnym miodem z Czech. Oferuje wyjątkowo gładki i słodki profil z nutami miodu, wanilii, karmelu oraz delikatnych przypraw. Doskonale smakuje solo z lodem, w kawie lub jako baza do prostych koktajli.",
-
-
+  "howToPresent": "Likier na bazie Tullamore D.E.W. Original, łączący potrójnie destylowaną irlandzką whiskey z naturalnym miodem z Czech. Oferuje wyjątkowo gładki i słodki profil z nutami miodu, wanilii, karmelu oraz delikatnych przypraw. Doskonale smakuje solo z lodem lub jako baza do prostych koktajli.",
 },
 
 {
@@ -2384,13 +2382,16 @@
   "country": "Ireland",
   "abv": "40%",
   "image": "bottle_img/tullamore12.jpg",
+  "maturation": "12-letnia Irish Blended Whiskey powstała z połączenia grain, malt oraz single pot still whiskey, dojrzewających w beczkach po bourbonie i sherry"
 
-  "whenToOffer": [
-    "Klient chce starszą irlandzką whisky",
-    "Prezent w średnim segmencie"
-  ],
+ "whenToOffer": [
+    "Klient lubi Tullamore D.E.W. Original i szuka bardziej dojrzałej wersji",
+    "Dla fanów suszonych owoców, orzechów i przypraw",
+    "Klient szuka budżetowej whisky na prezent"
+    
+],
 
-  "howToPresent": "Bardziej dojrzała wersja klasycznego Tullamore. Więcej nut wanilii i przypraw."
+  "howToPresent": "12-letnia irlandzka blended whiskey łącząca trzy style: grain, malt oraz single pot still. Dłuższe dojrzewanie w beczkach po bourbonie i sherry nadaje jej intensywniejszy charakter z nutami suszonych owoców, wanilii, orzechów i przypraw. Zachowuje charakterystyczną dla Tullamore D.E.W. gładkość."
 },
 
 {
@@ -2401,11 +2402,13 @@
   "country": "Ireland",
   "abv": "40%",
   "image": "bottle_img/bushmills.webp",
+  "maturation": "Połączenie grain i malt whiskey, potrójnie destylowanych I dojrzewających w beczkach po bourbonie"
 
   "whenToOffer": [
-    "Klient szuka delikatnej irlandzkiej whisky",
-    "Alternatywa dla Tullamore"
-  ],
+    "Klient szuka lekkiej i owocowej irlandzkiej whiskey",
+    "Dla fanów wanilii i cytrusów",
+    "Klient chce poznać klasyczny styl whiskey z najstarszej licencjonowanej destylarni w Irlandii"
+]
 
   "howToPresent": "Łagodna i lekka irlandzka whisky. Idealna do picia solo lub w drinkach."
 },
