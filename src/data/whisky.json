@@ -1959,7 +1959,7 @@
   "whenToOffer": [
     "Idealna opcja na prezent lub specjalną okazję",
     "Dla fanów whisky dojrzewających w beczkach po winie",
-    "Dla ludzi szukających limitowanych i ekskluzywnych wydań Highland park"
+    "Dla ludzi szukających limitowanych i ekskluzywnych wydań Highland park",
     "Klient lubi bogate, owocowe whisky z delikatnym torfem"
   ],
 
@@ -1983,7 +1983,7 @@
 
  "whenToOffer": [
     "Klient lubi whisky finiszowane w beczkach po maderze",
-    "Dla fanów subtelnie dymnych whisky ,
+    "Dla fanów subtelnie dymnych whisky",
     "Dla osób szukających limitowanych i ekskluzywnych edycji Jura",
     "Klient lubi bogate, owocowe i słodkie whisky"
 ],
@@ -1992,7 +1992,6 @@
 
   "salesTip": [
     "Malvasia jest najsłodszym stylem Madery i wnosi do whisky nuty miodu, suszonych owoców oraz karmelu.",
-    "No.4 powstała we współpracy z Neilem Cameronem – ogrodnikiem i pracownikiem destylarni Jura. Każda edycja Islanders' Expressions opowiada historię innego mieszkańca wyspy.",
     "Jura słynie z jednego z najdelikatniejszych stylów spośród szkockich whisky wyspiarskich, większość pozycji tej marki oferuje jedynie subtelny lub niewyczuwalny dym."
 ]
 },
@@ -2012,8 +2011,8 @@
     "Klient szuka lekkiej i łatwej w odbiorze whisky",
     "Dla fanów beczek z amerykańskiego dębu",
     "Alternatywa dla bourbonowych podstawowych single maltów",
-    "Klient lubi waniliowe, karmelowe i delikatnie słodkie whisky"
-    "Dla osób szukających limitowanych i ekskluzywnych edycji Jura",
+    "Klient lubi waniliowe, karmelowe i delikatnie słodkie whisky",
+    "Dla osób szukających limitowanych i ekskluzywnych edycji Jura"
 ],
 
   "howToPresent": "Single malt dojrzewający wyłącznie w beczkach z amerykańskiego białego dębu. Profil whisky opiera się na nutach brzoskwiń, wanilii, słonego toffi i delikatnego dębu. To jedna z najbardziej przystępnych i owocowych whisky w portfolio Jura.",
@@ -2038,7 +2037,7 @@
     "Dla fanów beczek z amerykańskiego dębu",
     "Alternatywa dla White Oak Cask dla osób szukających bardziej dojrzałego charakteru lub innych podstawowych burbonowych single maltów",
     "Dla fanów owocowych i waniliowych whisky bez wpływu sherry",
-    "Dla osób szukających limitowanych i ekskluzywnych edycji Jura",
+    "Dla osób szukających limitowanych i ekskluzywnych edycji Jura"
 ],
 
   "howToPresent": "13-letni single malt dojrzewający wyłącznie w beczkach po bourbonie z amerykańskiego dębu. Dłuższe dojrzewanie nadaje whisky bardziej złożony charakter z nutami dojrzałych cytrusów, moreli, orzecha laskowego i wanilii. To klasyczny styl Jura – harmonijny, owocowy i wyjątkowo łatwy w odbiorze.",
@@ -2066,7 +2065,7 @@
   "whenToOffer": [
     "Idealna opcja na prezent lub specjalną okazję",
     "Dla fanów whisky dojrzewających w beczkach po winie",
-    "Dla ludzi szukających limitowanych i ekskluzywnych wydań Jura"
+    "Dla ludzi szukających limitowanych i ekskluzywnych wydań Jura",
     "Klient lubi bogate, owocowe whisky z delikatnym torfem"
 ],
 
@@ -2124,7 +2123,7 @@
   "howToPresent": "12-letnia edycja travel retail exclusive Glenmoragie, dojrzewająca w beczkach po bourbonie z finiszem w beczkach po sherry Oloroso. Łączy charakterystyczną dla Glenmorangie lekkość i owocowość z bogatymi nutami suszonych owoców, daktyli, toffi, mlecznej czekolady i cappuccino. To harmonijna whisky, w której wpływ sherry wzbogaca destylat, nie dominując jego eleganckiego charakteru.",
 
 "salesTip": [
-  "Glenmorangie wykorzystuje najwyższe alembiki w Szkocji (5,14 m), dzięki czemu destylat jest wyjątkowo lekki i owocowy.",
+  "Glenmorangie wykorzystuje najwyższe alembiki w Szkocji (5,14 m), dzięki czemu destylat jest wyjątkowo lekki i owocowy."
 ]
 },
 
@@ -2164,20 +2163,16 @@
   "maturation": "16-letni Single Malt  dojrzewający w beczkach po bourbonie oraz finiszowany w beczkach po Maderze Malmsey",
 
   "whenToOffer": [
-  "Klient lubi whisky finiszowane w beczkach po Maderze",
-  "Alternatywa dla Glenmorangie Accord dla osób preferujących nuty owocowe zamiast sherry",
-  "Dla fanów kandyzowanej skórki pomarańczy, miodu i mlecznej czekolady",
-  "Klient szuka limitowanej edycji Travel Retail"
+  "Klient szuka whisky finiszowane w beczkach po maderze",
+  "Klient lubi bogate, owocowe i słodkie whisky",
+  "Dla ludzi szukających limitowanych i ekskluzywnych wydań Glenmoragie"
 ],
 
-  "howToPresent": "16-letni single malt inspirowany świętem winobrania na Maderze – Vindima. Powstał z połączenia whisky dojrzewającej w beczkach po bourbonie oraz whisky finiszowanej w beczkach po słodkiej Maderze Malmsey. Oferuje bogate nuty miodu, pieczonych brzoskwiń, kandyzowanej skórki pomarańczy, rodzynek, mlecznej czekolady i korzennych przypraw, zachowując charakterystyczną dla Glenmorangie elegancję.",
+  "howToPresent": "16-letnia edycja travel retail exclusive Glenmoragie dojrzewająca w beczkach po bourbonie oraz finiszowanej w beczkach po słodkiej Maderze Malmsey. Oferuje nuty miodu, pieczonych brzoskwiń, suszonych owoców, karmelu i przypraw, zachowując charakterystyczną dla Glenmorangie elegancję.",
 
 "salesTip": [
-  "Malmsey to najsłodszy styl Madery, nadający whisky nuty miodu, kandyzowanych owoców i czekolady.",
-  "Whisky łączy destylat dojrzewający w beczkach po bourbonie z whisky finiszowaną w beczkach po Maderze Malmsey.",
-  "Glenmorangie wykorzystuje najwyższe alembiki w Szkocji (5,14 m), dzięki czemu destylat pozostaje lekki i owocowy.",
-  "The Vindima została stworzona wyłącznie dla kanału Travel Retail.",
-  "Nazwa nawiązuje do tradycyjnego święta winobrania na wyspie Madera."
+  "Malmsey to najsłodszy styl Madery, nadający whisky nuty miodu, suszonych owoców i karmelu.",
+  "Glenmorangie wykorzystuje najwyższe alembiki w Szkocji (5,14 m), dzięki czemu destylat pozostaje lekki i owocowy."
 ]
 },
 
@@ -2190,15 +2185,20 @@
   "region": "Highland",
   "abv": "43%",
   "image": "bottle_img/glenmorangie18_infinita.webp",
+  "maturation": "18-letni Single Malt powstały z połączenia whisky dojrzewających w beczkach po bourbonie oraz whisky z beczek po sherry Oloroso",
 
   "whenToOffer": [
-    "Klient szuka whisky premium",
-    "Prezent wysokiej klasy"
-  ],
+    "Klient szuka eleganckiej whisky premium o wyjątkowej równowadze między bourbonem a sherry",
+    "Alternatywa dla Glenmorangie Signet dla osób preferujących klasyczny profil",
+    "Dla fanów miodu, suszonych owoców, przypraw i delikatnych nut kwiatowych",
+    "Klient szuka whisky na wyjątkowy prezent lub specjalną okazję"
+],
 
-  "maturation": "American Oak + Oloroso Sherry",
+  "howToPresent": "18-letni single malt, który powstaje z połączenia whisky dojrzewających w beczkach po bourbonie i sherry Oloroso. Nuty miodu, suszonych moreli, fig, kwiatów, przypraw i delikatnej czekolady tworzą bogatą, ale niezwykle subtelną kompozycję.",
 
-  "howToPresent": "Elegancka, głęboka i harmonijna. Nuty suszonych owoców, miodu i przypraw."
+  "salesTip": [
+    "Glenmorangie wykorzystuje najwyższe alembiki w Szkocji (5,14 m), dzięki czemu destylat jest wyjątkowo lekki i owocowy."
+]
 },
 
 {
@@ -2210,16 +2210,22 @@
   "region": "Highland",
   "abv": "46%",
   "image": "bottle_img/glenmorangie_signet.webp",
+  "maturation": "Single Malt powstały z połączenia destylatów dojrzewających w beczkach po bourbonie, sherry oraz nowych, mocno opalanych beczkach z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient szuka czegoś wyjątkowego",
-    "Prezent luksusowy",
-    "Whisky dla kolekcjonera"
-  ],
+    "Dla fanów kawy i gorzkiej czekolady",
+    "Alternatywa dla inych whisky premium",
+    "Klient szuka whisky premium na wyjątkowy prezent lub specjalną okazję",
+    "Dla ludzi szukających limitowanych i ekskluzywnych wydań Glenmoragie"
+],
 
-  "maturation": "Specjalnie wypalane beczki + unikalne prażone słody",
+  "howToPresent": "Wyjątkowy single malt stworzony z udziałem rzadko stosowanego słodu Chocolate Malt, który nadaje whisky charakterystyczne nuty espresso, gorzkiej czekolady i palonej kawy. Dojrzewa w połączeniu beczek po bourbonie, sherry oraz nowych mocno opalanych beczek z amerykańskiego dębu, tworząc niezwykle złożony i elegancki profil.",
 
-  "howToPresent": "Flagowa i najbardziej luksusowa pozycja Glenmorangie. Intensywne nuty kawy, czekolady i przypraw."
+  "salesTip": [
+    "Signet powstaje z wykorzystaniem Chocolate Malt – mocno prażonego słodu jęczmiennego, rzadko stosowanego w produkcji whisky.",
+    "Glenmorangie wykorzystuje najwyższe alembiki w Szkocji (5,14 m), dzięki czemu nawet tak bogata whisky zachowuje elegancję i lekkość.",
+    "Signet jest uznawana za jedną z najbardziej innowacyjnych i rozpoznawalnych whisky premium w portfolio Glenmorangie."
+]
 },
 
 {
