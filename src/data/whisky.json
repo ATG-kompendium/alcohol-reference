@@ -2471,22 +2471,18 @@
   "country": "Ireland",
   "abv": "46%",
   "image": "bottle_img/bushmills15.webp",
-  "maturation": "15-letni Irish Single Malt dojrzewający w beczkach first-fill oraz second-fill po bourbonie z amerykańskiego białego dębu",
+  "maturation": "Irish Single Malt dojrzewający w beczkach first-fill oraz second-fill po bourbonie z amerykańskiego białego dębu",
 
   "whenToOffer": [
-    "Klient chce poznać wpływ beczek first-fill i second-fill po bourbonie",
-    "Alternatywa dla Bushmills 10 dla osób szukających większej głębi i intensywności",
+    "Klient lubi bardzo intensywne whisky",
     "Dla fanów wanilii, moreli, miodu i prażonych orzechów",
-    "Klient szuka ekskluzywnej edycji Travel Retail"
+    "Dla ludzi szukających limitowanych i ekskluzywnych wydań Bushmills"
 ],
 
   "howToPresent": "15-letni Irish Single Malt dojrzewający wyłącznie w beczkach po bourbonie z amerykańskiego białego dębu. Połączenie beczek first-fill i second-fill pozwala zachować charakterystyczną dla Bushmills owocowość, jednocześnie wzbogacając whisky o intensywne nuty wanilii, miodu, moreli, karmelu oraz prażonych orzechów.",
 
   "salesTip": [
-    "First-fill bourbon casks nadają intensywne nuty wanilii, karmelu i słodkiego dębu.",
-    "Second-fill bourbon casks zachowują więcej owocowego charakteru destylatu i zapewniają lepszą równowagę.",
     "Bushmills jest najstarszą licencjonowaną destylarnią whiskey na świecie – licencję otrzymała w 1608 roku."
-
 ]
 },
 
@@ -2499,24 +2495,15 @@
   "region": "Islay",
   "abv": "43%",
   "image": "bottle_img/smokehead_trex.webp",
-  "maturation": "Single Malt z Islay dojrzewający w dębowych beczkach",
+  "maturation": "Dojrzewa w dębowych beczkach",
 
   "whenToOffer": [
     "Klient szuka intensywnie torfowej whisky z Islay",
-    "Alternatywa dla Ardbeg 10 lub Laphroaig 10",
-    "Dla fanów dymu, jodu, smoły i morskiego charakteru",
-    "Klient szuka ekskluzywnej edycji Travel Retail"
+    "Alternatywa dl popularnych marek z Islay",
+    "Dla fanów dymu, jodu, smoły i morskiego charakteru"
 ],
 
-  "howToPresent": "Travel Retail Exclusive Single Malt z Islay o intensywnie torfowym charakterze. Oferuje wyraźne nuty dymu, jodu, smoły, soli morskiej oraz cytrusów i miodu. Mimo potężnego torfowego charakteru zachowuje dobrą równowagę dzięki subtelnej owocowej słodyczy.",
-
-  "salesTip": [
-    "Smokehead to marka należąca do Ian Macleod Distillers – destylarnia, z której pochodzi whisky, nie jest oficjalnie ujawniana.",
-    "Extra Rare powstała jako ekskluzywna edycja przeznaczona wyłącznie dla kanału Travel Retail.",
-    "Whisky reprezentuje klasyczny styl południowego Islay – intensywnie torfowy, morski i dymny.",
-    "Pomimo nazwy Extra Rare nie oznacza wieku whisky, lecz bardziej intensywny charakter względem podstawowej wersji Smokehead.",
-    "Marka Smokehead została stworzona z myślą o miłośnikach mocno torfowych whisky, oferując nowoczesne podejście do klasycznego stylu Islay."
-]
+  "howToPresent": "Travel Retail Exclusive Single Malt z Islay o intensywnie torfowym charakterze. Oferuje wyraźne nuty dymu, jodu, smoły, soli morskiej oraz cytrusów i miodu. Mimo potężnego torfowego charakteru zachowuje dobrą równowagę dzięki subtelnej owocowej słodyczy."
 },
 
 {
@@ -2531,9 +2518,9 @@
 
   "whenToOffer": [
     "Klient szuka klasycznej irlandzkiej whiskey o wyjątkowo łagodnym charakterze",
-    "Jeden z najlepszych wyborów na pierwszą irlandzką whiskey",
-    "Alternatywa dla Tullamore D.E.W. Original",
-    "Dla fanów wanilii, przypraw, orzechów i delikatnych nut sherry"
+    "Jeden z najlepszych wyborów na pierwszą whiskey",
+    "Alternatywa dla innych podstawowych blended whisky",
+    "Dla fanów świeżych, gładkich, łagodnych whiskey"
 ],
 
   "howToPresent": "Klasyczna irlandzka blended whiskey łącząca single pot still whiskey oraz grain whiskey. Potrójna destylacja zapewnia wyjątkową gładkość, a dojrzewanie w beczkach po bourbonie i sherry nadaje nuty wanilii, przypraw, zielonego jabłka, delikatnej słodyczy i subtelnych akcentów słodu. To najbardziej rozpoznawalna irlandzka whiskey na świecie.",
@@ -2541,8 +2528,6 @@
   "salesTip": [
   "Jameson jest najlepiej sprzedającą się irlandzką whiskey na świecie.",
   "Powstaje z połączenia single pot still whiskey oraz grain whiskey, bez dodatku single malt.",
-  "Potrójna destylacja nadaje whiskey wyjątkową gładkość i łagodny charakter.",
-  "Dojrzewanie w beczkach po bourbonie i sherry zapewnia równowagę między wanilią, przyprawami i delikatnymi nutami owocowymi.",
   "Produkowana jest w Midleton Distillery – jednej z największych i najnowocześniejszych destylarni whiskey na świecie."
 ]
 },
@@ -2555,23 +2540,20 @@
   "country": "Ireland",
   "abv": "40%",
   "image": "bottle_img/jameson_marsala.webp",
-  "maturation": "Irish Blended Whiskey powstała z połączenia single pot still whiskey oraz grain whiskey, dojrzewających w trzech rodzajach beczek: po bourbonie, sherry Oloroso oraz sycylijskim winie Marsala",
+  "maturation": "Irish Blended Whiskey, dojrzewająca w trzech rodzajach beczek: po bourbonie, sherry oraz sycylijskim winie Marsala",
 
   "whenToOffer": [
     "Klient lubi whiskey dojrzewające w beczkach po winach wzmacnianych",
    "Alternatywa dla Jameson Original dla osób szukających bogatszego i bardziej owocowego charakteru",
     "Dla fanów moreli, karmelizowanych jabłek, orzechów włoskich i egzotycznych owoców",
-    "Klient szuka ekskluzywnej edycji Travel Retail"
+    "Dla ludzi szukających limitowanych i ekskluzywnych wydań Jameson"
 ],
 
-  "howToPresent": "Irlandzka blended whiskey dojrzewająca w trzech rodzajach beczek: po bourbonie, sherry Oloroso oraz sycylijskim winie Marsala. Marsala nadaje whiskey bogate nuty suszonej moreli, banana, kiwi i karmelizowanego cukru, podczas gdy beczki po bourbonie i sherry zapewniają wanilię, orzechy oraz delikatne przyprawy. Efektem jest wyjątkowo owocowa i kremowa interpretacja klasycznego Jamesona.",
+  "howToPresent": "Irlandzka blended whiskey łącząca single pot still whiskey oraz grain whiskey. Dojrzewająca w trzech rodzajach beczek: po bourbonie, sherry oraz sycylijskim winie Marsala. Marsala nadaje whiskey bogate nuty suszonych owoców, orzechów i podczas gdy beczki po bourbonie i sherry zapewniają wanilię, orzechy oraz delikatne przyprawy. Efektem jest wyjątkowo owocowa i kremowa interpretacja klasycznego Jamesona.",
 
   "salesTip": [
-    "Nazwa Triple Triple odnosi się do potrójnej destylacji oraz dojrzewania w trzech rodzajach beczek: po bourbonie, sherry Oloroso i Marsali.",
-    "Beczki po sycylijskim winie Marsala nadają whiskey nuty suszonej moreli, egzotycznych owoców i karmelizowanego cukru.",
     "Jameson jest najlepiej sprzedającą się irlandzką whiskey na świecie.",
-    "Produkowana jest w Midleton Distillery – jednej z największych destylarni whiskey na świecie.",
-    "To limitowana edycja stworzona wyłącznie dla kanału Global Travel Retail."
+    "Produkowana jest w Midleton Distillery – jednej z największych destylarni whiskey na świecie."
 ]
 },
 
@@ -2583,23 +2565,20 @@
   "country": "Ireland",
   "abv": "40%",
   "image": "bottle_img/jameson_malaga.webp",
-  "maturation": "Irish Blended Whiskey powstała z połączenia single pot still whiskey oraz grain whiskey, dojrzewających w trzech rodzajach beczek: po bourbonie, sherry Oloroso oraz winie Málaga",
+  "maturation": "Irish Blended Whiskey dojrzewająca w trzech rodzajach beczek: po bourbonie, sherry oraz winie Málaga",
 
   "whenToOffer": [
     "Klient lubi whiskey dojrzewające w beczkach po winach wzmacnianych",
     "Alternatywa dla Jameson Original dla osób szukających bardziej owocowego charakteru",
     "Dla fanów gruszek, śliwek, rodzynek i ciemnej czekolady",
-    "Klient szuka ekskluzywnej edycji Travel Retail"
+    "Dla ludzi szukających limitowanych i ekskluzywnych wydań Jameson"
 ],
 
-  "howToPresent": "Irlandzka blended whiskey dojrzewająca w trzech rodzajach beczek: po bourbonie, sherry Oloroso oraz winie Málaga. Beczki po Máladze nadają whiskey soczyste nuty gruszki, ciemnych owoców, rodzynek i skórki cytrusowej, a także delikatną słodycz, która doskonale uzupełnia klasyczny charakter Jamesona.",
+  "howToPresent": "Irlandzka blended whiskey łącząca single pot still whiskey oraz grain whiskey. Dojrzewająca w trzech rodzajach beczek: po bourbonie, sherry oraz winie Málaga. Beczki po Máladze nadają whiskey soczyste nuty gruszki, ciemnych owoców i skórki cytrusowej, a także delikatną słodycz, która doskonale uzupełnia klasyczny charakter Jamesona.",
 
   "salesTip": [
-    "Nazwa Triple Triple odnosi się do potrójnej destylacji oraz dojrzewania w trzech rodzajach beczek.",
-    "Beczki po winie Málaga nadają whiskey nuty gruszki, ciemnych owoców, rodzynek oraz skórki cytrusowej.",
     "Jameson jest najlepiej sprzedającą się irlandzką whiskey na świecie.",
-    "Produkowana jest w Midleton Distillery – jednej z największych destylarni whiskey na świecie.",
-    "Triple Triple Málaga Cask Edition została stworzona wyłącznie dla kanału Global Travel Retail."
+    "Produkowana jest w Midleton Distillery – jednej z największych destylarni whiskey na świecie."
 ]
 },
 
@@ -2611,23 +2590,19 @@
   "country": "Ireland",
   "abv": "40%",
   "image": "bottle_img/jameson_barrel.webp",
-  "maturation": "Irish Blended Whiskey powstała z połączenia single pot still whiskey oraz small batch grain whiskey, dojrzewających w beczkach po bourbonie, sherry oraz ponownie opalanych beczkach po bourbonie (double charred)",
+  "maturation": "Irish Blended Whiskey dojrzewająca w beczkach po bourbonie, sherry oraz ponownie opalanych beczkach po bourbonie (double charred)",
 
   "whenToOffer": [
     "Klient lubi Jameson Original i szuka bogatszej oraz bardziej beczkowej wersji",
-    "Alternatywa dla Tullamore D.E.W. 12",
-    "Dla fanów wanilii, karmelu, toffi i przypraw dębowych",
-    "Klient szuka whiskey do degustacji solo zamiast do drinków"
+    "Alternatywa dla bourbonów (whiskey amerykańskiej)",
+    "Dla fanów wanilii, karmelu, toffi i przypraw"
 ],
 
   "howToPresent": "Irlandzka blended whiskey o wyższym udziale single pot still whiskey, dojrzewająca w beczkach po bourbonie, sherry oraz ponownie opalanych beczkach po bourbonie. Dodatkowe opalenie beczek wzmacnia nuty wanilii, karmelu, toffi i prażonego dębu, zachowując charakterystyczną dla Jamesona gładkość.",
 
   "salesTip": [
     "Jameson Black Barrel zawiera większy udział single pot still whiskey niż Jameson Original.",
-    "Ponownie opalane beczki po bourbonie (double charred) nadają whiskey intensywniejsze nuty wanilii, karmelu, toffi i prażonego dębu.",
-    "Nazwa Black Barrel jest hołdem dla bednarzy, którzy ponownie opalają beczki, aby wydobyć z drewna więcej aromatów.",
-    "Produkowana jest w Midleton Distillery – jednej z największych destylarni whiskey na świecie.",
-    "To jedna z najbardziej cenionych whiskey w portfolio Jameson, szczególnie do degustacji solo."
+    "Produkowana jest w Midleton Distillery – jednej z największych destylarni whiskey na świecie."
 ]
 },
 
@@ -2639,23 +2614,20 @@
   "country": "Ireland",
   "abv": "40%",
   "image": "bottle_img/midleton.webp",
-  "maturation": "Premium Irish Blended Whiskey tworzona z ręcznie wyselekcjonowanych single pot still oraz single grain whiskey dojrzewających od około 12 do ponad 20 lat w lekko opalanych beczkach po bourbonie z amerykańskiego dębu",
+  "maturation": " Irish Blended Whiskey dojrzewającyca od około 12 do ponad 20 lat w lekko opalanych beczkach po bourbonie z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient szuka jednej z najbardziej prestiżowych irlandzkich whiskey",
+    "Klient szuka niezwykle gładkiej. zbalansowanej i złożonej whisky",
     "Dla kolekcjonerów limitowanych roczników",
-    "Alternatywa dla Redbreast 21 lub Bushmills 21",
+    "Alternatywa dla innych whisky premium",
     "Klient szuka wyjątkowej whiskey na prezent lub specjalną okazję"
 ],
 
-  "howToPresent": "Midleton Very Rare to corocznie tworzona edycja premium, komponowana z ręcznie wybranych single pot still oraz single grain whiskey. Każdy rocznik jest unikalny, jednak zawsze zachowuje charakterystyczny styl marki – elegancki, złożony i doskonale zbalansowany. W profilu dominują nuty miodu, wanilii, owoców sadowniczych, delikatnych przypraw oraz subtelnego wpływu amerykańskiego dębu.",
+  "howToPresent": "Midleton Very Rare to corocznie tworzona edycja premium, komponowana z ręcznie wybranych single pot still oraz single grain whiskey. Każdy rocznik jest unikalny, jednak zawsze zachowuje charakterystyczny styl marki, elegancki, gładki, złożony i doskonale zbalansowany. W profilu dominują nuty miodu, wanilii, owoców, delikatnych przypraw.",
 
   "salesTip": [
     "Każdy rocznik Midleton Very Rare jest tworzony od podstaw przez Master Distillera i ma własny, niepowtarzalny profil smakowy.",
-    "Do produkcji wybierane są wyłącznie najlepsze beczki single pot still i single grain whiskey dojrzewające od około 12 do ponad 20 lat.",
-    "Whiskey dojrzewa wyłącznie w lekko opalanych beczkach po bourbonie z amerykańskiego dębu, co pozwala zachować elegancki charakter destylatu.",
-    "Każda butelka jest indywidualnie numerowana i podpisana przez Master Distillera.",
-    "Midleton Very Rare jest uznawana za flagową i najbardziej prestiżową whiskey produkowaną przez Irish Distillers."
+    "Midleton Very Rare jest uznawana za flagową i najbardziej prestiżową whiskey."
 ]
 },
 
@@ -2670,10 +2642,10 @@
   "maturation": "12-letnia Irish Single Pot Still Whiskey dojrzewająca w beczkach po bourbonie z amerykańskiego dębu oraz beczkach po sherry Oloroso z hiszpańskiego dębu",
 
   "whenToOffer": [
-    "Klient chce poznać klasyczny styl Irish Single Pot Still",
-    "Alternatywa dla Jameson Black Barrel dla osób szukających większej złożoności",
-    "Dla fanów kremowych whiskey z nutami przypraw, sherry i suszonych owoców",
-    "Klient szuka jednej z najbardziej cenionych irlandzkich whiskey"
+    "Klient chce spróbować klasyczny Irish Single Pot Still",
+    "Alternatywa dla szkockich single maltów",
+    "Dla fanów kremowych whiskey z nutami przypraw i suszonych owoców",
+    "Klient szuka whiskey na prezent lub specjalną okazję"
 ],
 
   "howToPresent": "12-letnia Irish Single Pot Still Whiskey produkowana z mieszanki słodowanego i niesłodowanego jęczmienia oraz potrójnie destylowana w tradycyjnych alembikach. Dojrzewanie w beczkach po bourbonie i sherry Oloroso nadaje jej bogaty, kremowy charakter z nutami suszonych owoców, przypraw korzennych, wanilii, orzechów i delikatnego wpływu sherry.",
