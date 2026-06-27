@@ -2652,10 +2652,7 @@
 
   "salesTip": [
     "Redbreast jest najlepiej sprzedającą się na świecie Irish Single Pot Still Whiskey.",
-    "Single Pot Still to styl charakterystyczny wyłącznie dla Irlandii, produkowany z mieszanki słodowanego i niesłodowanego jęczmienia.",
-    "Dojrzewanie w beczkach po bourbonie i sherry Oloroso zapewnia równowagę między kremową wanilią, przyprawami i nutami suszonych owoców.",
-    "Potrójna destylacja oraz wysoki udział niesłodowanego jęczmienia nadają whiskey charakterystyczną kremową, lekko oleistą teksturę.",
-    "Produkowana jest w Midleton Distillery – tej samej destylarni co Jameson, ale reprezentuje zupełnie inny styl whiskey."
+    "Single Pot Still to styl charakterystyczny wyłącznie dla Irlandii, produkowany z mieszanki słodowanego i niesłodowanego jęczmienia."
 ]
 },
 
@@ -2665,26 +2662,18 @@
   "subtitle": "Single Malt · Ireland · Travel Retail",
   "category": "whisky-irish",
   "country": "Ireland",
-  "abv": "40%",
+  "abv": "43%",
   "image": "bottle_img/sexton11.webp",
   "maturation": "11-letni Irish Single Malt dojrzewający wyłącznie w beczkach z francuskiego dębu sezonowanych sherry Oloroso",
 
   "whenToOffer": [
-    "Klient lubi whisky dojrzewające wyłącznie w beczkach po sherry",
-    "Alternatywa dla Bushmills 10 Sherry Cask dla osób szukających bardziej intensywnego wpływu sherry",
+    "Klient lubi whisky dojrzewające w beczkach po sherry",
+    "Alternatywa dla Szkockich sherry bomb",
     "Dla fanów suszonych owoców, gorzkiej czekolady i orzechów",
-    "Klient szuka ekskluzywnej edycji Global Travel Retail"
+    "Klient szuka ekskluzywnych edycji Global Travel Retail"
 ],
 
   "howToPresent": "11-letni Irish Single Malt produkowany w 100% ze słodowanego jęczmienia i potrójnie destylowany. Whisky dojrzewa wyłącznie w beczkach z francuskiego dębu sezonowanych sherry Oloroso, dzięki czemu oferuje bogaty profil z nutami rodzynek, daktyli, ciemnej czekolady, orzechów, crème brûlée i korzennych przypraw, zachowując charakterystyczną dla irlandzkiej whiskey gładkość.",
-
-  "salesTip": [
-    "To pierwsza whiskey The Sexton z deklaracją wieku – 11 lat.",
-    "Whisky dojrzewa wyłącznie w beczkach z francuskiego dębu sezonowanych sherry Oloroso z hiszpańskiej bodegi Antonio Páez Lobato.",
-    "Master Blender Alex Thomas stworzyła tę edycję wyłącznie dla kanału Global Travel Retail.",
-    "Potrójna destylacja zapewnia wyjątkową gładkość, mimo intensywnego wpływu beczek po sherry.",
-    "The Sexton 11 Year Old jest produkowana ze 100% słodowanego jęczmienia i reprezentuje klasyczny styl Irish Single Malt."
-]
 },
 
 {
@@ -2695,23 +2684,19 @@
   "country": "Ireland",
   "abv": "40%",
   "image": "bottle_img/connemara.webp",
-  "maturation": "Irish Single Malt Whiskey destylowana dwukrotnie i dojrzewająca w beczkach po bourbonie z amerykańskiego dębu",
+  "maturation": "Irish Single Malt Whiskey dojrzewająca w beczkach po bourbonie z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient chce spróbować torfowej whiskey spoza Szkocji",
-    "Alternatywa dla Talisker 10 dla osób preferujących łagodniejszy dym",
-    "Dla fanów miodu, wanilii i delikatnego torfu",
-    "Klient szuka pomostu pomiędzy klasyczną irlandzką whiskey a whisky z Islay"
+    "Klient chce spróbować torfowej whiskey",
+    "Alternatywa dla szkockich dymnych whisky dla osób preferujących łagodniejszy dym",
+    "Dobry wybór na pierwszą dymną whisky"
 ],
 
-  "howToPresent": "Irlandzka Single Malt Whiskey inspirowana dawną tradycją suszenia słodu nad ogniem torfowym. Dwukrotna destylacja oraz dojrzewanie w beczkach po bourbonie tworzą wyjątkowe połączenie delikatnego torfowego dymu z nutami miodu, wanilii, jabłek, gruszek i świeżego słodu. W porównaniu z torfowymi whisky z Islay oferuje łagodniejszy, bardziej owocowy i ziołowy charakter.",
+  "howToPresent": "Irlandzka Single Malt Whiskey inspirowana dawną tradycją suszenia słodu torfem. Dwukrotna destylacja oraz dojrzewanie w beczkach po bourbonie tworzą wyjątkowe połączenie delikatnego torfowego dymu z nutami wanilii, jabłek, gruszek słodu. W porównaniu z torfowymi whisky z Islay oferuje łagodniejszy charakter.",
 
   "salesTip": [
     "Connemara jest jedyną szeroko dostępną torfową Irish Single Malt Whiskey.",
-    "W przeciwieństwie do większości irlandzkich whiskey jest destylowana dwukrotnie, co nadaje jej pełniejszy charakter.",
-    "Słód suszony nad torfem nadaje whiskey delikatny dym, który jest bardziej ziołowy i miodowy niż w whisky z Islay.",
-    "Whiskey dojrzewa w beczkach po bourbonie z amerykańskiego dębu, które podkreślają nuty wanilii i miodu.",
-    "Connemara pokazuje historyczny styl irlandzkiej whiskey – przed XIX wiekiem torf był w Irlandii znacznie częściej wykorzystywany do suszenia słodu."
+    "W przeciwieństwie do większości irlandzkich whiskey jest destylowana dwukrotnie, co nadaje jej pełniejszy charakter."
 ]
 },
 
