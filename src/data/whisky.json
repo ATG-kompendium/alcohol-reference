@@ -2371,7 +2371,7 @@
     "Klient szuka whiskey do prostych drinków"
 ],
 
-  "howToPresent": "Likier na bazie Tullamore D.E.W. Original, łączący potrójnie destylowaną irlandzką whiskey z naturalnym miodem z Czech. Oferuje wyjątkowo gładki i słodki profil z nutami miodu, wanilii, karmelu oraz delikatnych przypraw. Doskonale smakuje solo z lodem lub jako baza do prostych koktajli.",
+  "howToPresent": "Likier na bazie Tullamore D.E.W. Original, łączący potrójnie destylowaną irlandzką whiskey z naturalnym miodem z Czech. Oferuje wyjątkowo gładki i słodki profil z nutami miodu, wanilii, karmelu oraz delikatnych przypraw. Doskonale smakuje solo z lodem lub jako baza do prostych koktajli."
 },
 
 {
@@ -2433,9 +2433,10 @@
  "howToPresent": "Travel retail exclusive Bushmills oparty na proporcji 80% single malt whiskey i 20% Irish grain whiskey. Finiszowany w beczkach po sherry Pedro Ximénez, które nadają whiskey nuty rodzynek, dojrzałych brzoskwiń, prażonych orzechów i aksamitną słodycz. Zachowuje charakterystyczną dla Bushmills wyjątkową gładkość dzięki potrójnej destylacji.",
 
 "salesTip": [
-  "80 oznacza udział single malt whiskey, a 20 – small batch Irish grain whiskey.",
+  "80 oznacza udział single malt whiskey, a 20 small batch Irish grain whiskey.",
   "Pedro Ximénez należy do najsłodszych stylów sherry i nadaje whisky nuty daktyli, miodu, czekolady oraz suszonych owoców.",
-  "Bushmills jest najstarszą licencjonowaną destylarnią whiskey na świecie – licencję otrzymała w 1608 roku."
+  "Bushmills jest najstarszą licencjonowaną destylarnią whiskey na świecie, licencję otrzymała w 1608 roku."
+  ]
 },
 
 {
@@ -2444,15 +2445,22 @@
   "subtitle": "Single Malt · Ireland · Travel Retail",
   "category": "whisky-irish",
   "country": "Ireland",
-  "abv": "40%",
+  "abv": "46%",
   "image": "bottle_img/bushmills10_sherry.webp",
+  "maturation": "10-letni Irish Single Malt dojrzewający w beczkach po bourbonie z amerykańskiego dębu, a następnie finiszowany w beczkach po sherry Oloroso",
 
   "whenToOffer": [
-    "Klient chce single malt z Irlandii",
-    "Fan sherry"
-  ],
+    "Klient lubi intensywne i bardzo owocowe whisky",
+    "Alternatywa dla sherry single maltów",
+    "Dla fanów whisky z wyraźnym wpływem beczek po sherry",
+    "Dla ludzi szukających limitowanych i ekskluzywnych wydań Bushmills"
+],
 
-  "howToPresent": "Irlandzki single malt z wyraźnym wpływem sherry – łagodny i owocowy."
+  "howToPresent": "10-letni Irish Single Malt dojrzewający w beczkach po bourbonie, a następnie finiszowany w beczkach po sherry Oloroso. Łączy charakterystyczną dla Bushmills owocowość i delikatność z nutami suszonych owoców, orzechów, skórki pomarańczy, migdałów i przypraw. Wyższa moc 46% podkreśla bogactwo smaku.",
+
+  "salesTip": [
+  "Bushmills jest najstarszą licencjonowaną destylarnią whiskey na świecie, licencję otrzymała w 1608 roku."
+]
 },
 
 {
@@ -2461,18 +2469,25 @@
   "subtitle": "Single Malt · Ireland",
   "category": "whisky-irish",
   "country": "Ireland",
-  "abv": "40%",
+  "abv": "46%",
   "image": "bottle_img/bushmills15.webp",
+  "maturation": "15-letni Irish Single Malt dojrzewający w beczkach first-fill oraz second-fill po bourbonie z amerykańskiego białego dębu",
 
   "whenToOffer": [
-    "Klient szuka bardziej dojrzałej irlandzkiej whisky",
-    "Fan bourbon cask influence",
-    "Prezent premium"
-  ],
+    "Klient chce poznać wpływ beczek first-fill i second-fill po bourbonie",
+    "Alternatywa dla Bushmills 10 dla osób szukających większej głębi i intensywności",
+    "Dla fanów wanilii, moreli, miodu i prażonych orzechów",
+    "Klient szuka ekskluzywnej edycji Travel Retail"
+],
 
-  "maturation": "First Fill Bourbon Casks",
+  "howToPresent": "15-letni Irish Single Malt dojrzewający wyłącznie w beczkach po bourbonie z amerykańskiego białego dębu. Połączenie beczek first-fill i second-fill pozwala zachować charakterystyczną dla Bushmills owocowość, jednocześnie wzbogacając whisky o intensywne nuty wanilii, miodu, moreli, karmelu oraz prażonych orzechów.",
 
-  "howToPresent": "Bardziej złożona i waniliowa wersja Bushmills. Delikatna, ale z głębią."
+  "salesTip": [
+    "First-fill bourbon casks nadają intensywne nuty wanilii, karmelu i słodkiego dębu.",
+    "Second-fill bourbon casks zachowują więcej owocowego charakteru destylatu i zapewniają lepszą równowagę.",
+    "Bushmills jest najstarszą licencjonowaną destylarnią whiskey na świecie – licencję otrzymała w 1608 roku."
+
+]
 },
 
 {
@@ -2484,16 +2499,24 @@
   "region": "Islay",
   "abv": "43%",
   "image": "bottle_img/smokehead_trex.webp",
+  "maturation": "Single Malt z Islay dojrzewający w dębowych beczkach",
 
   "whenToOffer": [
-    "Klient szuka bardzo torfowej whisky",
-    "Alternatywa dla Ardbeg",
-    "Fan intensywnego dymu"
-  ],
+    "Klient szuka intensywnie torfowej whisky z Islay",
+    "Alternatywa dla Ardbeg 10 lub Laphroaig 10",
+    "Dla fanów dymu, jodu, smoły i morskiego charakteru",
+    "Klient szuka ekskluzywnej edycji Travel Retail"
+],
 
-  "maturation": "American Oak",
+  "howToPresent": "Travel Retail Exclusive Single Malt z Islay o intensywnie torfowym charakterze. Oferuje wyraźne nuty dymu, jodu, smoły, soli morskiej oraz cytrusów i miodu. Mimo potężnego torfowego charakteru zachowuje dobrą równowagę dzięki subtelnej owocowej słodyczy.",
 
-  "howToPresent": "Bardzo intensywna, dymna i torfowa whisky z Islay. Wyrazista, morska i zdecydowana."
+  "salesTip": [
+    "Smokehead to marka należąca do Ian Macleod Distillers – destylarnia, z której pochodzi whisky, nie jest oficjalnie ujawniana.",
+    "Extra Rare powstała jako ekskluzywna edycja przeznaczona wyłącznie dla kanału Travel Retail.",
+    "Whisky reprezentuje klasyczny styl południowego Islay – intensywnie torfowy, morski i dymny.",
+    "Pomimo nazwy Extra Rare nie oznacza wieku whisky, lecz bardziej intensywny charakter względem podstawowej wersji Smokehead.",
+    "Marka Smokehead została stworzona z myślą o miłośnikach mocno torfowych whisky, oferując nowoczesne podejście do klasycznego stylu Islay."
+]
 },
 
 {
@@ -2504,14 +2527,24 @@
   "country": "Ireland",
   "abv": "40%",
   "image": "bottle_img/jameson.webp",
+  "maturation": "Irish Blended Whiskey potrójnie destylowana i dojrzewająca minimum 3 lata w beczkach po bourbonie oraz sherry",
 
   "whenToOffer": [
-    "Klient szuka klasycznej irlandzkiej whisky",
-    "Whisky do drinków",
-    "Alternatywa dla Tullamore"
-  ],
+    "Klient szuka klasycznej irlandzkiej whiskey o wyjątkowo łagodnym charakterze",
+    "Jeden z najlepszych wyborów na pierwszą irlandzką whiskey",
+    "Alternatywa dla Tullamore D.E.W. Original",
+    "Dla fanów wanilii, przypraw, orzechów i delikatnych nut sherry"
+],
 
-  "howToPresent": "Potrójnie destylowana, bardzo gładka i uniwersalna irlandzka whiskey."
+  "howToPresent": "Klasyczna irlandzka blended whiskey łącząca single pot still whiskey oraz grain whiskey. Potrójna destylacja zapewnia wyjątkową gładkość, a dojrzewanie w beczkach po bourbonie i sherry nadaje nuty wanilii, przypraw, zielonego jabłka, delikatnej słodyczy i subtelnych akcentów słodu. To najbardziej rozpoznawalna irlandzka whiskey na świecie.",
+
+  "salesTip": [
+  "Jameson jest najlepiej sprzedającą się irlandzką whiskey na świecie.",
+  "Powstaje z połączenia single pot still whiskey oraz grain whiskey, bez dodatku single malt.",
+  "Potrójna destylacja nadaje whiskey wyjątkową gładkość i łagodny charakter.",
+  "Dojrzewanie w beczkach po bourbonie i sherry zapewnia równowagę między wanilią, przyprawami i delikatnymi nutami owocowymi.",
+  "Produkowana jest w Midleton Distillery – jednej z największych i najnowocześniejszych destylarni whiskey na świecie."
+]
 },
 
 {
@@ -2522,15 +2555,24 @@
   "country": "Ireland",
   "abv": "40%",
   "image": "bottle_img/jameson_marsala.webp",
+  "maturation": "Irish Blended Whiskey powstała z połączenia single pot still whiskey oraz grain whiskey, dojrzewających w trzech rodzajach beczek: po bourbonie, sherry Oloroso oraz sycylijskim winie Marsala",
 
   "whenToOffer": [
-    "Klient lubi wine finish",
-    "Edycja lotniskowa"
-  ],
+    "Klient lubi whiskey dojrzewające w beczkach po winach wzmacnianych",
+   "Alternatywa dla Jameson Original dla osób szukających bogatszego i bardziej owocowego charakteru",
+    "Dla fanów moreli, karmelizowanych jabłek, orzechów włoskich i egzotycznych owoców",
+    "Klient szuka ekskluzywnej edycji Travel Retail"
+],
 
-  "maturation": "American Oak + Sherry + Marsala Casks",
+  "howToPresent": "Irlandzka blended whiskey dojrzewająca w trzech rodzajach beczek: po bourbonie, sherry Oloroso oraz sycylijskim winie Marsala. Marsala nadaje whiskey bogate nuty suszonej moreli, banana, kiwi i karmelizowanego cukru, podczas gdy beczki po bourbonie i sherry zapewniają wanilię, orzechy oraz delikatne przyprawy. Efektem jest wyjątkowo owocowa i kremowa interpretacja klasycznego Jamesona.",
 
-  "howToPresent": "Owocowa i lekko słodsza wersja Jameson z wpływem beczek po winie Marsala."
+  "salesTip": [
+    "Nazwa Triple Triple odnosi się do potrójnej destylacji oraz dojrzewania w trzech rodzajach beczek: po bourbonie, sherry Oloroso i Marsali.",
+    "Beczki po sycylijskim winie Marsala nadają whiskey nuty suszonej moreli, egzotycznych owoców i karmelizowanego cukru.",
+    "Jameson jest najlepiej sprzedającą się irlandzką whiskey na świecie.",
+    "Produkowana jest w Midleton Distillery – jednej z największych destylarni whiskey na świecie.",
+    "To limitowana edycja stworzona wyłącznie dla kanału Global Travel Retail."
+]
 },
 
 {
@@ -2541,15 +2583,24 @@
   "country": "Ireland",
   "abv": "40%",
   "image": "bottle_img/jameson_malaga.webp",
+  "maturation": "Irish Blended Whiskey powstała z połączenia single pot still whiskey oraz grain whiskey, dojrzewających w trzech rodzajach beczek: po bourbonie, sherry Oloroso oraz winie Málaga",
 
   "whenToOffer": [
-    "Klient szuka czegoś słodszego",
-    "Edycja lotniskowa"
-  ],
+    "Klient lubi whiskey dojrzewające w beczkach po winach wzmacnianych",
+    "Alternatywa dla Jameson Original dla osób szukających bardziej owocowego charakteru",
+    "Dla fanów gruszek, śliwek, rodzynek i ciemnej czekolady",
+    "Klient szuka ekskluzywnej edycji Travel Retail"
+],
 
-  "maturation": "American Oak + Sherry + Malaga Casks",
+  "howToPresent": "Irlandzka blended whiskey dojrzewająca w trzech rodzajach beczek: po bourbonie, sherry Oloroso oraz winie Málaga. Beczki po Máladze nadają whiskey soczyste nuty gruszki, ciemnych owoców, rodzynek i skórki cytrusowej, a także delikatną słodycz, która doskonale uzupełnia klasyczny charakter Jamesona.",
 
-  "howToPresent": "Delikatniejsza i bardziej owocowa wersja z wyraźnym wpływem słodkiego wina Malaga."
+  "salesTip": [
+    "Nazwa Triple Triple odnosi się do potrójnej destylacji oraz dojrzewania w trzech rodzajach beczek.",
+    "Beczki po winie Málaga nadają whiskey nuty gruszki, ciemnych owoców, rodzynek oraz skórki cytrusowej.",
+    "Jameson jest najlepiej sprzedającą się irlandzką whiskey na świecie.",
+    "Produkowana jest w Midleton Distillery – jednej z największych destylarni whiskey na świecie.",
+    "Triple Triple Málaga Cask Edition została stworzona wyłącznie dla kanału Global Travel Retail."
+]
 },
 
 {
@@ -2560,15 +2611,24 @@
   "country": "Ireland",
   "abv": "40%",
   "image": "bottle_img/jameson_barrel.webp",
+  "maturation": "Irish Blended Whiskey powstała z połączenia single pot still whiskey oraz small batch grain whiskey, dojrzewających w beczkach po bourbonie, sherry oraz ponownie opalanych beczkach po bourbonie (double charred)",
 
   "whenToOffer": [
-    "Klient chce bardziej intensywną wersję Jameson",
-    "Alternatywa dla szkockiej"
-  ],
+    "Klient lubi Jameson Original i szuka bogatszej oraz bardziej beczkowej wersji",
+    "Alternatywa dla Tullamore D.E.W. 12",
+    "Dla fanów wanilii, karmelu, toffi i przypraw dębowych",
+    "Klient szuka whiskey do degustacji solo zamiast do drinków"
+],
 
-  "maturation": "Double charred bourbon barrels",
+  "howToPresent": "Irlandzka blended whiskey o wyższym udziale single pot still whiskey, dojrzewająca w beczkach po bourbonie, sherry oraz ponownie opalanych beczkach po bourbonie. Dodatkowe opalenie beczek wzmacnia nuty wanilii, karmelu, toffi i prażonego dębu, zachowując charakterystyczną dla Jamesona gładkość.",
 
-  "howToPresent": "Bardziej intensywna, waniliowa i karmelowa wersja Jameson dzięki mocniej wypalanym beczkom."
+  "salesTip": [
+    "Jameson Black Barrel zawiera większy udział single pot still whiskey niż Jameson Original.",
+    "Ponownie opalane beczki po bourbonie (double charred) nadają whiskey intensywniejsze nuty wanilii, karmelu, toffi i prażonego dębu.",
+    "Nazwa Black Barrel jest hołdem dla bednarzy, którzy ponownie opalają beczki, aby wydobyć z drewna więcej aromatów.",
+    "Produkowana jest w Midleton Distillery – jednej z największych destylarni whiskey na świecie.",
+    "To jedna z najbardziej cenionych whiskey w portfolio Jameson, szczególnie do degustacji solo."
+]
 },
 
 {
@@ -2579,13 +2639,52 @@
   "country": "Ireland",
   "abv": "40%",
   "image": "bottle_img/midleton.webp",
+  "maturation": "Premium Irish Blended Whiskey tworzona z ręcznie wyselekcjonowanych single pot still oraz single grain whiskey dojrzewających od około 12 do ponad 20 lat w lekko opalanych beczkach po bourbonie z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient szuka luksusowej irlandzkiej whisky",
-    "Prezent premium"
-  ],
+    "Klient szuka jednej z najbardziej prestiżowych irlandzkich whiskey",
+    "Dla kolekcjonerów limitowanych roczników",
+    "Alternatywa dla Redbreast 21 lub Bushmills 21",
+    "Klient szuka wyjątkowej whiskey na prezent lub specjalną okazję"
+],
 
-  "howToPresent": "Jedna z najbardziej prestiżowych irlandzkich whiskey. Limitowane roczniki, elegancka i złożona."
+  "howToPresent": "Midleton Very Rare to corocznie tworzona edycja premium, komponowana z ręcznie wybranych single pot still oraz single grain whiskey. Każdy rocznik jest unikalny, jednak zawsze zachowuje charakterystyczny styl marki – elegancki, złożony i doskonale zbalansowany. W profilu dominują nuty miodu, wanilii, owoców sadowniczych, delikatnych przypraw oraz subtelnego wpływu amerykańskiego dębu.",
+
+  "salesTip": [
+    "Każdy rocznik Midleton Very Rare jest tworzony od podstaw przez Master Distillera i ma własny, niepowtarzalny profil smakowy.",
+    "Do produkcji wybierane są wyłącznie najlepsze beczki single pot still i single grain whiskey dojrzewające od około 12 do ponad 20 lat.",
+    "Whiskey dojrzewa wyłącznie w lekko opalanych beczkach po bourbonie z amerykańskiego dębu, co pozwala zachować elegancki charakter destylatu.",
+    "Każda butelka jest indywidualnie numerowana i podpisana przez Master Distillera.",
+    "Midleton Very Rare jest uznawana za flagową i najbardziej prestiżową whiskey produkowaną przez Irish Distillers."
+]
+},
+
+{
+  "slug": "redbreast-12",
+  "name": "Redbreast 12",
+  "subtitle": "Premium Irish Whiskey · Ireland",
+  "category": "whisky-irish",
+  "country": "Ireland",
+  "abv": "40%",
+  "image": "bottle_img/redbreast_12.webp",
+  "maturation": "12-letnia Irish Single Pot Still Whiskey dojrzewająca w beczkach po bourbonie z amerykańskiego dębu oraz beczkach po sherry Oloroso z hiszpańskiego dębu",
+
+  "whenToOffer": [
+    "Klient chce poznać klasyczny styl Irish Single Pot Still",
+    "Alternatywa dla Jameson Black Barrel dla osób szukających większej złożoności",
+    "Dla fanów kremowych whiskey z nutami przypraw, sherry i suszonych owoców",
+    "Klient szuka jednej z najbardziej cenionych irlandzkich whiskey"
+],
+
+  "howToPresent": "12-letnia Irish Single Pot Still Whiskey produkowana z mieszanki słodowanego i niesłodowanego jęczmienia oraz potrójnie destylowana w tradycyjnych alembikach. Dojrzewanie w beczkach po bourbonie i sherry Oloroso nadaje jej bogaty, kremowy charakter z nutami suszonych owoców, przypraw korzennych, wanilii, orzechów i delikatnego wpływu sherry.",
+
+  "salesTip": [
+    "Redbreast jest najlepiej sprzedającą się na świecie Irish Single Pot Still Whiskey.",
+    "Single Pot Still to styl charakterystyczny wyłącznie dla Irlandii, produkowany z mieszanki słodowanego i niesłodowanego jęczmienia.",
+    "Dojrzewanie w beczkach po bourbonie i sherry Oloroso zapewnia równowagę między kremową wanilią, przyprawami i nutami suszonych owoców.",
+    "Potrójna destylacja oraz wysoki udział niesłodowanego jęczmienia nadają whiskey charakterystyczną kremową, lekko oleistą teksturę.",
+    "Produkowana jest w Midleton Distillery – tej samej destylarni co Jameson, ale reprezentuje zupełnie inny styl whiskey."
+]
 },
 
 {
@@ -2596,15 +2695,24 @@
   "country": "Ireland",
   "abv": "40%",
   "image": "bottle_img/sexton11.webp",
+  "maturation": "11-letni Irish Single Malt dojrzewający wyłącznie w beczkach z francuskiego dębu sezonowanych sherry Oloroso",
 
   "whenToOffer": [
-    "Klient chce single malt z Irlandii",
-    "Fan sherry influence"
-  ],
+    "Klient lubi whisky dojrzewające wyłącznie w beczkach po sherry",
+    "Alternatywa dla Bushmills 10 Sherry Cask dla osób szukających bardziej intensywnego wpływu sherry",
+    "Dla fanów suszonych owoców, gorzkiej czekolady i orzechów",
+    "Klient szuka ekskluzywnej edycji Global Travel Retail"
+],
 
-  "maturation": "Sherry Casks",
+  "howToPresent": "11-letni Irish Single Malt produkowany w 100% ze słodowanego jęczmienia i potrójnie destylowany. Whisky dojrzewa wyłącznie w beczkach z francuskiego dębu sezonowanych sherry Oloroso, dzięki czemu oferuje bogaty profil z nutami rodzynek, daktyli, ciemnej czekolady, orzechów, crème brûlée i korzennych przypraw, zachowując charakterystyczną dla irlandzkiej whiskey gładkość.",
 
-  "howToPresent": "Irlandzki single malt dojrzewający w beczkach po sherry. Owocowy i łagodny."
+  "salesTip": [
+    "To pierwsza whiskey The Sexton z deklaracją wieku – 11 lat.",
+    "Whisky dojrzewa wyłącznie w beczkach z francuskiego dębu sezonowanych sherry Oloroso z hiszpańskiej bodegi Antonio Páez Lobato.",
+    "Master Blender Alex Thomas stworzyła tę edycję wyłącznie dla kanału Global Travel Retail.",
+    "Potrójna destylacja zapewnia wyjątkową gładkość, mimo intensywnego wpływu beczek po sherry.",
+    "The Sexton 11 Year Old jest produkowana ze 100% słodowanego jęczmienia i reprezentuje klasyczny styl Irish Single Malt."
+]
 },
 
 {
@@ -2615,13 +2723,24 @@
   "country": "Ireland",
   "abv": "40%",
   "image": "bottle_img/connemara.webp",
+  "maturation": "Irish Single Malt Whiskey destylowana dwukrotnie i dojrzewająca w beczkach po bourbonie z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient chce torfową irlandzką whisky",
-    "Alternatywa dla szkockiej Islay"
-  ],
+    "Klient chce spróbować torfowej whiskey spoza Szkocji",
+    "Alternatywa dla Talisker 10 dla osób preferujących łagodniejszy dym",
+    "Dla fanów miodu, wanilii i delikatnego torfu",
+    "Klient szuka pomostu pomiędzy klasyczną irlandzką whiskey a whisky z Islay"
+],
 
-  "howToPresent": "Jedna z nielicznych torfowych irlandzkich whiskey. Dymna, ale łagodniejsza niż Islay."
+  "howToPresent": "Irlandzka Single Malt Whiskey inspirowana dawną tradycją suszenia słodu nad ogniem torfowym. Dwukrotna destylacja oraz dojrzewanie w beczkach po bourbonie tworzą wyjątkowe połączenie delikatnego torfowego dymu z nutami miodu, wanilii, jabłek, gruszek i świeżego słodu. W porównaniu z torfowymi whisky z Islay oferuje łagodniejszy, bardziej owocowy i ziołowy charakter.",
+
+  "salesTip": [
+    "Connemara jest jedyną szeroko dostępną torfową Irish Single Malt Whiskey.",
+    "W przeciwieństwie do większości irlandzkich whiskey jest destylowana dwukrotnie, co nadaje jej pełniejszy charakter.",
+    "Słód suszony nad torfem nadaje whiskey delikatny dym, który jest bardziej ziołowy i miodowy niż w whisky z Islay.",
+    "Whiskey dojrzewa w beczkach po bourbonie z amerykańskiego dębu, które podkreślają nuty wanilii i miodu.",
+    "Connemara pokazuje historyczny styl irlandzkiej whiskey – przed XIX wiekiem torf był w Irlandii znacznie częściej wykorzystywany do suszenia słodu."
+]
 },
 
 {
@@ -2632,15 +2751,24 @@
   "country": "Ireland",
   "abv": "40%",
   "image": "bottle_img/slane.webp",
+  "maturation": "Irish Blended Whiskey dojrzewająca w trzech rodzajach beczek po sherry: Oloroso, Pedro Ximénez oraz Cream Sherry",
 
   "whenToOffer": [
-    "Klient lubi sherry influence",
-    "Alternatywa dla Bushmills"
-  ],
+    "Klient lubi whiskey o wyraźnym wpływie sherry",
+    "Alternatywa dla Bushmills Black Bush dla osób szukających bardziej deserowego charakteru",
+    "Dla fanów rodzynek, daktyli, karmelu i mlecznej czekolady",
+    "Klient szuka ekskluzywnej edycji Travel Retail"
+],
 
-  "maturation": "Three types of sherry casks",
+  "howToPresent": "Irlandzka blended whiskey dojrzewająca w trzech rodzajach beczek po sherry: Oloroso, Pedro Ximénez oraz Cream Sherry. Każdy rodzaj beczki wnosi inny charakter – od przypraw i orzechów, przez nuty daktyli i rodzynek, aż po aksamitną słodycz karmelu i mlecznej czekolady. Efektem jest bogata, wielowarstwowa i wyjątkowo gładka whiskey.",
 
-  "howToPresent": "Wyraźny wpływ sherry – owocowa i lekko przyprawowa."
+  "salesTip": [
+    "Whiskey dojrzewa w trzech różnych rodzajach beczek po sherry: Oloroso, Pedro Ximénez oraz Cream Sherry.",
+    "Oloroso wnosi nuty orzechów i przypraw, Pedro Ximénez – daktyli, rodzynek i czekolady, a Cream Sherry dodaje aksamitnej słodyczy i karmelu.",
+    "Slane Triple Sherry została stworzona wyłącznie dla kanału Global Travel Retail.",
+    "Slane należy do Brown-Forman – właściciela marek Jack Daniel's, Woodford Reserve i Benriach.",
+    "To jedna z nielicznych irlandzkich whiskey opierających swój profil niemal wyłącznie na wpływie różnych stylów sherry."
+]
 },
 
 {
@@ -2651,13 +2779,24 @@
   "country": "Ireland",
   "abv": "40%",
   "image": "bottle_img/paddy.webp",
+  "maturation": "Irish Blended Whiskey powstała z połączenia single pot still, single malt oraz grain whiskey, dojrzewających w beczkach po bourbonie z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient szuka budżetowej irlandzkiej whisky",
-    "Whisky do drinków"
-  ],
+    "Klient szuka wyjątkowo lekkiej i łagodnej irlandzkiej whiskey",
+    "Alternatywa dla Tullamore D.E.W. Original dla osób preferujących bardziej delikatny profil",
+    "Dla fanów wanilii, miodu, cytrusów i świeżych owoców",
+    "Klient szuka whiskey do drinków lub codziennej degustacji"
+],
 
-  "howToPresent": "Lekka, łagodna i przystępna cenowo irlandzka whiskey."
+  "howToPresent": "Klasyczna irlandzka blended whiskey łącząca single pot still, single malt oraz grain whiskey. Potrójna destylacja oraz dojrzewanie w beczkach po bourbonie nadają jej wyjątkowo lekki, świeży i owocowy charakter z nutami wanilii, miodu, cytrusów oraz zielonych jabłek.",
+
+  "salesTip": [
+    "Paddy zawiera większy udział grain whiskey niż większość klasycznych irlandzkich whiskey, dzięki czemu jest wyjątkowo lekka i łagodna.",
+    "Nazwa whiskey pochodzi od Patricka „Paddy'ego” Flaherty'ego – legendarnego sprzedawcy marki Cork Distilleries Company.",
+    "Łączy trzy style irlandzkiej whiskey: single pot still, single malt oraz grain whiskey.",
+    "Potrójna destylacja zapewnia wyjątkową gładkość i delikatny charakter.",
+    "To jedna z najstarszych irlandzkich marek whiskey, produkowana nieprzerwanie od 1779 roku."
+]
 },
 
 {
@@ -2668,14 +2807,24 @@
   "country": "USA",
   "abv": "43.2%",
   "image": "bottle_img/woodford.webp",
+  "maturation": "Kentucky Straight Bourbon Whiskey dojrzewający w nowych, mocno opalanych beczkach z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient szuka klasycznego bourbona premium",
-    "Do Old Fashioned",
-    "Alternatywa dla Maker's Mark"
-  ],
+    "Klient chce poznać klasyczny bourbon premium",
+    "Alternatywa dla Jack Daniel's Single Barrel lub Gentleman Jack",
+    "Dla fanów wanilii, karmelu, przypraw i prażonych orzechów",
+    "Klient szuka bourbona do degustacji solo lub klasycznych koktajli"
+],
 
-  "howToPresent": "Zbalansowany bourbon z nutami wanilii, karmelu i przypraw. Bardzo uniwersalny."
+  "howToPresent": "Kentucky Straight Bourbon Whiskey produkowany z mieszanki kukurydzy, żyta i słodowanego jęczmienia. Potrójna destylacja w miedzianych alembikach oraz dojrzewanie w nowych, mocno opalanych beczkach z amerykańskiego dębu nadają mu bogaty profil z nutami wanilii, karmelu, kakao, przypraw i prażonych orzechów. To elegancki i doskonale zbalansowany bourbon premium.",
+
+  "salesTip": [
+    "Woodford Reserve jest destylowany trzykrotnie w tradycyjnych miedzianych alembikach (pot still), co jest rzadkością wśród bourbonów.",
+    "Mash bill zawiera 72% kukurydzy, 18% żyta i 10% słodowanego jęczmienia, dzięki czemu bourbon ma bardziej korzenny charakter.",
+    "Nowe, mocno opalane beczki z amerykańskiego dębu nadają nuty wanilii, karmelu i prażonego dębu.",
+    "Woodford Reserve jest oficjalnym bourbonem wyścigu Kentucky Derby.",
+    "To jeden z najbardziej cenionych bourbonów premium, często wykorzystywany w klasycznych koktajlach, takich jak Old Fashioned czy Manhattan."
+]
 },
 
 {
@@ -2686,13 +2835,24 @@
   "country": "USA",
   "abv": "45.2%",
   "image": "bottle_img/woodford_malt.webp",
+  "maturation": "Kentucky Straight Malt Whiskey dojrzewająca w nowych, mocno opalanych beczkach z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient chce coś innego niż klasyczny bourbon",
-    "Fan słodowego charakteru"
-  ],
+    "Klient chce spróbować amerykańskiej whiskey o wyraźnym słodowym charakterze",
+    "Alternatywa dla klasycznego Woodford Reserve Bourbon dla osób szukających bardziej orzechowego i zbożowego profilu",
+    "Dla fanów czekolady, prażonych orzechów i słodowych nut",
+    "Klient szuka nietypowej interpretacji amerykańskiej whiskey"
+],
 
-  "howToPresent": "Amerykańska whiskey słodowa – bardziej zbożowa i kremowa niż klasyczny bourbon."
+  "howToPresent": "Kentucky Straight Malt Whiskey produkowana z mash bill zawierającego 51% słodowanego jęczmienia. Dojrzewanie w nowych, mocno opalanych beczkach z amerykańskiego dębu nadaje jej nuty mlecznej czekolady, prażonych orzechów, karmelu, wanilii oraz słodowych płatków śniadaniowych. Łączy bogaty charakter słodu z klasycznym stylem Kentucky.",
+
+  "salesTip": [
+    "Woodford Reserve Malt zawiera 51% słodowanego jęczmienia, dzięki czemu należy do kategorii Kentucky Straight Malt Whiskey.",
+    "W przeciwieństwie do szkockiego Single Malt nie jest produkowana w 100% ze słodowanego jęczmienia – pozostałą część mash bill stanowią kukurydza i żyto.",
+    "Nowe, mocno opalane beczki z amerykańskiego dębu nadają nuty wanilii, karmelu i czekolady.",
+    "Whiskey jest destylowana trzykrotnie w tradycyjnych miedzianych alembikach (pot still).",
+    "To propozycja dla osób, które chcą poznać amerykańskie spojrzenie na whiskey słodową."
+]
 },
 
 {
@@ -2703,13 +2863,24 @@
   "country": "USA",
   "abv": "43.2%",
   "image": "bottle_img/woodford_doubleoak.webp",
+  "maturation": "Kentucky Straight Bourbon Whiskey dojrzewający najpierw w nowej, mocno opalanej beczce z amerykańskiego dębu, a następnie finiszowany w drugiej nowej beczce z amerykańskiego dębu, głęboko tostowanej i lekko opalanej",
 
   "whenToOffer": [
-    "Klient lubi intensywną wanilię",
-    "Alternatywa dla Angel’s Envy"
-  ],
+    "Klient lubi bourbony o intensywnym wpływie beczki",
+    "Alternatywa dla klasycznego Woodford Reserve dla osób szukających bogatszego i słodszego profilu",
+    "Dla fanów wanilii, ciemnego karmelu, czekolady i prażonych orzechów",
+    "Klient szuka bourbona premium do degustacji solo"
+],
 
-  "howToPresent": "Dojrzewany w drugiej, mocniej wypalanej beczce. Bardziej słodki, waniliowy i karmelowy."
+  "howToPresent": "Kentucky Straight Bourbon Whiskey dojrzewająca w dwóch nowych beczkach z amerykańskiego dębu. Po klasycznym dojrzewaniu bourbon trafia do drugiej beczki, która jest głęboko tostowana i lekko opalana, dzięki czemu zyskuje wyjątkowo bogaty profil z nutami wanilii, ciemnego karmelu, gorzkiej czekolady, prażonych orzechów i tostowanego dębu. Mimo intensywnego wpływu drewna zachowuje doskonałą równowagę.",
+
+  "salesTip": [
+    "Double Oaked dojrzewa w dwóch nowych beczkach z amerykańskiego dębu, co jest rzadko spotykaną metodą produkcji bourbona.",
+    "Druga beczka jest głęboko tostowana i lekko opalana, dzięki czemu wnosi więcej wanilii, karmelu, czekolady i słodkiego dębu.",
+    "Woodford Reserve jest destylowany trzykrotnie w tradycyjnych miedzianych alembikach (pot still).",
+    "Double Oaked powstaje z tego samego destylatu co klasyczny Woodford Reserve, ale druga beczka całkowicie zmienia jego profil smakowy.",
+    "To jedna z najbardziej cenionych whiskey typu double-barreled na świecie."
+]
 },
 
 {
@@ -2720,13 +2891,24 @@
   "country": "USA",
   "abv": "50%",
   "image": "bottle_img/knob_creek9.webp",
+  "maturation": "9-letni Kentucky Straight Bourbon Whiskey dojrzewający przez minimum 9 lat w nowych, mocno opalanych beczkach z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient chce mocniejszy bourbon",
-    "Fan wyrazistych smaków"
-  ],
+    "Klient szuka klasycznego bourbona o wyraźnym wpływie dębu",
+    "Alternatywa dla Woodford Reserve dla osób preferujących bardziej intensywny profil",
+    "Dla fanów karmelu, wanilii, orzeszków ziemnych i przypraw",
+    "Klient szuka bourbona premium do degustacji solo"
+],
 
-  "howToPresent": "Intensywny i wyrazisty bourbon o wyższej mocy. Nuty dębu, karmelu i przypraw."
+  "howToPresent": "9-letni Kentucky Straight Bourbon Whiskey dojrzewający przez minimum 9 lat w nowych, mocno opalanych beczkach z amerykańskiego dębu. Długi okres dojrzewania nadaje whiskey bogaty charakter z nutami karmelu, wanilii, prażonych orzeszków ziemnych, cynamonu, dębu i przypraw. To pełniejszy i bardziej intensywny styl bourbona niż większość klasycznych ekspresji.",
+
+  "salesTip": [
+    "Knob Creek należy do kolekcji Jim Beam Small Batch Collection.",
+    "Minimalny wiek 9 lat zapewnia bourbonowi większą głębię i intensywniejszy wpływ dębu.",
+    "Butelkowany z mocą 50% ABV (100 Proof), dzięki czemu zachowuje pełniejszy smak i strukturę.",
+    "Nowe, mocno opalane beczki z amerykańskiego dębu nadają nuty karmelu, wanilii i przypraw.",
+    "Knob Creek został stworzony jako powrót do stylu bourbonów sprzed prohibicji – bogatszych, starszych i butelkowanych z wyższą mocą."
+]
 },
 
 {
@@ -2737,13 +2919,24 @@
   "country": "USA",
   "abv": "45%",
   "image": "bottle_img/eagle_rare10.webp",
+  "maturation": "10-letni Kentucky Straight Bourbon Whiskey dojrzewający przez minimum 10 lat w nowych, mocno opalanych beczkach z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient szuka bourbona z wiekiem",
-    "Prezent w segmencie premium"
-  ],
+    "Klient szuka eleganckiego bourbona z deklaracją wieku",
+    "Alternatywa dla Knob Creek 9 dla osób preferujących bardziej owocowy i zbalansowany profil",
+    "Dla fanów miodu, pomarańczy, dębu i gorzkiej czekolady",
+    "Klient szuka bourbona premium do degustacji solo"
+],
 
-  "howToPresent": "10-letni bourbon o eleganckim profilu – wanilia, dąb i lekka słodycz."
+  "howToPresent": "10-letni Kentucky Straight Bourbon Whiskey dojrzewający przez minimum 10 lat w nowych, mocno opalanych beczkach z amerykańskiego dębu. Oferuje elegancki i złożony profil z nutami miodu, skórki pomarańczy, wanilii, kakao, przypraw oraz dojrzałego dębu. Długi okres dojrzewania zapewnia wyjątkową harmonię i długi, wytrawny finisz.",
+
+  "salesTip": [
+    "Eagle Rare dojrzewa przez minimum 10 lat, co jest rzadkością wśród klasycznych bourbonów.",
+    "Produkowany jest w Buffalo Trace Distillery – jednej z najbardziej cenionych destylarni bourbonu w Kentucky.",
+    "Mimo 10 lat dojrzewania zachowuje elegancki i owocowy charakter, bez dominującego wpływu dębu.",
+    "Eagle Rare zdobył liczne międzynarodowe nagrody i jest uznawany za jeden z najlepszych bourbonów w swojej kategorii.",
+    "To doskonały wybór dla osób szukających bardziej złożonego bourbona niż klasyczne ekspresje premium."
+]
 },
 
 {
@@ -2754,13 +2947,24 @@
   "country": "USA",
   "abv": "45%",
   "image": "bottle_img/makers_mark.webp",
+  "maturation": "Kentucky Straight Bourbon Whiskey dojrzewający w nowych, mocno opalanych beczkach z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient chce łagodny bourbon",
-    "Do koktajli"
-  ],
+    "Klient szuka wyjątkowo łagodnego bourbona",
+    "Alternatywa dla Woodford Reserve dla osób preferujących bardziej kremowy profil",
+    "Dla fanów wanilii, karmelu, miodu i wypieków",
+    "Klient chce spróbować bourbona produkowanego z dodatkiem pszenicy zamiast żyta"
+],
 
-  "howToPresent": "Pszeniczny bourbon o miękkim i słodkim charakterze. Bardzo przystępny."
+  "howToPresent": "Kentucky Straight Bourbon Whiskey produkowany z mash bill zawierającego czerwoną pszenicę ozimą zamiast żyta. Dzięki temu wyróżnia się wyjątkowo łagodnym i kremowym charakterem z nutami wanilii, karmelu, miodu, toffi oraz delikatnych przypraw. Dojrzewanie w nowych, mocno opalanych beczkach z amerykańskiego dębu nadaje bourbonowi bogactwo i równowagę.",
+
+  "salesTip": [
+    "Maker's Mark wykorzystuje czerwoną pszenicę ozimą zamiast żyta, dzięki czemu bourbon jest wyjątkowo miękki i kremowy.",
+    "Każda butelka jest ręcznie zanurzana w charakterystycznym czerwonym wosku, który stał się symbolem marki.",
+    "Whiskey dojrzewa do momentu osiągnięcia optymalnego profilu smakowego – producent nie deklaruje wieku.",
+    "Nowe, mocno opalane beczki z amerykańskiego dębu nadają nuty wanilii, karmelu i miodu.",
+    "Maker's Mark jest jednym z najbardziej rozpoznawalnych przedstawicieli kategorii wheated bourbon."
+]
 },
 
 {
@@ -2771,13 +2975,24 @@
   "country": "USA",
   "abv": "40%",
   "image": "bottle_img/buffalo.webp",
+  "maturation": "Kentucky Straight Bourbon Whiskey dojrzewający w nowych, mocno opalanych beczkach z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient szuka klasycznego bourbona",
-    "Do Old Fashioned"
-  ],
+    "Klient szuka klasycznego bourbona o doskonałej równowadze",
+    "Alternatywa dla Woodford Reserve dla osób preferujących bardziej owocowy i słodszy profil",
+    "Dla fanów wanilii, karmelu, miodu i dojrzałych owoców",
+    "Klient szuka bourbona zarówno do degustacji solo, jak i klasycznych koktajli"
+],
 
-  "howToPresent": "Klasyczny styl Kentucky – wanilia, karmel i przyprawy."
+  "howToPresent": "Kentucky Straight Bourbon Whiskey dojrzewający w nowych, mocno opalanych beczkach z amerykańskiego dębu. Charakteryzuje się doskonałą równowagą między słodyczą wanilii i karmelu, nutami miodu, dojrzałych owoców oraz delikatnych przypraw. To jeden z najbardziej klasycznych i wszechstronnych bourbonów premium.",
+
+  "salesTip": [
+  "Buffalo Trace powstaje z mash bill o niskiej zawartości żyta, dzięki czemu oferuje łagodniejszy i bardziej owocowy profil.",
+  "Produkowany jest w Buffalo Trace Distillery – najstarszej nieprzerwanie działającej destylarni w Stanach Zjednoczonych.",
+  "Ta sama destylarnia produkuje również Eagle Rare, Blanton's, George T. Stagg oraz W.L. Weller.",
+  "Nowe, mocno opalane beczki z amerykańskiego dębu nadają nuty wanilii, karmelu i słodkiego dębu.",
+  "Buffalo Trace zdobył liczne międzynarodowe nagrody i jest uznawany za jeden z najlepszych bourbonów w swojej kategorii cenowej."
+]
 },
 
 {
@@ -2788,13 +3003,24 @@
   "country": "USA",
   "abv": "50.5%",
   "image": "bottle_img/wild_turkey101.webp",
+  "maturation": "Kentucky Straight Bourbon Whiskey dojrzewający od 6 do 8 lat w nowych, głęboko opalanych beczkach z amerykańskiego dębu (Alligator Char #4)",
 
   "whenToOffer": [
-    "Klient chce mocniejszy bourbon",
-    "Do koktajli klasycznych"
-  ],
+    "Klient szuka intensywnego bourbona o wyższej mocy",
+    "Alternatywa dla Knob Creek 9 dla osób preferujących bardziej korzenny profil",
+    "Dla fanów wanilii, karmelu, pieprzu i przypraw",
+    "Klient szuka bourbona do degustacji solo lub klasycznego Old Fashioned"
+],
 
-  "howToPresent": "Wyższa moc, intensywniejszy smak – karmel, przyprawy i dąb."
+  "howToPresent": "Kentucky Straight Bourbon Whiskey butelkowany z mocą 101 Proof (50,5% ABV). Dojrzewa od 6 do 8 lat w nowych, głęboko opalanych beczkach z amerykańskiego dębu, dzięki czemu oferuje intensywne nuty wanilii, karmelu, pieprzu, cynamonu, prażonych orzechów i dębu. To klasyczny, wyrazisty styl Kentucky Bourbon.",
+
+  "salesTip": [
+    "101 Proof oznacza moc 50,5% ABV, dzięki czemu bourbon zachowuje bogatszy smak i pełniejsze ciało.",
+    "Wild Turkey wykorzystuje beczki opalane do poziomu Alligator Char #4, które nadają intensywne nuty wanilii, karmelu i dębu.",
+    "Master Distiller Jimmy Russell jest nazywany „Buddą Bourbona” i od ponad 70 lat związany jest z destylarnią Wild Turkey.",
+    "Mash bill zawiera około 13% żyta, co nadaje whiskey charakterystyczną korzenną pikantność.",
+    "Wild Turkey 101 od lat uznawany jest za jeden z najlepszych bourbonów w relacji jakości do ceny."
+]
 },
 
 {
