@@ -769,5 +769,129 @@
     "Malibu & Cola",
     "Malibu & Pineapple"
   ]
+},
+
+{
+  "slug": "fireball",
+  "name": "Fireball Cinnamon",
+  "subtitle": "Cinnamon Whisky Liqueur · USA",
+  "category": "whisky-bourbon",
+  "country": "USA",
+  "abv": "33%",
+  "image": "bottle_img/fireball.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś słodkiego i pikantnego",
+    "Imprezowa opcja"
+  ],
+
+  "howToPresent": "Likier cynamonowy na bazie whiskey. Słodki i pikantny."
+},
+
+{
+  "slug": "southern-comfort",
+  "name": "Southern Comfort",
+  "subtitle": "American Liqueur · USA",
+  "category": "whisky-bourbon",
+  "country": "USA",
+  "abv": "35%",
+  "image": "bottle_img/southern_comfort.webp",
+
+  "whenToOffer": [
+    "Klient szuka czegoś słodszego",
+    "Do prostych drinków"
+  ],
+
+  "howToPresent": "Likier na bazie whiskey z nutą owoców i przypraw."
+},
+
+{
+  "slug": "jim-beam-flavoured",
+  "name": "Jim Beam Flavoured",
+  "subtitle": "Flavoured Bourbon · USA",
+  "category": "whisky-bourbon",
+  "country": "USA",
+  "abv": "32.5%",
+  "image": "bottle_img/beam_apple.png",
+
+  "whenToOffer": [
+    "Klient nie lubi klasycznej whisky",
+    "Szuka czegoś słodszego",
+    "Na imprezę"
+  ],
+
+  "howToPresent": "Lżejsza i słodsza wersja bourbona. Bardziej przystępna dla osób, które nie piją klasycznej whisky.",
+
+  "variants": [
+    {
+      "type": "Apple",
+      "image": "bottle_img/beam_apple.png"
+    },
+    {
+      "type": "Honey",
+      "image": "bottle_img/beam_honey.png"
+    }
+  ],
+
+  "salesTip": [
+    "Apple – bardziej świeży i owocowy.",
+    "Honey – łagodniejszy i bardziej słodki."
+  ]
+},
+
+{
+  "slug": "jack-daniels-flavoured",
+  "name": "Jack Daniel’s Flavoured",
+  "subtitle": "Flavoured Tennessee Whiskey · USA",
+  "category": "whisky-bourbon",
+  "country": "USA",
+  "abv": "35%",
+  "image": "bottle_img/jack_apple.webp",
+
+  "whenToOffer": [
+    "Klient nie pije klasycznej whisky",
+    "Szukają czegoś słodszego",
+    "Na imprezę"
+  ],
+
+  "howToPresent": "Lżejsze i słodsze wersje Jack Daniel’s. Bardziej przystępne dla osób początkujących.",
+
+  "variants": [
+    {
+      "type": "Apple",
+      "image": "bottle_img/jack_apple.webp"
+    },
+    {
+      "type": "Honey",
+      "image": "bottle_img/jack_honey.webp"
+    },
+    {
+      "type": "Fire",
+      "image": "bottle_img/jack_fire.webp"
+    }
+  ]
+},
+
+{
+  "slug": "ballantines-brasil",
+  "name": "Ballantine’s Brasil",
+  "subtitle": "Whisky z nutą limonki",
+  "category": "spirit-drink",
+  "country": "Scotland",
+  "abv": "35%",
+  "image": "bottle_img/ballantines_brasil.webp",
+
+  "whenToOffer": [
+    "Klient szuka lekkiego alkoholu do drinków",
+    "Klient lubi cytrusowe i orzeźwiające smaki",
+    "Alternatywa dla smakowych rumów i likierów"
+  ],
+
+  "howToPresent": "Spirit drink stworzony na bazie szkockiej whisky Ballantine's z dodatkiem macerowanej skórki brazylijskiej limonki. Łączy klasyczny charakter whisky z wyraźnie cytrusowym i orzeźwiającym profilem. W aromacie dominują limonka, wanilia, miód i delikatne nuty dębowe. Najlepiej sprawdza się mocno schłodzony lub w prostych drinkach.",
+
+  "cocktails": [
+  "Brasil & Lemonade",
+  "Whisky Lime Soda"
+]
 }
 ]

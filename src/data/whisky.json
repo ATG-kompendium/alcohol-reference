@@ -422,29 +422,6 @@
 },
 
 {
-  "slug": "ballantines-brasil",
-  "name": "Ballantine’s Brasil",
-  "subtitle": "Whisky z nutą limonki",
-  "category": "spirit-drink",
-  "country": "Scotland",
-  "abv": "35%",
-  "image": "bottle_img/ballantines_brasil.webp",
-
-  "whenToOffer": [
-    "Klient szuka lekkiego alkoholu do drinków",
-    "Klient lubi cytrusowe i orzeźwiające smaki",
-    "Alternatywa dla smakowych rumów i likierów"
-  ],
-
-  "howToPresent": "Spirit drink stworzony na bazie szkockiej whisky Ballantine's z dodatkiem macerowanej skórki brazylijskiej limonki. Łączy klasyczny charakter whisky z wyraźnie cytrusowym i orzeźwiającym profilem. W aromacie dominują limonka, wanilia, miód i delikatne nuty dębowe. Najlepiej sprawdza się mocno schłodzony lub w prostych drinkach.",
-
-  "cocktails": [
-  "Brasil & Lemonade",
-  "Whisky Lime Soda"
-]
-},
-
-{
   "slug": "ballantines-single-grain-rum-finish",
   "name": "Ballantine’s Single Grain Rum Finish",
   "subtitle": "Single Grain Scotch",
@@ -2673,7 +2650,7 @@
     "Klient szuka ekskluzywnych edycji Global Travel Retail"
 ],
 
-  "howToPresent": "11-letni Irish Single Malt produkowany w 100% ze słodowanego jęczmienia i potrójnie destylowany. Whisky dojrzewa wyłącznie w beczkach z francuskiego dębu sezonowanych sherry Oloroso, dzięki czemu oferuje bogaty profil z nutami rodzynek, daktyli, ciemnej czekolady, orzechów, crème brûlée i korzennych przypraw, zachowując charakterystyczną dla irlandzkiej whiskey gładkość.",
+  "howToPresent": "11-letni Irish Single Malt produkowany w 100% ze słodowanego jęczmienia i potrójnie destylowany. Whisky dojrzewa wyłącznie w beczkach z francuskiego dębu sezonowanych sherry Oloroso, dzięki czemu oferuje bogaty profil z nutami rodzynek, daktyli, ciemnej czekolady, orzechów, crème brûlée i korzennych przypraw, zachowując charakterystyczną dla irlandzkiej whiskey gładkość."
 },
 
 {
@@ -2701,31 +2678,22 @@
 },
 
 {
-  "slug": "slane-triple-sherry",
-  "name": "Slane Triple Sherry Wood",
+  "slug": "slane-triple-cask",
+  "name": "Slane Triple Caskd",
   "subtitle": "Irish Whiskey · Ireland",
   "category": "whisky-irish",
   "country": "Ireland",
   "abv": "40%",
   "image": "bottle_img/slane.webp",
-  "maturation": "Irish Blended Whiskey dojrzewająca w trzech rodzajach beczek po sherry: Oloroso, Pedro Ximénez oraz Cream Sherry",
+  "maturation": "Irish Blended Whiskey dojrzewająca w trzech rodzajach beczek: po bourbonie, mocno opalonego amerykańskiego dębu oraz po sherry Oloroso",
 
   "whenToOffer": [
     "Klient lubi whiskey o wyraźnym wpływie sherry",
-    "Alternatywa dla Bushmills Black Bush dla osób szukających bardziej deserowego charakteru",
-    "Dla fanów rodzynek, daktyli, karmelu i mlecznej czekolady",
-    "Klient szuka ekskluzywnej edycji Travel Retail"
+    "Alternatywa dla sherry blended whisky",
+    "Klient szuka mocno beczkowej i intensywnej whisky"
 ],
 
-  "howToPresent": "Irlandzka blended whiskey dojrzewająca w trzech rodzajach beczek po sherry: Oloroso, Pedro Ximénez oraz Cream Sherry. Każdy rodzaj beczki wnosi inny charakter – od przypraw i orzechów, przez nuty daktyli i rodzynek, aż po aksamitną słodycz karmelu i mlecznej czekolady. Efektem jest bogata, wielowarstwowa i wyjątkowo gładka whiskey.",
-
-  "salesTip": [
-    "Whiskey dojrzewa w trzech różnych rodzajach beczek po sherry: Oloroso, Pedro Ximénez oraz Cream Sherry.",
-    "Oloroso wnosi nuty orzechów i przypraw, Pedro Ximénez – daktyli, rodzynek i czekolady, a Cream Sherry dodaje aksamitnej słodyczy i karmelu.",
-    "Slane Triple Sherry została stworzona wyłącznie dla kanału Global Travel Retail.",
-    "Slane należy do Brown-Forman – właściciela marek Jack Daniel's, Woodford Reserve i Benriach.",
-    "To jedna z nielicznych irlandzkich whiskey opierających swój profil niemal wyłącznie na wpływie różnych stylów sherry."
-]
+  "howToPresent": "Irlandzka blended whiskey dojrzewająca w trzech rodzajach beczek: bourbonie, mocno opalonego amerykańskiego dębu oraz po sherry Oloroso. Efektem jest bogata i intensywna whiskey"
 },
 
 {
@@ -2736,24 +2704,15 @@
   "country": "Ireland",
   "abv": "40%",
   "image": "bottle_img/paddy.webp",
-  "maturation": "Irish Blended Whiskey powstała z połączenia single pot still, single malt oraz grain whiskey, dojrzewających w beczkach po bourbonie z amerykańskiego dębu",
+  "maturation": "Irish Blended Whiskey, dojrzewająca w beczkach po bourbonie z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient szuka wyjątkowo lekkiej i łagodnej irlandzkiej whiskey",
-    "Alternatywa dla Tullamore D.E.W. Original dla osób preferujących bardziej delikatny profil",
-    "Dla fanów wanilii, miodu, cytrusów i świeżych owoców",
-    "Klient szuka whiskey do drinków lub codziennej degustacji"
+    "Klient szuka lekkiej irlandzkiej whiskey",
+    "Dla fanów pikantnych i zbożowych whiskey",
+    "Klient szuka whiskey do drinków i miksowania"
 ],
 
-  "howToPresent": "Klasyczna irlandzka blended whiskey łącząca single pot still, single malt oraz grain whiskey. Potrójna destylacja oraz dojrzewanie w beczkach po bourbonie nadają jej wyjątkowo lekki, świeży i owocowy charakter z nutami wanilii, miodu, cytrusów oraz zielonych jabłek.",
-
-  "salesTip": [
-    "Paddy zawiera większy udział grain whiskey niż większość klasycznych irlandzkich whiskey, dzięki czemu jest wyjątkowo lekka i łagodna.",
-    "Nazwa whiskey pochodzi od Patricka „Paddy'ego” Flaherty'ego – legendarnego sprzedawcy marki Cork Distilleries Company.",
-    "Łączy trzy style irlandzkiej whiskey: single pot still, single malt oraz grain whiskey.",
-    "Potrójna destylacja zapewnia wyjątkową gładkość i delikatny charakter.",
-    "To jedna z najstarszych irlandzkich marek whiskey, produkowana nieprzerwanie od 1779 roku."
-]
+  "howToPresent": "Klasyczna irlandzka blended whiskey potrójnie destylowana oraz dojrzewana w beczkach po bourbonie. Lekka, świeża, pikantna i zbożowa z nutami wanilii, miodu i cytrusów."
 },
 
 {
@@ -2768,18 +2727,14 @@
 
   "whenToOffer": [
     "Klient chce poznać klasyczny bourbon premium",
-    "Alternatywa dla Jack Daniel's Single Barrel lub Gentleman Jack",
-    "Dla fanów wanilii, karmelu, przypraw i prażonych orzechów",
-    "Klient szuka bourbona do degustacji solo lub klasycznych koktajli"
+    "Alternatywa dla podstawowych bourbonów",
+    "Dla fanów wanilii, karmelu, przypraw i prażonych orzechów"
 ],
 
   "howToPresent": "Kentucky Straight Bourbon Whiskey produkowany z mieszanki kukurydzy, żyta i słodowanego jęczmienia. Potrójna destylacja w miedzianych alembikach oraz dojrzewanie w nowych, mocno opalanych beczkach z amerykańskiego dębu nadają mu bogaty profil z nutami wanilii, karmelu, kakao, przypraw i prażonych orzechów. To elegancki i doskonale zbalansowany bourbon premium.",
 
   "salesTip": [
-    "Woodford Reserve jest destylowany trzykrotnie w tradycyjnych miedzianych alembikach (pot still), co jest rzadkością wśród bourbonów.",
-    "Mash bill zawiera 72% kukurydzy, 18% żyta i 10% słodowanego jęczmienia, dzięki czemu bourbon ma bardziej korzenny charakter.",
-    "Nowe, mocno opalane beczki z amerykańskiego dębu nadają nuty wanilii, karmelu i prażonego dębu.",
-    "Woodford Reserve jest oficjalnym bourbonem wyścigu Kentucky Derby.",
+    "Woodford Reserve powstaje z połączenia destylatów z alembików (pot still) oraz kolumn destylacyjnych (column still), co jest unikalnym rozwiązaniem w świecie bourbonów.",
     "To jeden z najbardziej cenionych bourbonów premium, często wykorzystywany w klasycznych koktajlach, takich jak Old Fashioned czy Manhattan."
 ]
 },
@@ -2796,19 +2751,15 @@
 
   "whenToOffer": [
     "Klient chce spróbować amerykańskiej whiskey o wyraźnym słodowym charakterze",
-    "Alternatywa dla klasycznego Woodford Reserve Bourbon dla osób szukających bardziej orzechowego i zbożowego profilu",
-    "Dla fanów czekolady, prażonych orzechów i słodowych nut",
+    "Dla fanów czekolady, prażonych orzechów i przypraw",
     "Klient szuka nietypowej interpretacji amerykańskiej whiskey"
 ],
 
-  "howToPresent": "Kentucky Straight Malt Whiskey produkowana z mash bill zawierającego 51% słodowanego jęczmienia. Dojrzewanie w nowych, mocno opalanych beczkach z amerykańskiego dębu nadaje jej nuty mlecznej czekolady, prażonych orzechów, karmelu, wanilii oraz słodowych płatków śniadaniowych. Łączy bogaty charakter słodu z klasycznym stylem Kentucky.",
+  "howToPresent": "Kentucky Straight Malt Whiskey produkowana z mieszanki zawierającej 51% słodowanego jęczmienia. Dojrzewanie w nowych, mocno opalanych beczkach z amerykańskiego dębu nadaje jej nuty mlecznej czekolady, prażonych orzechów, karmelu, wanilii oraz płatków owsianych.",
 
   "salesTip": [
-    "Woodford Reserve Malt zawiera 51% słodowanego jęczmienia, dzięki czemu należy do kategorii Kentucky Straight Malt Whiskey.",
-    "W przeciwieństwie do szkockiego Single Malt nie jest produkowana w 100% ze słodowanego jęczmienia – pozostałą część mash bill stanowią kukurydza i żyto.",
-    "Nowe, mocno opalane beczki z amerykańskiego dębu nadają nuty wanilii, karmelu i czekolady.",
-    "Whiskey jest destylowana trzykrotnie w tradycyjnych miedzianych alembikach (pot still).",
-    "To propozycja dla osób, które chcą poznać amerykańskie spojrzenie na whiskey słodową."
+    "Woodford Reserve Malt powstaje z połączenia destylatów z alembików (pot still) oraz kolumn destylacyjnych (column still), co jest unikalnym rozwiązaniem w świecie bourbonów.",
+    "W przeciwieństwie do szkockiego Single Malt nie jest produkowana w 100% ze słodowanego jęczmienia, pozostałą część mieszanki stanowią kukurydza i żyto."
 ]
 },
 
@@ -2820,21 +2771,19 @@
   "country": "USA",
   "abv": "43.2%",
   "image": "bottle_img/woodford_doubleoak.webp",
-  "maturation": "Kentucky Straight Bourbon Whiskey dojrzewający najpierw w nowej, mocno opalanej beczce z amerykańskiego dębu, a następnie finiszowany w drugiej nowej beczce z amerykańskiego dębu, głęboko tostowanej i lekko opalanej",
+  "maturation": "Kentucky Straight Bourbon Whiskey dojrzewający najpierw w nowej, mocno opalanej beczce z amerykańskiego dębu, a następnie finiszowany w drugiej nowej beczce z amerykańskiego dębu lekko opalanej",
 
   "whenToOffer": [
     "Klient lubi bourbony o intensywnym wpływie beczki",
-    "Alternatywa dla klasycznego Woodford Reserve dla osób szukających bogatszego i słodszego profilu",
-    "Dla fanów wanilii, ciemnego karmelu, czekolady i prażonych orzechów",
-    "Klient szuka bourbona premium do degustacji solo"
+    "Alternatywa dla klasycznego Woodford Reserve dla osób szukających bogatszego i intensywniejszego smaku",
+    "Dla fanów wanilii, karmelu, ciemnej czekolady i prażonych orzechów",
+    "Klient szuka bourbona na prezent lub wyjątkową okazje"
 ],
 
   "howToPresent": "Kentucky Straight Bourbon Whiskey dojrzewająca w dwóch nowych beczkach z amerykańskiego dębu. Po klasycznym dojrzewaniu bourbon trafia do drugiej beczki, która jest głęboko tostowana i lekko opalana, dzięki czemu zyskuje wyjątkowo bogaty profil z nutami wanilii, ciemnego karmelu, gorzkiej czekolady, prażonych orzechów i tostowanego dębu. Mimo intensywnego wpływu drewna zachowuje doskonałą równowagę.",
 
   "salesTip": [
-    "Double Oaked dojrzewa w dwóch nowych beczkach z amerykańskiego dębu, co jest rzadko spotykaną metodą produkcji bourbona.",
-    "Druga beczka jest głęboko tostowana i lekko opalana, dzięki czemu wnosi więcej wanilii, karmelu, czekolady i słodkiego dębu.",
-    "Woodford Reserve jest destylowany trzykrotnie w tradycyjnych miedzianych alembikach (pot still).",
+    "Woodford Reserve Double Oaked powstaje z połączenia destylatów z alembików (pot still) oraz kolumn destylacyjnych (column still), co jest unikalnym rozwiązaniem w świecie bourbonów.",
     "Double Oaked powstaje z tego samego destylatu co klasyczny Woodford Reserve, ale druga beczka całkowicie zmienia jego profil smakowy.",
     "To jedna z najbardziej cenionych whiskey typu double-barreled na świecie."
 ]
@@ -2854,17 +2803,13 @@
     "Klient szuka klasycznego bourbona o wyraźnym wpływie dębu",
     "Alternatywa dla Woodford Reserve dla osób preferujących bardziej intensywny profil",
     "Dla fanów karmelu, wanilii, orzeszków ziemnych i przypraw",
-    "Klient szuka bourbona premium do degustacji solo"
+    "Klient szuka bourbona na prezent lub wyjątkową okazje"
 ],
 
-  "howToPresent": "9-letni Kentucky Straight Bourbon Whiskey dojrzewający przez minimum 9 lat w nowych, mocno opalanych beczkach z amerykańskiego dębu. Długi okres dojrzewania nadaje whiskey bogaty charakter z nutami karmelu, wanilii, prażonych orzeszków ziemnych, cynamonu, dębu i przypraw. To pełniejszy i bardziej intensywny styl bourbona niż większość klasycznych ekspresji.",
+  "howToPresent": "9-letni Kentucky Straight Bourbon Whiskey dojrzewający przez minimum 9 lat w nowych, mocno opalanych beczkach z amerykańskiego dębu. Długi okres dojrzewania nadaje whiskey bogaty charakter z nutami karmelu, wanilii, prażonych orzechów, cynamonu, dębu i przypraw. To pełniejszy i bardziej intensywny styl bourbona niż większość klasycznych.",
 
   "salesTip": [
-    "Knob Creek należy do kolekcji Jim Beam Small Batch Collection.",
-    "Minimalny wiek 9 lat zapewnia bourbonowi większą głębię i intensywniejszy wpływ dębu.",
-    "Butelkowany z mocą 50% ABV (100 Proof), dzięki czemu zachowuje pełniejszy smak i strukturę.",
-    "Nowe, mocno opalane beczki z amerykańskiego dębu nadają nuty karmelu, wanilii i przypraw.",
-    "Knob Creek został stworzony jako powrót do stylu bourbonów sprzed prohibicji – bogatszych, starszych i butelkowanych z wyższą mocą."
+    "Knob Creek należy do kolekcji Jim Beam Small Batch Collection."
 ]
 },
 
@@ -2880,19 +2825,16 @@
 
   "whenToOffer": [
     "Klient szuka eleganckiego bourbona z deklaracją wieku",
-    "Alternatywa dla Knob Creek 9 dla osób preferujących bardziej owocowy i zbalansowany profil",
+    "Alternatywa dla Knob Creek 9 i Woodford Reserve dla osób preferujących bardziej owocowy i zbalansowany profil",
     "Dla fanów miodu, pomarańczy, dębu i gorzkiej czekolady",
-    "Klient szuka bourbona premium do degustacji solo"
+    "Klient szuka bourbona na prezent lub wyjątkową okazje"
 ],
 
-  "howToPresent": "10-letni Kentucky Straight Bourbon Whiskey dojrzewający przez minimum 10 lat w nowych, mocno opalanych beczkach z amerykańskiego dębu. Oferuje elegancki i złożony profil z nutami miodu, skórki pomarańczy, wanilii, kakao, przypraw oraz dojrzałego dębu. Długi okres dojrzewania zapewnia wyjątkową harmonię i długi, wytrawny finisz.",
+  "howToPresent": "10-letni Kentucky Straight Bourbon Whiskey dojrzewający przez minimum 10 lat w nowych, mocno opalanych beczkach z amerykańskiego dębu. Oferuje elegancki i złożony profil z nutami miodu, skórki pomarańczy, wanilii, kakao, przypraw oraz dębu. Długi okres dojrzewania zapewnia wyjątkową harmonię i długi, wytrawny finisz.",
 
   "salesTip": [
     "Eagle Rare dojrzewa przez minimum 10 lat, co jest rzadkością wśród klasycznych bourbonów.",
-    "Produkowany jest w Buffalo Trace Distillery – jednej z najbardziej cenionych destylarni bourbonu w Kentucky.",
-    "Mimo 10 lat dojrzewania zachowuje elegancki i owocowy charakter, bez dominującego wpływu dębu.",
-    "Eagle Rare zdobył liczne międzynarodowe nagrody i jest uznawany za jeden z najlepszych bourbonów w swojej kategorii.",
-    "To doskonały wybór dla osób szukających bardziej złożonego bourbona niż klasyczne ekspresje premium."
+    "Produkowany jest w Buffalo Trace Distillery, jednej z najbardziej cenionych destylarni bourbonu w Kentucky."
 ]
 },
 
@@ -2907,20 +2849,15 @@
   "maturation": "Kentucky Straight Bourbon Whiskey dojrzewający w nowych, mocno opalanych beczkach z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient szuka wyjątkowo łagodnego bourbona",
-    "Alternatywa dla Woodford Reserve dla osób preferujących bardziej kremowy profil",
-    "Dla fanów wanilii, karmelu, miodu i wypieków",
-    "Klient chce spróbować bourbona produkowanego z dodatkiem pszenicy zamiast żyta"
+    "Klient szuka wyjątkowo łagodnego i delikatnego bourbonu",
+    "Alternatywa dla innych bourbonów dla osób preferujących bardziej kremowy i gładki profil",
+    "Dla fanów wanilii, toffi, miodu i wypieków"
 ],
 
-  "howToPresent": "Kentucky Straight Bourbon Whiskey produkowany z mash bill zawierającego czerwoną pszenicę ozimą zamiast żyta. Dzięki temu wyróżnia się wyjątkowo łagodnym i kremowym charakterem z nutami wanilii, karmelu, miodu, toffi oraz delikatnych przypraw. Dojrzewanie w nowych, mocno opalanych beczkach z amerykańskiego dębu nadaje bourbonowi bogactwo i równowagę.",
+  "howToPresent": "Kentucky Straight Bourbon Whiskey produkowany z mieszanki zawierającej ozimą pszenicę zamiast żyta. Dzięki temu wyróżnia się wyjątkowo łagodnym i kremowym charakterem z nutami wanilii, karmelu, miodu, toffi, wiórek kokosowych oraz delikatnych przypraw. Dojrzewanie w nowych, mocno opalanych beczkach z amerykańskiego dębu nadaje bourbonowi bogactwo i równowagę.",
 
   "salesTip": [
-    "Maker's Mark wykorzystuje czerwoną pszenicę ozimą zamiast żyta, dzięki czemu bourbon jest wyjątkowo miękki i kremowy.",
-    "Każda butelka jest ręcznie zanurzana w charakterystycznym czerwonym wosku, który stał się symbolem marki.",
-    "Whiskey dojrzewa do momentu osiągnięcia optymalnego profilu smakowego – producent nie deklaruje wieku.",
-    "Nowe, mocno opalane beczki z amerykańskiego dębu nadają nuty wanilii, karmelu i miodu.",
-    "Maker's Mark jest jednym z najbardziej rozpoznawalnych przedstawicieli kategorii wheated bourbon."
+    "Maker's Mark wykorzystuje pszenicę ozimą zamiast żyta, dzięki czemu bourbon ma wyjątkowo miękki i kremowy charakter."
 ]
 },
 
@@ -2936,19 +2873,15 @@
 
   "whenToOffer": [
     "Klient szuka klasycznego bourbona o doskonałej równowadze",
-    "Alternatywa dla Woodford Reserve dla osób preferujących bardziej owocowy i słodszy profil",
-    "Dla fanów wanilii, karmelu, miodu i dojrzałych owoców",
-    "Klient szuka bourbona zarówno do degustacji solo, jak i klasycznych koktajli"
+    "Alternatywa dla podstawowych bourbonów, dla osób szukających zbalansowanej whiskey",
+    "Dla fanów wanilii, toffi, miodu i przypraw"
 ],
 
-  "howToPresent": "Kentucky Straight Bourbon Whiskey dojrzewający w nowych, mocno opalanych beczkach z amerykańskiego dębu. Charakteryzuje się doskonałą równowagą między słodyczą wanilii i karmelu, nutami miodu, dojrzałych owoców oraz delikatnych przypraw. To jeden z najbardziej klasycznych i wszechstronnych bourbonów premium.",
+  "howToPresent": "Kentucky Straight Bourbon Whiskey dojrzewający w nowych, mocno opalanych beczkach z amerykańskiego dębu. Charakteryzuje się doskonałą równowagą. Oferuje nuty wanilii, toffi, miodu, brzoskwiń oraz delikatnych przypraw.",
 
   "salesTip": [
-  "Buffalo Trace powstaje z mash bill o niskiej zawartości żyta, dzięki czemu oferuje łagodniejszy i bardziej owocowy profil.",
-  "Produkowany jest w Buffalo Trace Distillery – najstarszej nieprzerwanie działającej destylarni w Stanach Zjednoczonych.",
-  "Ta sama destylarnia produkuje również Eagle Rare, Blanton's, George T. Stagg oraz W.L. Weller.",
-  "Nowe, mocno opalane beczki z amerykańskiego dębu nadają nuty wanilii, karmelu i słodkiego dębu.",
-  "Buffalo Trace zdobył liczne międzynarodowe nagrody i jest uznawany za jeden z najlepszych bourbonów w swojej kategorii cenowej."
+    "Buffalo Trace powstaje z mieszanki o niskiej zawartości żyta, dzięki czemu oferuje łagodniejszy i bardziej owocowy profil.",
+    "Produkowany jest w Buffalo Trace Distillery, najstarszej nieprzerwanie działającej destylarni w Stanach Zjednoczonych."
 ]
 },
 
@@ -2960,23 +2893,18 @@
   "country": "USA",
   "abv": "50.5%",
   "image": "bottle_img/wild_turkey101.webp",
-  "maturation": "Kentucky Straight Bourbon Whiskey dojrzewający od 6 do 8 lat w nowych, głęboko opalanych beczkach z amerykańskiego dębu (Alligator Char #4)",
+  "maturation": "Kentucky Straight Bourbon Whiskey dojrzewający w nowych, głęboko opalanych beczkach z amerykańskiego dębu (Alligator Char #4)",
 
   "whenToOffer": [
-    "Klient szuka intensywnego bourbona o wyższej mocy",
-    "Alternatywa dla Knob Creek 9 dla osób preferujących bardziej korzenny profil",
-    "Dla fanów wanilii, karmelu, pieprzu i przypraw",
-    "Klient szuka bourbona do degustacji solo lub klasycznego Old Fashioned"
+    "Klient szuka intensywnego i pikantnego bourbona o wyższej mocy",
+    "Alternatywa dla podstawowych bourbonów dla osób preferujących bardziej intensywniejszy profil",
+    "Dla fanów wanilii, karmelu, pieprzu i przypraw"
 ],
 
-  "howToPresent": "Kentucky Straight Bourbon Whiskey butelkowany z mocą 101 Proof (50,5% ABV). Dojrzewa od 6 do 8 lat w nowych, głęboko opalanych beczkach z amerykańskiego dębu, dzięki czemu oferuje intensywne nuty wanilii, karmelu, pieprzu, cynamonu, prażonych orzechów i dębu. To klasyczny, wyrazisty styl Kentucky Bourbon.",
+  "howToPresent": "Kentucky Straight Bourbon Whiskey butelkowany z mocą 101 Proof (50,5% ABV). Dojrzewa w nowych, głęboko opalanych beczkach z amerykańskiego dębu, dzięki czemu oferuje intensywne nuty wanilii, karmelu, pieprzu, cynamonu, prażonych orzechów i dębu. To klasyczny, wyrazisty styl Kentucky Bourbon.",
 
   "salesTip": [
-    "101 Proof oznacza moc 50,5% ABV, dzięki czemu bourbon zachowuje bogatszy smak i pełniejsze ciało.",
-    "Wild Turkey wykorzystuje beczki opalane do poziomu Alligator Char #4, które nadają intensywne nuty wanilii, karmelu i dębu.",
-    "Master Distiller Jimmy Russell jest nazywany „Buddą Bourbona” i od ponad 70 lat związany jest z destylarnią Wild Turkey.",
-    "Mash bill zawiera około 13% żyta, co nadaje whiskey charakterystyczną korzenną pikantność.",
-    "Wild Turkey 101 od lat uznawany jest za jeden z najlepszych bourbonów w relacji jakości do ceny."
+    "Wild Turkey wykorzystuje beczki opalane do poziomu Alligator Char #4, które nadają intensywne nuty wanilii, karmelu i dębu."
 ]
 },
 
@@ -2988,32 +2916,20 @@
   "country": "USA",
   "abv": "43.3%",
   "image": "bottle_img/angels_envy.png",
+  "maturation": "Kentucky Straight Bourbon Whiskey dojrzewająca w nowych, mocno opalanych beczkach z amerykańskiego dębu, a następnie finiszowana w beczkach po Porto",
 
   "whenToOffer": [
-    "Klient lubi wine finish",
-    "Alternatywa dla Double Oaked"
-  ],
+    "Klient lubi whiskey finiszowane w beczkach po winach wzmacnianych",
+    "Alternatywa dla Woodford Reserve i Knob Creek dla osób szukających bardziej owocowego charakteru",
+    "Dla fanów wanilii, czerwonych owoców, czekolady i syropu klonowego",
+    "Klient szuka bourbona na prezent lub wyjątkową okazje"
+],
 
-  "maturation": "Port Wine Finish",
+  "howToPresent": "Kentucky Straight Bourbon Whiskey, która po klasycznym dojrzewaniu w nowych beczkach z amerykańskiego dębu jest finiszowana w beczkach po Porto. Finisz nadaje bourbonowi nuty rodzynek, czerwonych owoców, syropu klonowego, wanilii, gorzkiej czekolady i prażonych orzechów, zachowując równowagę między słodyczą a charakterem klasycznego bourbona.",
 
-  "howToPresent": "Bourbon finiszowany w beczkach po porto. Bardziej owocowy i słodszy."
-},
-
-{
-  "slug": "southern-comfort",
-  "name": "Southern Comfort",
-  "subtitle": "American Liqueur · USA",
-  "category": "whisky-bourbon",
-  "country": "USA",
-  "abv": "35%",
-  "image": "bottle_img/southern_comfort.webp",
-
-  "whenToOffer": [
-    "Klient szuka czegoś słodszego",
-    "Do prostych drinków"
-  ],
-
-  "howToPresent": "Likier na bazie whiskey z nutą owoców i przypraw."
+  "salesTip": [
+    "Angel's Envy była jedną z pierwszych marek, które spopularyzowały finiszowanie bourbona"
+]
 },
 
 {
@@ -3024,30 +2940,21 @@
   "country": "Canada",
   "abv": "40%",
   "image": "bottle_img/crown.webp",
+  "maturation": "Canadian Blended Whisky dojrzewająca w opalanych beczkach z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient szuka kanadyjskiej whisky",
-    "Łagodniejsza alternatywa dla bourbona"
-  ],
+    "Klient szuka wyjątkowo łagodnej whisky",
+    "Alternatywa dla klasycznych bourbonów dla osób preferujących delikatniejszy profil",
+    "Dla fanów wanilii, karmelu, jabłek i delikatnych przypraw",
+    "Klient szuka whiskey na prezent lub wyjątkową okazje"
+],
 
-  "howToPresent": "Miękka i lekka kanadyjska whisky o delikatnym profilu."
-},
+  "howToPresent": "Klasyczna Canadian Blended Whisky, charakteryzuje się wyjątkową gładkością oraz nutami wanilii, karmelu, jabłek, lekkiego dębu i subtelnych przypraw. To jedna z najbardziej rozpoznawalnych kanadyjskich whisky na świecie.",
 
-{
-  "slug": "fireball",
-  "name": "Fireball Cinnamon",
-  "subtitle": "Cinnamon Whisky Liqueur · USA",
-  "category": "whisky-bourbon",
-  "country": "USA",
-  "abv": "33%",
-  "image": "bottle_img/fireball.webp",
-
-  "whenToOffer": [
-    "Klient szuka czegoś słodkiego i pikantnego",
-    "Imprezowa opcja"
-  ],
-
-  "howToPresent": "Likier cynamonowy na bazie whiskey. Słodki i pikantny."
+  "salesTip": [
+    "Każda butelka pakowana jest w charakterystyczny fioletowy woreczek inspirowany królewskimi insygniami.",
+    "Crown Royal jest najlepiej sprzedającą się kanadyjską whisky na świecie."
+]
 },
 
 {
@@ -3058,48 +2965,15 @@
   "country": "USA",
   "abv": "40%",
   "image": "bottle_img/beam.webp",
+  "maturation": "Kentucky Straight Bourbon Whiskey dojrzewający w nowych, mocno opalanych beczkach z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient szuka klasycznego bourbona",
-    "Do drinków",
-    "Alternatywa dla Jack Daniel’s"
-  ],
+    "Klient szuka klasycznego amerykańskiego bourbona",
+    "Dla fanów wanilii, karmelu, dębu i delikatnych przypraw",
+    "Klient szuka bourbona do drinków i miksowania"
+],
 
-  "howToPresent": "Klasyczny bourbon o nutach wanilii, karmelu i lekkiej słodyczy. Bardzo uniwersalny."
-},
-
-{
-  "slug": "jim-beam-flavoured",
-  "name": "Jim Beam Flavoured",
-  "subtitle": "Flavoured Bourbon · USA",
-  "category": "whisky-bourbon",
-  "country": "USA",
-  "abv": "32.5%",
-  "image": "bottle_img/beam_apple.png",
-
-  "whenToOffer": [
-    "Klient nie lubi klasycznej whisky",
-    "Szuka czegoś słodszego",
-    "Na imprezę"
-  ],
-
-  "howToPresent": "Lżejsza i słodsza wersja bourbona. Bardziej przystępna dla osób, które nie piją klasycznej whisky.",
-
-  "variants": [
-    {
-      "type": "Apple",
-      "image": "bottle_img/beam_apple.png"
-    },
-    {
-      "type": "Honey",
-      "image": "bottle_img/beam_honey.png"
-    }
-  ],
-
-  "salesTip": [
-    "Apple – bardziej świeży i owocowy.",
-    "Honey – łagodniejszy i bardziej słodki."
-  ]
+  "howToPresent": "Klasyczny Kentucky Straight Bourbon Whiskey dojrzewający w nowych, mocno opalanych beczkach z amerykańskiego dębu. Oferuje klasyczne nuty wanilii, karmelu, dębu oraz delikatnych przypraw. To jeden z najbardziej rozpoznawalnych bourbonów na świecie."
 },
 
 {
@@ -3110,48 +2984,22 @@
   "country": "USA",
   "abv": "40%",
   "image": "bottle_img/jack.webp",
+  "maturation": "Tennessee Whiskey dojrzewająca w nowych, mocno opalanych beczkach z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient szuka klasycznej amerykańskiej whisky",
-    "Alternatywa dla Jim Beam",
-    "Do drinków"
-  ],
+    "Klient szuka amerykańskiej whiskey",
+    "Dla fanów wanilii, karmelu, banana i delikatnego dębu",
+    "Klient szuka whiskey do drinków i miksowania"
+],
 
-  "howToPresent": "Ikona Tennessee whiskey. Filtrowana przez węgiel drzewny, łagodna z nutami karmelu i wanilii."
+  "howToPresent": "Klasyczna Tennessee Whiskey filtrowana przed dojrzewaniem przez warstwę węgla z drewna klonu w procesie Lincoln County Process. Następnie dojrzewa w nowych, mocno opalanych beczkach z amerykańskiego dębu, zyskując nuty wanilii, karmelu, banana i delikatnego dębu. Dzięki filtracji wyróżnia się gładkim charakterem.",
+
+  "salesTip": [
+    "Lincoln County Process polega na filtrowaniu świeżego destylatu przez około 3-metrową warstwę węgla z drewna klonu przed dojrzewaniem.",
+    "Jack Daniel's jest produkowana w Lynchburgu w stanie Tennessee i należy do kategorii Tennessee Whiskey, a nie Kentucky Straight Bourbon.",
+    "Old No. 7 to najlepiej sprzedająca się amerykańska whiskey na świecie."
+]
 }, 
-
-{
-  "slug": "jack-daniels-flavoured",
-  "name": "Jack Daniel’s Flavoured",
-  "subtitle": "Flavoured Tennessee Whiskey · USA",
-  "category": "whisky-bourbon",
-  "country": "USA",
-  "abv": "35%",
-  "image": "bottle_img/jack_apple.webp",
-
-  "whenToOffer": [
-    "Klient nie pije klasycznej whisky",
-    "Szukają czegoś słodszego",
-    "Na imprezę"
-  ],
-
-  "howToPresent": "Lżejsze i słodsze wersje Jack Daniel’s. Bardziej przystępne dla osób początkujących.",
-
-  "variants": [
-    {
-      "type": "Apple",
-      "image": "bottle_img/jack_apple.webp"
-    },
-    {
-      "type": "Honey",
-      "image": "bottle_img/jack_honey.webp"
-    },
-    {
-      "type": "Fire",
-      "image": "bottle_img/jack_fire.webp"
-    }
-  ]
-},
 
 {
   "slug": "jack-daniels-gentleman",
@@ -3161,13 +3009,19 @@
   "country": "USA",
   "abv": "40%",
   "image": "bottle_img/jack_gentleman.webp",
+  "maturation": "Tennessee Whiskey dojrzewająca w nowych, mocno opalanych beczkach z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient chce coś lepszego niż No.7",
-    "Łagodniejsza wersja Jack Daniel’s"
-  ],
+  "Klient lubi Jack Daniel's Old No. 7 i szuka łagodniejszej wersji",
+  "Dla fanów wanilii, karmelu, banana i przypraw",
+  "Klient szuka whiskey do drinków i miksowania"
+],
 
-  "howToPresent": "Podwójnie filtrowany przez węgiel drzewny. Bardziej gładki i elegancki niż klasyczny No.7."
+  "howToPresent": "Tennessee Whiskey poddawana podwójnemu procesowi Lincoln County Process przed dojrzewaniem oraz ponownie przed butelkowaniem. Dzięki temu wyróżnia się wyjątkowo gładkim i aksamitnym charakterem z nutami wanilii, karmelu, banana, miodu oraz delikatnego dębu.",
+
+  "salesTip": [
+    "Lincoln County Process polega na filtrowaniu świeżego destylatu przez około 3-metrową warstwę węgla z drewna klonu przed dojrzewaniem."
+]
 },
 
 {
@@ -3178,30 +3032,21 @@
   "country": "USA",
   "abv": "50%",
   "image": "bottle_img/jack_bonded.webp",
+  "maturation": "Tennessee Whiskey dojrzewająca przez minimum 4 lata w nowych, mocno opalanych beczkach z amerykańskiego dębu i butelkowana zgodnie z wymogami Bottled-in-Bond",
 
   "whenToOffer": [
-    "Klient chce mocniejszą wersję",
-    "Fan wyższej mocy"
-  ],
+    "Klient lubi Jack Daniel's i szuka bardziej intensywnej wersji",
+    "Alternatywa dla Wild Turkey 101 lub Knob Creek 9",
+    "Dla fanów karmelu, dębu, banana i wyraźnych przypraw",
+    "KLient szuka prezentu dla fana marki Jack Daniel's"
+],
 
-  "howToPresent": "Wyższa moc (100 proof). Bardziej intensywna, dębowa i wyrazista."
-},
+  "howToPresent": "Tennessee Whiskey produkowana zgodnie z wymogami Bottled-in-Bond. Przechodzi proces Lincoln County Process, dojrzewa przez minimum 4 lata w nowych, mocno opalanych beczkach z amerykańskiego dębu i jest butelkowana z mocą 50% ABV. Oferuje bogatszy i bardziej wyrazisty profil niż Jack Daniel's Old No. 7, z nutami wanilii, karmelu, owoców, dębu i przypraw.",
 
-{
-  "slug": "jack-daniels-bonded-rye",
-  "name": "Jack Daniel’s Bonded Rye",
-  "subtitle": "Tennessee Rye Whiskey · USA",
-  "category": "whisky-bourbon",
-  "country": "USA",
-  "abv": "50%",
-  "image": "bottle_img/jack_bonded_rye.webp",
-
-  "whenToOffer": [
-    "Klient lubi żytnie whiskey",
-    "Alternatywa dla klasycznego bourbona"
-  ],
-
-  "howToPresent": "Rye w stylu Jack Daniel’s – bardziej pieprzna i wytrawna niż klasyczny bourbon."
+  "salesTip": [
+    "Bottled-in-Bond oznacza, że whiskey pochodzi z jednego sezonu destylacji, jednej destylarni, dojrzewa minimum 4 lata i jest butelkowana z mocą 50% ABV.",
+    "Lincoln County Process polega na filtrowaniu świeżego destylatu przez około 3-metrową warstwę węgla z drewna klonu przed dojrzewaniem."
+]
 },
 
 {
@@ -3212,14 +3057,21 @@
   "country": "USA",
   "abv": "45%",
   "image": "bottle_img/jack_singlebarrel.webp",
+  "maturation": "Tennessee Whiskey dojrzewająca w nowych, mocno opalanych beczkach z amerykańskiego dębu i butelkowana z pojedynczej beczki (Single Barrel)",
 
   "whenToOffer": [
-    "Klient szuka premium Jack Daniel’s",
-    "Prezent",
-    "Alternatywa dla Woodford"
-  ],
+    "Klient szuka bardziej intensywnej wersji Jack Daniel's",
+    "Dla fanów karmelu, wanilii, przypraw i dębu",
+    "Klient szuka whiskey na prezent lub wyjątkową okazje",
+    "Dla ludzi szukających limitowanych i ekskluzywnych wydań Jack Daniel's"
+],
 
-  "howToPresent": "Whiskey z pojedynczej beczki. Bardziej złożona, intensywna i elegancka niż standardowa seria."
+  "howToPresent": "Tennessee Whiskey pochodząca z pojedynczej beczki (Single Barrel), filtrowana metodą Lincoln County Process i butelkowana z mocą 50% ABV. Każda beczka dojrzewa w nieco innych warunkach, dlatego każda butelka ma indywidualny charakter, zachowując jednocześnie typowy profil Jack Daniel's z nutami wanilii, karmelu, banana, przypraw i tostowanego dębu.",
+
+  "salesTip": [
+  "Lincoln County Process polega na filtrowaniu świeżego destylatu przez około 3-metrową warstwę węgla z drewna klonu przed dojrzewaniem.",
+  "Edycja została stworzona dla Global Travel Retail."
+]
 },
 
 {
@@ -3230,13 +3082,21 @@
   "country": "France",
   "abv": "40%",
   "image": "bottle_img/brenne.webp",
+  "maturation": "French Single Malt Whisky dojrzewająca najpierw w nowych beczkach z francuskiego dębu Limousin, a następnie finiszowana w beczkach po koniaku",
 
   "whenToOffer": [
-    "Klient szuka nietypowej whisky",
-    "Alternatywa dla szkockich single maltów"
-  ],
+    "Klient chce spróbować whisky spoza Szkocji i Irlandii",
+    "Alternatywa dla lekkich Single Maltów",
+    "Dla fanów bananów, wanilii, crème brûlée i tropikalnych owoców",
+    "Klient szuka nietypowej, unikalnej i ciekawej whisky"
+],
 
-  "howToPresent": "Francuski single malt dojrzewający częściowo w beczkach po koniaku. Owocowy, elegancki, delikatnie winny."
+  "howToPresent": "Francuska Single Malt Whisky produkowana w regionie Cognac z lokalnego, ekologicznego jęczmienia. Destylowana w tradycyjnych alembikach koniakowych, dojrzewa w nowych beczkach z dębu Limousin, a następnie finiszowana w beczkach po koniaku. Oferuje wyjątkowo owocowy profil z nutami banana, gruszki, wanilii, crème brûlée i delikatnych przypraw.",
+
+  "salesTip": [
+    "Do produkcji wykorzystywane są tradycyjne alembiki koniakowe, a nie typowe szkockie pot still.",
+    "Marka Brenne była jedną z pierwszych, które zwróciły uwagę świata na francuską whisky premium."
+]
 },
 
 {
@@ -3247,13 +3107,20 @@
   "country": "Japan",
   "abv": "40%",
   "image": "bottle_img/nikka_days.webp",
+  "maturation": "Japanese Blended Whisky dojrzewająca w dębowych beczkach",
 
   "whenToOffer": [
-    "Klient zaczyna przygodę z japońską whisky",
-    "Łagodna i przystępna opcja"
-  ],
+    "Klient chce spróbować japońskiej whisky",
+    "Alternatywa dla lekkich podstawowych blended whisky",
+    "Dla fanów jabłek, gruszek, wanilii i kwiatów",
+    "Klient zaczyna przygodę z whisky"
+],
 
-  "howToPresent": "Lekka, kwiatowo-owocowa japońska whisky. Bardzo przystępna."
+  "howToPresent": "Japońska Blended Whisky charakteryzuje się wyjątkowo gładkim i świeżym profilem z nutami jabłek, gruszek, wanilii, kwiatów i cytrusów.",
+
+  "salesTip": [
+  "Nikka Days została stworzona jako nowoczesna, łatwo przystępna japońska whisky, idealna również do koktajli."
+]
 },
 
 {
@@ -3264,13 +3131,19 @@
   "country": "Japan",
   "abv": "51.4%",
   "image": "bottle_img/nikka_barrel.webp",
+  "maturation": "Japanese Blended Whisky dojrzewająca w dębowych beczkach",
 
   "whenToOffer": [
-    "Klient szuka mocnej whisky",
-    "Coś charakternego z Japonii"
-  ],
+    "Klient szuka intensywnej japońskiej whisky o wysokiej mocy",
+    "Alternatywa dla cask strength lub high proof whisky w bardziej przystępnej cenie",
+    "Dla fanów przypraw, karmelu, suszonych owoców i dębu"
+],
 
-  "howToPresent": "Kultowa japońska whisky o wysokiej mocy. Intensywna, przyprawowa i złożona."
+  "howToPresent": "Japońska Blended Whisky butelkowana z mocą 51,4% ABV. Po kupażowaniu whisky ponownie dojrzewają w beczkach, dzięki czemu ich smaki lepiej się integrują. Efektem jest bogaty i skoncentrowany profil z nutami karmelu, przypraw korzennych, suszonych owoców, wanilii, dębu oraz delikatnych akcentów dymnych.",
+
+  "salesTip": [
+    "Charakterystyczna kwadratowa butelka została zaprojektowana tak, aby jak najlepiej wykorzystać przestrzeń podczas transportu."
+]
 },
 
 {
@@ -3281,13 +3154,20 @@
   "country": "Japan",
   "abv": "43%",
   "image": "bottle_img/tailored.webp",
+  "maturation": "Japanese Blended Whisky dojrzewająca w dębowych beczkach",
 
   "whenToOffer": [
-    "Klient szuka eleganckiej japońskiej whisky",
-    "Prezent"
-  ],
+    "Klient szuka whiskey na prezent lub wyjątkową okazje",
+    "Alternatywa dla Hibiki Japanese Harmony i innych premium whisky",
+    "Dla fanów gruszki, wanilii, czekolady i delikatnych przypraw",
+    "Klient szuka whisky o wyjątkowo harmonijnym i złożonym charakterze"
+],
 
-  "howToPresent": "Elegancki blend o zbalansowanym profilu – wanilia, owoce i subtelne przyprawy."
+  "howToPresent": "Japońska Blended Whisky łącząca starannie wyselekcjonowane whisky słodowe i zbożowe z destylarni Nikka. Charakteryzuje się eleganckim i doskonale zbalansowanym profilem z nutami gruszki, wanilii, mlecznej czekolady, skórki cytrusowej oraz subtelnych przypraw.",
+
+  "salesTip": [
+    "Nikka Tailored została stworzona jako nowy flagowy blend marki Nikka."
+]
 },
 
 {
@@ -3298,14 +3178,22 @@
   "country": "Japan",
   "abv": "45%",
   "image": "bottle_img/yoichi.webp",
+  "maturation": "Japanese Single Malt Whisky dojrzewająca w dębowych beczkach",
 
   "whenToOffer": [
-    "Klient szuka bardziej wytrawnej japońskiej whisky",
-    "Fan lekkiego torfu",
-    "Alternatywa dla szkockich wysp"
-  ],
+    "Alternatywa dla szkockich dymnych whisky lub łagodniejszych whisky z wysp",
+    "Dla fanów owoców, przypraw, delikatnego dymu i morskiego charakteru",
+    "Klient szuka dymnej whisky na prezent lub specjalną okazję"
+],
 
-  "howToPresent": "Single malt z destylarni Yoichi. Bardziej wytrawny i lekko dymny niż większość japońskich whisky."
+  "howToPresent": "Japońska Single Malt Whisky produkowana w destylarni Yoichi na wyspie Hokkaido. Destylowana w tradycyjnych alembikach ogrzewanych bezpośrednio ogniem z węgla, oferuje bogaty i oleisty profil z nutami jabłek, gruszek, przypraw, wanilii, delikatnego torfu oraz subtelnych akcentów morskich.",
+
+  "salesTip": [
+    "Destylarnia Yoichi wykorzystuje tradycyjne alembiki ogrzewane bezpośrednio ogniem z węgla (direct coal-fired distillation), co jest dziś niezwykle rzadko spotykaną metodą.",
+    "Yoichi została założona w 1934 roku przez Masatakę Taketsuru – ojca japońskiej whisky i założyciela Nikka.",
+    "Położenie destylarni na wyspie Hokkaido zostało wybrane ze względu na klimat zbliżony do Szkocji.",
+    "To flagowa Single Malt destylarni Yoichi i jedna z najbardziej rozpoznawalnych japońskich whisky na świecie."
+]
 },
 
 {
@@ -3316,14 +3204,21 @@
   "country": "Japan",
   "abv": "45%",
   "image": "bottle_img/miyagikyo.webp",
+  "maturation": "Japanese Single Malt Whisky dojrzewająca w dębowych beczkach z wyraźnym udziałem beczek po sherry",
 
   "whenToOffer": [
-    "Klient szuka delikatniejszej japońskiej whisky",
-    "Owocowy profil",
-    "Prezent"
-  ],
+    "Klient lubi whisky dojrzewające w beczkach po sherry",
+    "Alternatywa dla innych single maltów dojrzewających w beczkacj po sherry",
+    "Dla ludzi szukających whyiksy na prezent lub wyjątkową okazje",
+    "Klient szuka whisky o miękkim i harmonijnym charakterze"
+],
 
-  "howToPresent": "Bardziej owocowy i elegancki niż Yoichi. Delikatny, z nutami gruszki i kwiatów."
+  "howToPresent": "Japońska Single Malt Whisky produkowana w destylarni Miyagikyo. Destylowana w alembikach ogrzewanych parą, co sprzyja powstawaniu lekkiego, owocowego i kwiatowego destylatu. Wyraźny wpływ beczek po sherry nadaje whisky nuty banana, gruszki, kwiatów, słodu, czekolady oraz delikatnych przypraw.",
+
+  "salesTip": [
+    "Miyagikyo została założona w 1969 roku jako druga destylarnia Nikka, aby uzupełnić intensywny styl Yoichi.",
+    "Whisky dojrzewa z wyraźnym udziałem beczek po sherry, które podkreślają jej owocowy i elegancki charakter."
+]
 },
 
 {
@@ -3368,13 +3263,24 @@
   "country": "Japan",
   "abv": "43%",
   "image": "bottle_img/taketsuru.jpg",
+  "maturation": "Japanese Single Malt Whisky dojrzewająca w dębowych beczkach",
 
   "whenToOffer": [
-    "Klient chce klasyczną japońską whisky",
-    "Balans między Yoichi i Miyagikyo"
-  ],
+    "Klient chce poznać styl Nikka w jednej whisky",
+    "Alternatywa dla Nikka From The Barrel dla osób preferujących łagodniejszy i bardziej elegancki profil",
+    "Dla fanów owoców, miodu, wanilii i subtelnego dymu",
+    "Klient szuka wysokiej jakości Blended Malt Whisky"
+],
 
-  "howToPresent": "Blend maltów z dwóch destylarni Nikka – Yoichi i Miyagikyo. Zbalansowana, lekko dymna i owocowa."
+  "howToPresent": "Japanese Blended Malt Whisky (Pure Malt) łącząca whisky słodowe z destylarni Yoichi i Miyagikyo. Łączy bogaty, lekko torfowy charakter Yoichi z owocową i kwiatową elegancją Miyagikyo, oferując harmonijny profil z nutami miodu, wanilii, dojrzałych owoców, przypraw oraz delikatnego dymu.",
+
+  "salesTip": [
+    "Taketsuru Pure Malt jest tworzona wyłącznie z whisky słodowych – nie zawiera whisky zbożowej.",
+    "Łączy whisky z dwóch destylarni Nikka: Yoichi i Miyagikyo, tworząc harmonijny balans między intensywnością a elegancją.",
+    "Nazwa upamiętnia Masatakę Taketsuru – założyciela Nikka i ojca japońskiej whisky.",
+    "Taketsuru Pure Malt zdobyła tytuł World's Best Blended Malt Whisky podczas World Whiskies Awards.",
+    "To doskonały przykład filozofii Nikka, która opiera się na sztuce komponowania różnych stylów whisky słodowej."
+]
 },
 
 {
@@ -3430,23 +3336,6 @@
 },
 
 {
-  "slug": "kavalan-masters-reserve-2",
-  "name": "Kavalan Master’s Reserve No.2",
-  "subtitle": "Single Malt · Taiwan · Travel Retail",
-  "category": "whisky-single-malt",
-  "country": "Taiwan",
-  "abv": "40%",
-  "image": "bottle_img/kavalan_nr2.webp",
-
-  "whenToOffer": [
-    "Klient zna markę Kavalan",
-    "Szukają edycji travel retail"
-  ],
-
-  "howToPresent": "Druga odsłona serii Master’s Reserve. Bogata, owocowa, z wyraźnym wpływem beczki."
-},
-
-{
   "slug": "kavalan-masters-reserve-1",
   "name": "Kavalan Master’s Reserve No.1",
   "subtitle": "Single Malt · Taiwan · Travel Retail",
@@ -3481,56 +3370,6 @@
   "howToPresent": "Japoński single malt o wyraźnym torfowym charakterze. Dymny, ale bardziej elegancki niż klasyczne Islay."
 },
 
-{
-  "slug": "kurayoshi-12",
-  "name": "Kurayoshi 12",
-  "subtitle": "Pure Malt · Japonia",
-  "category": "whisky-blended-malt",
-  "country": "Japan",
-  "abv": "43%",
-  "image": "bottle_img/kurayoshi12.webp",
-
-  "whenToOffer": [
-    "Klient szuka wieku w japońskiej whisky",
-    "Prezent"
-  ],
-
-  "howToPresent": "Dojrzewająca 12 lat whisky o nutach wanilii, miodu i przypraw."
-},
-
-{
-  "slug": "fuji-single-malt",
-  "name": "Fuji Single Malt",
-  "subtitle": "Single Malt · Japonia",
-  "category": "whisky-single-malt",
-  "country": "Japan",
-  "abv": "46%",
-  "image": "bottle_img/fuji_malt.webp",
-
-  "whenToOffer": [
-    "Klient szuka nowoczesnej japońskiej whisky",
-    "Fan delikatnych profili"
-  ],
-
-  "howToPresent": "Czysty, elegancki single malt z destylarni Fuji."
-},
-
-{
-  "slug": "fuji-single-grain",
-  "name": "Fuji Single Grain",
-  "subtitle": "Single Grain · Japonia",
-  "category": "whisky-grain",
-  "country": "Japan",
-  "abv": "46%",
-  "image": "bottle_img/fuji_grain.webp",
-
-  "whenToOffer": [
-    "Klient szuka łagodniejszej whisky",
-    "Alternatywa dla bourbonu"
-  ],
-
-  "howToPresent": "Single grain z destylarni Fuji – bardziej kremowy i słodszy profil."
-},
 
 {
   "slug": "akashi-blended",
@@ -3564,23 +3403,6 @@
   ],
 
   "howToPresent": "Bardziej dopracowana i zbalansowana wersja klasycznego Akashi."
-},
-
-{
-  "slug": "akashi-single-malt",
-  "name": "Akashi Single Malt",
-  "subtitle": "Single Malt · Japonia",
-  "category": "whisky-single-malt",
-  "country": "Japan",
-  "abv": "46%",
-  "image": "bottle_img/akashi_singlemalt.webp",
-
-  "whenToOffer": [
-    "Klient szuka japońskiego single malta",
-    "Alternatywa dla Yamazaki"
-  ],
-
-  "howToPresent": "Rzemieślniczy single malt z destylarni White Oak."
 },
 
 {
@@ -3743,32 +3565,5 @@
   ],
 
   "howToPresent": "Ikoniczny japoński blend – harmonijny, elegancki i wielowarstwowy."
-},
-
-  {
-    "slug": "glenfiddich-vat-01",
-    "name": "Glenfiddich VAT 01",
-    "subtitle": "Single Malt · Speyside · Travel Retail",
-    "category": "whisky-single-malt",
-    "country": "Scotland",
-    "region": "Speyside",
-    "abv": "40%",
-    "image": "bottle_img/glenfiddich-vat01.webp",
-
-    "whenToOffer": [
-      "Klient szuka Glenfiddich 12",
-      "Klient chce łagodną, niedymną whisky",
-      "Klient interesuje się edycjami airport exclusive"
-    ],
-
-    "maturation": "American Oak, European Oak, and Red Wine Casks",
-
-    "howToPresent": "To edycja travel retail, tworzona w systemie solera – każda partia bazuje na poprzedniej.",
-
-    "salesTip": ["Często klienci szukają Glenfiddich 12, aby nie stracić sprzedaż mozemy zaproponować właśnie VAT 01."],
-
-    "aroma": "Owocowo-kwiatowy, z nutami wanilii, kremowego toffi i delikatnego dębu.",
-    "taste": "Gładki, słodowo-owocowy, z wanilią i lekką nutą przypraw.",
-    "finish": "Średni, czysty, lekko dębowy."
-  }
+}
 ]
