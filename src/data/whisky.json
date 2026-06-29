@@ -3229,13 +3229,20 @@
   "country": "Japan",
   "abv": "48%",
   "image": "bottle_img/yoichi_aromatic.jpg",
+  "maturation": "Dojrzewa w dębowych beczkach",
 
   "whenToOffer": [
-    "Klient szuka limitowanej edycji",
-    "Znawca japońskiej whisky"
-  ],
+    "Klient kolekcjonuje limitowane edycje Nikka Discovery",
+    "Dla fanów owocowych i kwiatowych whisky z delikatnym torfem",
+    "Klient szuka ekskluzywnych i limitowanych wydań Nikka lub whisky japońskich"
+],
 
-  "howToPresent": "Limitowana seria z wykorzystaniem specjalnych szczepów drożdży podkreślających aromaty fermentacyjne i owocowe."
+  "howToPresent": "Limitowana Japanese Single Malt Whisky z serii Nikka Discovery. Zastosowanie specjalnie wyselekcjonowanych drożdży nadaje whisky wyraźne nuty kwiatowe i owocowe, zachowując jednocześnie charakterystyczny dla Yoichi delikatny torf i morski charakter.",
+
+"salesTip": [
+  "Butelkowana bez filtracji na zimno (Non-Chill Filtered), aby zachować pełnię aromatów i tekstury.",
+  "Yoichi Aromatic Yeast pokazuje, że profil whisky można kształtować nie tylko beczkami, ale również procesem fermentacji."
+]
 },
 
 {
@@ -3246,13 +3253,20 @@
   "country": "Japan",
   "abv": "48%",
   "image": "bottle_img/miyagikyo_aromatic.webp",
+  "maturation": "Dojrzewa w dębowych beczkach",
 
   "whenToOffer": [
-    "Klient kolekcjonerski",
-    "Fan eksperymentalnych edycji"
-  ],
+    "Klient kolekcjonuje limitowane edycje Nikka Discovery",
+    "Dla fanów owocowych i kwiatowych Single Malt Whisky",
+    "Klient szuka ekskluzywnych i limitowanych wydań Nikka lub whisky japońskich"
+],
 
-  "howToPresent": "Limitowana odsłona Miyagikyo z unikalnym profilem fermentacji – bardziej owocowa i aromatyczna."
+  "howToPresent": "Limitowana Japanese Single Malt Whisky z serii Nikka Discovery. Dzięki wykorzystaniu specjalnie wyselekcjonowanych szczepów drożdży oferuje wyjątkowo owocowy charakter z nutami brzoskwini, moreli, gruszki, kwiatów i miodu, zachowując elegancki styl destylarni Miyagikyo.",
+
+"salesTip": [
+  "Butelkowana bez filtracji na zimno (Non-Chill Filtered), aby zachować pełnię aromatów i tekstury.",
+  "Miyagikyo Aromatic Yeast pokazuje, że profil whisky można kształtować nie tylko beczkami, ale również procesem fermentacji."
+]
 },
 
 {
@@ -3263,23 +3277,19 @@
   "country": "Japan",
   "abv": "43%",
   "image": "bottle_img/taketsuru.jpg",
-  "maturation": "Japanese Single Malt Whisky dojrzewająca w dębowych beczkach",
+  "maturation": "Dojrzewa w dębowych beczkach",
 
   "whenToOffer": [
-    "Klient chce poznać styl Nikka w jednej whisky",
-    "Alternatywa dla Nikka From The Barrel dla osób preferujących łagodniejszy i bardziej elegancki profil",
+    "Klient chce spróbować whisky japońskiej",
+    "Alternatywa dla podstawowych Szkockich single maltów",
     "Dla fanów owoców, miodu, wanilii i subtelnego dymu",
-    "Klient szuka wysokiej jakości Blended Malt Whisky"
+    "Klient szuka uniwersalnego i bezpiecznego wyboru na prezent"
 ],
 
   "howToPresent": "Japanese Blended Malt Whisky (Pure Malt) łącząca whisky słodowe z destylarni Yoichi i Miyagikyo. Łączy bogaty, lekko torfowy charakter Yoichi z owocową i kwiatową elegancją Miyagikyo, oferując harmonijny profil z nutami miodu, wanilii, dojrzałych owoców, przypraw oraz delikatnego dymu.",
 
   "salesTip": [
-    "Taketsuru Pure Malt jest tworzona wyłącznie z whisky słodowych – nie zawiera whisky zbożowej.",
-    "Łączy whisky z dwóch destylarni Nikka: Yoichi i Miyagikyo, tworząc harmonijny balans między intensywnością a elegancją.",
-    "Nazwa upamiętnia Masatakę Taketsuru – założyciela Nikka i ojca japońskiej whisky.",
-    "Taketsuru Pure Malt zdobyła tytuł World's Best Blended Malt Whisky podczas World Whiskies Awards.",
-    "To doskonały przykład filozofii Nikka, która opiera się na sztuce komponowania różnych stylów whisky słodowej."
+    "Taketsuru Pure Malt jest tworzona wyłącznie z whisky słodowych i nie zawiera whisky zbożowej."
 ]
 },
 
@@ -3291,13 +3301,20 @@
   "country": "Japan",
   "abv": "45%",
   "image": "bottle_img/coffey_malt.webp",
+  "maturation":"Dojrzewa w używanych dębowych beczkach",
 
   "whenToOffer": [
-    "Klient szuka czegoś nietypowego",
-    "Fan słodszych profili"
-  ],
+    "Klient chce spróbować nietypowej japońskiej whisky",
+    "Alternatywa dla klasycznych Blended whisky dla osób szukających bardziej kremowego i złożonego profilu",
+    "Dla fanów wanilii, bananów, cytrusów i mlecznej czekolady"
+],
 
-  "howToPresent": "Destylowana w kolumnach Coffey still. Bardziej kremowa i słodsza niż klasyczny single malt."
+  "howToPresent": "Whisky produkowana w 100% ze słodowanego jęczmienia, destylowana w tradycyjnej kolumnie Coffey Still zamiast alembików. Dzięki temu wyróżnia się wyjątkowo kremową teksturą oraz bogatym profilem z nutami wanilii, banana, cytrusów, mlecznej czekolady, pralin i przypraw.",
+
+"salesTip": [
+  "Nikka Coffey Malt powstaje w 100% ze słodowanego jęczmienia, ale jest destylowana w kolumnie Coffey Still zamiast w tradycyjnych alembikach.",
+  "To jedna z nielicznych na świecie whisky produkowanych w 100% ze słodowanego jęczmienia i destylowanych w aparacie Coffey Still."
+]
 },
 
 {
@@ -3308,13 +3325,21 @@
   "country": "Japan",
   "abv": "45%",
   "image": "bottle_img/coffey_grain.webp",
+  "maturation": " Dojrzewa w używanych beczkach dębowych",
 
   "whenToOffer": [
-    "Klient szuka łagodnej whisky",
-    "Alternatywa dla bourbonu"
-  ],
+    "Klient chce spróbować wysokiej jakości Grain Whisky",
+    "Alternatywa dla klasycznych Blended whisky dla osób szukających bardziej gładkiego i złożonego profilu",
+    "Dla fanów wanilii, karmelu i grillowanej kukurydzy",
+    "Klient szuka nietypowej japońskiej whisky"
+]
 
-  "howToPresent": "Whisky zbożowa destylowana w kolumnach Coffey. Bardziej słodka i kremowa."
+  "howToPresent": "Japońska Grain Whisky produkowana głównie z kukurydzy i destylowana w tradycyjnej kolumnie Coffey Still. Dzięki temu wyróżnia się wyjątkowo gładką teksturą oraz bogatym profilem z nutami wanilii, karmelu, banana, grillowanej kukurydzy i słodkich przypraw.",
+
+"salesTip": [
+  "Nikka Coffey Grain produkowana jest głównie z kukurydzy, co nadaje jej wyjątkowo słodki i kremowy charakter.",
+  "To jedna z nielicznych premium Grain Whisky produkowanych jako samodzielny produkt, a nie jako składnik blendów."
+]
 },
 
 {
@@ -3325,14 +3350,21 @@
   "country": "France",
   "abv": "40%",
   "image": "bottle_img/evade.webp",
+  "maturation": "Dojrzewa w nowych beczkach z francuskiego i amerykańskiego dębu"
 
   "whenToOffer": [
-    "Klient szuka francuskiej whisky",
-    "Coś innego niż Szkocja",
-    "Alternatywa dla Brenne"
-  ],
+    "Klient chce spróbować whisky spoza Szkocji i Irlandii",
+    "Alternatywa dla intensywnych i młodych Single Maltów",
+    "Dla fanów karmelu, wanilii, pieprzu czarnego, przypraw i dębowych nut",
+    "Klient szuka nietypowej, unikalnej i ciekawej whisky"
+],
 
-  "howToPresent": "Francuski single malt dojrzewający w beczkach po winie i koniaku. Owocowy, elegancki, lekko winny charakter."
+  "howToPresent": "French Single Malt Whisky produkowana wyłącznie z francuskiego słodowanego jęczmienia. Destylowana dwukrotnie w tradycyjnych alembikach Charentais, oferuje profil wanilii, karmelu, gałki muszkatołowej, pieprzu, przypraw i nut dębowych.",
+
+"salesTip": [
+  "Évadé produkowana jest wyłącznie z francuskich surowców, od jęczmienia po proces dojrzewania.",
+  "Évadé pokazuje francuskie podejście do produkcji whisky, czerpiąc inspirację z lokalnych tradycji gorzelniczych."
+]
 },
 
 {
@@ -3343,14 +3375,20 @@
   "country": "Taiwan",
   "abv": "40%",
   "image": "bottle_img/kavalan_nr1.webp",
+  "maturation": "Dojrzewająca w beczkach po bourbonie oraz lekko torfowych beczkach STR (Shave, Toast, Rechar)",
 
   "whenToOffer": [
-    "Klient szuka egzotycznej whisky",
-    "Prezent premium",
-    "Alternatywa dla szkockich single maltów"
-  ],
+    "Klient lubi whisky z delikatnym wpływem torfu",
+    "Alternatywa dla podstawowych single maltów",
+    "Dla fanów wanilii, kremowości i subtelnego dymu",
+    "Klient szuka ekskluzywnych i limitowanych wydań Kavalan"
+],
 
-  "howToPresent": "Tajwański single malt dojrzewający w klimacie tropikalnym, co przyspiesza maturację. Intensywnie owocowy, kremowy, z nutą wanilii."
+  "howToPresent": "Taiwańska Single Malt Whisky stworzona wyłącznie dla Travel Retail. Połączenie beczek po bourbonie z lekko torfowymi beczkami STR zapewnia harmonijny profil z nutami wanilii, crème brûlée, miodu, ananasa, pieczonych jabłek oraz subtelnego dymu.",
+
+"salesTip": [
+  "Technologia STR opracowana przez Kavalan pozwala wydobyć głębsze warstwy drewna, nadając whisky pełniejsze ciało i bogatszy profil smakowy."
+]
 },
 
 {
@@ -3361,13 +3399,19 @@
   "country": "Japan",
   "abv": "48%",
   "image": "bottle_img/matsui_peated.jpg",
+  "maturation": "Dojrzewająca przez minimum 3 lata w beczkach z amerykańskiego dębu"
 
   "whenToOffer": [
-    "Klient szuka torfowej japońskiej whisky",
-    "Alternatywa dla szkockiego Islay"
-  ],
+    "Klient chce spróbować delikatnie torfowej japońskiej whisky",
+    "Alternatywa dla Yoichi lub dymnych whisky ze Szkocji ",
+    "Dla fanów wanilii, dębu i subtelnych nut torfowych"
+],
 
-  "howToPresent": "Japoński single malt o wyraźnym torfowym charakterze. Dymny, ale bardziej elegancki niż klasyczne Islay."
+  "howToPresent": "Japanese Single Malt Whisky produkowana z torfowanego słodu jęczmiennego. Oferuje harmonijne połączenie wanilii, karmelu, dębu i delikatnego torfowego dymu, zachowując elegancki i dobrze zbalansowany charakter.",
+
+"salesTip": [
+  "Butelkowana z mocą 48% ABV, co pozwala zachować bogaty aromat i pełniejszą strukturę."
+]
 },
 
 
@@ -3379,13 +3423,20 @@
   "country": "Japan",
   "abv": "40%",
   "image": "bottle_img/akashi.webp",
+  "maturation": "Dojrzewa w beczkach po bourbonie",
 
   "whenToOffer": [
-    "Klient zaczyna z japońską whisky",
-    "Budżetowa opcja Japonii"
-  ],
+    "Klient chce rozpocząć przygodę z japońską whisky",
+    "Alternatywa dla Nikka Days dla osób preferujących bardziej słodowy charakter",
+    "Dla fanów wanilii, cytrusów, miodu i delikatnych przypraw",
+    "Klient szuka lekkiej whisky do degustacji lub Highballa"
+]
 
-  "howToPresent": "Lekki i przystępny blend z destylarni White Oak."
+  "howToPresent": "Japońska Blended Whisky produkowana przez destylarnię Eigashima (White Oak). W eksportowej wersji powstaje z połączenia własnej whisky słodowej oraz importowanych whisky słodowych i zbożowych. Oferuje lekki, harmonijny profil z nutami wanilii, karmelu, tostów, skórki pomarańczy i delikatnego dębu.",
+
+"salesTip": [
+  "Whisky produkowana jest tylko przez kilka miesięcy w roku, ponieważ główną działalnością destylarni pozostaje produkcja sake i shōchū."
+]
 },
 
 {
