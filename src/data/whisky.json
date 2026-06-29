@@ -3332,7 +3332,7 @@
     "Alternatywa dla klasycznych Blended whisky dla osób szukających bardziej gładkiego i złożonego profilu",
     "Dla fanów wanilii, karmelu i grillowanej kukurydzy",
     "Klient szuka nietypowej japońskiej whisky"
-]
+],
 
   "howToPresent": "Japońska Grain Whisky produkowana głównie z kukurydzy i destylowana w tradycyjnej kolumnie Coffey Still. Dzięki temu wyróżnia się wyjątkowo gładką teksturą oraz bogatym profilem z nutami wanilii, karmelu, banana, grillowanej kukurydzy i słodkich przypraw.",
 
@@ -3350,7 +3350,7 @@
   "country": "France",
   "abv": "40%",
   "image": "bottle_img/evade.webp",
-  "maturation": "Dojrzewa w nowych beczkach z francuskiego i amerykańskiego dębu"
+  "maturation": "Dojrzewa w nowych beczkach z francuskiego i amerykańskiego dębu",
 
   "whenToOffer": [
     "Klient chce spróbować whisky spoza Szkocji i Irlandii",
@@ -3399,7 +3399,7 @@
   "country": "Japan",
   "abv": "48%",
   "image": "bottle_img/matsui_peated.jpg",
-  "maturation": "Dojrzewająca przez minimum 3 lata w beczkach z amerykańskiego dębu"
+  "maturation": "Dojrzewająca przez minimum 3 lata w beczkach z amerykańskiego dębu",
 
   "whenToOffer": [
     "Klient chce spróbować delikatnie torfowej japońskiej whisky",
@@ -3427,10 +3427,9 @@
 
   "whenToOffer": [
     "Klient chce rozpocząć przygodę z japońską whisky",
-    "Alternatywa dla Nikka Days dla osób preferujących bardziej słodowy charakter",
     "Dla fanów wanilii, cytrusów, miodu i delikatnych przypraw",
-    "Klient szuka lekkiej whisky do degustacji lub Highballa"
-]
+    "Klient szuka lekkiej whisky do miksowania lub Highballa"
+],
 
   "howToPresent": "Japońska Blended Whisky produkowana przez destylarnię Eigashima (White Oak). W eksportowej wersji powstaje z połączenia własnej whisky słodowej oraz importowanych whisky słodowych i zbożowych. Oferuje lekki, harmonijny profil z nutami wanilii, karmelu, tostów, skórki pomarańczy i delikatnego dębu.",
 
@@ -3447,13 +3446,19 @@
   "country": "Japan",
   "abv": "40%",
   "image": "bottle_img/akashi_takumi.webp",
+  "maturation": "Dojrzewa w beczkach z amerykańskiego dębu, finiszowana w beczkach po sherry",
 
   "whenToOffer": [
-    "Klient chce lepszą wersję Akashi",
-    "Prezent"
-  ],
+    "Klient szuka japońskiej whisky z wyraźnym wpływem beczek po sherry",
+    "Alternatywa dla podstawowych sherry cask finish whisky",
+    "Dla fanów przypraw, miodu i suszonych owoców"
+],
 
-  "howToPresent": "Bardziej dopracowana i zbalansowana wersja klasycznego Akashi."
+  "howToPresent": "Japanese Blended Whisky z wysokim udziałem whisky słodowej. Dzięki finiszowi w beczkach po sherry oferuje bogaty profil z nutami suszonych owoców, miodu, dębu oraz delikatnych przypraw.",
+
+"salesTip": [
+  "Whisky produkowana jest tylko przez kilka miesięcy w roku, ponieważ główną działalnością destylarni pozostaje produkcja sake i shōchū."
+]
 },
 
 {
@@ -3464,12 +3469,15 @@
   "country": "Japan",
   "abv": "40%",
   "image": "bottle_img/yamazakura.webp",
+  "maturation": "Dojrzewa w dębowych beczkach",
 
   "whenToOffer": [
-    "Klient szuka delikatnej japońskiej whisky"
-  ],
+    "Klient chce rozpocząć przygodę z japońską whisky",
+    "Alternatywa dla blended whisky ze Szkocji i Irlandii",
+    "Dla fanów nut kwiatowych, wanilii i świeżych owoców"
+],
 
-  "howToPresent": "Lekki blend z nutami kwiatowymi i owocowymi."
+  "howToPresent": "Japanese Blended Whisky, powstaje z lekkich grain whisky i malt whisky. Oferuje lekki, świeży i harmonijny profil z nutami kwiatów, owoców sadowniczych, wanilii i delikatnego dębu."
 },
 
 {
@@ -3480,12 +3488,16 @@
   "country": "Japan",
   "abv": "46%",
   "image": "bottle_img/yamazakura_peated.webp",
+  "maturation": "Dojrzewa w beczkach dębowych",
 
   "whenToOffer": [
-    "Klient szuka torfowej Japonii"
-  ],
+    "Klient szuka delikatnie torfowej whisky",
+    "Alternatywa dla Connemara lub Yoichi dla osób preferujących subtelniejszy dym",
+    "Dla fanów wanilii, cytrusów i lekkiego torfu",
+    "Idealna jako pierwsza dymna whisky"
+],
 
-  "howToPresent": "Bardziej dymna odsłona Yamazakura."
+  "howToPresent": "Japanese Blended Whisky powstała z połączenia whisky zbożowej i torfowej whisky słodowej. Oferuje bardzo harmonijny charakter z nutami wanilii, cytrusów, miodu i delikatnego torfowego dymu, zachowując bardzo gładki profil. Butelkowana z mocą 46% ABV, bez filtracji na zimno."
 },
 
 {
@@ -3496,28 +3508,19 @@
   "country": "Japan",
   "abv": "40%",
   "image": "bottle_img/togouchi_kiwami.webp",
+  "maturation": "Dojrzewa w beczkach po bourbonie",
 
   "whenToOffer": [
-    "Klient szuka eleganckiego blendu"
-  ],
+    "Klient chce spróbować japońskiej whisky",
+    "Alternatywa dla Nikka Days lub Yamazakura Blended",
+    "Dla fanów wanilii, kwiatów i owoców sadowniczych"
+],
 
-  "howToPresent": "Delikatna, czysta whisky dojrzewająca w tunelach Togouchi."
-},
+  "howToPresent": "Japanese Blended Whisky produkowana przez Sakurao Distillery. Łączy whisky słodową i zbożową, oferując świeży i harmonijny profil z nutami wanilii, białych kwiatów, jabłek, gruszek i delikatnego dębu.",
 
-{
-  "slug": "togouchi-9",
-  "name": "Togouchi 9 Y.O.",
-  "subtitle": "Blended Whisky · Japonia",
-  "category": "whisky-blended",
-  "country": "Japan",
-  "abv": "40%",
-  "image": "bottle_img/togouchi9.webp",
-
-  "whenToOffer": [
-    "Klient szuka wieku w japońskiej whisky"
-  ],
-
-  "howToPresent": "Dojrzewająca 9 lat wersja – bardziej złożona i głębsza."
+"salesTip": [
+  "Whisky dojrzewa w dawnym tunelu kolejowym, gdzie przez cały rok panują stabilne warunki sprzyjające dojrzewaniu."
+]
 },
 
 {
@@ -3528,12 +3531,20 @@
   "country": "Japan",
   "abv": "40%",
   "image": "bottle_img/togouchi_ayumi.jpg",
+  "maturation": "Dojrzewa w beczkach po bourbonie, finiszowana przez kilka miesięcy w beczkach po sake",
 
   "whenToOffer": [
-    "Klient szuka nietypowego finiszu"
-  ],
+    "Klient szuka whisky na prezent lub specjalną okazję",
+    "Dla fanów zielonych jabłek, białych owoców i delikatnych przypraw",
+    "Klient szuka ekskluzywnych i limitowanych whisky"
+],
 
-  "howToPresent": "Finiszowana w beczkach po sake – subtelnie owocowa i delikatna."
+  "howToPresent": "Travel retail exclusive wersja Toguchi o wyjątkowo gładkim charakterze. Po finiszu w beczkach po sake oferuje delikatny i elegancki profil z nutami zielonego jabłka, białych owoców, kwiatów, wanilii i subtelnych przypraw. Zamknięta jest w efektownej ceramicznej butelce inspirowanej japońskim rzemiosłem.",
+
+"salesTip": [
+  "Whisky dojrzewa w dawnym tunelu kolejowym, gdzie przez cały rok panują stabilne warunki sprzyjające dojrzewaniu.",
+  "Finisz w beczkach po sake podkreśla jej delikatny, elegancki i wyraźnie japoński charakter."
+]
 },
 
 {
