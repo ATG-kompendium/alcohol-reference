@@ -3555,12 +3555,20 @@
   "country": "Japan",
   "abv": "43%",
   "image": "bottle_img/yamazaki.webp",
+  "maturation": "Dojrzewa w beczkach z dębu amerykańskiego, hiszpańskiego oraz japońskiego dębu Mizunara",
 
   "whenToOffer": [
-    "Klient szuka topowej japońskiej whisky"
-  ],
+    "Alternatywa dla Szkockich single maltów",
+    "Dla fanów czerwonych owoców, wanilii i subtelnych nut dębu",
+    "Klient szuka whisky na prezent dla konesera"
+],
 
-  "howToPresent": "Pierwsza japońska destylarnia. Elegancka, owocowa, z nutami dębu."
+ "howToPresent": "Japanese Single Malt Whisky z pierwszej i najstarszej destylarni whisky w Japonii. Łączy destylaty dojrzewające w beczkach z dębu amerykańskiego, hiszpańskiego i japońskiego Mizunara, oferując elegancki profil z nutami truskawek, wiśni, białej brzoskwini, wanilii, kokosa i delikatnych przypraw.",
+
+"salesTip": [
+  "Yamazaki to pierwsza komercyjna destylarnia whisky w Japonii, założona w 1923 roku",
+  "Spełnia oficjalne standardy oznaczenia „Japanese Whisky” ustanowione przez Japan Spirits & Liqueurs Makers Association."
+]
 },
 
 {
@@ -3571,12 +3579,20 @@
   "country": "Japan",
   "abv": "43%",
   "image": "bottle_img/hakushu.webp",
+  "maturation": "Dojrzewająca w beczkach z amerykańskiego dębu oraz japońskiego dębu Mizunara",
 
   "whenToOffer": [
-    "Klient szuka świeżej i lekko dymnej whisky"
-  ],
+    "Alternatywa dla lekko dymnych i świeżych single maltów że Szkocji",
+    "Dla fanów mięty, cytrusów, zielonych owoców i subtelnego dymu",
+    "Klient szuka whisky na prezent dla konesera"
+],
 
-  "howToPresent": "Bardziej świeża i lekko torfowa niż Yamazaki."
+  "howToPresent": "Japanese Single Malt Whisky produkowana w górskiej destylarni Hakushu, położonej wśród lasów Alp Japońskich. Charakteryzuje się wyjątkowo świeżym i zielonym profilem z nutami mięty, melona, zielonego jabłka, yuzu, ziół oraz subtelnego dymu.",
+
+"salesTip": [
+  "Hakushu powstaje w górskiej destylarni otoczonej lasami Alp Japońskich, na wysokości około 700 m n.p.m.",
+  "Destylarnia wykorzystuje wyjątkowo miękką wodę pochodzącą z gór Kaikomagatake, która nadaje whisky świeży i delikatny charakter.",
+]
 },
 
 {
@@ -3587,13 +3603,43 @@
   "country": "Japan",
   "abv": "43%",
   "image": "bottle_img/toki.webp",
+  "maturation": "Dojrzewająca w beczkach z amerykańskiego dębu, po sherry oraz japońskiego dębu Mizunara",
 
   "whenToOffer": [
-    "Klient szuka przystępnej Japonii",
-    "Do highball"
-  ],
+    "Klient chce rozpocząć przygodę z japońską whisky",
+    "Klient szuka whisky do koktajli i miksowania",
+    "Alternatywa dla Nikka Days lub blended whisky premium",
+    "Dla fanów zielonego jabłka, cytrusów i wanilii"
+],
 
-  "howToPresent": "Lekki, świeży blend idealny do highball."
+  "howToPresent": "Japanese Blended Whisky łącząca whisky z destylarni Yamazaki, Hakushu i Chita. Charakteryzuje się lekkim, świeżym profilem z nutami zielonego jabłka, bazylii, grejpfruta, miodu, wanilii oraz subtelnym akcentem dębu Mizunara.",
+
+"salesTip": [
+  "Whisky została stworzona z myślą o koktajlach i mikosologii.",
+]
+},
+
+{
+  "slug": "suntory-toki-black",
+  "name": "Suntory Toki Black",
+  "subtitle": "Blended Whisky · Japonia",
+  "category": "whisky-blended",
+  "country": "Japan",
+  "abv": "43%",
+  "image": "bottle_img/toki.webp",
+  "maturation": "Dojrzewająca w beczkach z amerykańskiego dębu, po sherry oraz japońskiego dębu Mizunara",
+
+  "whenToOffer": [
+    "Klient chce rozpocząć przygodę z dymnymi whisky ",
+    "Klient szuka whisky do koktajli i miksowania",
+    "Alternatywa dla delikatnie dymnych whisky"
+],
+
+  "howToPresent": "Japanese Blended Whisky będąca bogatszą interpretacją klasycznej Toki. Dzięki dodatkowi Hakushu Peated Malt i Hakushu Grain Whisky oferuje harmonijny profil z nutami pieczonych jabłek, toffi, goździków, cynamonu, lawendy oraz delikatnego dymu."
+
+"salesTip": [
+  "Blend został wzbogacony o Hakushu Peated Malt oraz Hakushu Grain Whisky, które nadają mu subtelny dymny charakter.",
+]
 },
 
 {
@@ -3604,12 +3650,20 @@
   "country": "Japan",
   "abv": "43%",
   "image": "bottle_img/chita.webp",
+  "maturation": "Dojrzewająca w beczkach po winie, po sherry oraz z amerykańskiego dębu",
 
   "whenToOffer": [
-    "Klient szuka łagodnej whisky"
-  ],
+    "Klient chce spróbować Single Grain Whisky",
+    "Alternatywa dla blended whisky",
+    "Dla fanów miodu, wanilii, crème brûlée i subtelnych przypraw"
+]
 
-  "howToPresent": "Single grain o kremowym, słodkim charakterze."
+  "howToPresent": "Japanese Single Grain Whisky produkowana w destylarni Chita. Dzięki dojrzewaniu w beczkach po winie, po sherry oraz z amerykańskiego dębu oferuje wyjątkowo gładki i elegancki profil z nutami miodu, crème brûlée, wanilii i delikatnych przypraw.",
+
+"salesTip": [
+  "Destylarnia Chita wykorzystuje kilka typów kolumn destylacyjnych, co pozwala tworzyć destylaty o różnym charakterze i precyzyjnie budować profil whisky.",
+  "Destylaty z Chita stanowią również ważny element blendów Hibiki i Toki."
+]
 },
 
 {
@@ -3620,12 +3674,44 @@
   "country": "Japan",
   "abv": "43%",
   "image": "bottle_img/hibiki.webp",
+  "maturation": "Dojrzewająca w beczkach z amerykańskiego, europejskiego oraz japońskiego dębu Mizunara"
 
   "whenToOffer": [
-    "Prezent premium",
-    "Topowa japońska whisky"
-  ],
+    "Dla ludzi szukających whisky na prezent lub wyjątkową okazję",
+    "Alternatywa dla innych premium blended whisky oraz niektórych single maltów",
+    "Dla fanów śliwek, gorzkiej czekolady, marmolady pomarańczowej i przypraw",
+    "Klient szuka ekskluzywnych i limitowanych whisky japońskich"
+],
 
-  "howToPresent": "Ikoniczny japoński blend – harmonijny, elegancki i wielowarstwowy."
+  "howToPresent": "Travel retail exclusive wydanie Hibiki, łączace destylaty z Yamazaki, Hakushu i Chita. Oferuje bogaty, harmonijny I wielowarstwowy profil z nutami śliwek, róż, marmolady pomarańczowej, gorzkiej czekolady oraz subtelnych przypraw.",
+
+"salesTip": [
+  "W porównaniu z klasyczną Hibiki Japanese Harmony wykorzystuje większy udział whisky dojrzewających w beczkach po sherry, co nadaje jej bogatszy i bardziej owocowy charakter.",
+  "Hibiki po japońsku oznacza „harmonię”, odzwierciedlając filozofię tworzenia idealnie zbalansowanych blendów."
+]
+},
+
+{
+  "slug": "hibiki-12",
+  "name": "Hibiki 12 y.o.",
+  "subtitle": "Blended Whisky · Japonia",
+  "category": "whisky-blended",
+  "country": "Japan",
+  "abv": "43%",
+  "image": "bottle_img/hibiki.webp",
+  "maturation": "Dojrzewająca minimum 12 lat w beczkach z amerykańskiego, europejskiego oraz japońskiego dębu Mizunara"
+
+  "whenToOffer": [
+    "Dla ludzi szukających whisky na prezent lub wyjątkową okazję",
+    "Alternatywa dla innych premium blended whisky oraz niektórych single maltów",
+    "Klient szuka ekskluzywnych i limitowanych wydań Hibiki lub whisky japońskich"
+],
+
+  "howToPresent": "12-letnia Hibiki, dostępna wyłącznie w Travel retail. Łączy destylaty z Yamazaki, Hakushu oraz Chita. Oferuje wyjątkowo elegancki profil z nutami kaki, jaśminu, skórki pomarańczy, miodu, cynamonu, przypraw orientalnych oraz charakterystycznym akcentem japońskiego dębu Mizunara."
+
+"salesTip": [
+  "To powrót legendarnej Hibiki 12 po 11 latach przerwy – wyłącznie dla Global Travel Retail.",
+  "Hibiki po japońsku oznacza „harmonię”, odzwierciedlając filozofię tworzenia idealnie zbalansowanych blendów."
+]
 }
 ]
