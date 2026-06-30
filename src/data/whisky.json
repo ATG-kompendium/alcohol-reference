@@ -979,45 +979,127 @@
 },
 
 {
-  "slug": "glenfiddich-vat-03",
-  "name": "Glenfiddich VAT 03",
+  "slug": "glenfiddich-solera",
+  "name": "Glenfiddich Solera",
   "subtitle": "Single Malt · Speyside · Travel Retail",
   "category": "whisky-single-malt",
   "country": "Scotland",
   "region": "Speyside",
   "abv": "43%",
   "image": "bottle_img/glenfiddich_vat03.webp",
+  "maturation": "Dojrzewająca w beczkach z American oak i European oak, red wine oraz z niewielkim udziałem beczek z Virgin oak.",
 
   "whenToOffer": [
-    "Klient szuka edycji kolekcjonerskiej",
-    "Fan serii VAT",
-    "Prezent"
-  ],
+    "Alternatywa dla podstawowych single maltów",
+    "Dla fanów owocowych i kwiatowych whisky z nutami wanilii i przypraw",
+    "Klient szuka ekskluzywnych i limitowanych wydań Glenfiddich"
+],
 
-  "maturation": "American Oak, European Oak, and Red Wine Casks",
+  "howToPresent": "Travel exclusive edycja Glenfiddich produkowana metodą Solera. Łączy whisky dojrzewające w beczkach American oak i European oak, red wine oraz z niewielkim udziałem beczek z Virgin oak, oferując harmonijny profil z nutami owoców sadowniczych, wanilii, przypraw i kwiatów.",
 
-  "howToPresent": "Kolejna ewolucja systemu solera VAT. Bardziej złożona i dojrzała interpretacja serii."
+  "salesTip": [
+    "Solera to VAT 01 z poprzedniej kolekcji w nowej odsłonie",
+    "Kadź Solera Vat nigdy nie jest całkowicie opróżniana, dzięki czemu każda partia zachowuje część poprzedniej."
+]
 },
 
 {
-  "slug": "glenfiddich-vat-04",
-  "name": "Glenfiddich VAT 04",
+  "slug": "glenfiddich-12-rum",
+  "name": "Glenfiddich 12 Rum Cask",
   "subtitle": "Single Malt · Speyside · Travel Retail",
   "category": "whisky-single-malt",
   "country": "Scotland",
   "region": "Speyside",
   "abv": "43%",
-  "image": "bottle_img/glenfiddich_vat04.webp",
+  "image": "bottle_img/glenfiddich_vat03.webp",
+  "maturation": "12-letnia, dojrzewająca w beczkach z amerykańskiego dębu, finiszowana w beczkach sezonowanych rumem z Gwatemali",
 
   "whenToOffer": [
-    "Klient zbiera serię VAT",
-    "Szukają limitowanej edycji lotniskowej",
-    "Alternatywa dla 15 Solera"
-  ],
+    "Klient lubi delikatnie słodsze whisky z nutami tropikalnych owoców",
+    "Alternatywa dla klasycznego Glenfiddich 12 i whisky finiszowanych po rumie",
+    "Dla fanów wanilii, gruszki i subtelnych nut tropikalnych",
+    "Klient szuka ekskluzywnych i limitowanych wydań Glenfiddich"
+],
 
-  "maturation": "American Oak, European Oak, and Red Wine Casks",
+  "howToPresent": "12-letnia edycja Travel exclusive Glenfiddich. Po dojrzewaniu w beczkach z amerykańskiego dębu whisky przez około 4 miesiące finiszowana jest w beczkach sezonowanych rumem z Gwatemali, co nadaje jej nuty wanilii, toffi, banan, gruszki oraz delikatny tropikalny charakter.",
 
-  "howToPresent": "Najbardziej dopracowana odsłona serii VAT. Łączy słodycz dębu z owocową głębią charakterystyczną dla Glenfiddich."
+  "salesTip": [
+
+]
+},
+
+{
+  "slug": "glenfiddich-18-port",
+  "name": "Glenfiddich 18 Port Cask",
+  "subtitle": "Single Malt · Speyside · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Speyside",
+  "abv": "43%",
+  "image": "bottle_img/glenfiddich_vat03.webp",
+  "maturation": "18-letnia, finiszowana w beczkach typu Port Pipe",
+
+  "whenToOffer": [
+    "Klient szuka bogatej i eleganckiej whisky",
+    "Dla fanów czerwonych owoców, dżemu, śliwek i czekolady",
+    "Alternatywa dla whisky dojrzewających w beczkach po porto",
+    "Klient szuka ekskluzywnych i limitowanych wydań Glenfiddich"
+],
+
+  "howToPresent": "18-letnia Single Malt Scotch Whisky finiszowana w beczkach typu Port Pipe z doliny Douro. Oferuje bogaty profil z nutami czerwonych owoców, konfitury, dżemu śliwkowego, przypraw, czekolady i długim, aksamitnym finiszem.",
+
+  "salesTip": [
+  "To pierwszy Glenfiddich finiszowany w beczkach typu Porto."
+]
+},
+
+{
+  "slug": "glen-deveron-16",
+  "name": "Glen Deveron 16",
+  "subtitle": "Single Malt · Highland · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Highland",
+  "abv": "43%",
+  "image": "bottle_img/glendeveron_16.webp",
+  "maturation": "16-letnia, dojrzewająca z dużym udziałem beczek po sherry",
+
+  "whenToOffer": [
+    "Klient lubi whisky z wyraźnym wpływem beczek po sherry",
+    "Alternatywa dla innych single maltów finiszowanych po sherry",
+    "Dla fanów suszonych owoców, miodu, czekolady i delikatnych przypraw"
+],
+
+  "howToPresent": "16-letnia Travel Retail exclsive whisky z destylarni Macduff. Dzięki dużemu udziałowi beczek po sherry oferuje bogaty i owocowy profil z nutami suszonych owoców, miodu, karmelu, gorzkiej czekolady, prażonych orzechów oraz delikatnych przypraw.",
+
+  "salesTip": [
+  "Macduff Distillery jest głównym dostawcą whisky słodowej do blenda William Lawson's."
+]
+},
+
+{
+  "slug": "speyburn",
+  "name": "Speyburn Kentucky Bourbon Cask",
+  "subtitle": "Single Malt · Highland · Travel Retail",
+  "category": "whisky-single-malt",
+  "country": "Scotland",
+  "region": "Highland",
+  "abv": "43%",
+  "image": "bottle_img/speyburn.png",
+  "maturation": "Dojrzewająca wyłącznie w beczkach po bourbonie",
+
+  "whenToOffer": [
+    "Klient szuka lekkiej i owocowej whisky",
+    "Alternatywa dla klasycznych whisky dojrzewających w beczkach po bourbonie",
+    "Dla fanów wanilii, cytrusów, miodu i zielonych jabłek",
+    "Klient szuka bardzo dobrej wjisky do drinków"
+],
+
+  "howToPresent": "Travel Retail exclsive whisky produkowana w destylarni Speyburn. Dojrzewanie wyłącznie w beczkach po Kentucky Bourbon nadaje jej świeży i harmonijny profil z nutami wanilii, zielonych jabłek, cytrusów, miodu oraz delikatnego dębu.",
+
+  "salesTip": [
+  "Speyburn słynie z lekkiego, eleganckiego stylu Speyside z wyraźnymi nutami owoców i wanilii."
+]
 },
 
 {
@@ -2929,6 +3011,31 @@
 
   "salesTip": [
     "Angel's Envy była jedną z pierwszych marek, które spopularyzowały finiszowanie bourbona"
+]
+},
+
+{
+  "slug": "sir-davis",
+  "name": "Sir Davis",
+  "subtitle": "Kentucky Bourbon · PX Finish · USA",
+  "category": "whisky-bourbon",
+  "country": "USA",
+  "abv": "44%",
+  "image": "bottle_img/sir_davis.jpg",
+  "maturation": "Dojrzewająca w beczkach z amerykańskiego dębu, finiszowana w beczkach po sherry Pedro Ximénez",
+
+  "whenToOffer": [
+    "Klient lubi whiskey finiszowane w beczkach po winach wzmacnianych",
+    "Alternatywa dla Woodford Reserve i Knob Creek dla osób szukających bardziej owocowego charakteru",
+    "Dla fanów suszonych owoców, toffi, przypraw i cytrusów",
+    "Klient szuka bourbona na prezent lub wyjątkową okazje"
+],
+
+  "howToPresent": "American Whisky stworzona we współpracy z Moët Hennessy. Powstaje z unikalnego połączenia 51% żyta i 49% słodowanego jęczmienia, a finisz w beczkach po sherry Pedro Ximénez nadaje jej bogaty profil z nutami toffi, suszonych owoców, cytrusów i korzennych przypraw.",
+
+  "salesTip": [
+    "Mash bill składa się z 51% żyta i aż 49% słodowanego jęczmienia, co według przepisów Ameryki czyni ją Rye Whisky",
+    "Finisz w beczkach po sherry Pedro Ximénez nadaje whisky nuty suszonych owoców, toffi i większą gładkość i jest rzadkością w świecie bourbonów."
 ]
 },
 
