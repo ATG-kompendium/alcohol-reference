@@ -194,7 +194,7 @@
     "country": "Poland",
     "abv": "40%",
     "rawMaterial":"Pszenica",
-    "image": "bottle_img/chopin-wheat.png",
+    "image": "bottle_img/chopin_wheat.png",
     "whenToOffer": [
       "Klient szuka łagodnej i delikatnej wódki",
       "Osób lubiących wódki pszeniczne",
@@ -211,7 +211,7 @@
     "country": "Poland",
     "abv": "40%",
     "rawMaterial":"Ziemniaki",
-    "image": "bottle_img/chopin-potato.png",
+    "image": "bottle_img/chopin_potato.png",
     "whenToOffer": [
       "Klient szukający unikalnej wódki polskiej",
       "Osób ceniących pełniejsze i wyraziste trunki",
