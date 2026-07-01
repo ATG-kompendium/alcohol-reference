@@ -152,8 +152,8 @@
 },
 
 {
-  "slug": "1800-anejo",
-  "name": "1800 Añejo",
+  "slug": "1800-anejo-triple",
+  "name": "1800 Añejo Triple Cask",
   "subtitle": "Tequila Añejo · Meksyk",
   "category": "tequila",
   "country": "Mexico",
@@ -176,8 +176,8 @@
 },
 
 {
-  "slug": "1800-anejo-triple",
-  "name": "1800 Añejo Triple Cask",
+  "slug": "1800-anejo",
+  "name": "1800 Añejo",
   "subtitle": "Tequila Añejo · Meksyk",
   "category": "tequila",
   "country": "Mexico",
@@ -191,7 +191,11 @@
   "Świetnie nadaje się do picia solo lub na lodzie"
   ],
 
-  "howToPresent": "Tequila añejo produkowana w 100% z agawy Weber Blue Agave pochodzącej z regionów Highlands i Lowlands w Jalisco. 1800 mocniej podkreśla wpływ beczki oraz dojrzewania. Nuty wanilii, karmelu, drewna, przypraw i lekko tostowego charakteru dominują nad świeżą agawą, tworząc bardziej beczkowy profil, który może przypominać whisky lub ciemny rum."
+  "howToPresent": "Tequila añejo produkowana w 100% z agawy Weber Blue Agave pochodzącej z regionów Highlands i Lowlands w Jalisco. 1800 mocniej podkreśla wpływ beczki oraz dojrzewania. Nuty wanilii, karmelu, drewna, przypraw i lekko tostowego charakteru dominują nad świeżą agawą, tworząc bardziej beczkowy profil, który może przypominać whisky lub ciemny rum.",
+
+    "salesTip": [
+    "Świetna propozycja dla osób pijących whisky lub koniak."
+]
 },
 
 {
