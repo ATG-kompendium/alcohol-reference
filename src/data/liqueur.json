@@ -420,7 +420,6 @@
   "country": "Germany",
   "abv": "35%",
   "image": "bottle_img/jager.webp",
-
   "maturation": "Około roku w dębowych beczkach",
 
   "whenToOffer": [
@@ -449,14 +448,15 @@
   "whenToOffer": [
     "Klient szuka alkoholu o wyraźnym smaku pomarańczy i cytrusów",
     "Dobry wybór do prostych drinków i miksowania",
+    "Alternatywa dla Aperol i Campari",
     "Dla klientów szukających czegoś bardziej świeżego i orzeźwiającego, szczególnie na wyjazdy do cieplejszych krajów"
 ],
 
   "howToPresent": "Likier ziołowy będący bardziej świeżą i cytrusową interpretacją klasycznego Jägermeistera. Łączy charakterystyczną mieszankę ziół i przypraw z wyraźnymi nutami sycylijskich pomarańczy, tworząc bardziej owocowy, lekki i łatwiejszy w odbiorze smak. Zachowuje charakterystyczny lekko gorzki i ziołowy charakter, ale w bardziej wakacyjnym i orzeźwiającym stylu.",
 
     "cocktails": [
-    "Jäger & Fanta",
-    "Jäger & Tomic",
+    "Jäger & Fanta/Sprite",
+    "Jäger & Tonic",
     "Jäger & Sok pomarańczowy"
   ]
 },
@@ -469,11 +469,12 @@
   "country": "Germany",
   "abv": "38%",
   "image": "bottle_img/jager_manifest.webp",
-  "maturation": "około 2 lat w dębowych beczkach",
+  "maturation": "ponad rok w dębowych beczkach",
 
   "whenToOffer": [
     "Dla fanów marki Jägermeistera",
-    "Klient lubi likiery ziołowe typu Underberg, Unicum lub amaro",
+    "Klient lubi likiery ziołowe typu Underberg, Unicum lub amaro", 
+    "Alternatywa dla ciemnych i spiced podstawowych rumów",
     "Uniwersalny i bezpieczny wybór na prezent wybór na prezent, dla osób lubiących ziłowe likiery"
 ],
 
