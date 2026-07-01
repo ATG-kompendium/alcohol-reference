@@ -160,6 +160,7 @@
     "abv": "40%",
     "rawMaterial": "Pszenica",
     "image": "/absolut.webp",
+
     "whenToOffer": [
       "Klient szuka wódki do drinków",
       "Klient chce rozpoznawalną markę"
@@ -177,6 +178,7 @@
     "abv": "40%",
     "rawMaterial":"Żyto",
     "image": "bottle_img/chopin-rye.png",
+
     "whenToOffer": [
       "Dla osób ceniących intensywny smak i charakter trunku",
       "Idelny dla miłośników wyrazistych koktajli"
@@ -223,13 +225,14 @@
 
   {
     "slug": "chopin-indygo",
-    "name": "Chopin Blended Potatoes, Wheat & Rye",
+    "name": "Chopin Blended Indygo",
     "subtitle": "Wódka ziemniaczana · Polska",
     "category": "vodka",
     "country": "Poland",
     "abv": "40%",
     "rawMaterial":"Ziemniaki, pszenica, żyto",
     "image": "bottle_img/chopin_indygo.png",
+
     "whenToOffer": [
       "Osób ceniących wygląd i design butelki",
       "Klienta znającego podstawowe trio marki chopin"
@@ -241,13 +244,14 @@
 
   {
     "slug": "chopin-gold",
-    "name": "Chopin Blended Potatoes & Wheat",
+    "name": "Chopin Blended Gold",
     "subtitle": "Wódka ziemniaczana · Polska",
     "category": "vodka",
     "country": "Poland",
     "abv": "40%",
     "rawMaterial":"Ziemniaki, pszenica",
     "image": "bottle_img/chopin_gold.png",
+
     "whenToOffer": [
       "Osób lubiących gładkie i delikatne wódki",
       "Osób ceniących wyglad i design",
@@ -275,7 +279,7 @@
     "howToPresent":"Jest to wódka ziemniaczana, nawiązująca do Bałtyku, kremowa, oleista, intensywna, lekko ostra. Jest produkowana w gorzelni Chopin",
  
     "salesTip": [
-      "Można zastosować up-selling przy półlitrowych wódkach stock, żubrówka, soplica, jarzębiak, polecając Baltic vodka jako ciekawsza alternatywe zrobioną w 100% z ziemniaków."
+      "Można zastosować up-selling przy półlitrowych wódkach stock, żubrówka, soplica, jarzębiak, polecając Baltic vodka jako ciekawsza alternatywe."
     ]
   },
 
@@ -288,6 +292,7 @@
     "abv": "40%",
     "rawMaterial":"Żyto organiczne",
     "image": "bottle_img/chopin_organic.png",
+
     "whenToOffer": [
       "Klienta szukającego wódek bio/organicznych",
       "Klienta lubiącego wódki żytnie",
@@ -307,6 +312,7 @@
     "abv": "59.8%",
     "rawMaterial":"Żyto",
     "image": "bottle_img/chopin_bartender.jpg",
+
     "whenToOffer": [
       "Klienta szukającego wódek i mocniejszym stężeniu alkoholu",
       "Osób interesujących miksologią, robieniem wyrazistych koktajli."
@@ -325,8 +331,9 @@
     "abv": "40%",
     "rawMaterial":"Młode ziemniaki",
     "image": "bottle_img/chopin_young2024.jpg",
+
     "whenToOffer": [
-      "Osób szukających okowite",
+      "Osób szukających okowity",
       "Osób lubiących wódki ziemniaczane",
       "Klientów szukających czegoś do kolekcji, czegoś ciekawego polskiego"
     ],
@@ -337,7 +344,7 @@
 
 
   {
-    "slug": "cjopin-familyReserve",
+    "slug": "chopin-familyReserve",
     "name": "Chopin Vodka Family Reserve",
     "subtitle": "Wódka ziemniaczana · Polska",
     "category": "vodka",
@@ -346,6 +353,7 @@
     "rawMaterial":"Młode ziemniaki",
     "maturation": "Pięćdziesięcioletnie kufry dębowe.",
     "image" : "bottle_img/chopin_familyReserve.jpg",
+
     "whenToOffer": [
       "Klient szukający eleganckiego prezentu",
       "Osób ceniących wygląd i prezentowane opakowanie",
@@ -365,6 +373,7 @@
     "abv": "40%",
     "rawMaterial":"Ziemniaki",
     "image": "bottle_img/chopin-tribute.png",
+
     "whenToOffer": [
       "Osób ceniących wygląd i prezentowane opakowanie",
       "Klient szukający eleganckiego prezentu",
@@ -385,6 +394,7 @@
     "abv": "43.6%",
     "rawMaterial":"Ziemniaki",
     "image": "bottle_img/vintage_vault.jpg",
+
     "whenToOffer": [
       "Osób ceniących historię marki Chopin",
       "Klient szukający eleganckiego prezentu, wyjątkowego, ekskluzywnego prezentu",
