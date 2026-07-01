@@ -31,6 +31,20 @@ const results = document.getElementById("results");
 
 let products = null;
 
+function normalize(text) {
+  return (text || "")
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/ł/g, "l")
+    .replace(/Ł/g, "L")
+    .replace(/æ/g, "ae")
+    .replace(/Æ/g, "AE")
+    .replace(/œ/g, "oe")
+    .replace(/Œ/g, "OE")
+    .replace(/ß/g, "ss")
+    .toLowerCase();
+}
+
 input.placeholder = "Ładowanie bazy...";
 input.disabled = true;
 
@@ -60,16 +74,16 @@ function render(list) {
 input.addEventListener("input", e => {
   if (!products) return;   // ← ВАЖНО
 
-  const q = e.target.value.trim().toLowerCase();
-  if (!q) return render([]);
+  const q = normalize(e.target.value.trim());
+if (!q) return render([]);
 
-  const filtered = products.filter(p =>
-    p.name?.toLowerCase().includes(q) ||
-    p.category?.toLowerCase().includes(q) ||
-    p.country?.toLowerCase().includes(q) ||
-    p.rawMaterial?.toLowerCase().includes(q) ||
-    p.keywords?.some(k => k.toLowerCase().includes(q))
-  );
+const filtered = products.filter(p =>
+  normalize(p.name).includes(q) ||
+  normalize(p.category).includes(q) ||
+  normalize(p.country).includes(q) ||
+  normalize(p.rawMaterial).includes(q) ||
+  p.keywords?.some(k => normalize(k).includes(q))
+);
 
   render(filtered);
 });

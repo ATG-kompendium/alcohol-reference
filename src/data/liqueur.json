@@ -810,7 +810,7 @@
   "slug": "jim-beam-flavoured",
   "name": "Jim Beam Flavoured",
   "subtitle": "Flavoured Bourbon · USA",
-  "category": "whisky-bourbon",
+  "category": "likier",
   "country": "USA",
   "abv": "32.5%",
   "image": "bottle_img/beam_apple.png",
@@ -831,12 +831,17 @@
     {
       "type": "Honey",
       "image": "bottle_img/beam_honey.png"
+    },
+    {
+      "type": "Pineapple",
+      "image": "bottle_img/beam_pineapple.webp"
     }
   ],
 
   "salesTip": [
     "Apple – bardziej świeży i owocowy.",
-    "Honey – łagodniejszy i bardziej słodki."
+    "Honey – łagodniejszy i bardziej słodki.",
+    "Pineapple – bardziej tropikalny, owocowy i orzeźwiający."
   ]
 },
 

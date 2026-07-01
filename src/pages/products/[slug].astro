@@ -46,57 +46,72 @@ const { product } = Astro.props;
 
     <div class="card">
       <div class="header">
-    <div class="image">
-  <div class="main-image">
-    <img
-      id="mainProductImage"
-      src={product.variants?.[0]?.image ?? product.image}
-      alt={product.name}
-      loading="lazy"
-    />
-    {product.variants && (
-      <p id="mainImageLabel" class="variant-label">
-        {product.variants[0]?.type}
-      </p>
-    )}
+
+  <div class="image">
+    <div class="main-image">
+      <img
+        id="mainProductImage"
+        src={product.variants?.[0]?.image ?? product.image}
+        alt={product.name}
+        loading="lazy"
+      />
+
+      {product.variants && (
+        <p id="mainImageLabel" class="variant-label">
+          {product.variants[0]?.type}
+        </p>
+      )}
+    </div>
   </div>
 
-  {product.variants && product.variants.length > 1 && (
-    <div class="thumbnails">
-      {product.variants.map((v) => (
-        <img
-          src={v.image}
-          alt={v.type}
-          class="thumb"
-          data-image={v.image}
-          data-label={v.type}
-        />
-      ))}
+  <div class="right-column">
+
+    <div class="info">
+
+      <h1>{product.name}</h1>
+      <p class="subtitle">{product.subtitle}</p>
+
+      <ul class="meta">
+        <li><strong>Kategoria:</strong> {product.category}</li>
+        <li><strong>Kraj:</strong> {product.country}</li>
+        <li><strong>ABV:</strong> {product.abv}</li>
+
+        {product.rawMaterial && (
+          <li><strong>Surowiec:</strong> {product.rawMaterial}</li>
+        )}
+
+        {product.maturation && (
+          <li><strong>Dojrzewanie:</strong> {product.maturation}</li>
+        )}
+      </ul>
+
     </div>
-  )}
-</div>
-        <div class="info">
-          <h1>{product.name}</h1>
-          <p class="subtitle">{product.subtitle}</p>
 
-          <ul class="meta">
-            <li><strong>Kategoria:</strong> {product.category}</li>
-            <li><strong>Kraj:</strong> {product.country}</li>
-            <li><strong>ABV:</strong> {product.abv}</li>
-            {product.rawMaterial && (
-  <li>
-    <strong>Surowiec:</strong> {product.rawMaterial}
-  </li>
-)}
+    {product.variants && product.variants.length > 1 && (
+      <div class="variants-panel">
 
-            {product.maturation && (
-              <li>
-                <strong>Dojrzewanie:</strong> {product.maturation}
-              </li>
-            )}
-          </ul>
+        <p class="variants-title">
+          Dostępne warianty
+        </p>
+
+        <div class="thumbnails">
+          {product.variants.map((v) => (
+            <img
+              src={v.image}
+              alt={v.type}
+              class="thumb"
+              data-image={v.image}
+              data-label={v.type}
+            />
+          ))}
         </div>
+
       </div>
+    )}
+
+  </div>
+
+</div>
 
       {product.whenToOffer && (
         <section>
