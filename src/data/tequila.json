@@ -141,11 +141,11 @@
   "image": "bottle_img/1800_reposado.webp",
   "maturation": "minimum 2 miesiące w beczkach z amerykańskiego i francuskiego dębu",
 
-"whenToOffer": [
-  "Klient szuka klasycznej i wyrazistej tequili reposado",
-  "Dla osób lubiących połączenie agawy i wyraźniejszego wpływu beczki",
-  "Świetny wybór do picia solo lub klasycznych koktajli tequila",
-  "Alternatywa dla bardzo delikatnych i lekkich reposado"
+  "whenToOffer": [
+    "Klient szuka klasycznej i wyrazistej tequili reposado",
+    "Dla osób lubiących połączenie agawy i wyraźniejszego wpływu beczki",
+    "Świetny wybór do picia solo lub klasycznych koktajli tequila",
+    "Alternatywa dla bardzo delikatnych i lekkich reposado"
   ],
 
   "howToPresent": "Tequila reposado produkowana w 100% z agawy Weber Blue Agave pochodzącej zarówno z regionu Highlands, jak i Lowlands w Jalisco, co nadaje jej bardziej klasyczny i zbalansowany charakter. Dojrzewa w beczkach z amerykańskiego i francuskiego dębu, dzięki czemu łączy nuty pieczonej agawy, wanilii, karmelu i delikatnych przypraw z lekko ziemistym oraz bardziej wyrazistym profilem."
@@ -154,6 +154,30 @@
 {
   "slug": "1800-anejo",
   "name": "1800 Añejo",
+  "subtitle": "Tequila Añejo · Meksyk",
+  "category": "tequila",
+  "country": "Mexico",
+  "abv": "40%",
+  "image": "bottle_img/1800_anejo_triple.jpg",
+  "maturation": "Dojrzewa w beczkach z dębu amerykańskiego, francuskiego oraz po winie.",
+
+  "whenToOffer": [
+    "Klient szuka bardziej beczkowej i intensywnej tequili",
+    "Klient lubi whisky lub rum i chce wejść w kategorię tequili",
+    "Świetnie nadaje się do picia solo lub na lodzie",
+    "Klient szuka ekskluzywnych i limitowanych wydań Tequili"
+  ],
+
+  "howToPresent": "1800 Triple Cask Añejo stworzona tylko dla Travel Retail, to tequila produkowana w 100% z agawy Weber Blue. Po destylacji dojrzewa w trzech rodzajach beczek: z amerykańskiego dębu, francuskiego dębu oraz beczkach po winie, dzięki czemu zyskuje większą złożoność oraz nuty wanilii, przypraw i suszonych owoców.",
+
+  "salesTip": [
+    "Świetna propozycja dla osób pijących whisky lub koniak."
+]
+},
+
+{
+  "slug": "1800-anejo-triple",
+  "name": "1800 Añejo Triple Cask",
   "subtitle": "Tequila Añejo · Meksyk",
   "category": "tequila",
   "country": "Mexico",

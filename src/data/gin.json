@@ -513,5 +513,29 @@
 ],
 
   "howToPresent": "Francuski gin inspirowany stylem Riwiery Francuskiej i ziołami Prowansji. Świeży, lekki i elegancki profil z wyraźnymi nutami cytrusów, tymianku, bazylii i rozmarynu. Bardziej śródziemnomorski i aromatyczny niż klasyczne London Dry."
+},
+
+{
+  "slug": "aalborg-taffel-akvavit",
+  "name": "Aalborg Taffel Akvavit",
+  "subtitle": "Klasyczny akvavit · Dania",
+  "category": "akvavit",
+  "country": "Dania",
+  "abv": "45%",
+  "image": "bottle_img/akvavit.png",
+  "rawMaterial": "Spirytus zbożowy",
+
+ "whenToOffer": [
+   "Dla osób szukających tradycyjnego skandynawskiego akvavitu.",
+   "Klient zna lub pochodzi z krajów nordyckich.",
+   "Do śledzi, łososia i innych ryb."
+],
+
+  "howToPresent": "Aalborg Taffel to najbardziej klasyczny duński akvavit, produkowany od 1846 roku. Powstaje na bazie spirytusu zbożowego w którym macerowane są przede wszystkim kmin i koperek a także możliwie cytrusy. Najlepiej podawać mocno schłodzony.",
+
+  "salesTip": [
+  "Najbardziej znany i najpopularniejszy akvavit w Danii.",
+  "Dominującą przyprawą jest kminek, uzupełniony nutami koperku i delikatną nutą pomarańczy."
+]
 }
 ]

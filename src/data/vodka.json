@@ -253,12 +253,17 @@
     "image": "bottle_img/chopin_gold.png",
 
     "whenToOffer": [
-      "Osób lubiących gładkie i delikatne wódki",
-      "Osób ceniących wyglad i design",
+      "Klient szuka wyjątkowo gładkiej i eleganckiej wódki.",
+      "Osób ceniących wyglad i design butelki",
       "Klienta znającego podstawowe trio marki chopin"
     ],
 
-    "howToPresent":""
+    "howToPresent": "Chopin Blended Gold to premium polska wódka łącząca destylaty ziemniaczane i pszeniczne. Dzięki temu oferuje kremową strukturę charakterystyczną dla ziemniaków oraz delikatność i lekkość pszenicy. To propozycja dla osób szukających bardziej złożonej i eleganckiej wódki.",
+
+    "salesTip": [
+      "Dobry wybór dla klientów, którzy nie wiedzą, którą z klasycznych wódek Chopin wybrać.",
+      "Elegancka złota butelka sprawia, że świetnie sprawdza się jako prezent."
+]
 
   },
 

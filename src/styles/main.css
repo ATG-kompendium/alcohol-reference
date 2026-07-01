@@ -245,6 +245,12 @@ section.tip h2 {
   opacity: 0.7;
 }
 
+.variants-panel{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+
 .thumbnails {
   display: flex;
   gap: 10px;
@@ -252,7 +258,9 @@ section.tip h2 {
 }
 
 .thumb {
-  width: 70px;
+  width:75px;
+  height:110px;
+  object-fit:contain;
   cursor: pointer;
   opacity: 0.7;
   transition: 0.2s;
@@ -262,4 +270,26 @@ section.tip h2 {
   opacity: 1;
   transform: scale(1.05);
 }
+
+.thumb.active{
+    border:2px solid var(--accent);
+    border-radius:8px;
+    opacity:1;
+}
+
+.thumb{
+    opacity:.6;
+}
+
+.variants-title{
+    display:inline-block;
+    font-size:15px;
+    font-weight:600;
+    color:var(--accent);
+    margin-bottom:14px;
+    padding-bottom:4px;
+    border-bottom:2px solid var(--accent);
+}
+
+
 

@@ -1114,11 +1114,11 @@
   "maturation": "Single Malt dojrzewający minimum 12 lat, finiszowany w beczkach po rumie",
 
   "whenToOffer": [
-    "Klient lubi whisky finiszowane w beczkach po rumie",
     "Dla osób szukających łagodnego i owocowego single malta",
     "Alternatywa dla innych single maltów dojrzewających w beczkach po rumie",
     "Klient już zna Balvenie 12 DoubleWood i chce spróbować czegoś innego",
-    "Dobra opcja na prezent dla konesera lub osobę interesującą się whisky"
+    "Dobra opcja na prezent dla konesera lub osobę interesującą się whisky",
+    "Dla ludzi szukających limitowanych i ekskluzywnych wydań Balvenie"
 ],
 
   "howToPresent": "Travel Retail Exclusive 12-letni single malt ze Speyside finiszowany w beczkach po rumie, wzbogacając profil o dodatkowe nuty brązowego cukru, wanilii, karmelu, miodu i owoców tropikalnych. Charakter pozostaje gładki, miodowy i owocowy – ale z bardziej egzotycznym akcentem.",
@@ -1145,7 +1145,8 @@
   "Klient lubi whisky finiszowane w beczkach po Maderze",
   "Dla fanów owocowych i przyprawowych  single maltów",
   "Alternatywa dla innych single maltów dojrzewających w beczkach po maderze",
-  "Klient szuka czegoś nietypowego zamiast klasycznego sherry"
+  "Klient szuka czegoś nietypowego zamiast klasycznego sherry",
+  "Dla ludzi szukających limitowanych i ekskluzywnych wydań Balvenie"
 ],
 
   "howToPresent": "Travel Retail Exclusive 15-letni single malt ze Speyside finiszowany w beczkach po portugalskim winie Madeira, co nadaje whisky nuty dojrzałych brzoskwiń, cytrusów, jagód, miodu, orzechów laskowych i delikatnych przypraw. Charakter pozostaje, gładki, miodowy i elegancki, ale z nutami dojrzałych owoców pochodzących z beczek po Maderze.",
@@ -1172,7 +1173,8 @@
     "Klient lubi whisky dojrzewające w beczkach po sherry",
     "Dla fanów bogatych i deserowych single maltów",
     "Alternatywa dla bardziej wytrawnych 18-20 letnich maltów",
-    "Dobry wybór na prezent lub specjalną okazję"
+    "Dobry wybór na prezent lub specjalną okazję",
+    "Dla ludzi szukających limitowanych i ekskluzywnych wydań Balvenie"
  ],
 
   "howToPresent": "Travel Retail Exclusive 18-letni single malt ze Speyside finiszowany w beczkach po Pedro Ximénez Sherry, dzięki czemu whisky zyskuje bogate nuty rodzynek, daktyli, fig, miodu, karmelu i ciemnej czekolady. Charakter pozostaje elegancki i zbalansowany, ale oferuje znacznie więcej głębi oraz słodyczy niż klasyczne whisky.",
@@ -1192,20 +1194,23 @@
   "region": "Speyside",
   "abv": "48.3%",
   "image": "bottle_img/balvenie19.webp",
-  "maturation": "Single Malt dojrzewający 19 lat w beczkach dębowych",
+  "maturation": "Single Malt dojrzewający 19 lat w beczkach po bourbonie i sherry",
 
   "whenToOffer": [
     "Klient lubi whisky torfowe, ale szuka bardziej eleganckiego stylu niż Islay",
     "Dla fanów limitowanych i nietypowych edycji whisky",
     "Klient zna klasyczne Balvenie i chce spróbować czegoś zupełnie innego",
-    "Alternatywa dla Highland Park, Talisker i łagodniejszych whisky torfowych"
+    "Alternatywa dla Highland Park, Talisker i łagodniejszych whisky torfowych",
+    "Dla ludzi szukających limitowanych i ekskluzywnych wydań Balvenie"
 ],
 
-  "howToPresent": "19-letni single malt ze Speyside produkowany w ramach projektu Week of Peat. Raz w roku destylarnia Balvenie na jeden tydzień przechodzi na produkcję whisky z torfowanego słodu, co jest nietypowe dla jej tradycyjnie miodowego i owocowego stylu. Efektem jest whisky łącząca nuty miodu, wanilii i owoców charakterystyczne dla Balvenie z delikatnym dymem, torfem oraz przyprawami.",
+  "howToPresent": "Travel Retail Exclusive 19-letni single malt ze Speyside produkowany w ramach projektu Week of Peat. Raz w roku destylarnia Balvenie na jeden tydzień przechodzi na produkcję whisky z torfowanego słodu, co jest nietypowe dla jej tradycyjnie miodowego i owocowego stylu. Efektem jest whisky łącząca nuty miodu, wanilii i owoców charakterystyczne dla Balvenie z delikatnym dymem, torfem oraz przyprawami.",
 
 "salesTip": [
+  "W przeciwieństwie do wersji 14 YO dojrzewanie odbywa się również w beczkach po sherry",
   "Week of Peat to coroczny projekt Balvenie, podczas którego przez jeden tydzień produkowana jest whisky z torfowanego słodu.",
-  "Balvenie należy do destylarni, które spopularyzowały finiszowanie whisky w dodatkowych beczkach."
+  "Balvenie należy do destylarni, które spopularyzowały finiszowanie whisky w dodatkowych beczkach.",
+  "Produkcja została zakończona, dlatego butelka jest szczególnie atrakcyjna dla kolekcjonerów i osób poszukujących rzadkich edycji Balvenie."
 ]
 },
 
@@ -1224,7 +1229,8 @@
     "Klient szuka łagodnego i owocowego single malta",
     "Dla osób rozpoczynających przygodę z whisky single malt",
     "Alternatywa dla podstawowych single maltów",
-    "Klient preferuje whisky zbalansowane i gładkie"
+    "Klient preferuje whisky zbalansowane i gładkie",
+    "Dla ludzi szukających limitowanych i ekskluzywnych wydań Glenlivet"
   ],
 
   "howToPresent": "Trevel Retail exclusive single malt ze Speyside dojrzewający w trzech rodzajach beczek. Dzięki zrównoważonemu wpływowi amerykańskiego dębu, beczek po sherry oraz tradycyjnych beczek dębowych whisky oferuje nuty gruszek, miodu, wanilii, karmelu i delikatnych przypraw. Charakter pozostaje lekki, owocowy i bardzo przystępny."
@@ -1244,7 +1250,8 @@
   "whenToOffer": [
     "Klient preferuje zbalansowane i gładkie whisky",
     "Dla fanów whisky Glenliveta",
-    "Bezpieczna i uniwersalna whisky na prezent lub specjalna okazję"
+    "Bezpieczna i uniwersalna whisky na prezent lub specjalna okazję",
+    "Dla ludzi szukających limitowanych i ekskluzywnych wydań Glenlivet"
   ],
 
   "howToPresent": "14-letnia edycja Glenliveta travel retail exclusive dojrzewająca w połączeniu beczek z amerykańskiego i europejskiego dębu. Amerykański dąb wnosi nuty wanilii, karmelu i słodyczy, natomiast europejski odpowiada za przyprawy, suszone owoce i większą głębię. Dzięki temu whisky zachowuje charakterystyczną dla Glenliveta owocowość, ale oferuje bardziej złożony i dojrzały profil."
@@ -1258,13 +1265,14 @@
   "country": "Scotland",
   "region": "Speyside",
   "abv": "40%",
-  "image": "bottle_img/glenlivet16_trex.avif",
+  "image": "bottle_img/glenlivet16_trex.webp",
   "maturation": "Single Malt dojrzewający 16 lat wyłącznie w beczkach z amerykańskiego dębu",
 
   "whenToOffer": [
   "Klient lubi waniliowe i kremowe whisky",
   "Dla fanów whisky Glenliveta",
-  "Bezpieczna i uniwersalna whisky na prezent lub specjalna okazję"
+  "Bezpieczna i uniwersalna whisky na prezent lub specjalna okazję",
+  "Dla ludzi szukających limitowanych i ekskluzywnych wydań Glenlivet"
 ],
 
   "howToPresent": "16-letnia edycja Glenliveta travel retail exclusive dojrzewająca wyłącznie w beczkach z amerykańskiego dębu. Połączenie długiego dojrzewania i wpływu amerykańskiego drewna nadaje whisky wyjątkowo kremowy charakter z nutami wanilii, toffi oraz dojrzałych śliwek. To jedna z najbardziej gładkich i harmonijnych whisky w serii Cask Master's Collection."

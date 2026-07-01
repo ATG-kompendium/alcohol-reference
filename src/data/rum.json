@@ -690,7 +690,7 @@
 {
   "slug": "arrange-de-ced",
   "name": "Arrangé de Ced",
-  "subtitle": "Infused Rum · Filipiny",
+  "subtitle": "Infused Rum",
   "category": "rum",
   "country": "Philippines",
   "abv": "35%",
@@ -709,6 +709,30 @@
   "salesTip": [
   "Rhum arrangé to tradycyjna specjalność wysp Oceanu Indyjskiego, polegająca na maceracji owoców i przypraw bezpośrednio w rumie.",
   "Arrangé de Ced słynie z wykorzystywania prawdziwych owoców i naturalnych składników."
+]
+},
+
+{
+  "slug": "neisson-dekolaj-blanc",
+  "name": "Neisson Dekolaj Rhum Agricole Blanc",
+  "subtitle": "Rhum Agricole · Martynika",
+  "category": "rum",
+  "country": "Martinique",
+  "abv": "52.5%",
+  "image": "bottle_img/neisson_blanc.jpg",
+
+  "whenToOffer": [
+    "Dla osób szukających autentycznego rhum agricole.",
+    "Klient lubi wytrawne, świeże i roślinne alkohole.",
+    "Dla miłośników premium rumów i edycji limitowanych."
+],
+
+  "howToPresent": "Neisson Dekolaj to limitowany rhum agricole AOC Martinique produkowany wyłącznie ze świeżego soku z trzciny cukrowej pochodzącej z pojedynczej parceli Clos Godinot. Długa fermentacja oraz destylacja w kreolskiej kolumnie nadają mu wyjątkową złożoność i intensywny charakter.",
+
+  "salesTip": [
+    "Powstaje z soku świeżo tłoczonej trzciny cukrowej, a nie z melasy.",
+    "Pochodzi z jednej parceli (Clos Godinot), co podkreśla jego terroir.",
+    "Posiada oznaczenie AOC Martinique jedno z najbardziej prestiżowych oznaczeń dla rumu agricole."
 ]
 }
   ]

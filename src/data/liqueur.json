@@ -816,12 +816,13 @@
   "image": "bottle_img/beam_apple.png",
 
   "whenToOffer": [
-    "Klient nie lubi klasycznej whisky",
-    "Szuka czegoś słodszego",
-    "Na imprezę"
+    "Klient nie przepada za klasycznym bourbonem",
+    "Szuka czegoś słodszego i łatwiejszego w odbiorze",
+    "Dla osób rozpoczynających przygodę z bourbonem",
+    "Na imprezy lub do prostych drinków"
   ],
 
-  "howToPresent": "Lżejsza i słodsza wersja bourbona. Bardziej przystępna dla osób, które nie piją klasycznej whisky.",
+  "howToPresent": "Jim Beam Flavoured powstają na bazie klasycznego Jim Beam Kentucky Straight Bourbon Whiskey z dodatkiem naturalnych aromatów. Zachowuje charakter bourbonu z nutami wanilii, karmelu i dębu, wzbogaconymi o wyraźny profil owocowy lub miodowy, zależnie od wybranego wariantu.",
 
   "variants": [
     {
@@ -839,28 +840,29 @@
   ],
 
   "salesTip": [
-    "Apple – bardziej świeży i owocowy.",
-    "Honey – łagodniejszy i bardziej słodki.",
-    "Pineapple – bardziej tropikalny, owocowy i orzeźwiający."
-  ]
+    "Apple – świeży, lekko kwaśny, z wyraźnymi nutami zielonego jabłka.",
+    "Honey – najłagodniejszy, z nutami miodu, wanilii i karmelu.",
+    "Pineapple – tropikalny, soczysty i najbardziej egzotyczny z całej serii."
+]
 },
 
 {
   "slug": "jack-daniels-flavoured",
   "name": "Jack Daniel’s Flavoured",
   "subtitle": "Flavoured Tennessee Whiskey · USA",
-  "category": "whisky-bourbon",
+  "category": "likier",
   "country": "USA",
   "abv": "35%",
   "image": "bottle_img/jack_apple.webp",
 
   "whenToOffer": [
-    "Klient nie pije klasycznej whisky",
-    "Szukają czegoś słodszego",
-    "Na imprezę"
+    "Klient nie przepada za klasyczną whisky",
+    "Szuka czegoś słodszego i łatwiejszego w odbiorze",
+    "Dla osób rozpoczynających przygodę z whisky",
+    "Na imprezy lub do prostych drinków"
   ],
 
-  "howToPresent": "Lżejsze i słodsze wersje Jack Daniel’s. Bardziej przystępne dla osób początkujących.",
+  "howToPresent": "Jack Daniel's Flavoured to likiery na bazie klasycznego Jack Daniel's Old No. 7 z dodatkiem naturalnych aromatów. Zachowują charakterystyczną łagodność Tennessee Whiskey, wzbogaconą o wyraźne nuty owocowe lub miodowe, w zależności od smaku.",
 
   "variants": [
     {
@@ -874,8 +876,19 @@
     {
       "type": "Fire",
       "image": "bottle_img/jack_fire.webp"
+    },
+    {
+      "type": "Blackberry",
+      "image": "bottle_img/jack_blackberry.webp"
     }
-  ]
+  ],
+
+  "salesTip": [
+    "Apple – świeży, lekko kwaśny i najbardziej orzeźwiający.",
+    "Honey – najłagodniejszy, z wyraźnymi nutami miodu, wanilii i karmelu.",
+    "Fire – pikantny, z intensywnymi nutami cynamonu i przypraw.",
+    "Blackberry – owocowy, z nutami dojrzałych jeżyn, delikatną słodyczą i lekką kwasowością."
+]
 },
 
 {

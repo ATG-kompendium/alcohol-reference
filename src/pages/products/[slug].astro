@@ -214,12 +214,27 @@ const { product } = Astro.props;
 
   thumbs.forEach((thumb) => {
     thumb.addEventListener("click", () => {
+
+      // убираем выделение у всех миниатюр
+      thumbs.forEach(t => t.classList.remove("active"));
+
+      // выделяем выбранную
+      thumb.classList.add("active");
+
+      // меняем изображение
       mainImage.src = thumb.dataset.image;
+
+      // меняем подпись
       if (mainLabel) {
         mainLabel.textContent = thumb.dataset.label;
       }
     });
   });
+
+  // сразу выделяем первую миниатюру
+  if (thumbs.length) {
+    thumbs[0].classList.add("active");
+  }
 </script>
   </body>
 </html>
