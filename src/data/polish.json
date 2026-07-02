@@ -1331,7 +1331,7 @@
   "country": "Poland",
   "abv": "40%",
   "rawMaterial": "Żyto",
-  "image": "bottle_img/podole_vodka_rye.webp",
+  "image": "bottle_img/podole_wodka_rye.webp",
 
   "whenToOffer": [
     "Klient szuka jakościowej wódki żytniej",
@@ -1350,7 +1350,7 @@
   "country": "Poland",
   "abv": "40%",
   "rawMaterial": "Ziemniaki",
-  "image": "bottle_img/podole_vodka_potato.webp",
+  "image": "bottle_img/podole_wodka_potato.webp",
 
   "whenToOffer": [
     "Klient szuka wódki ziemniaczanej",
