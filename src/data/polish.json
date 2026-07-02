@@ -304,7 +304,7 @@
   },
   {
     "type": "Zestaw z kieliszkiem",
-    "image": "bottle_img/miodula_prezydencka_set.png"
+    "image": "bottle_img/miodula_prezydencka_zestaw.jpg"
   }
 ],
 
@@ -381,13 +381,13 @@
 },
 
 {
-  "slug": "miodula-lemoncello",
-  "name": "Miodula Lemoncello",
+  "slug": "miodula-limoncello",
+  "name": "Miodula Limoncello",
   "subtitle": "Likier cytrynowy · Polska",
   "category": "likier",
   "country": "Poland",
   "abv": "28%",
-  "image": "bottle_img/miodula_lemoncello.png",
+  "image": "bottle_img/miodula_limoncello.png",
 
   "whenToOffer": [
     "Klient szuka limoncello",
