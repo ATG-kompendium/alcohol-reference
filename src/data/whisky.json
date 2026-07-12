@@ -3190,6 +3190,33 @@
 },
 
 {
+  "slug": "jack-daniels-heritage-barrel-trex",
+  "name": "Jack Daniel’s Single-Heritage Barrel",
+  "subtitle": "Tennessee Whiskey · Travel Retail",
+  "category": "whisky-bourbon",
+  "country": "USA",
+  "abv": "45%",
+  "image": "bottle_img/jack_heritage.jpg",
+  "maturation": "Dojrzewa w specjalnie opalanych beczkach Heritage Barrel z amerykańskiego dębu (high toast, low char).",
+
+  "whenToOffer": [
+    "Klient szuka bardziej intensywnej wersji Jack Daniel's",
+    "Dla miłośników toffi, wanilii i słodkich przypraw",
+    "Klient szuka whiskey na prezent lub wyjątkową okazje",
+    "Dla ludzi szukających limitowanych i ekskluzywnych wydań Jack Daniel's"
+],
+
+  "howToPresent": "Jack Daniel's Single Barrel Heritage Barrel powstaje z wybranych beczek wykonanych według historycznej techniki bednarskiej. Beczki są najpierw długo opiekane (high toast), a dopiero później lekko opalane (low char), dzięki czemu whisky zyskuje więcej nut wanilii, toffi, pianki marshmallow i słodkich przypraw.",
+
+  "salesTip": [
+    "Każda butelka pochodzi z jednej beczki (Single Barrel).",
+    "Specjalne beczki Heritage Barrel są najpierw długo opiekane, a następnie lekko opalane, co daje bogatszy profil niż klasyczne beczki Jack Daniel's.",
+    "Whisky dojrzewa w najwyższych kondygnacjach magazynów, gdzie większe wahania temperatur intensyfikują dojrzewanie.",
+    "Edycja została stworzona dla Global Travel Retail."
+]
+},
+
+{
   "slug": "brenne-single-malt",
   "name": "Brenne Single Malt",
   "subtitle": "Single Malt · Francja",
