@@ -6,20 +6,18 @@
     "category": "vodka",
     "country": "France",
     "abv": "40%",
-    "rawMaterial": "Winogrona",
+    "rawMaterial": "Winogrona (Ugni Blanc i Mauzac Blanc)",
     "image": "bottle_img/ciroc.webp",
+
     "whenToOffer": [
-      "Klient idealną wódkę do drinków",
-      "Klient lubi gładkie, delikatne alkohole",
-      "Klient chce coś innego niż zbożowa wódka"
+      "Klient wyjątkowej wódki premium",
+      "Dla osób preferujących gładkie, delikatne i owocowe alkohole",
+      "Klient szuka coś innego niż zbożowa wódka",
+      "Do eleganckich koktajli oraz na prezent."
     ],
 
-    "howToPresent": "Cîroc pochodzi z wysokiej jakości francuskich winogron (Mauzac Blanc + Ugni Blanc), destylowana 5 razy z których ostatni w specjalnie zaprojektowanym miedzianym alembiku, co wyróżnia Ciroc spośród innych wódek i sprawia, że jest ona elegancko gładka i wyrafinowana.",
+    "howToPresent": "Cîroc to francuska wódka premium produkowana z winogron odmian Mauzac Blanc i Ugni Blanc. Pięciokrotna destylacja, z której ostatnia odbywa się w specjalnie zaprojektowanym miedzianym alembiku, nadaje jej wyjątkowo gładki i wyrafinowany charakter. Delikatne nuty świeżych owoców i cytrusów sprawiają, że jest doskonałą bazą do eleganckich koktajli premium.",
 
-    "crossSell": [
-  "Wina mususujące i szampany",
-  "Rozne likiery di innych koktajli"
-],
     "cocktails": [
     "Idealna do mieszania z sokami przez swoją winogronową bazę",
     "Dobrze komponuje się z musującymi winami i szampanem a nawet z prostym tonikiem jak sugeruje producent",
@@ -36,12 +34,16 @@
     "abv": "40%",
     "rawMaterial": "Żyto organiczne",
     "image": "bottle_img/belvedere_organic.jpg",
+
+
     "whenToOffer": [
-      "Klient szuka znanej wódki premium",
-      "Klient lubi wódkę z charakterem"
+      "Klient szuka luksusowej polskiej wódki",
+      "Dla osób ceniących wyrażny i elegancki charakter",
+      "Popularna opcja dla drinków premium",
+      "Alternatywa dla Chopin Rye "
     ],
 
-    "howToPresent": "Malibu to likier na bazie rumu z dodatkiem kokosa. Niski alkohol, bardzo przystępny, idealny do prostych drinków i koktajli."
+    "howToPresent": "Belvedere to luksusowa polska wódka produkowana wyłącznie z żyta organicznego i oczyszczonej wody, oferując wyjątkowo czysty i aksamitny profil."
   },
 
   {
@@ -53,13 +55,14 @@
     "abv": "40%",
     "rawMaterial": "Pszenica",
     "image": "bottle_img/grey_goose.png",
-    "whenToOffer": [
-      "Klient szuka bardzo gładkiej wódki",
-      "Klient chce markę premium na prezent",
-      "Wódkę premium do drinków"
-    ],
 
-    "howToPresent": "Wódka GREY GOOSE destylowaną tylko raz, aby pozwolić jej naturalnemu charakterowi zabłysnąć. Efektem jest wódka o przyjemnym smaku i wyjątkowo gładkiej teksturze.",
+    "whenToOffer": [
+      "Osoby ceniące wyjątkowo gładki i delikatny profil",
+      "Klient szuka wódki na prezent lub wyjątkową okazje",
+      "Do koktajli premium, takich jak Martini czy Moscow Mule"
+],
+
+    "howToPresent": "Grey Goose to francuska wódka premium produkowana z miękkiej pszenicy ozimej. Destylowana jest tylko raz, aby zachować naturalny charakter surowca, dzięki czemu wyróżnia się wyjątkowo gładką teksturą oraz delikatnymi nutami zbożowymi i migdałowymi.",
 
       "cocktails": [
     "Cytrusowe, orzeźwiające koktajle, które podkreślają naturalne nuty GREY GOOSE"
@@ -75,30 +78,34 @@
     "abv": "40%",
     "rawMaterial": "Zboża (w większości pszenica)",
     "image": "bottle_img/danzka.jpg",
+
     "whenToOffer": [
-      "Klient szuka klasycznej, wodki w bezpiecznym opakowaniu",
-      "KLient szuka lekkiego opakowania, które łatwo zabrać w podróż",
+      "Idealna do podróży dzięki lekkiej i nietłukącej się aluminiowej butelce.",
+      "Alternatywa dla wódek w plastiku",
       "Klient szuka wódki do drinków w rozsądnej cenie"
     ],
 
-        "howToPresent": "Butelka DANZKA Forty jest również znana jako najlepsza na świecie premium wódka do podróży. Jedyna wódka, która się nie stłucze podczas podróży. Dodatkowo unikalny materiał sprawia, że schładza się znacznie szybciej."
+        "howToPresent": "Danzka to duńska wódka premium produkowana głównie z pszenicy. Jej znakiem rozpoznawczym jest lekka aluminiowa butelka, która nie tłucze się podczas podróży i schładza się szybciej niż szkło. Dzięki łagodnemu i czystemu profilowi doskonale sprawdza się zarówno do picia solo, jak i jako baza do koktajli."
 
   },
 
   {
     "slug": "smirnoff",
     "name": "Smirnoff",
-    "subtitle": "Wódka klasyczna · Międzynarodowa",
+    "subtitle": "Wódka klasyczna · Wielka Brytania",
     "category": "vodka",
     "country": "UK",
     "abv": "37.5%",
     "image": "bottle_img/smirnoff.webp",
+
     "whenToOffer": [
-      "Klient szuka znanej, uniwersalnej wódki",
-      "Klient potrzebuje alkoholu do drinków"
+      "Znana marka - łatwa decyzja zakupowa",
+      "Do prostych drinków i koktajli",
+      "Klient szuka uniwersalnej wódki w dobrej cenie",
+      "Osoba preferuje neutralny i łagodny profil"
     ],
 
-    "howToPresent": "Potrójnie destylowana i filtrowana 10 razy, co daje tej wódce bardzo neutralny smak."
+    "howToPresent": "Smirnoff No. 21 to jedna z najbardziej rozpoznawalnych wódek na świecie. Jest trzykrotnie destylowana i filtrowana dziesięciokrotnie przez węgiel drzewny, dzięki czemu oferuje wyjątkowo czysty, neutralny i łagodny smak. Doskonale sprawdza się zarówno do picia schłodzona, jak i jako baza do koktajli."
   },
 
   {
@@ -110,40 +117,39 @@
     "abv": "40%",
     "rawMaterial": "Kukurydza",
     "image": "bottle_img/titos.jpg",
+
     "whenToOffer": [
-      "Klient szuka wódki rzemieślniczej",
-      "Klient unika glutenu"
-    ],
+      "Klient szuka rzemieślniczej wódki premium",
+      "Osoba preferuje wyjątkowo gładkie i delikatne wódki",
+      "Alternatywa dla klasycznych wódek pszenicznych",
+      "Klient szuka nietypowej wódki"
+],
 
-    "howToPresent": "Wytwarzany w tradycyjnych alembikach i inspirowany metodami destylacji szkockich single maltów oraz francuskich koniaków. Jest tak samo gładka i delikatna jak pszeniczne wódki, ale przyjemniejsza w smaku",
-
-        "cocktails": [
-    "",
-    "",
-    ""
-    ]
+    "howToPresent": "Tito's Handmade Vodka to amerykańska wódka premium produkowana z kukurydzy. Destylowana jest w tradycyjnych miedzianych alembikach (pot still), inspirowanych metodami stosowanymi przy produkcji szkockiej whisky single malt. Dzięki czemu zachowuje wyjątkowo gładki i delikatny profil, ale staje się bardziej aromatyczna i bogatsza w smaku. "
   },
 
   {
-    "slug": "zubrowka",
-    "name": "Żubrówka",
+    "slug": "zubrowka-bison-grass",
+    "name": "Żubrówka Bison Grass",
     "subtitle": "Wódka z trawą żubrową · Polska",
     "category": "vodka",
     "country": "Poland",
     "abv": "37.5%",
     "rawMaterial": "Zboża i ekstrakt z trawy żubrowej",
     "image": "bottle_img/zubrowka.png",
+
     "whenToOffer": [
-      "Klient szuka klasycznej polskiej wódki",
-      "Klient lubi delikatnie aromatyczne alkohole",
-      ""
+      "Znana marka - łatwa decyzja zakupowa",
+      "Klient szuka ktradycyjnej polskiej wódki",
+      "Dla osób lubiących delikatnie aromatyczne alkohole",
+      "Klient szuka czegoś bardziej oryginalnego niż klasyczna biała wódka."
     ],
 
-    "howToPresent": "Polska wódka aromatyzowana naturalną trawą żubrową. Zachowuje wytrawny charakter wódki, ale dzięki delikatnemu aromatowi waniliowo-ziołowemu pije się wyraźnie łagodniej niż klasyczne wódki.",
+    "howToPresent": "Żubrówka to jedna z najbardziej rozpoznawalnych polskich wódek na świecie. Aromatyzowana naturalnym ekstraktem z trawy żubrowej pochodzącej z Puszczy Białowieskiej, wyróżnia się delikatnymi nutami wanilii, ziół i migdałów. Dzięki temu jest łagodniejsza i bardziej aromatyczna niż klasyczne wódki.",
 
-        "cocktails": [
-    "Szarlotka (40ml Żubrówka, sok jabłkowy, cynamon w proszku)",
-    "Żubrówka  sour (50ml Żubrówka, 30ml sok z cytryny, 20ml syrop cukrowy)"
+    "cocktails": [
+      "Szarlotka (40 ml Żubrówka, sok jabłkowy, szczypta cynamonu)",
+      "Żubrówka Sour (50 ml Żubrówka, 30 ml soku z cytryny, 20 ml syropu cukrowego)"
     ],
 
     "salesTip": [
@@ -162,11 +168,13 @@
     "image": "/absolut.webp",
 
     "whenToOffer": [
-      "Klient szuka wódki do drinków",
-      "Klient chce rozpoznawalną markę"
+      "Znana marka - łatwa decyzja zakupowa",
+      "Do koktajli i drinków.",
+      "Klient preferuje łagodny i czysty profil.",
+      "Alternatywa dla Smirnoff lub Finlandia."
     ],
 
-    "howToPresent":" "
+    "howToPresent": "Absolut to szwedzka wódka produkowana wyłącznie z pszenicy ozimej oraz głębinowej wody pochodzącej z Åhus. Ma czysty, łagodny i neutralny smak. Doskonale sprawdza się zarówno do picia solo, jak i jako baza do koktajli."
   },
 
   {
@@ -180,11 +188,13 @@
     "image": "bottle_img/chopin-rye.png",
 
     "whenToOffer": [
-      "Dla osób ceniących intensywny smak i charakter trunku",
-      "Idelny dla miłośników wyrazistych koktajli"
-    ],
+      "Klient szuka eleganckiej polskiej wódki",
+      "Dla osób preferujących bardziej wyrazisty charakter wódki",
+      "Dobry wybór na prezent lub specjalną okazję, a także do koktajli premium",
+      "Alternatywa dla Belvedere i innych wódek żytnich"
+],
 
-    "howToPresent":"Wódka o intensywnym smaku, pikantnymi nutami pieprzu charakterystycznymi dla żyta"
+    "howToPresent": "Chopin Rye to polska wódka premium produkowana wyłącznie z żyta. Dzięki wysokiej jakości surowca wyróżnia się wyrazistym, lekko pikantynym charakterem z subtelnymi nutami piprzu czarnego i skórkui cytruyny, zachowując jednocześnie wyjątkową gładkość."
 
   },
 
@@ -197,12 +207,15 @@
     "abv": "40%",
     "rawMaterial":"Pszenica",
     "image": "bottle_img/chopin_wheat.png",
+
     "whenToOffer": [
-      "Klient szuka łagodnej i delikatnej wódki",
-      "Osób lubiących wódki pszeniczne",
-      "Dla miłośników subtelnych koktajli"
+      "Klient szuka eleganckiej polskiej wódki",
+      "Dla osób preferujących bardziej delikatny i neutralny charakter wódki",
+      "Dobry wybór na prezent lub specjalną okazję, a także do koktajli premium",
+      "Alternatywa dla Grey Goose i absolut"
     ],
-    "howToPresent":"Lekka, neutralna, delikatna, gładka, uniwersalna."
+
+    "howToPresent": "Chopin Wheat to polska wódka premium produkowana wyłącznie z pszenicy. Wyróżnia się wyjątkowo delikatnym, miękkim i eleganckim charakterem z subtelnymi nutami wanilii oraz świeżego pieczywa. To najbardziej łagodna wódka z klasycznej linii Chopin."
   },
 
   {
@@ -214,10 +227,12 @@
     "abv": "40%",
     "rawMaterial":"Ziemniaki",
     "image": "bottle_img/chopin_potato.png",
+
     "whenToOffer": [
-      "Klient szukający unikalnej wódki polskiej",
-      "Osób ceniących pełniejsze i wyraziste trunki",
-      "Szukających prezentu z Polski"
+      "Klient szuka eleganckiej polskiej wódki",
+      "Dla osób preferujących bardziej bogaty i aksamity charakter wódki",
+      "Dobry wybór na prezent lub specjalną okazję, a także do koktajli premium",
+      "Dla ludzi ceniących tradycje i unikalność wódek ziemniaczanych"
     ],
 
       "howToPresent":"Ikoniczna wódka ziemniaczana, ma bogatszy profil smakowy, kremowa, pełna, oleista, z subtelną słodyczą. Idealny prezent z Polski, ponieważ wódek z tego surowca praktycznie nie robią w innych krajach."
