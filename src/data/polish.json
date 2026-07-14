@@ -115,7 +115,32 @@
 
   },
 
-  
+    {
+    "slug": "chopin-young-potato-2024",
+    "name": "Młody Ziemniak 2024",
+    "subtitle": "Destylat ziemniaczany · Polska",
+    "category": "spirit-drink",
+    "country": "Poland",
+    "abv": "40%",
+    "rawMaterial":"Młode ziemniaki",
+    "image": "bottle_img/chopin_young2024.jpg",
+
+    "whenToOffer": [
+      "Klient szuka tradycyjnych polskich destylatów.",
+      "Osoby lubiące wódki ziemniaczane i okowity.",
+      "Na prezent lub dla kolekcjonerów limitowanych edycji.",
+      "Klient chce spróbować czegoś wyjątkowego z Polski."
+],
+
+    "howToPresent":"Młody Ziemniak to limitowany destylat produkowany raz w roku z młodych ziemniaków odmiany Denar. Alkohol ten nie ma prawnego określenia, ale charakterem jest bardzo zbliżony do okowity. Jednokrotna destylacja do około 60% pozwala zachować intensywny aromat świeżych ziemniaków, wyraźną ziemistość oraz naturalny charakter surowca.",
+
+    "salesTip":[
+      "Produkowany tylko raz w roku z pierwszych zbiorów młodych ziemniaków odmiany Denar.",
+      "Każdy rocznik różni się charakterem w zależności od warunków uprawy i zbiorów.",
+      "To jeden z najbardziej charakterystycznych i kolekcjonerskich polskich destylatów."
+]
+
+  },
 
   
 {

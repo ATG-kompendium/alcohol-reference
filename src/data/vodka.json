@@ -235,7 +235,7 @@
       "Dla ludzi ceniących tradycje i unikalność wódek ziemniaczanych"
     ],
 
-      "howToPresent":"Ikoniczna wódka ziemniaczana, ma bogatszy profil smakowy, kremowa, pełna, oleista, z subtelną słodyczą. Idealny prezent z Polski, ponieważ wódek z tego surowca praktycznie nie robią w innych krajach."
+      "howToPresent":"Ikoniczna polska wódka premium produkowana w 100% z ziemniaków. Wyróżnia się bogatszym profilem smakowym – jest kremowa, pełna i oleista, z subtelną naturalną słodyczą. To doskonały wybór na prezent z Polski, ponieważ wódki ziemniaczane należą do rzadkości na światowym rynku."
   },
 
   {
@@ -249,8 +249,10 @@
     "image": "bottle_img/chopin_indygo.png",
 
     "whenToOffer": [
+      "Klient szuka eleganckiej polskiej wódki",
       "Osób ceniących wygląd i design butelki",
-      "Klienta znającego podstawowe trio marki chopin"
+      "Dobry wybór na prezent lub specjalną okazję, a także do koktajli premium",
+      "Klient zna markę Chopin i szuka czegoś wyjątkowego."
        ],
 
     "howToPresent":"Chopin Indygo jest zwieńczeniem kolekcji i połączeniem wszystkich trzech flagowych wódek marki Chopin Potato, Wheat i Rye. W jednej butelce zawarte są kremowy smak wódki ziemniaczanej, delikatność pszenicy i pikanteria żyta, z przewagą charakteru żyta."
@@ -268,9 +270,10 @@
     "image": "bottle_img/chopin_gold.png",
 
     "whenToOffer": [
-      "Klient szuka wyjątkowo gładkiej i eleganckiej wódki.",
+      "Dla osób preferujących bardziej bogaty i gładki charakter wódki",
       "Osób ceniących wyglad i design butelki",
-      "Klienta znającego podstawowe trio marki chopin"
+      "Dobry wybór na prezent lub specjalną okazję, a także do koktajli premium",
+      "Klient zna markę Chopin i szuka czegoś wyjątkowego."
     ],
 
     "howToPresent": "Chopin Blended Gold to premium polska wódka łącząca destylaty ziemniaczane i pszeniczne. Dzięki temu oferuje kremową strukturę charakterystyczną dla ziemniaków oraz delikatność i lekkość pszenicy. To propozycja dla osób szukających bardziej złożonej i eleganckiej wódki.",
@@ -289,14 +292,16 @@
     "category": "vodka",
     "country": "Poland",
     "abv": "40%",
-    "rawMaterial":"Ziemniaki",
+    "rawMaterial":"Ziemniaki, żyto",
     "image": "bottle_img/chopin_baltic.jpg",
+
     "whenToOffer": [
-      "Klienta szukającego budżetowej wódki ziemniaczanej",
-      "Osób szukających czegoś lokalenego"
+      "Klienta szukającego budżetowej wódki",
+      "Osób ceniących wyglad i design butelki",
+      "Osób szukających czegoś lokalenego dla Gdańska i Trójmiasta"
     ],
 
-    "howToPresent":"Jest to wódka ziemniaczana, nawiązująca do Bałtyku, kremowa, oleista, intensywna, lekko ostra. Jest produkowana w gorzelni Chopin",
+    "howToPresent":"Wódka robiona głównie z ziemniaków i z dodatkiem żyta, nawiązująca do Bałtyku, kremowa, oleista, intensywna, pikantna. Jest produkowana w gorzelni Chopin",
  
     "salesTip": [
       "Można zastosować up-selling przy półlitrowych wódkach stock, żubrówka, soplica, jarzębiak, polecając Baltic vodka jako ciekawsza alternatywe."
@@ -306,7 +311,7 @@
   {
     "slug": "chopin-rye-organic",
     "name": "Chopin Rye Organic",
-    "subtitle": "Wódka ziemniaczana · Polska",
+    "subtitle": "Wódka · Polska",
     "category": "vodka",
     "country": "Poland",
     "abv": "40%",
@@ -319,14 +324,14 @@
       "Osób potrzebujących wódkę o pojemności 0.7 l"
     ],
 
-    "howToPresent":"Jest to wódka tylko z polskiego certyfikowanego żyta ekologicznego. Zachowuje ona charakter wódki żytniej, przy tym ma pełniejsze ciało i głębszy smak."
+    "howToPresent": "Chopin Rye Organic powstaje w 100% z certyfikowanego ekologicznego żyta. W porównaniu z klasycznym Chopin Rye oferuje bardziej delikatny, miękki i elegancki profil, zachowując charakterystyczne nuty żytnie. To doskonały wybór dla osób szukających wyrafinowanej wódki premium z ekologicznych surowców."
 
   },
 
   {
     "slug": "chopin-bartender",
     "name": "Chopin Bartender's Choice",
-    "subtitle": "Wódka zytnia · Polska",
+    "subtitle": "Wódka · Polska",
     "category": "vodka",
     "country": "Poland",
     "abv": "59.8%",
@@ -334,34 +339,20 @@
     "image": "bottle_img/chopin_bartender.jpg",
 
     "whenToOffer": [
-      "Klienta szukającego wódek i mocniejszym stężeniu alkoholu",
-      "Osób interesujących miksologią, robieniem wyrazistych koktajli."
-    ],
+      "Klient szuka wódki o wyższej zawartości alkoholu.",
+      "Dla barmanów i miłośników miksologii.",
+      "Do koktajli wymagających intensywnego charakteru alkoholu.",
+      "Klient zna markę Chopin i szuka czegoś wyjątkowego."
+],
 
-    "howToPresent":"Mocniejsza wersja popularnej Chopin Rye, stworzona z myślą o barmanach i miksologach. Balans pomiędzy mocą a bogatym smakiem, wyróżnia ją z pośród innych mocniejszych wódek."
+    "howToPresent":"Mocniejsza wersja popularnej Chopin Rye, stworzona z myślą o barmanach i miksologach. Balans pomiędzy mocą a bogatym smakiem, wyróżnia ją z pośród innych mocniejszych wódek.",
 
-  },
-
-  {
-    "slug": "chopin-young-potato-2024",
-    "name": "Młody Ziemniak 2024",
-    "subtitle": "Destylat ziemniaczany · Polska",
-    "category": "spirit-drink",
-    "country": "Poland",
-    "abv": "40%",
-    "rawMaterial":"Młode ziemniaki",
-    "image": "bottle_img/chopin_young2024.jpg",
-
-    "whenToOffer": [
-      "Osób szukających okowity",
-      "Osób lubiących wódki ziemniaczane",
-      "Klientów szukających czegoś do kolekcji, czegoś ciekawego polskiego"
-    ],
-
-    "howToPresent":"Młody ziemniak nie ma określenia prawnego, ale charakterem jest bardzo zbliżony do okowit. Jest to destylat z młodych ziemniaków odmiany Denar, destylowany tylko raz, co daje mu intensywny smak i zapach surowca, a także nuty ziemistości"
+    "salesTip": [
+      "Stworzona z myślą o barmanach i miksologach, którzy oczekują intensywniejszego smaku w koktajlach.",
+      "59,8% to maksymalna moc pozwolona na przewóz do krajów skandynawskich, gdzie obowiązują ograniczenia dotyczące wyższej zawartości alkoholu."
+]
 
   },
-
 
   {
     "slug": "chopin-familyReserve",
@@ -371,16 +362,17 @@
     "country": "Poland",
     "abv": "40%",
     "rawMaterial":"Młode ziemniaki",
-    "maturation": "Pięćdziesięcioletnie kufry dębowe.",
+    "maturation": "Przez 2 lata odpoczywa w ponad 50-letnich dębowych kufach.",
     "image" : "bottle_img/chopin_familyReserve.jpg",
 
     "whenToOffer": [
-      "Klient szukający eleganckiego prezentu",
-      "Osób ceniących wygląd i prezentowane opakowanie",
+      "Klient szuka najbardziej luksusowe polskie wódki.",
+      "Osób ceniących wygląd i prezentowe opakowanie",
+      "Dla kolekcjonerów i miłośników ekskluzywnych alkoholi.",
       "Osób potrzebujących czegoś wyjątkowego i ekskluzywnego"
     ],
 
-    "howToPresent":"Zrobiona ze specjalnej odmiany młodych ziemniaków. jest zapakowana w skórzane pudełko, a sama wódka jest w ładnej karafce."
+    "howToPresent":"Chopin Family Reserve powstaje z młodych ziemniaków. Po destylacji przez kolejne dwa lata odpoczywa w ponad 50-letnich dębowych kufach, gdzie nabiera wyjątkowej harmonii i złożoności. Całość zamknięta jest w ręcznie wykonanej karafce umieszczonej w eleganckim skórzanym/welurowym etui."
 
   },
 
@@ -395,13 +387,13 @@
     "image": "bottle_img/chopin-tribute.png",
 
     "whenToOffer": [
-      "Osób ceniących wygląd i prezentowane opakowanie",
+      "Osób ceniących wygląd i prezentowe opakowanie",
       "Klient szukający eleganckiego prezentu",
       "Osób potrzebujących czegoś wyjątkowego i ekskluzywnego"
 
     ],
 
-    "howToPresent":"Edycja Tribute nawiązuje stylistyką do postaci Fryderyka Chopina i polskiego dziedzictwa kulturowego. Profil smakowy pozostaje zbliżony do wersji ziemniaczanej, natomiast Tribute Edition wyróżnia się oprawą wizualną i charakterem edycji okolicznościowej."
+    "howToPresent":"Edycja Tribute nawiązuje stylistyką do postaci Fryderyka Chopina i polskiego dziedzictwa kulturowego. Profil smakowy pozostaje zbliżony do wersji ziemniaczanej, natomiast Tribute Edition wyróżnia się opakowaniem i butelką o charakterze edycji okolicznościowej."
 
   },
 
@@ -417,12 +409,16 @@
 
     "whenToOffer": [
       "Osób ceniących historię marki Chopin",
-      "Klient szukający eleganckiego prezentu, wyjątkowego, ekskluzywnego prezentu",
-      "Dla kolekcjonerów, "
-
+      "Klient szukający eleganckiego, wyjątkowego, ekskluzywnego prezentu",
+      "Dla kolekcjonerów alkoholi premium"
     ],
 
-    "howToPresent":" 30-letnia Chopin Vintage Vault z pierwszej oryginalnej partii. Chopin Vintage Vault jest najstarszą wódką premium na świecie – ta niewielka partia alkoholu pochodzi z pierwszej destylacji ziemniaczanego Chopina, która przez ostatnie trzy dekady ukryta była w znajdującym się na terenie destylarni skarbcu. Jest przedstawiona w szlifowanej eko karafce z kryształu wykonaną z najwyższą starannością w Republice Czeskiej i umieszczono w wykonanej z drewna olchowego skrzyni. Zestaw zamyka metalowe logo Chopin Vodka. Dodatkowo, wewnątrz skrzyni znajduje się kieszeń, która skrywa dwie oryginalne szpilki koktajlowe ozdobione naturalnymi perłami. Chopin Vintage Vault zachwyca wyraźnym aromatem cytrusów. Bukiet smakowy otwierają natomiast słodkie, rozgrzewające podniebienie nuty, które łagodnie przechodzą w akcenty świeżego zielonego jabłka, wanilii i grejpfruta. Paletę smaków zamyka odrobina białego pieprzu i kolendry. Na rynek trafiło jedynie 1000 butelek."
+    "howToPresent":"Chopin Vintage Vault to najstarsza na świecie premium wódka, pochodząca z pierwszej historycznej partii ziemniaczanego Chopina, która przez ponad 30 lat dojrzewała w specjalnych warunkach. Powstało 1000 numerowanych butelek. Każda z nich znajduje się w ręcznie szlifowanej kryształowej karafce wykonanej w Czechach oraz eleganckiej skrzyni z drewna olchowego z dodatkowymi akcesoriami barmańskimi. To wyjątkowy alkohol kolekcjonerski i najbardziej ekskluzywna polska wódka.",
+
+    "salesTip":[
+      "Najstarsza premium wódka na świecie.",
+      "Ręcznie szlifowana kryształowa karafka oraz skrzynia z drewna olchowego czynią z niej wyjątkowy prezent kolekcjonerski."
+]
 
   },
 
@@ -435,14 +431,15 @@
     "abv": "40%",
     "rawMaterial":"Zboża",
     "image": "bottle_img/debowa.png",
+
     "whenToOffer": [
-      "Osób szukających coś śmiesznego",
-      "Klienta sugerującego tylko wyglądem",
-      "Osób szukających alkohol na półkę"
+      "Klient szuka oryginalnego lub humorystycznego prezentu.",
+      "Osoba zwraca uwagę przede wszystkim na wygląd opakowania.",
+      "Klient szuka alkoholu jako pamiątki lub ozdoby."
 
     ],
 
-    "howToPresent":"W środku znajduje się wódka zbożowa, komponowana ekstraktem dębowym. W środku jest umieszczony kawałek dębiny.",
+    "howToPresent":"Dębowa Oak Vodka to polska wódka zbożowa wzbogacona naturalnym ekstraktem z dębu. W każdej butelce znajduje się kawałek drewna dębowego, który podkreśla charakter produktu i nadaje mu wyjątkowy wygląd.",
 
         "packaging": [
   {
@@ -482,7 +479,9 @@
     "keywords": [
   "dębowa",
   "kanister",
-  "gaśnica"
+  "gaśnica",
+  "strzykawka",
+  "śruba"
 ],
     "name": "Dębowa Excellent",
     "subtitle": "Wódka · Polska", 
@@ -491,12 +490,12 @@
     "abv": "40%",
     "rawMaterial":"Zboża",
     "image": "bottle_img/gasnica.png",
-    "whenToOffer": [
-      "Osób szukających coś żartownego",
-      "Klienta sugerującego tylko wyglądem",
-      "Osób szukających alkohol na półkę"
 
-    ],
+    "whenToOffer": [
+      "Klient szuka oryginalnego lub humorystycznego prezentu.",
+      "Osoba zwraca uwagę przede wszystkim na wygląd opakowania.",
+      "Klient szuka alkoholu jako pamiątki lub ozdoby."
+],
 
     "howToPresent":"W środku znajduje się wódka zbożowa, komponowana nalewami z dębu i kwiat bzu.",
 
@@ -529,11 +528,12 @@
   "image": "bottle_img/ketel_one.webp",
 
   "whenToOffer": [
-    "Klient szuka wódki premium do drinków",
-    "Fan Cosmopolitana lub Martini",
-    "Alternatywa dla Grey Goose i Belvedere"
+    "Klient szuka klasycznej wódki premium.",
+    "Do Martini i koktajli premium.",
+    "Osoby ceniące rzemieślniczy charakter.",
+    "Alternatywa dla Grey Goose i Chopin wheat."
   ],
 
-  "howToPresent": "Holenderska wódka destylowana częściowo w miedzianych alembikach. Bardziej wytrawna i czysta niż wiele francuskich wódek premium. Bardzo ceniona w barach koktajlowych."
+  "howToPresent":"Ketel One to holenderska wódka premium produkowana z pszenicy. Łączy nowoczesną destylację kolumnową z destylatem z historycznego miedzianego alembiku Distilleerketel No. 1, dzięki czemu jest wyjątkowo gładka, z delikatnymi nutami cytrusów. Została stworzona z myślą o koktajlach klasy premium."
 }
   ]
