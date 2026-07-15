@@ -7,6 +7,7 @@ import gin from "../../data/gin.json";
 import liqueur from "../../data/liqueur.json";
 import brandy from "../../data/brandy.json";
 import polish from "../../data/polish.json";
+import wine from "../../data/wine.json";
 
 import "../../styles/main.css";
 
@@ -20,7 +21,8 @@ export async function getStaticPaths() {
     ...gin,
     ...liqueur,
     ...brandy,
-    ...polish
+    ...polish,
+    ...wine
   ];
 
   return products.map((product) => ({
@@ -79,7 +81,41 @@ const { product } = Astro.props;
         {product.rawMaterial && (
           <li><strong>Surowiec:</strong> {product.rawMaterial}</li>
         )}
+        {product.grapeVarieties && (
+          <li>
+        <strong>Szczepy:</strong> {product.grapeVarieties.join(", ")}
+          </li>
+)}
 
+        {product.vintage && (
+          <li>
+        <strong>Rocznik:</strong> {product.vintage}
+          </li>
+)}
+
+        {product.sweetness && (
+        <li>
+          <strong>Słodycz:</strong> {product.sweetness}
+        </li>
+)}
+
+        {product.dosage && (
+        <li>
+          <strong>Dosage:</strong> {product.dosage}
+        </li>
+)}
+
+        {product.appellation && (
+          <li>
+            <strong>Apelacja:</strong> {product.appellation}
+          </li>
+)}
+
+        {product.region && (
+          <li>
+            <strong>Region:</strong> {product.region}
+          </li>
+        )}
         {product.maturation && (
           <li><strong>Dojrzewanie:</strong> {product.maturation}</li>
         )}

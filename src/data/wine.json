@@ -1,0 +1,37 @@
+{
+  "slug": "turnau-solaris",
+  "name": "Turnau Solaris",
+  "subtitle": "Białe wino wytrawne",
+  "category": "Wino",
+  "country": "Polska",
+  "abv": "12.5%",
+  "image": "bottle_img/turnau_solaris.png",
+
+  "grapeVarieties": [
+    "Solaris"
+  ],
+
+  "sweetness": "Wytrawne",
+  "region": "Pomorze Zachodnie",
+  "appellation": "Wino Polskie",
+
+  "howToPresent": "Flagowe białe wino Winnicy Turnau ze szczepu Solaris. Aromatyczne i świeże, z nutami gruszki, jabłka i cytrusów oraz wyraźną, orzeźwiającą kwasowością.",
+
+  "whenToOffer": [
+    "Klient szuka polskiego wina",
+    "Osoba lubi aromatyczne białe wina",
+    "Klient szuka wytrawnego wina do ryb lub drobiu"
+  ],
+
+  "salesTip": [
+    "Jedno z najbardziej rozpoznawalnych polskich win, wielokrotnie nagradzane.",
+    "Dobry wybór dla osób chcących spróbować wysokiej jakości polskiego winiarstwa."
+  ],
+
+  "foodPairing": [
+    "Ryby",
+    "Drób",
+    "Makarony w sosach śmietanowych",
+    "Sałatki"
+  ]
+}

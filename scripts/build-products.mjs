@@ -13,7 +13,8 @@ const files = [
   "gin.json",
   "liqueur.json",
   "brandy.json",
-  "polish.json"
+  "polish.json",
+  "wine.json"
 ];
 
 let allProducts = [];
