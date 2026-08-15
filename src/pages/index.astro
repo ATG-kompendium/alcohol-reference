@@ -1,11 +1,7 @@
 ---
-
-
 import "../styles/main.css";
 
-
 const BASE = import.meta.env.BASE_URL;
-
 ---
 
 <!DOCTYPE html>
@@ -14,13 +10,21 @@ const BASE = import.meta.env.BASE_URL;
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>ATG kompendium</title>
-  <link rel="icon" type="image/png+xml" href={`${BASE}favicon.png`} />
+
+  <link rel="icon" type="image/png" href={`${BASE}favicon.png`} />
 </head>
+
 <body>
 
 <h1>ATG kompendium</h1>
 
-<input id="search" type="text" placeholder="Szukaj produktu..." autocomplete="off" />
+<input
+  id="search"
+  type="text"
+  placeholder="Szukaj produktu..."
+  autocomplete="off"
+/>
+
 <ul id="results"></ul>
 
 <script>
@@ -30,6 +34,11 @@ const input = document.getElementById("search");
 const results = document.getElementById("results");
 
 let products = null;
+
+
+/* =========================
+   NORMALIZACJA TEKSTU
+   ========================= */
 
 function normalize(text) {
   return (text || "")
@@ -45,48 +54,211 @@ function normalize(text) {
     .toLowerCase();
 }
 
+
+/* =========================
+   ОТСТОЯНИЕ LEVENSHTEIN
+   ========================= */
+
+function levenshtein(a, b) {
+
+  const matrix = Array.from(
+    { length: b.length + 1 },
+    (_, i) => [i]
+  );
+
+  for (let j = 0; j <= a.length; j++) {
+    matrix[0][j] = j;
+  }
+
+  for (let i = 1; i <= b.length; i++) {
+
+    for (let j = 1; j <= a.length; j++) {
+
+      if (b[i - 1] === a[j - 1]) {
+
+        matrix[i][j] = matrix[i - 1][j - 1];
+
+      } else {
+
+        matrix[i][j] = Math.min(
+          matrix[i - 1][j] + 1,
+          matrix[i][j - 1] + 1,
+          matrix[i - 1][j - 1] + 1
+        );
+
+      }
+    }
+  }
+
+  return matrix[b.length][a.length];
+}
+
+
+/* =========================
+   FUZZY SEARCH
+   ========================= */
+
+function fuzzyMatch(text, query) {
+
+  text = normalize(text);
+  query = normalize(query);
+
+  if (!text || !query) return false;
+
+
+  // Точное совпадение или обычный поиск
+  if (text.includes(query)) {
+    return true;
+  }
+
+
+  // Разбиваем название на отдельные слова
+  const words = text.split(/[\s\-_/.,]+/);
+
+
+  return words.some(word => {
+
+    if (!word) return false;
+
+
+    // Чем длиннее запрос,
+    // тем больше ошибок разрешаем
+
+    const maxDistance =
+      query.length <= 3 ? 1 :
+      query.length <= 6 ? 1 :
+      2;
+
+
+    return levenshtein(word, query) <= maxDistance;
+
+  });
+}
+
+
+/* =========================
+   ЗАГРУЗКА БАЗЫ
+   ========================= */
+
 input.placeholder = "Ładowanie bazy...";
 input.disabled = true;
 
 fetch(BASE + "products.json")
-  .then(r => r.json())
+
+  .then(response => {
+
+    if (!response.ok) {
+      throw new Error("Nie udało się załadować bazy produktów.");
+    }
+
+    return response.json();
+
+  })
+
   .then(data => {
+
     products = data;
 
     input.disabled = false;
     input.placeholder = "Szukaj produktu...";
+
+  })
+
+  .catch(error => {
+
+    console.error(error);
+
+    input.disabled = true;
+    input.placeholder = "Błąd ładowania bazy";
+
   });
 
-function render(list) {
-  results.innerHTML = "";
-  if (!list.length) return;
 
-  list.forEach(p => {
+/* =========================
+   ОТОБРАЖЕНИЕ РЕЗУЛЬТАТОВ
+   ========================= */
+
+function render(list) {
+
+  results.innerHTML = "";
+
+  if (!list.length) {
+    return;
+  }
+
+
+  list.forEach(product => {
+
     const li = document.createElement("li");
+
     const a = document.createElement("a");
-    a.href = BASE + "products/" + p.slug + "/";
-    a.textContent = p.name;
+
+    a.href =
+      BASE +
+      "products/" +
+      product.slug +
+      "/";
+
+    a.textContent = product.name;
+
     li.appendChild(a);
+
     results.appendChild(li);
+
   });
 }
 
-input.addEventListener("input", e => {
-  if (!products) return;   // ← ВАЖНО
 
-  const q = normalize(e.target.value.trim());
-if (!q) return render([]);
+/* =========================
+   ПОИСК
+   ========================= */
 
-const filtered = products.filter(p =>
-  normalize(p.name).includes(q) ||
-  normalize(p.category).includes(q) ||
-  normalize(p.country).includes(q) ||
-  normalize(p.rawMaterial).includes(q) ||
-  p.keywords?.some(k => normalize(k).includes(q))
-);
+input.addEventListener("input", event => {
+
+  if (!products) return;
+
+
+  const q = normalize(
+    event.target.value.trim()
+  );
+
+
+  // Если поле пустое —
+  // очищаем результаты
+
+  if (!q) {
+
+    render([]);
+
+    return;
+  }
+
+
+  const filtered = products.filter(product => {
+
+    return (
+
+      fuzzyMatch(product.name, q) ||
+
+      fuzzyMatch(product.category, q) ||
+
+      fuzzyMatch(product.country, q) ||
+
+      fuzzyMatch(product.rawMaterial, q) ||
+
+      product.keywords?.some(keyword =>
+        fuzzyMatch(keyword, q)
+      )
+
+    );
+
+  });
+
 
   render(filtered);
+
 });
+
 </script>
 
 </body>
