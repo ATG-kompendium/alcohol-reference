@@ -105,99 +105,49 @@ function levenshtein(a, b) {
    ========================= */
 
 function fuzzyMatch(text, query) {
-
   text = normalize(text);
   query = normalize(query);
 
   if (!text || !query) return false;
 
-
-  // Обычный поиск
   if (text.includes(query)) {
     return true;
   }
 
-
-  // Разбиваем текст на слова
   const words = text.split(/[\s\-_/.,()]+/);
 
-
   return words.some(word => {
-
     if (!word) return false;
 
-
-    // Для коротких запросов
     if (query.length <= 3) {
-
       return levenshtein(word, query) <= 1;
     }
 
+    if (Math.abs(word.length - query.length) <= 2) {
 
-    /*
-      Проверяем не только всё слово,
-      но и куски слова.
+      const distance = levenshtein(word, query);
 
-      Например:
+      const maxDistance =
+        query.length >= 6 ? 2 : 1;
 
-      HENNESSY
-      HENESY
+      if (distance <= maxDistance) {
+        return true;
+      }
+    }
 
-      или
+    const minLength = Math.max(3, query.length - 2);
+    const maxLength = Math.min(word.length, query.length + 2);
 
-      MARTELL
-      MARTEL
-    */
+    for (let length = minLength; length <= maxLength; length++) {
 
-    const minLength = Math.max(
-      1,
-      query.length - 2
-    );
+      for (let start = 0; start + length <= word.length; start++) {
 
-    const maxLength = Math.min(
-      word.length,
-      query.length + 2
-    );
+        const part = word.substring(start, start + length);
 
+        const distance = levenshtein(part, query);
 
-    for (
-      let length = minLength;
-      length <= maxLength;
-      length++
-    ) {
-
-      for (
-        let start = 0;
-        start + length <= word.length;
-        start++
-      ) {
-
-        const part = word.substring(
-          start,
-          start + length
-        );
-
-        const distance = levenshtein(
-          part,
-          query
-        );
-
-
-        /*
-          Чем длиннее запрос,
-          тем больше допускаем ошибок.
-        */
-
-        let maxDistance = 1;
-
-        if (query.length >= 7) {
-          maxDistance = 2;
-        }
-
-        if (query.length >= 10) {
-          maxDistance = 3;
-        }
-
+        const maxDistance =
+          query.length >= 7 ? 2 : 1;
 
         if (distance <= maxDistance) {
           return true;
@@ -205,11 +155,9 @@ function fuzzyMatch(text, query) {
       }
     }
 
-
     return false;
   });
 }
-
 
 /* =========================
    LOAD PRODUCTS
