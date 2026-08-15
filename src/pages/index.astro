@@ -37,7 +37,7 @@ let products = null;
 
 
 /* =========================
-   NORMALIZACJA TEKSTU
+   NORMALIZE
    ========================= */
 
 function normalize(text) {
@@ -51,51 +51,57 @@ function normalize(text) {
     .replace(/œ/g, "oe")
     .replace(/Œ/g, "OE")
     .replace(/ß/g, "ss")
-    .toLowerCase();
+    .toLowerCase()
+    .trim();
 }
 
 
 /* =========================
-   ОТСТОЯНИЕ LEVENSHTEIN
+   LEVENSHTEIN
    ========================= */
 
 function levenshtein(a, b) {
 
-  const matrix = Array.from(
-    { length: b.length + 1 },
-    (_, i) => [i]
-  );
+  if (a === b) return 0;
 
-  for (let j = 0; j <= a.length; j++) {
-    matrix[0][j] = j;
+  if (!a.length) return b.length;
+  if (!b.length) return a.length;
+
+  let previous = [];
+
+  for (let j = 0; j <= b.length; j++) {
+    previous[j] = j;
   }
 
-  for (let i = 1; i <= b.length; i++) {
+  for (let i = 1; i <= a.length; i++) {
 
-    for (let j = 1; j <= a.length; j++) {
+    const current = [i];
 
-      if (b[i - 1] === a[j - 1]) {
+    for (let j = 1; j <= b.length; j++) {
 
-        matrix[i][j] = matrix[i - 1][j - 1];
+      const insertCost = current[j - 1] + 1;
+      const deleteCost = previous[j] + 1;
 
-      } else {
+      const replaceCost =
+        previous[j - 1] +
+        (a[i - 1] === b[j - 1] ? 0 : 1);
 
-        matrix[i][j] = Math.min(
-          matrix[i - 1][j] + 1,
-          matrix[i][j - 1] + 1,
-          matrix[i - 1][j - 1] + 1
-        );
-
-      }
+      current[j] = Math.min(
+        insertCost,
+        deleteCost,
+        replaceCost
+      );
     }
+
+    previous = current;
   }
 
-  return matrix[b.length][a.length];
+  return previous[b.length];
 }
 
 
 /* =========================
-   FUZZY SEARCH
+   FUZZY MATCH
    ========================= */
 
 function fuzzyMatch(text, query) {
@@ -106,14 +112,14 @@ function fuzzyMatch(text, query) {
   if (!text || !query) return false;
 
 
-  // Точное совпадение или обычный поиск
+  // Обычный поиск
   if (text.includes(query)) {
     return true;
   }
 
 
-  // Разбиваем название на отдельные слова
-  const words = text.split(/[\s\-_/.,]+/);
+  // Разбиваем текст на слова
+  const words = text.split(/[\s\-_/.,()]+/);
 
 
   return words.some(word => {
@@ -121,38 +127,107 @@ function fuzzyMatch(text, query) {
     if (!word) return false;
 
 
-    // Чем длиннее запрос,
-    // тем больше ошибок разрешаем
+    // Для коротких запросов
+    if (query.length <= 3) {
 
-    const maxDistance =
-      query.length <= 3 ? 1 :
-      query.length <= 6 ? 1 :
-      2;
+      return levenshtein(word, query) <= 1;
+    }
 
 
-    return levenshtein(word, query) <= maxDistance;
+    /*
+      Проверяем не только всё слово,
+      но и куски слова.
 
+      Например:
+
+      HENNESSY
+      HENESY
+
+      или
+
+      MARTELL
+      MARTEL
+    */
+
+    const minLength = Math.max(
+      1,
+      query.length - 2
+    );
+
+    const maxLength = Math.min(
+      word.length,
+      query.length + 2
+    );
+
+
+    for (
+      let length = minLength;
+      length <= maxLength;
+      length++
+    ) {
+
+      for (
+        let start = 0;
+        start + length <= word.length;
+        start++
+      ) {
+
+        const part = word.substring(
+          start,
+          start + length
+        );
+
+        const distance = levenshtein(
+          part,
+          query
+        );
+
+
+        /*
+          Чем длиннее запрос,
+          тем больше допускаем ошибок.
+        */
+
+        let maxDistance = 1;
+
+        if (query.length >= 7) {
+          maxDistance = 2;
+        }
+
+        if (query.length >= 10) {
+          maxDistance = 3;
+        }
+
+
+        if (distance <= maxDistance) {
+          return true;
+        }
+      }
+    }
+
+
+    return false;
   });
 }
 
 
 /* =========================
-   ЗАГРУЗКА БАЗЫ
+   LOAD PRODUCTS
    ========================= */
 
 input.placeholder = "Ładowanie bazy...";
 input.disabled = true;
 
 fetch(BASE + "products.json")
-
   .then(response => {
 
     if (!response.ok) {
-      throw new Error("Nie udało się załadować bazy produktów.");
+      throw new Error(
+        "Nie udało się załadować bazy produktów."
+      );
     }
 
     return response.json();
-
   })
 
   .then(data => {
@@ -161,7 +236,6 @@ fetch(BASE + "products.json")
 
     input.disabled = false;
     input.placeholder = "Szukaj produktu...";
-
   })
 
   .catch(error => {
@@ -170,12 +244,11 @@ fetch(BASE + "products.json")
 
     input.disabled = true;
     input.placeholder = "Błąd ładowania bazy";
-
   });
 
 
 /* =========================
-   ОТОБРАЖЕНИЕ РЕЗУЛЬТАТОВ
+   RENDER
    ========================= */
 
 function render(list) {
@@ -204,13 +277,12 @@ function render(list) {
     li.appendChild(a);
 
     results.appendChild(li);
-
   });
 }
 
 
 /* =========================
-   ПОИСК
+   SEARCH
    ========================= */
 
 input.addEventListener("input", event => {
@@ -219,12 +291,9 @@ input.addEventListener("input", event => {
 
 
   const q = normalize(
-    event.target.value.trim()
+    event.target.value
   );
 
-
-  // Если поле пустое —
-  // очищаем результаты
 
   if (!q) {
 
@@ -251,15 +320,12 @@ input.addEventListener("input", event => {
       )
 
     );
-
   });
 
 
   render(filtered);
 
 });
-
 </script>
-
 </body>
 </html>
